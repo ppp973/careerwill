@@ -1,0 +1,878 @@
+Tense 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644072_25301_023612/master-1816231.7513752035.m3u8
+Tense 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644076_25301_023617/master-4755851.302920937.m3u8
+Tense 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644075_25301_074757/master-1947049.7700298605.m3u8
+Tense 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644077_25301_023618/master-492332.3423020909.m3u8
+Tense 05 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644078_25301_074802/master-1661934.5694995169.m3u8
+Tense 06 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644079_25301_023630/master-3137780.0093655162.m3u8
+Tense 07 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644082_25301_074805/master-3963650.7503770213.m3u8
+Tense 08 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644083_25301_023634/master-8554930.772095406.m3u8
+Tense 09 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644085_25301_074807/master-352032.0771750285.m3u8
+Tense 10 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644087_25301_023636/master-9818275.469605628.m3u8
+Tense 11 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644090_25301_023636/master-7878495.021243386.m3u8
+Tense 12 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644092_25301_023638/master-1343225.6096787576.m3u8
+Tense 13 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644095_25301_074811/master-2719194.854478848.m3u8
+Tense Summary & Doubts : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644096_25301_023642/master-1745074.0705521284.m3u8
+Tense Practice 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644098_25301_023648/master-6579863.030827667.m3u8
+Tense Practice 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644100_25301_023649/master-9103961.163648658.m3u8
+Modals Class 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4387717/174781942843557406299/174781942843557406299_7406299.m3u8
+Pronoun 01 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4478763/175214032117567738866/175214032117567738866_7738866.m3u8
+Pronoun 02 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4479819/175222790560827738866/175222790560827738866_7738866.m3u8
+Pronoun 03 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4481529/175248492066787738866/175248492066787738866_7738866.m3u8
+Pronoun 04 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4482645/175257385245047738866/175257385245047738866_7738866.m3u8
+Pronoun 05 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483733/175266085888837738866/175266085888837738866_7738866.m3u8
+Pronoun 06 : : https://d2xqaas4ilcbu4.cloudfront.net/out/v1/348e3dd06c7f4b49889b10dfa5bec24d/index.m3u8
+Article 02 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4459807/175127630379937738866/175127630379937738866_7738866.m3u8
+Article 03 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4460792/175136451067417738866/175136451067417738866_7738866.m3u8
+Article 04 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4461749/175145111480077738866/175145111480077738866_7738866.m3u8
+article 05 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4463596/175153672918097738866/175153672918097738866_7738866.m3u8
+Article 06 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4475656/175188229732187738866/175188229732187738866_7738866.m3u8
+Article (Doubts & Summary) : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4476592/175196802479217738866/175196802479217738866_7738866.m3u8
+Article 01 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4422399/175101704990837738866/175101704990837738866_7738866.m3u8
+Noun 01 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4405860/174954960737887738866/174954960737887738866_7738866.m3u8
+Noun 02 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4407083/174963626937937738866/174963626937937738866_7738866.m3u8
+Noun 03 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4408077/174972179325457738866/174972179325457738866_7738866.m3u8
+Reading Booster : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4408958/174980693986077738866/174980693986077738866_7738866.m3u8
+Noun 04 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4410926/175006818740237738866/175006818740237738866_7738866.m3u8
+Noun 05 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4412192/175015346458627738866/175015346458627738866_7738866.m3u8
+Noun 06 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4414441/175032510648947738866/175032510648947738866_7738866.m3u8
+Noun 07 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4417386/175067208175947738866/175067208175947738866_7738866.m3u8
+Noun 08 : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4418295/175075852939867738866/175075852939867738866_7738866.m3u8
+Noun (Practice 01) : : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4420468/175092938281847738866/175092938281847738866_7738866.m3u8
+Noun (Summary & Doubt) : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4420592/1750936927_4026778924532099/785966601122586000.m3u8
+Noun Practice 02 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4480097/1752239028_3461408151537379/552293461933945860.m3u8
+Noun Practice 03 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4480102/1752239140_1854796101778226/148999678197391460.m3u8
+Verb 01 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4399556/1748944924_5222154087672867/643268826138508700.m3u8
+Verb 02 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4401725/1749110694_2934145469921452/289987448361536000.m3u8
+Verb 03 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4401816/1749112814_7032077299168550/242865122361905150.m3u8
+Verb 04 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4405371/1749527257_8949627881045680/601038386475601000.m3u8
+Verb 05 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4405761/1749545098_7107745873808485/695120166222185500.m3u8
+Modals Class 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4388785/174790695972727406299/174790695972727406299_7406299.m3u8
+Modals Class 03 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4390526/174799166735867406299/174799166735867406299_7406299.m3u8
+Modals Class 04 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4393533/174833931276017406299/174833931276017406299_7406299.m3u8
+Modals Class 05 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4394577/174842467188817406299/174842467188817406299_7406299.m3u8
+Narration 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4380058/174713060225427406299/174713060225427406299_7406299.m3u8
+Narration Practice 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4383758/174738902622827406299/174738902622827406299_7406299.m3u8
+Preposition 01 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4328915/1742380889_7663852110015266/474297597527692200.m3u8
+Preposition 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4328849/174237729978778826006/174237729978778826006_8826006.m3u8
+Preposition 03 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4329802/174246375315468826006/174246375315468826006_8826006.m3u8
+Preposition 04 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4331472/1742626973_4000030856175885/597336801377402500.m3u8
+Preposition 05 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4335722/174298250337308826006/174298250337308826006_8826006.m3u8
+Preposition 06 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4336981/174306844218168826006/174306844218168826006_8826006.m3u8
+Preposition 07 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4339589/174340763059018826006/174340763059018826006_8826006.m3u8
+Preposition 08 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4342924/174366482399098826006/174366482399098826006_8826006.m3u8
+Preposition 09 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4345822/174402121678438826006/174402121678438826006_8826006.m3u8
+Preposition 10 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4346726/174410819261278826006/174410819261278826006_8826006.m3u8
+Preposition 11 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4347719/174419189824348826006/174419189824348826006_8826006.m3u8
+Preposition 12 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4348452/174427726184108826006/174427726184108826006_8826006.m3u8
+Preposition Practice 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4349265/174436583537628826006/174436583537628826006_8826006.m3u8
+Preposition Practice 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4349973/174445097244908826006/174445097244908826006_8826006.m3u8
+Voice 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4365555/174600532994327406299/174600532994327406299_7406299.m3u8
+Voice 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4367759/174617845664737406299/174617845664737406299_7406299.m3u8
+Voice 03 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4370934/174642987991467406299/174642987991467406299_7406299.m3u8
+Voice 04 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4373435/174652391613747406299/174652391613747406299_7406299.m3u8
+Voice 05 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4374533/174661048623227406299/174661048623227406299_7406299.m3u8
+Voice 06 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4375744/174669790042657406299/174669790042657406299_7406299.m3u8
+Voice Practice 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4377695/174686826515448826006/174686826515448826006_8826006.m3u8
+Question-Tag : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4363037/174583450273248826006/174583450273248826006_8826006.m3u8
+Question-tag 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4364207/174591955776697406299/174591955776697406299_7406299.m3u8
+Superfluous Expression 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4361895/174566148911748826006/174566148911748826006_8826006.m3u8
+Conjunction 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4351525/174471198258438826006/174471198258438826006_8826006.m3u8
+Conjunction 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4352551/174479827578998826006/174479827578998826006_8826006.m3u8
+Conjunction 03 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4356339/174522936023368826006/174522936023368826006_8826006.m3u8
+Conjunction 04 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4357442/174531489888168826006/174531489888168826006_8826006.m3u8
+Conjunction 05 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4358523/174540139768348826006/174540139768348826006_8826006.m3u8
+Conjunction 06 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4359749/174548929912838826006/174548929912838826006_8826006.m3u8
+Summary of Conjunction : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1622913_25301_080355/master-6782210.864086182.m3u8
+Conjunction practice 01 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4363328/1745850212_8295701950070488/186653388598619360.m3u8
+Conjunction practice 02 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4363390/1745858779_1112993295967131/185765810486289250.m3u8
+Conjunction Practice 03 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4363832/1745907498_5489895795166271/792952100189654300.m3u8
+Conjunction Practice 04 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4364031/1745913615_2338673404042512/396024025456702300.m3u8
+Basic of english 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642512_25301_022008/master-2680393.9328599502.m3u8
+Basic of english 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642515_25301_022012/master-2521302.0860824.m3u8
+Basic of english 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642513_25301_073738/master-2018077.7728673748.m3u8
+Basic of english 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642514_25301_022011/master-94906.0674389579.m3u8
+Basic of english 05 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642516_25301_073743/master-6708153.089744884.m3u8
+Mood & Conditional 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644102_25301_023653/master-3076804.659759289.m3u8
+Mood & Conditional 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644104_25301_023655/master-9939639.411362182.m3u8
+Mood & Conditional 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644106_25301_074827/master-3470207.1857377524.m3u8
+Mood & Conditional 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644107_25301_023656/master-676615.5922176553.m3u8
+Mood & Conditional 05 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644108_25301_023703/master-473648.42105311446.m3u8
+Mood & Conditional 06 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644109_25301_074832/master-8139107.060726503.m3u8
+Mood & Conditional ( Summary) : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644112_25301_023707/master-1130833.8346273606.m3u8
+Mood & Conditional Practice 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644114_25301_023708/master-1564874.663639817.m3u8
+Mood & Conditional Practice 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644116_25301_074839/master-1388952.3946530824.m3u8
+ADVERB 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643736_25301_023310/master-6688898.400802021.m3u8
+Adverb 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643737_25301_023313/master-9833496.322945785.m3u8
+Adverb 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643738_25301_023313/master-1122160.9165481427.m3u8
+Adverb 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643739_25301_074604/master-8927258.945855947.m3u8
+Adverb 05 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643740_25301_023315/master-6593789.100942924.m3u8
+Adverb 06 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1647999_25301_025519/master-1785518.2139351978.m3u8
+Adverb 07 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1648000_25301_025519/master-1063175.3330490445.m3u8
+Adverb 08 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1648003_25301_025525/master-3336931.9562652367.m3u8
+Adverb 09 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1648004_25301_025526/master-3441441.966901142.m3u8
+Adverb Summary : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708223_25316_072645/master-3695282.2582317647.m3u8
+Adverb Practice 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708271_25316_072803/master-8642791.922834318.m3u8
+Inversion : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708323_25316_072930/master-606052.435904112.m3u8
+Non-Finite Verb : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1711209_25316_073234/master-9000124.757323453.m3u8
+Non-Finite Verb 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1711260_25316_073321/master-6582571.134825393.m3u8
+Non-Finite Verb 03 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4346530/1744096624_4793215690046080/872836729347932200.m3u8
+Non-finite verb 04 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4322684/174160125849301086666/174160125849301086666_1086666.m3u8
+Non-Finite Verb 05 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4324835/174177009243738826006/174177009243738826006_8826006.m3u8
+Synonyms\Antonyms 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1587054_25228_094241/master_tunak_tunak_tun.m3u8
+Synonyms/Antonyms 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586814_25228_104713/master_tunak_tunak_tun.m3u8
+Synonyms/Antonyms 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586816_25228_104643/master_tunak_tunak_tun.m3u8
+Synonyms & Antonyms 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586818_25228_104620/master_tunak_tunak_tun.m3u8
+Synonyms & Antonyms 05 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586823_25228_104546/master_tunak_tunak_tun.m3u8
+Synonyms & Antonyms 06 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586827_25228_104533/master_tunak_tunak_tun.m3u8
+Synonyms & Antonyms 08 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586829_25228_104520/master-4034487.34068365.m3u8.m3u8
+Synonyms & Antonyms 09 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586830_25228_104519/master-459276.29856402194.m3u8.m3u8
+Synonyms & Antonyms 10 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586831_25228_104516/master-5311431.533842564.m3u8.m3u8
+Synonyms & Antonyms 11 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586832_25228_104515/master-1474110.9962191912.m3u8.m3u8
+Synonyms & Antonyms 12 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591839_25228_075458/master-1982297.7586758551.m3u8.m3u8
+Synonyms & Antonyms 13 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591841_25228_075437/master-5307275.537408909.m3u8.m3u8
+Synonyms/Antonyms 14 (words start with E latter ) : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612195_25301_053712/master-2798131.162204014.m3u8
+Synonyms / Antonyms 15 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612196_25302_044917/master-8883226.874901336.m3u8
+Synonyms/ Antonyms 16 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612197_25301_053728/master-8873316.466682697.m3u8
+Synonyms / Antonyms 17 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612198_25301_053729/master-4477077.742647333.m3u8
+Synonyms / Antonyms 18 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612199_25301_053730/master-1783943.0390428014.m3u8
+Idioms with Colors : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591842_25228_075433/master-6843521.842355038.m3u8.m3u8
+Idioms with Colors 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591843_25228_075430/master-3542102.784721408.m3u8.m3u8
+Idioms 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597028_25228_060511/master-7577202.810234871.m3u8.m3u8
+Idioms 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597030_25228_060504/master-750632.2029707513.m3u8.m3u8
+Idioms 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597031_25228_060456/master-9618782.672430959.m3u8.m3u8
+Idioms 05 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597032_25228_060448/master-872139.4997406739.m3u8.m3u8
+Idiom 06 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597035_25228_060433/master-8567987.13831878.m3u8.m3u8
+Idioms 07 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602129_25228_052840/master-1881319.605009759.m3u8.m3u8
+Idioms 08 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602130_25228_052840/master-2843485.232726477.m3u8.m3u8
+Idioms 09 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602131_25228_052832/master-6161079.516947543.m3u8.m3u8
+Idioms 10 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602132_25228_052829/master-3800306.089673906.m3u8.m3u8
+Idioms 11 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602133_25228_052828/master-3763167.9670305494.m3u8.m3u8
+Idioms 12 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602135_25228_052827/master-2170198.626590316.m3u8.m3u8
+Idioms 13 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602136_25228_052817/master-4516002.503217953.m3u8.m3u8
+Idioms 14 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602137_25228_052814/master-6302573.045515656.m3u8.m3u8
+Idioms 15 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602138_25228_052805/master-5666609.931581061.m3u8.m3u8
+Idioms 16 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602139_25228_052802/master-7970954.070729408.m3u8.m3u8
+Idioms 17 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602140_25228_052758/master-8475492.417056816.m3u8.m3u8
+Idioms 18 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602141_25228_052755/master-9785102.157681908.m3u8.m3u8
+Idioms 19 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602142_25228_052754/master-8680853.531209575.m3u8.m3u8
+Important One Word Substitution : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1592172_25228_074653/master-5712100.207225677.m3u8.m3u8
+Important One Word Substitution 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1592174_25228_074649/master-1987242.1291190844.m3u8.m3u8
+SSC CGL PRE 2023( IDIOMS & ONE WORD SUBSTITUTION ) : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1592178_25228_074631/master-8490398.078969037.m3u8.m3u8
+One word substitution 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1608982_25301_031049/master-8469521.585654307.m3u8
+One word substitution 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1607856_25301_042625/master-3098847.808436689.m3u8
+One word substitution 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1607857_25301_032952/master-865471.8379314197.m3u8
+One word substitution 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1607858_25301_024920/master-3957565.700679524.m3u8
+Root word vocabulary 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627836_25301_103025/master-6843299.422551452.m3u8
+Root word vocabulary 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627837_25301_103029/master-9577562.674422111.m3u8
+Root Word Vocabulary 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627838_25301_103031/master-1063247.849125768.m3u8
+Root word vocabulary 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627839_25301_103040/master-551316.3095138851.m3u8
+Pharasal verb 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636645_25301_010218/master-9867429.205377616.m3u8
+Phrasal verb 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636646_25301_010248/master-9339340.412321761.m3u8
+Phrasal verb 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636647_25301_010303/master-8937733.359390294.m3u8
+Phrasal verb 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636648_25301_010305/master-5807751.768252529.m3u8
+Homonyms & Homophones 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1637892_25301_071531/master-8557682.156799495.m3u8
+Homonyms & Homophones 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1637893_25309_033727/720p/master-8056193.81782231.m3u8
+Comprehension booster 01 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4328138/1742304437_8146057770343398/757605947867221100.m3u8
+Reading Booster 02 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4330087/1742476720_1093107811543435/603858037700702000.m3u8
+Comprehension booster 03 : : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4337220/1743078949_7234741430725609/67435631948268250.m3u8
+PQRS 01 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643028_25301_073903/master-5734734.496064205.m3u8
+PQRS 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643029_25301_022230/master-6347125.169534447.m3u8
+PQRS 03 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643030_25301_022231/master-8412577.62347942.m3u8
+PQRS 04 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643031_25301_022232/master-6743984.907369667.m3u8
+PQRS 05 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1647929_25301_025351/master-4074766.8060066933.m3u8
+PQRS 06 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1647930_25301_025351/master-8613920.766457643.m3u8
+PQRS 07 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708410_25316_073105/master-2765816.748648757.m3u8
+PQRS O8 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1709608_25316_073145/master-3479807.7148713437.m3u8
+ADVERB TEST : : https://d29uu9tpxwc3a1.cloudfront.net/file_library/videos/channel_original_vod_non_drm_hls/16800102238452613/16800102238452613_8452613.m3u8
+Tense 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-19-0.5221706631142344.pdf
+Verb Form list with hindi meanings : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-19-0.31326039984611187.pdf
+Tense 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.18899014592181995.pdf
+Tense 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.0314864153486305.pdf
+Tense 04 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-23-0.24473541630008322.pdf
+Tense 05 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-27-0.8058026275018362.pdf
+Tense 06 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-02-0.05360180533111136.pdf
+Tense 07 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-03-0.7709613638543473.pdf
+Tense 08 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-06-0.9754687513495675.pdf
+Tense 09 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-08-0.5406736699962318.pdf
+Tense 11 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-10-0.5997709368542143.pdf
+Tense 10 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-10-0.17746857241568104.pdf
+Tense 12 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-14-0.024467797161713767.pdf
+Tense 13 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-16-0.052857236237886074.pdf
+Summary of Tense (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-16-0.515202512288174.pdf
+Tense Practice 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-20-0.7171341901111996.pdf
+Tense Complete Practice Sheet (Printable with Solutions) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-20-0.0860309964732553.pdf
+Tense Practice 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-21-0.424765506600441.pdf
+Tense (Hand Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-22-0.504795997803591.pdf
+Pronoun 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/601740872777366000.pdf
+Pronoun 01 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/237606663977596060.pdf
+Pronoun 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/657449972945809400.pdf
+Pronoun 02 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/546813871146583500.pdf
+Pronoun 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/804028102927755100.pdf
+Pronoun 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/637179346526869900.pdf
+Pronoun 03 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/617918527448192300.pdf
+Pronoun 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/502508055676024770.pdf
+Pronoun 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/397754304296234200.pdf
+Verb Complete Practice Sheet (Printable with Solutions) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.2897369620260444.pdf
+Article 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/818734599880759300.pdf
+Article 01 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/120221903480618340.pdf
+Article 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/815308851731044400.pdf
+Article 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/826436191181225600.pdf
+Article 02 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/564601416358435200.pdf
+Article 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/1745919168018039.pdf
+Article 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/563390458586389800.pdf
+Article 03 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/507350316784675000.pdf
+Article 04 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/161603689485994850.pdf
+Article 05 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/44949467106802440.pdf
+Article 06 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/484348543886782500.pdf
+Article (Summary & Doubts) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/386231196025417700.pdf
+Article 06 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/892174131543465000.pdf
+Summary & Doubts (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/606739416294199400.pdf
+Noun (Basic level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.8544940136505497.pdf
+Noun (Moderate level practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.3706095899659916.pdf
+Noun (Advanced level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.6276867351098925.pdf
+Noun PYQs with Solution : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-19-0.2418222941550474.pdf
+Narration Practice sheet 01 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-03-01-0.143737878985702.pdf
+Narration practice sheet 02 : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/repair_pdf/2024-11-07-0.6644513890165371.pdf
+Voice Practice Sheet (basic level) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-12-0.11704959681594906.pdf
+Voice Practice Sheet (moderate level) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-12-0.5155989861615626.pdf
+Noun 01 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/543230350416860400.pdf
+Noun 02 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/692232766653537900.pdf
+Noun 03 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/288810991684981000.pdf
+Noun 04 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/529783975074603300.pdf
+Noun 05 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/171825322111382900.pdf
+Noun 06 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/353806243958738240.pdf
+Noun 07 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/651026869012808700.pdf
+Noun 08 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/162844536437045.pdf
+Noun 01(Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/454642074345077500.pdf
+Noun 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/334910323536964030.pdf
+Noun 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/237868650952446100.pdf
+Noun 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/783928986582314400.pdf
+Noun 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/77532879393232560.pdf
+Noun 06 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/122327150548754690.pdf
+Noun 07 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/88928905074576240.pdf
+Noun 08 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/720507021127195500.pdf
+Noun Summary & doubt (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-10-17-0.7112602256708904.pdf
+Noun Practice 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/211910871900273860.pdf
+Noun practice 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/1676886Noun%20practice%2002%20%28Class%20notes%29.pdf_Noun%20practice%2002%20%28Class%20notes%29.pdf
+Noun practice 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/675531Noun%20practice%2003%20%28Class%20notes%29.pdf_Noun%20practice%2003%20%28Class%20notes%29.pdf
+Verb 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/301352818464391700.pdf
+Verb 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/65137838171048430.pdf
+Verb 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/600958567263117600.pdf
+Verb 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/248261034507491680.pdf
+Verb  01 ( Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/6476571Verb%20%2001%20%28%20Hand-written%20Notes%29.pdf_Verb%20%2001%20%28%20Hand-written%20Notes%29.pdf
+Verb  02 ( Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/1471354Verb%20%2002%20%28%20Hand-written%20Notes%29.pdf_Verb%20%2002%20%28%20Hand-written%20Notes%29.pdf
+Verb  03 ( Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/176307922003351520.pdf
+Verb  04 ( Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/564735867306992260.pdf
+Verb  05 ( Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/567034893655495360.pdf
+Modals 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/126966689374045600.pdf
+Modals 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/651159322164875600.pdf
+Modals 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/693552063160557200.pdf
+Modal 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/3699195916271258.pdf
+Modal 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/256717419374441020.pdf
+Modals 01 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/17038043748881826.pdf
+Modals 02 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/1696419Modals%2002%20%28Hand-written%20Notes%29.pdf_Modals%2002%20%28Hand-written%20Notes%29.pdf
+Modals 03 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/2408022Modals%2003%20%28Hand-written%20Notes%29.pdf_Modals%2003%20%28Hand-written%20Notes%29.pdf
+Modals 04 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/6761155Modals%2004%20%28Hand-written%20Notes%29.pdf_Modals%2004%20%28Hand-written%20Notes%29.pdf
+Narration 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/42605435517561950.pdf
+Narration 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/253188642192148580.pdf
+Narration 01 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/790776697759855400.pdf
+Narration Practice 01 : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/28485087626806772.pdf
+Narration Practice 02 ( Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/632445767943050900.pdf
+Preposition Complete (Hand Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/874111156858842100.pdf
+Preposition 01(Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/854318Preposition%2001%28Class%20notes%29.pdf_Preposition%2001%28Class%20notes%29.pdf
+Preposition 02(Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/5944043Preposition%2002%28Class%20notes%29.pdf_Preposition%2002%28Class%20notes%29.pdf
+Preposition 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/820636260913407700.pdf
+Preposition 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/173027215330931700.pdf
+Preposition 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/341896053207070400.pdf
+Preposition 06 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/555441064448927740.pdf
+Preposition 07 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/853995734221474000.pdf
+Preposition 08 (Class Notes ) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/591468871790174700.pdf
+Preposition 09 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/138112487170300620.pdf
+Preposition 10 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/183601438985059260.pdf
+Preposition 11 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/570847858499111600.pdf
+Preposition 12 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/546789139780824700.pdf
+Preposition Practice 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/637766221585100000.pdf
+Preposition Practice 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/708472063351437200.pdf
+Preposition PYQs with explanations : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-08-23-0.9533217224764496.pdf
+Preposition (Basic level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/347311839732491400.pdf
+Preposition (Moderate level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/587259912131077200.pdf
+Preposition (Advance Level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/745698896099265300.pdf
+Voice 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/596082738035964300.pdf
+Voice 01(Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/317126923230000060.pdf
+Voice 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/426229339700300540.pdf
+Voice 02 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/509719564193660350.pdf
+Voice 03 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/605845606143878900.pdf
+Voice 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/786577450080884900.pdf
+Voice 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/584316902431059100.pdf
+Voice 04 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/601833430382499000.pdf
+Voice 05 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/819005238713924400.pdf
+Voice 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/659613401630861400.pdf
+Voice 06 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/551227577552795400.pdf
+Voice 06 (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/427218964907756740.pdf
+Voice 01 (Practice Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/647068558340946.pdf
+Question tag complete (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/438424091810538940.pdf
+Questions Tag (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/486822697139484700.pdf
+Superfluous & Wrong  Expression (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/828029741569775000.pdf
+Superfluous & Wrong  Expressions (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/502798120268570200.pdf
+Conjunction 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/199953838300598430.pdf
+Conjunction 01 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/406063805116987200.pdf
+Conjunction 02 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/673901163069212300.pdf
+Conjunction 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/482504109113195260.pdf
+Conjunction 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/558065627068567700.pdf
+Conjunction 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/340110099312409800.pdf
+Conjunction 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/148241218964733380.pdf
+Conjunction 06 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/656798111447243800.pdf
+Summary of Conjunction : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-30-0.3805610353648454.pdf
+Conjunction 03 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/7394810Conjunction%2003%20%28Hand-written%20Notes%29.pdf_Conjunction%2003%20%28Hand-written%20Notes%29.pdf
+Conjunction 04 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/5835636Conjunction%2004%20%28Hand-written%20Notes%29.pdf_Conjunction%2004%20%28Hand-written%20Notes%29.pdf
+Conjunction 05 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/5050835Conjunction%2005%20%28Hand-written%20Notes%29.pdf_Conjunction%2005%20%28Hand-written%20Notes%29.pdf
+Conjunction 06 (Hand-written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/6266706Conjunction%2006%20%28Hand-written%20Notes%29.pdf_Conjunction%2006%20%28Hand-written%20Notes%29.pdf
+Conjunction Complete Practice Sheet : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/600781930572158700.pdf
+Conjunction practice 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-01-0.43143436890441245.pdf
+Conjunction practice 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-02-0.7244686363386004.pdf
+Conjunction practice 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-06-0.7870384541065649.pdf
+Summary of conjunction (Hand-Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/569558556580915300.pdf
+Conjunction practice 04 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-06-0.19697352944680757.pdf
+Article PYQs with solutions : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-02-10-0.8944972821319594.pdf
+Article (Basic level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.397769088720459.pdf
+Article (Moderate level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.1541648393730357.pdf
+Article (Advance level Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.7347371494777903.pdf
+Complete Basics of English (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.26244922916461055.pdf
+Identification of subject and verb (Practice sheet ) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.8806745427279534.pdf
+Identification of helping verb and main verb (Practice sheet) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.3487168896491726.pdf
+Mood & Conditional 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-21-0.9620839942100952.pdf
+Mood & Conditional 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-22-0.17599532360233971.pdf
+Mood & Conditional 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-27-0.7748538358155452.pdf
+Mood & Conditional 04 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-28-0.11044439160246.pdf
+Mood & Conditional 05 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-29-0.4745775037131792.pdf
+Mood & Conditional 06 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-30-0.4432829849599349.pdf
+Mood & Conditional Summary : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-03-0.2249629754141642.pdf
+Mood & Conditional (Hand Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-03-0.47628183848495786.pdf
+Mood & Conditional Practice 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-04-0.46740096843924195.pdf
+Mood & Conditional Practice 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-06-0.5917037554378495.pdf
+Mood and Conditional Complete Practice Sheet : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-05-0.19580214122647543.pdf
+Adverb 01 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-07-0.5831770705076782.pdf
+Adverb 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-10-0.8524217846385393.pdf
+Adverb 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-12-0.2633062117433458.pdf
+Adverb 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-12-0.5000190870044616.pdf
+Adverb 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-15-0.462777285395777.pdf
+Adverb 06 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-17-0.4764493256921072.pdf
+Adverb 07 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-18-0.17950667975057022.pdf
+Adverb 08 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-24-0.42546385682161825.pdf
+Adverb 09 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-24-0.9755652851842884.pdf
+Adverb Practice (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-27-0.11811353647175848.pdf
+Adverb (Hand Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-28-0.8960579130324842.pdf
+Adverb Summary (Hand Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-28-0.8206986257844593.pdf
+Adverb Complete Practice Sheet : : https://appx-content-v2.classx.co.in/paid_course4/2025-03-06-0.2261325288340803.pdf
+Inversion 01 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-28-0.433027615345452.pdf
+Inversion (Hand Written Notes) : : https://appx-content-v2.classx.co.in/paid_course4/2025-03-04-0.11378693829538467.pdf
+Non-Finite Verb 01 (Class Notes) : : https://appx-content-v2.classx.co.in/paid_course4/2025-03-05-0.5621118295588976.pdf
+Non-Finite Verb 02 (Class Notes) : : https://appx-content-v2.classx.co.in/paid_course4/2025-03-07-0.12896510133226102.pdf
+Non-Finite Verb 03 (Class Notes) : : https://appx-content-v2.classx.co.in/paid_course4/2025-03-07-0.12492552799665413.pdf
+Non-Finite Verb 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/732250904489861000.pdf
+Non-Finite 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/106175294364556260.pdf
+Non-Finite Verb (Hand Written Notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/820288771985812200.pdf
+Synonyms & Antonyms 01 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-15-0.9167956706465246.pdf
+Synonyms & Antonyms 02 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-16-0.6503823444366128.pdf
+Synonyms & Antonyms 03 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-18-0.12745623065344813.pdf
+Synonyms & Antonyms 04 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-23-0.22795800714901637.pdf
+Synonyms and Antonyms 05 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-29-0.027892214918296077.pdf
+Synonyms and Antonyms B 07 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-06-0.005339443769200258.pdf
+Syno Anto 08 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-08-0.5863426213004965.pdf
+Synonyms & Antonyms 09 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-09-0.8408325831761774.pdf
+Synonyms and Antonyms 10 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-14-0.3747470299960207.pdf
+Synonyms and Antonyms 11 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-14-0.8967677852077631.pdf
+Synonyms & Antonyms 15 'E' letter Vocab 02 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-02-28-0.6202750399700914.pdf
+Synonyms & Antonyms 16 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-19-0.5681300050134801.pdf
+Synonyms / Antonyms 18 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-19-0.5089422604575071.pdf
+Synonyms & Antonyms 17 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-21-0.04799338732928482.pdf
+Idioms With Colors 01 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-22-0.679339760032216.pdf
+Color Idioms 02 : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-23-0.9321332438903001.pdf
+Idioms 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-05-0.46075260101160476.pdf
+Idioms 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-06-0.2802859519498997.pdf
+Idioms 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-11-0.4866475169833737.pdf
+Idioms 05 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-13-0.837474645213131.pdf
+Idioms 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-14-0.8518028778955826.pdf
+Idiom 06 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-18-0.9584747322492864.pdf
+Idioms 07 (class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-20-0.3406605569601737.pdf
+Idioms 08 (classnotes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-21-0.764362921433835.pdf
+Idioms 10 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-27-0.1221350419926659.pdf
+Idioms 09 (Classnotes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-28-0.9686749995873654.pdf
+Idioms 11 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-28-0.6269069374691845.pdf
+Idioms 12 (class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-04-0.07232347185660948.pdf
+Idioms 13 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-09-0.4014396422997826.pdf
+Idioms 14  (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-09-0.8005207870145796.pdf
+Idioms 15(Classnotes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-10-0.6369026475658355.pdf
+Idioms 16 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-12-0.7753915586572109.pdf
+Idioms 18 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-19-0.5409053725787392.pdf
+Idiom 19 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-11-01-0.6951902861017853.pdf
+One word substitution professions (class notes 1&2) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-15-0.021488565810653837.pdf
+Sound made by Animals, bird,things (class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-15-0.21256024015981945.pdf
+One Word Substitution 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-12-19-0.929622152259455.pdf
+One Word Substitution 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-12-21-0.08570358180276783.pdf
+One Word Substitution 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-12-21-0.36911335665919376.pdf
+Root word vocabulary (phile & logy) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-09-0.033918135286899354.pdf
+Root Word Vocabulary class 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-15-0.7275600911338922.pdf
+Root Word Vocabulary Class 02(Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-15-0.29412409735666567.pdf
+Root Word Vocabulary Class 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-17-0.30811063506675596.pdf
+Root Word Vocabulary Class 04 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-18-0.6586750134056367.pdf
+Phrasal verb 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-08-27-0.5531026784489257.pdf
+Phrasal verb 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-08-28-0.08309443646916126.pdf
+Phrasal verb 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-09-07-0.11958493991811192.pdf
+Phrasal verb 04 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-09-07-0.16512334188944733.pdf
+Homonyms 01 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.49673210287303093.pdf
+homonyms 02 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.2014495933675433.pdf
+Reading booster 01 : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/884373052543916200.pdf
+Reading  Booster 02 : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/809480598484340600.pdf
+Comprehension booster 03 (Class notes) : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/842292004152305500.pdf
+Reading Comprehension : : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/861622644946667900.pdf
+PQRS 01 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-30-0.7709483661089673.pdf
+PQRS 02 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-31-0.9498403002611724.pdf
+PQRS 03 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-05-0.6405236655765194.pdf
+PQRS 04 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-06-0.0846003268779767.pdf
+PQRS 05 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-19-0.8863241731835112.pdf
+PQRS 06 (Class Notes) : : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-03-03-0.24741695987837042.pdf
+PQRS 07 (Class Notes) : : https://appx-content-v2.classx.co.in/paid_course4/2025-03-04-0.45674787286777474.pdf
+IDIOMS AND PHRASES QUIZ 12 : : https://d29uu9tpxwc3a1.cloudfront.net/All%20PDF/Part%201%20जनन%20तंत्र.pdf
+Narration 02 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_drm_dash/4381579/174721664934857406299/174721664934857406299_7406299_Dash.mpd
+Narration Practice 01 : : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_drm_dash/4382578/174730015243337406299/174730015243337406299_7406299_Dash.mpd
+Idioms 02 : : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597029_25302_044637/master-3283684.0193028483.m3u8.m3u8?v=123
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644072_25301_023612/master-1816231.7513752035.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644076_25301_023617/master-4755851.302920937.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644075_25301_074757/master-1947049.7700298605.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644077_25301_023618/master-492332.3423020909.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644078_25301_074802/master-1661934.5694995169.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644079_25301_023630/master-3137780.0093655162.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644082_25301_074805/master-3963650.7503770213.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644083_25301_023634/master-8554930.772095406.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644085_25301_074807/master-352032.0771750285.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644087_25301_023636/master-9818275.469605628.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644090_25301_023636/master-7878495.021243386.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644092_25301_023638/master-1343225.6096787576.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644095_25301_074811/master-2719194.854478848.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644096_25301_023642/master-1745074.0705521284.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644098_25301_023648/master-6579863.030827667.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644100_25301_023649/master-9103961.163648658.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4387717/174781942843557406299/174781942843557406299_7406299.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4478763/175214032117567738866/175214032117567738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4479819/175222790560827738866/175222790560827738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4481529/175248492066787738866/175248492066787738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4482645/175257385245047738866/175257385245047738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483733/175266085888837738866/175266085888837738866_7738866.m3u8
+Raw : https://d2xqaas4ilcbu4.cloudfront.net/out/v1/348e3dd06c7f4b49889b10dfa5bec24d/index.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4459807/175127630379937738866/175127630379937738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4460792/175136451067417738866/175136451067417738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4461749/175145111480077738866/175145111480077738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4463596/175153672918097738866/175153672918097738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4475656/175188229732187738866/175188229732187738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4476592/175196802479217738866/175196802479217738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4422399/175101704990837738866/175101704990837738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4405860/174954960737887738866/174954960737887738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4407083/174963626937937738866/174963626937937738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4408077/174972179325457738866/174972179325457738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4408958/174980693986077738866/174980693986077738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4410926/175006818740237738866/175006818740237738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4412192/175015346458627738866/175015346458627738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4414441/175032510648947738866/175032510648947738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4417386/175067208175947738866/175067208175947738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4418295/175075852939867738866/175075852939867738866_7738866.m3u8
+Raw : https://d2kbm7ayu3hpk3.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4420468/175092938281847738866/175092938281847738866_7738866.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4420592/1750936927_4026778924532099/785966601122586000.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4480097/1752239028_3461408151537379/552293461933945860.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4480102/1752239140_1854796101778226/148999678197391460.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4399556/1748944924_5222154087672867/643268826138508700.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4401725/1749110694_2934145469921452/289987448361536000.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4401816/1749112814_7032077299168550/242865122361905150.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4405371/1749527257_8949627881045680/601038386475601000.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4405761/1749545098_7107745873808485/695120166222185500.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4388785/174790695972727406299/174790695972727406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4390526/174799166735867406299/174799166735867406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4393533/174833931276017406299/174833931276017406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4394577/174842467188817406299/174842467188817406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4380058/174713060225427406299/174713060225427406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4383758/174738902622827406299/174738902622827406299_7406299.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4328915/1742380889_7663852110015266/474297597527692200.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4328849/174237729978778826006/174237729978778826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4329802/174246375315468826006/174246375315468826006_8826006.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4331472/1742626973_4000030856175885/597336801377402500.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4335722/174298250337308826006/174298250337308826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4336981/174306844218168826006/174306844218168826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4339589/174340763059018826006/174340763059018826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4342924/174366482399098826006/174366482399098826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4345822/174402121678438826006/174402121678438826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4346726/174410819261278826006/174410819261278826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4347719/174419189824348826006/174419189824348826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4348452/174427726184108826006/174427726184108826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4349265/174436583537628826006/174436583537628826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4349973/174445097244908826006/174445097244908826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4365555/174600532994327406299/174600532994327406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4367759/174617845664737406299/174617845664737406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4370934/174642987991467406299/174642987991467406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4373435/174652391613747406299/174652391613747406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4374533/174661048623227406299/174661048623227406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4375744/174669790042657406299/174669790042657406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4377695/174686826515448826006/174686826515448826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4363037/174583450273248826006/174583450273248826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4364207/174591955776697406299/174591955776697406299_7406299.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4361895/174566148911748826006/174566148911748826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4351525/174471198258438826006/174471198258438826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4352551/174479827578998826006/174479827578998826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4356339/174522936023368826006/174522936023368826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4357442/174531489888168826006/174531489888168826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4358523/174540139768348826006/174540139768348826006_8826006.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4359749/174548929912838826006/174548929912838826006_8826006.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1622913_25301_080355/master-6782210.864086182.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4363328/1745850212_8295701950070488/186653388598619360.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4363390/1745858779_1112993295967131/185765810486289250.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4363832/1745907498_5489895795166271/792952100189654300.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4364031/1745913615_2338673404042512/396024025456702300.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642512_25301_022008/master-2680393.9328599502.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642515_25301_022012/master-2521302.0860824.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642513_25301_073738/master-2018077.7728673748.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642514_25301_022011/master-94906.0674389579.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1642516_25301_073743/master-6708153.089744884.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644102_25301_023653/master-3076804.659759289.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644104_25301_023655/master-9939639.411362182.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644106_25301_074827/master-3470207.1857377524.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644107_25301_023656/master-676615.5922176553.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644108_25301_023703/master-473648.42105311446.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644109_25301_074832/master-8139107.060726503.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644112_25301_023707/master-1130833.8346273606.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644114_25301_023708/master-1564874.663639817.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1644116_25301_074839/master-1388952.3946530824.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643736_25301_023310/master-6688898.400802021.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643737_25301_023313/master-9833496.322945785.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643738_25301_023313/master-1122160.9165481427.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643739_25301_074604/master-8927258.945855947.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643740_25301_023315/master-6593789.100942924.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1647999_25301_025519/master-1785518.2139351978.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1648000_25301_025519/master-1063175.3330490445.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1648003_25301_025525/master-3336931.9562652367.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1648004_25301_025526/master-3441441.966901142.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708223_25316_072645/master-3695282.2582317647.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708271_25316_072803/master-8642791.922834318.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708323_25316_072930/master-606052.435904112.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1711209_25316_073234/master-9000124.757323453.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1711260_25316_073321/master-6582571.134825393.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4346530/1744096624_4793215690046080/872836729347932200.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4322684/174160125849301086666/174160125849301086666_1086666.m3u8
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4324835/174177009243738826006/174177009243738826006_8826006.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1587054_25228_094241/master_tunak_tunak_tun.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586814_25228_104713/master_tunak_tunak_tun.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586816_25228_104643/master_tunak_tunak_tun.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586818_25228_104620/master_tunak_tunak_tun.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586823_25228_104546/master_tunak_tunak_tun.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586827_25228_104533/master_tunak_tunak_tun.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586829_25228_104520/master-4034487.34068365.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586830_25228_104519/master-459276.29856402194.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586831_25228_104516/master-5311431.533842564.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1586832_25228_104515/master-1474110.9962191912.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591839_25228_075458/master-1982297.7586758551.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591841_25228_075437/master-5307275.537408909.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612195_25301_053712/master-2798131.162204014.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612196_25302_044917/master-8883226.874901336.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612197_25301_053728/master-8873316.466682697.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612198_25301_053729/master-4477077.742647333.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1612199_25301_053730/master-1783943.0390428014.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591842_25228_075433/master-6843521.842355038.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1591843_25228_075430/master-3542102.784721408.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597028_25228_060511/master-7577202.810234871.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597030_25228_060504/master-750632.2029707513.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597031_25228_060456/master-9618782.672430959.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597032_25228_060448/master-872139.4997406739.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597035_25228_060433/master-8567987.13831878.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602129_25228_052840/master-1881319.605009759.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602130_25228_052840/master-2843485.232726477.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602131_25228_052832/master-6161079.516947543.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602132_25228_052829/master-3800306.089673906.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602133_25228_052828/master-3763167.9670305494.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602135_25228_052827/master-2170198.626590316.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602136_25228_052817/master-4516002.503217953.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602137_25228_052814/master-6302573.045515656.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602138_25228_052805/master-5666609.931581061.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602139_25228_052802/master-7970954.070729408.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602140_25228_052758/master-8475492.417056816.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602141_25228_052755/master-9785102.157681908.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1602142_25228_052754/master-8680853.531209575.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1592172_25228_074653/master-5712100.207225677.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1592174_25228_074649/master-1987242.1291190844.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1592178_25228_074631/master-8490398.078969037.m3u8.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1608982_25301_031049/master-8469521.585654307.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1607856_25301_042625/master-3098847.808436689.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1607857_25301_032952/master-865471.8379314197.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1607858_25301_024920/master-3957565.700679524.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627836_25301_103025/master-6843299.422551452.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627837_25301_103029/master-9577562.674422111.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627838_25301_103031/master-1063247.849125768.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1627839_25301_103040/master-551316.3095138851.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636645_25301_010218/master-9867429.205377616.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636646_25301_010248/master-9339340.412321761.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636647_25301_010303/master-8937733.359390294.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1636648_25301_010305/master-5807751.768252529.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1637892_25301_071531/master-8557682.156799495.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1637893_25309_033727/720p/master-8056193.81782231.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4328138/1742304437_8146057770343398/757605947867221100.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4330087/1742476720_1093107811543435/603858037700702000.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/file_library/videos/vod_non_drm_ios/4337220/1743078949_7234741430725609/67435631948268250.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643028_25301_073903/master-5734734.496064205.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643029_25301_022230/master-6347125.169534447.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643030_25301_022231/master-8412577.62347942.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1643031_25301_022232/master-6743984.907369667.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1647929_25301_025351/master-4074766.8060066933.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1647930_25301_025351/master-8613920.766457643.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1708410_25316_073105/master-2765816.748648757.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1709608_25316_073145/master-3479807.7148713437.m3u8
+Raw : https://d29uu9tpxwc3a1.cloudfront.net/file_library/videos/channel_original_vod_non_drm_hls/16800102238452613/16800102238452613_8452613.m3u8
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-19-0.5221706631142344.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-19-0.31326039984611187.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.18899014592181995.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.0314864153486305.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-23-0.24473541630008322.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-27-0.8058026275018362.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-02-0.05360180533111136.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-03-0.7709613638543473.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-06-0.9754687513495675.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-08-0.5406736699962318.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-10-0.5997709368542143.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-10-0.17746857241568104.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-14-0.024467797161713767.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-16-0.052857236237886074.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-16-0.515202512288174.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-20-0.7171341901111996.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-20-0.0860309964732553.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-21-0.424765506600441.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-22-0.504795997803591.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/601740872777366000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/237606663977596060.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/657449972945809400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/546813871146583500.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/804028102927755100.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/637179346526869900.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/617918527448192300.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/502508055676024770.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/397754304296234200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.2897369620260444.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/818734599880759300.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/120221903480618340.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/815308851731044400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/826436191181225600.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/564601416358435200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/1745919168018039.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/563390458586389800.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/507350316784675000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/161603689485994850.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/44949467106802440.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/484348543886782500.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/386231196025417700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/892174131543465000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/606739416294199400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.8544940136505497.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.3706095899659916.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.6276867351098925.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-19-0.2418222941550474.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-03-01-0.143737878985702.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/repair_pdf/2024-11-07-0.6644513890165371.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-12-0.11704959681594906.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-12-0.5155989861615626.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/543230350416860400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/692232766653537900.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/288810991684981000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/529783975074603300.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/171825322111382900.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/353806243958738240.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/651026869012808700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/162844536437045.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/454642074345077500.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/334910323536964030.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/237868650952446100.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/783928986582314400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/77532879393232560.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/122327150548754690.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/88928905074576240.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/720507021127195500.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-10-17-0.7112602256708904.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/211910871900273860.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/1676886Noun%20practice%2002%20%28Class%20notes%29.pdf_Noun%20practice%2002%20%28Class%20notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/675531Noun%20practice%2003%20%28Class%20notes%29.pdf_Noun%20practice%2003%20%28Class%20notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/301352818464391700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/65137838171048430.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/600958567263117600.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/248261034507491680.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/6476571Verb%20%2001%20%28%20Hand-written%20Notes%29.pdf_Verb%20%2001%20%28%20Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/1471354Verb%20%2002%20%28%20Hand-written%20Notes%29.pdf_Verb%20%2002%20%28%20Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/176307922003351520.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/564735867306992260.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/567034893655495360.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/126966689374045600.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/651159322164875600.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/693552063160557200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/3699195916271258.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/256717419374441020.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/17038043748881826.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/1696419Modals%2002%20%28Hand-written%20Notes%29.pdf_Modals%2002%20%28Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/2408022Modals%2003%20%28Hand-written%20Notes%29.pdf_Modals%2003%20%28Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/6761155Modals%2004%20%28Hand-written%20Notes%29.pdf_Modals%2004%20%28Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/42605435517561950.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/253188642192148580.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/790776697759855400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/28485087626806772.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/632445767943050900.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/874111156858842100.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/854318Preposition%2001%28Class%20notes%29.pdf_Preposition%2001%28Class%20notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/5944043Preposition%2002%28Class%20notes%29.pdf_Preposition%2002%28Class%20notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/820636260913407700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/173027215330931700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/341896053207070400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/555441064448927740.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/853995734221474000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/591468871790174700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/138112487170300620.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/183601438985059260.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/570847858499111600.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/546789139780824700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/637766221585100000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/708472063351437200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-08-23-0.9533217224764496.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/347311839732491400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/587259912131077200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/745698896099265300.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/596082738035964300.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/317126923230000060.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/426229339700300540.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/509719564193660350.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/605845606143878900.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/786577450080884900.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/584316902431059100.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/601833430382499000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/819005238713924400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/659613401630861400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/551227577552795400.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/427218964907756740.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/647068558340946.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/438424091810538940.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/486822697139484700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/828029741569775000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/502798120268570200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/199953838300598430.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/406063805116987200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/673901163069212300.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/482504109113195260.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/558065627068567700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/340110099312409800.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/148241218964733380.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/656798111447243800.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-30-0.3805610353648454.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/7394810Conjunction%2003%20%28Hand-written%20Notes%29.pdf_Conjunction%2003%20%28Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/5835636Conjunction%2004%20%28Hand-written%20Notes%29.pdf_Conjunction%2004%20%28Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/5050835Conjunction%2005%20%28Hand-written%20Notes%29.pdf_Conjunction%2005%20%28Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/admin_v1/file_manager/pdf/6266706Conjunction%2006%20%28Hand-written%20Notes%29.pdf_Conjunction%2006%20%28Hand-written%20Notes%29.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/600781930572158700.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-01-0.43143436890441245.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-02-0.7244686363386004.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-06-0.7870384541065649.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/569558556580915300.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-05-06-0.19697352944680757.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-02-10-0.8944972821319594.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.397769088720459.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.1541648393730357.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-21-0.7347371494777903.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.26244922916461055.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.8806745427279534.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-17-0.3487168896491726.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-21-0.9620839942100952.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-22-0.17599532360233971.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-27-0.7748538358155452.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-28-0.11044439160246.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-29-0.4745775037131792.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-30-0.4432829849599349.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-03-0.2249629754141642.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-03-0.47628183848495786.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-04-0.46740096843924195.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-06-0.5917037554378495.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-05-0.19580214122647543.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-07-0.5831770705076782.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-10-0.8524217846385393.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-12-0.2633062117433458.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-12-0.5000190870044616.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-15-0.462777285395777.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-17-0.4764493256921072.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-18-0.17950667975057022.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-24-0.42546385682161825.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-24-0.9755652851842884.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-27-0.11811353647175848.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-28-0.8960579130324842.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-28-0.8206986257844593.pdf
+Raw : https://appx-content-v2.classx.co.in/paid_course4/2025-03-06-0.2261325288340803.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-28-0.433027615345452.pdf
+Raw : https://appx-content-v2.classx.co.in/paid_course4/2025-03-04-0.11378693829538467.pdf
+Raw : https://appx-content-v2.classx.co.in/paid_course4/2025-03-05-0.5621118295588976.pdf
+Raw : https://appx-content-v2.classx.co.in/paid_course4/2025-03-07-0.12896510133226102.pdf
+Raw : https://appx-content-v2.classx.co.in/paid_course4/2025-03-07-0.12492552799665413.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/732250904489861000.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/106175294364556260.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/820288771985812200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-15-0.9167956706465246.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-16-0.6503823444366128.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-18-0.12745623065344813.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-23-0.22795800714901637.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-05-29-0.027892214918296077.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-06-0.005339443769200258.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-08-0.5863426213004965.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-09-0.8408325831761774.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-14-0.3747470299960207.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-14-0.8967677852077631.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-02-28-0.6202750399700914.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-19-0.5681300050134801.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-19-0.5089422604575071.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-04-21-0.04799338732928482.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-22-0.679339760032216.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-06-23-0.9321332438903001.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-05-0.46075260101160476.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-06-0.2802859519498997.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-11-0.4866475169833737.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-13-0.837474645213131.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-14-0.8518028778955826.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-18-0.9584747322492864.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-20-0.3406605569601737.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-21-0.764362921433835.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-27-0.1221350419926659.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-28-0.9686749995873654.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-28-0.6269069374691845.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-04-0.07232347185660948.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-09-0.4014396422997826.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-09-0.8005207870145796.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-10-0.6369026475658355.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-12-0.7753915586572109.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-19-0.5409053725787392.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-11-01-0.6951902861017853.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-15-0.021488565810653837.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-09-15-0.21256024015981945.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-12-19-0.929622152259455.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-12-21-0.08570358180276783.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-12-21-0.36911335665919376.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2023-10-09-0.033918135286899354.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-15-0.7275600911338922.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-15-0.29412409735666567.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-17-0.30811063506675596.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-07-18-0.6586750134056367.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-08-27-0.5531026784489257.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-08-28-0.08309443646916126.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-09-07-0.11958493991811192.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-09-07-0.16512334188944733.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.49673210287303093.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2024-12-20-0.2014495933675433.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/884373052543916200.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/809480598484340600.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/842292004152305500.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753admin_v1/file_manager/pdf/861622644946667900.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-30-0.7709483661089673.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-01-31-0.9498403002611724.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-05-0.6405236655765194.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-06-0.0846003268779767.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-02-19-0.8863241731835112.pdf
+Raw : https://d199elmnfjxoc.cloudfront.net/753/pdf_files/2025-03-03-0.24741695987837042.pdf
+Raw : https://appx-content-v2.classx.co.in/paid_course4/2025-03-04-0.45674787286777474.pdf
+Raw : https://d29uu9tpxwc3a1.cloudfront.net/All%20PDF/Part%201%20जनन%20तंत्र.pdf
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_drm_dash/4381579/174721664934857406299/174721664934857406299_7406299_Dash.mpd
+Raw : https://dz0qfk4j816v2.cloudfront.net/file_library/videos/channel_vod_drm_dash/4382578/174730015243337406299/174730015243337406299_7406299_Dash.mpd
+Raw : https://d199elmnfjxoc.cloudfront.net/convert/non_drm_hls/1597029_25302_044637/master-3283684.0193028483.m3u8.m3u8?v=123

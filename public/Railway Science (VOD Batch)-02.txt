@@ -1,0 +1,279 @@
+[Phy (VOD)] Phy | Class-01 | | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341887982112/6341887982112.m3u8
+[Phy (VOD)] Phy | Class-02 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6341955315112/6341955315112.m3u8
+[Phy (VOD)] Phy | Class-03 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6342051499112/6342051499112.m3u8
+[Phy (VOD)] Phy | Class-04 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6342144167112/6342144167112.m3u8
+[Phy (VOD)] Phy | Class-05 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6342323350112/6342323350112.m3u8
+[Phy (VOD)] Phy | Class-06 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342373394112/6342373394112.m3u8
+[Phy (VOD)] Phy | Class-07 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6342577042112/6342577042112.m3u8
+[Phy (VOD)] Phy | Class-08  | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6342761368112/6342761368112.m3u8
+[Phy (VOD)] Phy | Class-09 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6342834969112/6342834969112.m3u8
+[Phy (VOD)] Phy | Class-10 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342938257112/6342938257112.m3u8
+[Phy (VOD)] Phy | Class-11 | | Kinematics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6343055757112/6343055757112.m3u8
+[Phy (VOD)] Phy | Class-12 | | Laws of motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6343435023112/6343435023112.m3u8
+[Phy (VOD)] Phy | Class-13 | | Laws of motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343504138112/6343504138112.m3u8
+[Phy (VOD)] Phy | Class-14  | | Laws of motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6343581806112/6343581806112.m3u8
+[Phy (VOD)] Phy | Class-15 | | Laws of motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343647590112/6343647590112.m3u8
+[Phy (VOD)] Phy | Class-16 | | Laws of motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6343701594112/6343701594112.m3u8
+[Phy (VOD)] Phy | Class-17 | | Uniform Circular motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343869710112/6343869710112.m3u8
+[Phy (VOD)] Phy | Class-18 | | Gravitation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343956538112/6343956538112.m3u8
+[Phy (VOD)] Phy | Class-19 | | Gravitation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343954553112/6343954553112.m3u8
+[Phy (VOD)] Phy | Class-20 | | Gravitation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344002442112/6344002442112.m3u8
+[Phy (VOD)] Phy | Class-21 | | Gravitation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344121730112/6344121730112.m3u8
+[Phy (VOD)] Phy | Class-22 | | Projectile Motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6344148729112/6344148729112.m3u8
+[Phy (VOD)] Phy | Class-23 | | Projectile Motion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344200058112/6344200058112.m3u8
+[Phy (VOD)] Phy | Class-24 | | Work, Power & Energy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344246195112/6344246195112.m3u8
+[Phy (VOD)] Phy | Class-25 | | Work, Power & Energy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344313720112/6344313720112.m3u8
+[Phy (VOD)] Phy | Class-26 | | Work, Power & Energy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344468402112/6344468402112.m3u8
+[Phy (VOD)] Phy | Class-27 | | Work, Power & Energy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344539132112/6344539132112.m3u8
+[Phy (VOD)] Phy | Class-28 | | Work, Power & Energy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344601897112/6344601897112.m3u8
+[Phy (VOD)] Phy | Class-29 | | Satellite : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344665522112/6344665522112.m3u8
+[Phy (VOD)] Phy | Class-30 | | Friction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_ios/4476425/1751961547_5693149035352272/1751961514695_434248860322814000_video_VOD.m3u8
+[Phy (VOD)] Phy | Class-31 | | Friction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344917807112/6344917807112.m3u8
+[Phy (VOD)] Phy | Class-32 | | Kepler's laws : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344974720112/6344974720112.m3u8
+[Phy (VOD)] Phy | Class-33 | | Kepler's laws : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345027146112/6345027146112.m3u8
+[Phy (VOD)] Phy | Class-34 | | Kepler's laws : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345090717112/6345090717112.m3u8
+[Phy (VOD)] Phy | Class-35 | | Simple Pendulum : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345399576112/6345399576112.m3u8
+[Phy (VOD)] Phy | Class-36 | | Unit & Dimension : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345463185112/6345463185112.m3u8
+[Phy (VOD)] Phy | Class-37 | | Unit & Dimension : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345537120112/6345537120112.m3u8
+[Phy (VOD)] Phy | Class-38| | Atom : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345803429112/6345803429112.m3u8
+[Phy (VOD)] Phy | Class-39 | | Electric Potential : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345859423112/6345859423112.m3u8
+[Phy (VOD)] Phy | Class-40 | | Electric Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345918258112/6345918258112.m3u8
+[Phy (VOD)] Phy | Class-41 | | Electric Resistance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345982799112/6345982799112.m3u8
+[Phy (VOD)] Phy | Class-42 | | Electric Resistance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346394478112/6346394478112.m3u8
+[Phy (VOD)] Phy | Class-43 | | Series & Parallel Combination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346267804112/6346267804112.m3u8
+[Phy (VOD)] Phy | Class-44 | | Series & Parallel Combination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346334723112/6346334723112.m3u8
+[Phy (VOD)] Phy | Class-45 | | Series & Parallel Combination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346393146112/6346393146112.m3u8
+[Phy (VOD)] Phy | Class-46 | | Electric Power : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346470150112/6346470150112.m3u8
+[Phy (VOD)] Phy | Class-47 | | Electric Power : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346718278112/6346718278112.m3u8
+[Phy (VOD)] Phy | Class-48 | | Heating Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346779148112/6346779148112.m3u8
+[Phy (VOD)] Phy | Class-49 | | Heating Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346854170112/6346854170112.m3u8
+[Phy (VOD)] Phy | Class-50 | | Heating Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346989971112/6346989971112.m3u8
+[Phy (VOD)] Phy | Class-51 | | Heating Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347242059112/6347242059112.m3u8
+[Phy (VOD)] Class-52 | | Magnetic Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347304836112/6347304836112.m3u8
+[Phy (VOD)] Class-53 | | Magnetic Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347368641112/6347368641112.m3u8
+[Phy (VOD)] Class-54 | | Magnetic Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347663414112/6347663414112.m3u8
+[Phy (VOD)] Class-55 | | Magnetic Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347730196112/6347730196112.m3u8
+[Phy (VOD)] Class-56 | | Magnetic Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347809439112/6347809439112.m3u8
+[Phy (VOD)] Class-57 | | Magnetic Effects of Current : https://www.youtube.com/embed/7rBt6vnxIJ8
+[Phy (VOD)] Class-58 | | Magnetic Effects of Current : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347985616112/6347985616112.m3u8
+[Phy (VOD)] Class-59 | | Archimedes principal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348193262112/6348193262112.m3u8
+[Phy (VOD)] Class-60 | | Pressure : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348257645112/6348257645112.m3u8
+[Phy (VOD)] Class-61 | | Bernauli's theorem : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348315770112/6348315770112.m3u8
+[Phy (VOD)] Class-62 | | Surface tension & capillary action : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348376160112/6348376160112.m3u8
+[Phy (VOD)] Class-63 | | Surface tension & capillary action : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348455680112/6348455680112.m3u8
+[Phy (VOD)] Class-64 | | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348658116112/6348658116112.m3u8
+[Phy (VOD)] Class-65 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348724837112/6348724837112.m3u8
+[Phy (VOD)] Class-66 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348803886112/6348803886112.m3u8
+[Phy (VOD)] Class-67 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348887573112/6348887573112.m3u8
+[Phy (VOD)] Class-68 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348967584112/6348967584112.m3u8
+[Phy (VOD)] Class-69 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349226134112/6349226134112.m3u8
+[Phy (VOD)] Class-70 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349299802112/6349299802112.m3u8
+[Phy (VOD)] Class-71 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349366840112/6349366840112.m3u8
+[Phy (VOD)] Class-72 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349448862112/6349448862112.m3u8
+[Phy (VOD)] Class-73 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349796380112/6349796380112.m3u8
+[Phy (VOD)] Class-74 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349848163112/6349848163112.m3u8
+[Phy (VOD)] Class-75 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349926006112/6349926006112.m3u8
+[Phy (VOD)] Class-76 | Optics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350069323112/6350069323112.m3u8
+[Phy (VOD)] Class-77 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350124552112/6350124552112.m3u8
+[Phy (VOD)] Class-78 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350304760112/6350304760112.m3u8
+[Phy (VOD)] Class-79 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350551730112/6350551730112.m3u8
+[Phy (VOD)] Class-80 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350613151112/6350613151112.m3u8
+[Phy (VOD)] Class-81 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350752724112/6350752724112.m3u8
+[Phy (VOD)] Class-82 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350952390112/6350952390112.m3u8
+[Phy (VOD)] Class-83 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351011422112/6351011422112.m3u8
+[Phy (VOD)] Class-84 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6351149526112/6351149526112.m3u8
+[Phy (VOD)] Class-85 | Lens & Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351218574112/6351218574112.m3u8
+[Phy (VOD)] Class-86 | Waves : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351281457112/6351281457112.m3u8
+[Phy (VOD)] Class-87 | Waves : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_ios/4476438/1751962165_7072464811837837/1751962138090_725642757505608300_video_VOD.m3u8
+[Phy (VOD)] Class-88 | Waves : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351789024112/6351789024112.m3u8
+[Phy (VOD)] Class-89 | Waves : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351861406112/6351861406112.m3u8
+[Phy (VOD)] Class-90 | Waves : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351962124112/6351962124112.m3u8
+[Phy (VOD)] Class-91 | Waves : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352015742112/6352015742112.m3u8
+[Phy (VOD)] Class-92 | Temperature Scale : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352070280112/6352070280112.m3u8
+[Phy (VOD)] Class-93 | Temperature Scale : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352157478112/6352157478112.m3u8
+[Phy (VOD)] Class-94 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352389598112/6352389598112.m3u8
+[Phy (VOD)] Class-95 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352441570112/6352441570112.m3u8
+[Phy (VOD)] Class-96 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352499825112/6352499825112.m3u8
+[Phy (VOD)] Class-97 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352563098112/6352563098112.m3u8
+[Phy (VOD)] Class-98 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352627496112/6352627496112.m3u8
+[Phy (VOD)] Class-99 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352815064112/6352815064112.m3u8
+[Phy (VOD)] Class-100 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352873090112/6352873090112.m3u8
+[Phy (VOD)] Class-101 | Specific Heat & Latent Heat : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352926611112/6352926611112.m3u8
+[Phy (VOD)] Special For You : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365088597112/6365088597112.m3u8
+[Chem (VOD)] Class-01 | Atomic Structure : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344262439112/6344262439112.m3u8
+[Chem (VOD)] Class-02 | Atomic Structure : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344322717112/6344322717112.m3u8
+[Chem (VOD)] Class-03 | Atomic Structure : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344678443112/6344678443112.m3u8
+[Chem (VOD)] Class-04 | Atomic Structure : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345110518112/6345110518112.m3u8
+[Chem (VOD)] Class-05 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345350485112/6345350485112.m3u8
+[Chem (VOD)] Class-06 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345404140112/6345404140112.m3u8
+[Chem (VOD)] Class-07 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345466657112/6345466657112.m3u8
+[Chem (VOD)] Class-08 |  Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345708351112/6345708351112.m3u8
+[Chem (VOD)] Class-09 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345808122112/6345808122112.m3u8
+[Chem (VOD)] Class-10 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_ios/4476430/1751961686_3897927208416731/1751961668079_895585414517083600_video_VOD.m3u8
+[Chem (VOD)] Class-11 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345924896112/6345924896112.m3u8
+[Chem (VOD)] Class-12 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345999381112/6345999381112.m3u8
+[Chem (VOD)] Class-13 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346062128112/6346062128112.m3u8
+[Chem (VOD)] Class-14 | Periodic Table : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346278419112/6346278419112.m3u8
+[Chem (VOD)] Acids, Bases and Salts | Class-15 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347914777112/6347914777112.m3u8
+[Chem (VOD)] Class-16 | Acids, Bases and Salts | : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347993237112/6347993237112.m3u8
+[Chem (VOD)] Class-17 | Acids, Bases and Salts : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348198384112/6348198384112.m3u8
+[Chem (VOD)] Class-18 | Acids, Bases and Salts : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352233164112/6352233164112.m3u8
+[Chem (VOD)] Class-19 | Acids, Bases and Salts : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348394924112/6348394924112.m3u8
+[Chem (VOD)] Class-20 | Noble Gases : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348483549112/6348483549112.m3u8
+[Chem (VOD)] Class-21 | Matter : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348661457112/6348661457112.m3u8
+[Chem (VOD)] Class-22 | Matter : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348729170112/6348729170112.m3u8
+[Chem (VOD)] Class-23 | Matter : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348810145112/6348810145112.m3u8
+[Chem (VOD)] Class-24 | Matter : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348889071112/6348889071112.m3u8
+[Chem (VOD)] Class-25 | Matter : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348973234112/6348973234112.m3u8
+[Chem (VOD)] Class-26 | Matter : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349170552112/6349170552112.m3u8
+[Chem (VOD)] Class-27 | Matter : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349229284112/6349229284112.m3u8
+[Chem (VOD)] Class-28 | Carbon And its Compound : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349306036112/6349306036112.m3u8
+[Chem (VOD)] Class-29 | Carbon And its Compound : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349372910112/6349372910112.m3u8
+[Chem (VOD)] Class-30 | Carbon And its Compound : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349457132112/6349457132112.m3u8
+[Chem (VOD)] Class-31 | Mixture and Colloid : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349736219112/6349736219112.m3u8
+[Chem (VOD)] Class-32 | Mixture and Colloid : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349929248112/6349929248112.m3u8
+[Chem (VOD)] Class-33 | Radioactivity : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350073826112/6350073826112.m3u8
+[Chem (VOD)] Class-34 | Radioactivity : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350130388112/6350130388112.m3u8
+[Chem (VOD)] Class-35 | Radioactivity : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350191519112/6350191519112.m3u8
+[Chem (VOD)] Class-36 | Chemical Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350315254112/6350315254112.m3u8
+[Chem (VOD)] Class-37 | Chemical Reaction : https://www.youtube.com/embed/eFpnlA5eFzw
+[Chem (VOD)] Class-38 | Glass : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350957297112/6350957297112.m3u8
+[Chem (VOD)] Class-39 | Polymer : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351017154112/6351017154112.m3u8
+[Chem (VOD)] Class-40 | Valency : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351086036112/6351086036112.m3u8
+[Chem (VOD)] Class-41 | Hybridisation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6351300245112/6351300245112.m3u8
+[Chem (VOD)] Class-42 | Catalyst & Molecular Weight : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351401893112/6351401893112.m3u8
+[Chem (VOD)] Class-43 | Fuel : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351461296112/6351461296112.m3u8
+[Chem (VOD)] Class-44 | Drugs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351795040112/6351795040112.m3u8
+[Chem (VOD)] Class-45 | Hydrocarbons : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351869390112/6351869390112.m3u8
+[Chem (VOD)] Class-46 | Soap And Detergent : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352581376112/6352581376112.m3u8
+[Bio (VOD)] Class-01 | introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341897359112/6341897359112.m3u8
+[Bio (VOD)] Class-02 | introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341975925112/6341975925112.m3u8
+[Bio (VOD)] Class-03 | introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342070775112/6342070775112.m3u8
+[Bio (VOD)] Class-04 | Digestive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6342166503112/6342166503112.m3u8
+[Bio (VOD)] Class-05 | Digestive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342333351112/6342333351112.m3u8
+[Bio (VOD)] Class-06 | Digestive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342393559112/6342393559112.m3u8
+[Bio (VOD)] Class-07 | Digestive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342455566112/6342455566112.m3u8
+[Bio (VOD)] Class-08 | Digestive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342520337112/6342520337112.m3u8
+[Bio (VOD)] Class-09 | Digestive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342586730112/6342586730112.m3u8
+[Bio (VOD)] Class-10 | Digestive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342836234112/6342836234112.m3u8
+[Bio (VOD)] Class-11 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342874666112/6342874666112.m3u8
+[Bio (VOD)] Class-12 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342958833112/6342958833112.m3u8
+[Bio (VOD)] Class-13 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343077373112/6343077373112.m3u8
+[Bio (VOD)] Class-14 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343184621112/6343184621112.m3u8
+[Bio (VOD)] Class-15 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343451777112/6343451777112.m3u8
+[Bio (VOD)] Class-16 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343599646112/6343599646112.m3u8
+[Bio (VOD)] Class-17 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343660935112/6343660935112.m3u8
+[Bio (VOD)] Class-18 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343728378112/6343728378112.m3u8
+[Bio (VOD)] Class-19 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343849990112/6343849990112.m3u8
+[Bio (VOD)] Class-20 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6343875217112/6343875217112.m3u8
+[Bio (VOD)] Class-21 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344204211112/6344204211112.m3u8
+[Bio (VOD)] Class-22 | Circulatory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343961470112/6343961470112.m3u8
+[Bio (VOD)] Class-23 | Endocrine System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344011460112/6344011460112.m3u8
+[Bio (VOD)] Class-24 | Endocrine System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344127870112/6344127870112.m3u8
+[Bio (VOD)] Class-25 | Endocrine System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344162226112/6344162226112.m3u8
+[Bio (VOD)] Class-26 | Endocrine System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344479656112/6344479656112.m3u8
+[Bio (VOD)] Class-27 | Endocrine System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344549119112/6344549119112.m3u8
+[Bio (VOD)] Class-28 | Endocrine System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344614504112/6344614504112.m3u8
+[Bio (VOD)] Class-29 | Skeletal System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_ios/4476427/1751961593_4134074713750251/1751961535353_760566355275827200_video_VOD.m3u8
+[Bio (VOD)] Class-30 | Skeletal System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344989055112/6344989055112.m3u8
+[Bio (VOD)] Class-31 | Skeletal System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345043466112/6345043466112.m3u8
+[Bio (VOD)] Class-32 | Human Disease : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346336108112/6346336108112.m3u8
+[Bio (VOD)] Class-33 | Human Disease : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346396780112/6346396780112.m3u8
+[Bio (VOD)] Class-34 | Human Disease : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346540465112/6346540465112.m3u8
+[Bio (VOD)] Class-35 | Human Disease : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346619398112/6346619398112.m3u8
+[Bio (VOD)] Class-36 | Human Disease : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346722634112/6346722634112.m3u8
+[Bio (VOD)] Class-37 | Human Disease : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346784661112/6346784661112.m3u8
+[Bio (VOD)] Class-38 | Human Disease : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346785559112/6346785559112.m3u8
+[Bio (VOD)] Class-39 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346859100112/6346859100112.m3u8
+[Bio (VOD)] Class-40 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346925402112/6346925402112.m3u8
+[Bio (VOD)] Class-41 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346999739112/6346999739112.m3u8
+[Bio (VOD)] Class-42 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347191243112/6347191243112.m3u8
+[Bio (VOD)] Class-43 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347247559112/6347247559112.m3u8
+[Bio (VOD)] Class-44 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347373152112/6347373152112.m3u8
+[Bio (VOD)] Class-45 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347457356112/6347457356112.m3u8
+[Bio (VOD)] Class-46 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347665564112/6347665564112.m3u8
+[Bio (VOD)] Class-47 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347734732112/6347734732112.m3u8
+[Bio (VOD)] Class-48 | Cytology : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347817740112/6347817740112.m3u8
+[Bio (VOD)] Class-49  | Bio | Nervous System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348663315112/6348663315112.m3u8
+[Bio (VOD)] Class-50  | Bio | Nervous System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348733177112/6348733177112.m3u8
+[Bio (VOD)] Class-51 | Bio | Nervous System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348815801112/6348815801112.m3u8
+[Bio (VOD)] Class-52 | Bio | Nervous System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348975603112/6348975603112.m3u8
+[Bio (VOD)] Class-53 | Bio | Reproductive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349058303112/6349058303112.m3u8
+[Bio (VOD)] Class-54 | Bio | Reproductive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349174908112/6349174908112.m3u8
+[Bio (VOD)] Class-55 | Bio | Reproductive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349308624112/6349308624112.m3u8
+[Bio (VOD)] Class-56 | Bio | Reproductive System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349375170112/6349375170112.m3u8
+[Bio (VOD)] Class-57 | Bio | Human Eye : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349462075112/6349462075112.m3u8
+[Bio (VOD)] Class-58 | Bio | Animal Kingdom : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6349742137112/6349742137112.m3u8
+[Bio (VOD)] Class-59 | Bio | Animal Kingdom : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349739888112/6349739888112.m3u8
+[Bio (VOD)] Class-60 | Bio | Animal Kingdom : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349741458112/6349741458112.m3u8
+[Bio (VOD)] Class-61 | Bio | Animal Kingdom : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349742138112/6349742138112.m3u8
+[Bio (VOD)] Class-62 | Bio | Animal Kingdom : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349741954112/6349741954112.m3u8
+[Bio (VOD)] Class-63 | Bio | Human Nutrition : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349802102112/6349802102112.m3u8
+[Bio (VOD)] Class-64 | Bio | Human Nutrition : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349932409112/6349932409112.m3u8
+[Bio (VOD)] Class-65 | Bio | Human Nutrition : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350074263112/6350074263112.m3u8
+[Bio (VOD)] Class-66 | Bio | Human Nutrition : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350133224112/6350133224112.m3u8
+[Bio (VOD)] Class-67 | Bio | Human Nutrition : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350194652112/6350194652112.m3u8
+[Bio (VOD)] Class-68 | Bio | Human Nutrition : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350253987112/6350253987112.m3u8
+[Bio (VOD)] Class-69 | Bio | Human Nutrition : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350319368112/6350319368112.m3u8
+[Bio (VOD)] Class-70 | Bio | Excretory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350411522112/6350411522112.m3u8
+[Bio (VOD)] Class-71 | Bio | Excretory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_ios/4477456/1752046366_4722158204822699/1752045722122_133165945394216600_video_VOD.m3u8
+[Bio (VOD)] Class-72 | Bio | Excretory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350683073112/6350683073112.m3u8
+[Bio (VOD)] Class-73 | Bio | Respiratory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350763174112/6350763174112.m3u8
+[Bio (VOD)] Class-74 | Bio | Respiratory System : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350848295112/6350848295112.m3u8
+[Bio (VOD)] Class-75 | Bio | Joints : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351034763112/6351034763112.m3u8
+[Bio (VOD)] Class-76 | Bio | Botany : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351230768112/6351230768112.m3u8
+[Bio (VOD)] Class-77 | Bio | Botany : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351407370112/6351407370112.m3u8
+[Bio (VOD)] Class-78 | Bio | Botany : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351409045112/6351409045112.m3u8
+[Bio (VOD)] Class-79 | Bio | Botany : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351563999112/6351563999112.m3u8
+[Bio (VOD)] Class-80 | Bio | Botany : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351725050112/6351725050112.m3u8
+[Bio (VOD)] Class-81 | Bio | Botany : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351797542112/6351797542112.m3u8
+[Bio (VOD)] Class-82 | Bio | Botany : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351808874112/6351808874112.m3u8
+[Bio (VOD)] Class-83 | Bio | Human Tissue : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354800576112/6354800576112.m3u8
+[Bio (VOD)] Class-84 | Bio | Human Tissue : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354860483112/6354860483112.m3u8
+[Chem (VOD)] Soap & Detergent: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663df66aaf4cd_Soap & detergent_compressed.pdf
+[Chem (VOD)] Hydrocarbon: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2b17a2a14_hydrocarbon_compressed.pdf
+[Chem (VOD)] Drugs: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2aed64acc_Drugs_compressed.pdf
+[Chem (VOD)] Fuel: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e569af44a_Fuel_compressed.pdf
+[Chem (VOD)] Catalyst & Molecular Weight: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66277742e9e54_catalyst & molecular weight_compressed.pdf
+[Chem (VOD)] Water Hybridization: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662776f556299_WATER & HYBRIDISATION_compressed.pdf
+[Chem (VOD)] Valency: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6620de2571211_Valency.pdf
+[Chem (VOD)] Glass: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f6ddbf32b5_Glass_compressed.pdf
+[Chem (VOD)] Polymers: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e4a51995a5_polymers.pdf
+[Chem (VOD)] Radioactivity: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150f95424ad_Radioactivity (DONE).pdf
+[Chem (VOD)] Chemical Reaction: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150c2f1027f_chemical reaction_compressed.pdf
+[Chem (VOD)] Carbon and its Compounds: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6613c827eea08_carbon and its compounds done.pdf
+[Chem (VOD)] Mixture: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66137912bcbf2_Mixture.pdf
+[Chem (VOD)] Matter: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc23e101a26_METALS (DONE).pdf
+[Chem (VOD)] Acid Base and Salt: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65efda63cebec_acid base and salt DONE.pdf
+[Chem (VOD)] Noble gases: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ef2d34bf656_Noble gases.pdf
+[Chem (VOD)] Periodic table: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c20750adc72_Periodic Table (done).pdf
+[Chem (VOD)] Atomic Structure: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b7b441eea5c_Atomic structure  (DONE).pdf
+[Bio (VOD)] Complete Biology Notes (Hindi Medium): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671633974d028_Biology_Hindi_Notes.pdf
+[Bio (VOD)] Complete Biology Notes (English Medium) Part-2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6716336755a8f_Complete_Biology_Notes_English_Medium_Part2.pdf
+[Bio (VOD)] Complete Biology Notes (English Medium) Part-1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67163336c4640_Complete_Biology_Notes_English_Medium_Part1.pdf
+[Bio (VOD)] Respiratory System: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641aa4ae7786_Respiratory system_compressed.pdf
+[Bio (VOD)] Animal Tissue: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634844628f86_animal tissue_compressed.pdf
+[Bio (VOD)] Botany: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2d9a87543_Botany done.pdf
+[Bio (VOD)] Plant Reproduction: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2a5e05c18_Plant reproduction.pdf
+[Bio (VOD)] Plant Nutrition: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6627548885354_Plant nutrition_compressed.pdf
+[Bio (VOD)] Plant Hormones: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662754379f9d6_plant hormones _compressed.pdf
+[Bio (VOD)] Plant Tissue: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66275408a01b1_Plant tissue_compressed.pdf
+[Bio (VOD)] Joints: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6620c81941a74_joints.pdf
+[Bio (VOD)] Excretory System: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661fa377065ea_Excretory System _compressed.pdf
+[Bio (VOD)] Human Nutrition: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f667239b7c_Human Nutrition DONE.pdf
+[Bio (VOD)] Vitamin and Minerals: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66193582750e0_VITA1211.pdf
+[Bio (VOD)] Human Eye: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150e8c5c9fc_human eye.pdf
+[Bio (VOD)] Reproductive System: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660fe79df17f1_Reproductive system (DONE).pdf
+[Bio (VOD)] Animal Kingdom: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660502b075dc6_ANIMAL KINGDOM (DONE).pdf
+[Bio (VOD)] Nervous System: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f91fa1eef14_Nervous System (DONE).pdf
+[Bio (VOD)] Cytology: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65df6ce97730e_Cytology DONE.pdf
+[Bio (VOD)] Human Disease: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d5ed43374f6_Human disease_ DONE+.pdf
+[Bio (VOD)] Skeletal System: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b7b52471473_Skeletal system.pdf
+[Bio (VOD)] Endocrine System: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a0d90a1f95a_BIO.pdf
+[Bio (VOD)] Heart: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65955345a1a55_Heart+.pdf
+[Bio (VOD)] Blood: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658c180d359fd_BLOOD (1).pdf
+[Bio (VOD)] Digestive System Part -2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657a86e6df35a_Digestive System _compressed-7-12.pdf
+[Bio (VOD)] Digestive System Part -1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657a86cba6d69_Digestive System _compressed-1-6.pdf
+[Phy (Notes)] Carbon and its Compounds: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660be19c10c1f_carbon and its compounds (DONE).pdf
+[Phy (Notes)] Phy (Eng) Full Notes: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090534-Phy_Eng_Notes_Ankur_Sir_full_pdf.pdf
+[Phy (Notes)] Phy (Hindi) Full Notes: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa298ab9321_1624090534PhyHindiNotesAnkurSirFullPdf_done.pdf

@@ -1,0 +1,282 @@
+2. Cloze Test + PQRS + Passage - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/353107-1707817888/hls-28fb31/720p/master-2176079.6774955303.m3u8
+4. Cloze Test + PQRS + Passage - 2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/354813-1708074305/hls-d4d18b/720p/master-1829314.5107447195.m3u8
+5. Topic Wise Errors - Tense + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/356260-1708333500/hls-365086/720p/master-4169553.2020931435.m3u8
+6. Cloze Test + PQRS + Passage - 3 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/357085-1708420436/hls-e08c17/720p/master-7839996.4751246795.m3u8
+7. Topic Wise Errors - Tense + Vocab - 2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/357814-1708506115/hls-841050/720p/master-9242305.609116308.m3u8
+8. Cloze Test + PQRS + Passage - 4 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/358456-1708592524/hls-5719e6/720p/master-3015833.621540778.m3u8
+9. Topic Wise Errors - Verb - 1 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/359055-1708678737/hls-d30a9c/720p/master-1553715.6133526796.m3u8
+10. Topic Wise Errors - Verb - 2 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/360288-1708938302/hls-85bbde/720p/master-924199.6141983733.m3u8
+11. Cloze Test + PQRS + Passage - 5 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/360877-1709047928/hls-8febb7/720p/master-9021030.943899048.m3u8
+12. Topic Wise Errors - Conjunction - 1 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/361483-1709111108/hls-fda65f/720p/master-9104944.290839864.m3u8
+13. Cloze Test + PQRS + Passage - 6 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/362121-1709197137/hls-a06bd3/720p/master-3749964.2287097457.m3u8
+16. Cloze Test + PQRS + Passage - 7 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/365065-1709629897/hls-d3159b/720p/master-231375.59476135383.m3u8
+17. Test on Mixed Errors : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/365597-1709715936/hls-44c59b/720p/master-6770345.76630992.m3u8
+18. Mock Test - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/366215-1709802516/hls-c1fdaa/720p/master-7232094.110949443.m3u8
+19. Topic Wise - Adjective + Adverb : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/366903-1709888377/hls-e70b30/720p/master-1187501.1018126246.m3u8
+20. Topic Wise - Adjective + Adverb - 2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/368042-1710149424/hls-95e36c/720p/master-8827729.38776369.m3u8
+21. Cloze Test + PQRS + Passage - 8 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/368714-1710234879/hls-3254f8/720p/master-6047821.9877018975.m3u8
+22. Topic Wise - Noun + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/369384-1710320563/hls-71821c/720p/master-9479149.158333495.m3u8
+23. Cloze Test + PQRS + Passage - 9 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/370135-1710406248/hls-fed5d7/720p/master-5222877.423153389.m3u8
+24. Topic Wise - Pronoun + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/370759-1710493364/hls-b8aa35/720p/master-7332351.663837662.m3u8
+25. Cloze Test + PQRS + Passage - 10 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/371891-1710752559/hls-6e366a/720p/master-8062703.004402367.m3u8
+26. Mixed Errors - 1 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/372481-1710839324/hls-1b23ef/720p/master-1837747.958781204.m3u8
+27. Cloze Test + PQRS + Passage - 11 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/375127-1711530709/hls-5007f6/720p/master-7479146.277522888.m3u8
+28. Mixed Errors - 2 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/674817-1711616744/hls-cad296/720p/master-9116226.027974734.m3u8
+29. Cloze Test + PQRS + Passage - 12 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/685049-1711963218/hls-cb7a04/720p/master-7090550.345729208.m3u8
+30. Mixed Errors - 3 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/688461-1712049193/hls-90aaf0/720p/master-5634553.114290861.m3u8
+31. Mock Test - 2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/691915-1712135948/hls-9b54d7/720p/master-361397.27430464677.m3u8
+32. Mixed Errors - 4 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/44810-1712221284/hls-e5f931/720p/master-1492473.1845936768.m3u8
+33. Cloze Test + PQRS + Passage - 13 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/44977-1712307857/hls-771fd2/720p/master-2792165.1399323433.m3u8
+34. Cloze Test + PQRS + Passage - 14 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/706097-1712567949/hls-266ab3/720p/master-9811068.03783709.m3u8
+35. Sentence Improvement + Take Phrasal Verb : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/709544-1712653632/hls-b4db57/720p/master-8205990.379593919.m3u8
+36. Mock Test - 3 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/712905-1712740029/hls-90ec90/720p/master-758052.5841963958.m3u8
+37. Mixed Errors - 5 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/716045-1712825535/hls-99ebf2/720p/master-4862192.721857268.m3u8
+38. Cloze Test + PQRS + Passage - 15 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/719042-1712912667/hls-c69288/720p/master-3601100.1468668156.m3u8
+39. Cloze Test + PQRS + Passage - 16 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/726177-1713172578/hls-1aacf3/720p/master-3235661.634919489.m3u8
+40. Mixed Errors - 6 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/732553-1713344856/hls-956b54/720p/master-7270921.582208582.m3u8
+41. Sentence Improvement - 2 + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/735479-1713431058/hls-ddcb7b/720p/master-6332902.182038076.m3u8
+42. Cloze Test + PQRS + Passage - 17 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/738547-1713517641/hls-3cf7f2/720p/master-4613965.967143641.m3u8
+43. Mock Test - 4 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/745361-1713777014/hls-aea635/720p/master-1914161.7554529456.m3u8
+44. Cloze Test + PQRS + Passage - 18 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/748412-1713862346/hls-8bda8b/720p/master-7056611.969855333.m3u8
+45. Mixed Errors + Sentence Improvement : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/751677-1713949994/hls-a272f4/720p/master-9035927.112776339.m3u8
+46. Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/755114-1714036050/hls-ea294f/720p/master-4781441.332109242.m3u8
+47. Cloze Test + PQRS + Passage - 19 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/757932-1714121531/hls-0a4a26/720p/master-8101439.147710811.m3u8
+48. Cloze Test + PQRS + Passage - 20 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/764990-1714380921/hls-8b41bc/720p/master-7191596.500067771.m3u8
+49. Mock Test - 5 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/768572-1714468391/hls-498328/720p/master-677285.6885800938.m3u8
+50. Vocab + Grammar : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/772816-1714554978/hls-2c3a13/720p/master-6602104.880319832.m3u8
+51. Cloze Test + PQRS + Passage - 21 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/776701-1714640837/hls-c86645/720p/master-858054.7237636438.m3u8
+52. Mixed Spotting Errors : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/780353-1714727053/hls-b1113e/720p/master-9699767.137235695.m3u8
+53. Errors + Improvement : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/788168-1714986619/hls-a5d48b/720p/master-4329937.149743883.m3u8
+54. Fill in the blanks + Narration : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/791725-1715072661/hls-01343b/720p/master-4191078.753960509.m3u8
+55. Mock Test - 6 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/795695-1715158871/hls-b4fe8c/720p/master-1482312.3106733416.m3u8
+56. Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/799618-1715245457/hls-c830bb/720p/master-2271404.760618663.m3u8
+57. Error + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/803250-1715331504/hls-864b3e/720p/master-5735143.520640203.m3u8
+58. Cloze Test + PQRS + Passage - 22 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/810794-1715590334/hls-95179b/720p/master-4360061.732514116.m3u8
+59. Voice : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/818223-1715763685/hls-c7addd/720p/master-3139881.2527401973.m3u8
+60. Phrasal Verb + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/821823-1715850256/hls-33a7d6/720p/master-9054715.065772092.m3u8
+61. Spotting Erros + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/825596-1715937017/hls-ffddd1/720p/master-4152996.878861803.m3u8
+62. Cloze Test + Passage + Fixed Preposition : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/833624-1716195851/hls-e940e4/720p/master-7993558.231339584.m3u8
+63. Spotting Errors + Fixed Preposition : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/836870-1716279562/hls-d7c86b/720p/master-9440583.221004676.m3u8
+64. Cloze Test + Fixed Preposition : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/840990-1716368845/hls-a268dd/720p/master-7736696.660437195.m3u8
+65. Fixed Preposition + Errors + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/844771-1716455241/hls-4b3b63/720p/master-3136894.3496961286.m3u8
+66. Passage + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/848624-1716541281/hls-07b033/720p/master-541665.6722790081.m3u8
+68. Mock Test - 7 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/856038-1716801383/hls-96f3e0/720p/master-7005556.089958631.m3u8
+69. Spotting Errors (New Pattern Error) : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/860040-1716887055/hls-f5bd36/720p/master-4982569.706013464.m3u8
+69. Spotting Errors (New Pattern) + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/863763-1716973279/hls-5323af/720p/master-4040067.5518160667.m3u8
+70. Cloze Test + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/867537-1717058961/hls-76cc3e/720p/master-9623481.546015326.m3u8
+71. Sentence Improvement : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/871238-1717146257/hls-7aa498/720p/master-6552954.45273987.m3u8
+Doubt Session - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/363397-1709362851/hls-61ab7c/720p/master-3847441.3478519456.m3u8
+Doubt Session - 2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/367292-1709967758/hls-73d64f/720p/master-5322425.965223812.m3u8
+Doubt Session - 3 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/680215-1711783334/hls-f1cc43/720p/master-7069673.414104816.m3u8
+4. Doubt Session - 4 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/701626-1712386330/hls-6f74f7/720p/master-493136.5165800017.m3u8
+Doubt Session - 5 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/721699-1712992036/hls-75c916/720p/master-2067866.647655723.m3u8
+Doubt Session - 6 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/760386-1714201816/hls-33cb10/720p/master-8648313.052818269.m3u8
+7. Doubt Session - 7 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/806038-1715410516/hls-7ca0d5/720p/master-1343752.607901112.m3u8
+8. Doubt Session - 8 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/828315-1716015146/hls-dcd741/720p/master-5211357.480720855.m3u8
+Theme , Title, Tone and Structure of the Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/368697-1710233256/hls-0126f4/720p/master-9910233.326682955.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 1 : https://appx-recordings-mcdn.akamai.net.in/drm/8e61367a-69de-4a6f-b51c-5fd7f586b26e/720p/drm-hls/master-8267205.982775059.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 2 : https://appx-recordings-mcdn.akamai.net.in/drm/0a9fa68d-14a1-4041-8131-97eeecc565f2/720p/drm-hls/master-1497819.4781938093.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 3 : https://appx-recordings-mcdn.akamai.net.in/drm/49af0216-f640-4eea-a77f-1dc6a987d0c7/720p/drm-hls/master-7513683.621685745.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 4 : https://appx-recordings-mcdn.akamai.net.in/drm/934a75b5-b99c-4268-b4ea-9ee9bf0033d8/720p/drm-hls/master-6023640.931317349.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 5 : https://appx-recordings-mcdn.akamai.net.in/drm/4ce23e96-ff8b-47d4-8b6b-e5c2c06ee41a/720p/drm-hls/master-2127933.636095978.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 6 : https://appx-recordings-mcdn.akamai.net.in/drm/362d247d-f74f-4dee-8ac8-83dad2eae45f/720p/drm-hls/master-6937515.977533524.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 7 : https://appx-recordings-mcdn.akamai.net.in/drm/97737d14-c190-4104-aaa0-4275d219d9e9/720p/drm-hls/master-2209825.7286215685.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 8 : https://appx-recordings-mcdn.akamai.net.in/drm/c385b6c4-34e5-45f9-896c-ce66cac01bbe/720p/drm-hls/master-9375402.027314542.m3u8.m3u8
+Toppers Session  - Ask your doubt : https://appx-recordings-mcdn.akamai.net.in/drm/f50195a5-ce54-4468-8512-0fdb682be175/720p/drm-hls/master-192286.76176318293.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 9 : https://appx-recordings-mcdn.akamai.net.in/drm/f988cf26-02c0-4121-8536-dbfab046b5c7/720p/drm-hls/master-3712394.8567941324.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 10 : https://appx-recordings-mcdn.akamai.net.in/drm/52924f56-237c-4eb8-94eb-aca3259241ba/720p/drm-hls/master-4302545.05686009.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 11 : https://appx-recordings-mcdn.akamai.net.in/drm/2141cda2-3639-4f17-b750-daf6875e656d/720p/drm-hls/master-2420109.199607372.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 12 : https://appx-recordings-mcdn.akamai.net.in/drm/f7b10d55-7282-44f8-9261-0beade39788c/720p/drm-hls/master-3653496.045032123.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 13 : https://appx-recordings-mcdn.akamai.net.in/drm/69541e45-fbe7-4b35-a068-8628f5b80f16/720p/drm-hls/master-165357.00616586045.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 14 : https://appx-recordings-mcdn.akamai.net.in/drm/9c9fb8d6-d570-4afe-9fe8-b4a8a6f715a8/720p/drm-hls/master-8661647.598862521.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 15 : https://appx-recordings-mcdn.akamai.net.in/drm/1afe3074-ae8d-4dcc-80a2-6c0638c246bd/720p/drm-hls/master-7567753.597534712.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 16 : https://appx-recordings-mcdn.akamai.net.in/drm/2de49087-5fd9-4294-92f9-aefbf0bd581a/720p/drm-hls/master-6591628.3953783065.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 17 : https://appx-recordings-mcdn.akamai.net.in/drm/86803b3b-6697-4c2d-b47d-76ddc97879c2/720p/drm-hls/master-419489.89875076.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 18 : https://appx-recordings-mcdn.akamai.net.in/videos/uclive-data/424399-1700730545/hls/720p/master-9492361.217527483.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 19 : https://appx-recordings-mcdn.akamai.net.in/videos/uclive-data/424919-1700890914/hls/720p/master-9520201.237735776.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 20 : https://appx-recordings-mcdn.akamai.net.in/videos/uclive-data/426905-1701334932/hls/720p/master-8023774.041306769.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 21 : https://appx-recordings-mcdn.akamai.net.in/videos/uclive-data/427812-1701508555/hls/720p/master-1374218.0620272905.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 22 : https://appx-recordings-mcdn.akamai.net.in/videos/uclive-data/428778-1701767583/hls/720p/master-7535376.635911768.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 23 : https://appx-recordings-mcdn.akamai.net.in/videos/uclive-data/314028-1701939754/hls/720p/master-2103031.2787799123.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 24 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/316146-1702372104/hls/720p/master-5363862.08997792.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 25 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/317052-1702545129/hls/720p/master-745538.1116169724.m3u8.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 26 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/317929-1702716755/hls/720p/master-3403625.809874207.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 27 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/318873-1702976854/hls/720p/master-1140729.0782706393.m3u8
+Voice Practice - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/319797-1703149114/hls/720p/master-8547872.929753797.m3u8
+Narration Practice Set - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/320654-1703322637/hls/720p/master-6556502.121705157.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 28 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/321544-1703581834/hls-1d2583/720p/master-4027583.947994866.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 29 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/322470-1703754551/hls-2115d0/720p/master-3469569.8001532895.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 30 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/323352-1703927546/hls-acf0d5/720p/master-8351036.7199109495.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 31 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/324081-1704186122/hls-1adb4d/720p/master-2698704.3650901276.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 32 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/325042-1704359638/hls-bd7cf0/720p/master-6727998.237771256.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 33 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/325864-1704532617/hls-0929a6/720p/master-5091706.095969985.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 34 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/328867-1704964671/hls-df3055/720p/master-3919298.7451588013.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 35 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/329857-1705137624/hls-0c0e62/720p/master-3471397.063686037.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 36 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/330802-1705396104/hls-c3ab6c/720p/master-3966039.256083538.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 37 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/331836-1705568902/hls-6c3abb/720p/master-4791021.448396424.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 38 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/332786-1705742274/hls-e1ed8a/720p/master-5609439.008310662.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 39 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/334173-1706000393/hls-b61cf9/720p/master-4141912.9517972777.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 40 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/529783-1706354915/hls-82b55d/720p/master-8709819.76585245.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 41 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/344939-1706778099/hls-87a1e0/720p/master-4780622.555842568.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 42 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/348876-1707210345/hls-64af11/720p/master-8568941.27404014.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 43 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/350803-1707384691/hls-f21f39/720p/master-3878995.2286466113.m3u8
+Doubt Session - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/363397-1709362851/hls-61ab7c/720p/master-3847441.3478519456.m3u8
+Doubt Session - 2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/367292-1709967758/hls-73d64f/720p/master-5322425.965223812.m3u8
+Doubt Session - 3 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/680215-1711783334/hls-f1cc43/720p/master-7069673.414104816.m3u8
+4. Doubt Session - 4 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/701626-1712386330/hls-6f74f7/720p/master-493136.5165800017.m3u8
+Doubt Session - 5 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/721699-1712992036/hls-75c916/720p/master-2067866.647655723.m3u8
+Doubt Session - 6 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/760386-1714201816/hls-33cb10/720p/master-8648313.052818269.m3u8
+7. Doubt Session - 7 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/806038-1715410516/hls-7ca0d5/720p/master-1343752.607901112.m3u8
+8. Doubt Session - 8 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/828315-1716015146/hls-dcd741/720p/master-5211357.480720855.m3u8
+Theme , Title, Tone and Structure of the Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/368697-1710233256/hls-0126f4/720p/master-9910233.326682955.m3u8
+1. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/885342-1717578994/hls-b23871/720p/master-923592.3676074065.m3u8
+2. Cloze Test + Pqrs + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/888633-1717664667/hls-e28a88/720p/master-8594514.78709644.m3u8
+3. Sentence Improvement + Fill in the blanks : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/892404-1717751242/hls-085174/720p/master-7001247.515123783.m3u8
+4. Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/899548-1718010439/hls-472fe1/720p/master-1357301.474035215.m3u8
+5. Cloze Test + PQRS + Passage (Advanced) : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/903607-1718096840/hls-7aac43/720p/master-3734058.450087301.m3u8
+6. Sentence Improvement + Cloze Test + PQRS : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/907515-1718183061/hls-144997/720p/master-9751636.25178787.m3u8
+7. Vocab / Fill Ups / Phrasal Verb : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/911441-1718269638/hls-3ea77c/720p/master-4389549.264389474.m3u8
+8. spotting error , passage , phrasal verb : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/914869-1718355863/hls-a21e3c/720p/master-4593424.222042244.m3u8
+9. Cloze test/ Passage/ Sentence improvement : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/921750-1718615616/hls-449409/720p/master-4052716.3483168893.m3u8
+10. Cloze Test + Sentence Arrangement + Antonyms : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/924720-1718701842/hls-17d4c6/720p/master-685508.7505552504.m3u8
+11. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/927975-1718787858/hls-ada509/720p/master-4092595.129719039.m3u8
+12. Cloze test/ PQRS/ Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/931598-1718874086/hls-1aaa29/720p/master-6438789.617669234.m3u8
+13. spotting errors + vocabulary : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/935091-1718960484/hls-71c284/720p/master-787774.1458051179.m3u8
+14. Cloze test + Sentence Arrangement : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/942325-1719218966/hls-84601f/720p/master-7469194.895970241.m3u8
+15. Vocab & Spotting Errors : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/945497-1719306262/hls-eb54ba/720p/master-7839795.423649532.m3u8
+16. Cloze Test & Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/949088-1719392661/hls-0cc144/720p/master-3809167.7055976535.m3u8
+17. Sentence Improvement + Fixed Preposition : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/952612-1719478887/hls-6cc43e/720p/master-6053496.732134969.m3u8
+18. Cloze Test + Passage + Fixed Preposition : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/956215-1719565288/hls-3e1100/720p/master-5260846.871483415.m3u8
+19. Cloze Test + Passage + Spotting Errors : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/963096-1719825021/hls-c9bb54/720p/master-6960806.635857483.m3u8
+20. Sentence Arrangement + Spotting Errors + Vocab (Advance) : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/966484-1719911779/hls-80ba6e/720p/master-8590370.56342304.m3u8
+21. Spotting Errors + Cloze Test + Fill Ups : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/969619-1719997461/hls-b1655e/720p/master-7242571.346254456.m3u8
+22. Cloze Test + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/972953-1720082615/hls-1b28f2/720p/master-662651.5800328092.m3u8
+23. Spotting Errors + Vocab + Fill Ups : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/976221-1720170268/hls-4495dc/720p/master-6718652.533723506.m3u8
+24. Cloze Test + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/983226-1720429469/hls-da8b76/720p/master-6883995.781008776.m3u8
+25. Cloze Test + Passage + Fill Ups : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/986746-1720515862/hls-5712f2/720p/master-3917313.875015902.m3u8
+26. Sentence Improvement + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/993390-1720688316/hls-eec9df/720p/master-8344365.396827717.m3u8
+27. Cloze Test + Passage + Spotting Errors : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/997205-1720775063/hls-74d2c4/720p/master-9983280.32812138.m3u8
+28. Cloze Test + Passage + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1015624-1721294366/hls-acd19c/720p/master-1778117.4749552254.m3u8
+29. Sentence Improvement + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1026576-1721639246/hls-e7d9b7/720p/master-7127192.585128528.m3u8
+30. Passage + Vocab + PQRS : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1030456-1721725467/hls-cf0804/720p/master-4340552.090942884.m3u8
+31. Spotting Errors + Cloze Test + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1034585-1721811875/hls-b08dd1/720p/master-5065730.344810853.m3u8
+32. Passage + Cloze Test + Spotting Errors : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1038287-1721904056/hls-911fbd/720p/master-3448580.0854891837.m3u8
+33. Spotting Errors + Fill in the blanks : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1041981-1721984315/hls-613c8a/720p/master-4269628.827512651.m3u8
+34. Passage + Cloze Test + Fill Ups : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1049622-1722244228/hls-2cc61a/720p/master-4395916.865581795.m3u8
+35. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1053180-1722330278/hls-2a9a1b/720p/master-742328.3364253553.m3u8
+36. Mock Test - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1056652-1722415784/hls-36ce09/720p/master-9813821.29511166.m3u8
+38. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1063391-1722589285/hls-c37b21/720p/master-5777814.69397789.m3u8
+39. Sentence Improvement + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1070779-1722848664/hls-84dcf0/720p/master-1039727.8648934738.m3u8
+37. Passage + Cloze Test + Errors : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1060212-1722503433/hls-9e5146/720p/master-4569021.967160214.m3u8
+40. Cloze Test + PQRS + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1074183-1722934708/hls-6be271/720p/master-1803773.5546162415.m3u8
+41. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1077643-1723021290/hls-78a5c4/720p/master-7369844.723711127.m3u8
+42. Cloze Test + Passage + PQRS : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1085518-1723193563/hls-2cb63d/720p/master-2986647.761333052.m3u8
+43. Sentence Improvement + Fill in the blanks : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1097389-1723539867/hls-b6dacd/720p/master-8517145.703472972.m3u8
+44. Cloze Test + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1101011-1723626277/hls-3a01fc/720p/master-3885903.055079913.m3u8
+45. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1105663-1723799083/hls-f9b5e2/720p/master-175379.117094705.m3u8
+46. Mock Test : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1112134-1724145031/hls-0d0c29/720p/master-339452.28219687706.m3u8
+47. Cloze Test + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1114546-1724231247/hls-2b07d3/720p/master-5885470.8814929025.m3u8
+48. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1117705-1724327725/hls-7e1926/720p/master-7696864.827990188.m3u8
+49. Cloze Test + PQRS + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1120985-1724404047/hls-80ba80/720p/master-4806531.428592324.m3u8
+50. Fill in the blanks + Phrasal Verb + Sentence Improvement : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1133329-1724749468/hls-abac97/720p/master-8509378.317731947.m3u8
+51. Mock Test : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1137166-1724835872/hls-9ee064/720p/master-3730803.601045374.m3u8
+52. Cloze Test + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1140945-1724921729/hls-a6e36d/720p/master-353895.29131218954.m3u8
+53. Spotting Errors + One Word : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1144711-1725008676/hls-10523e/720p/master-2793036.1095415712.m3u8
+54. Mock Test : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1152701-1725267151/hls-ef670c/720p/master-7243966.345534658.m3u8
+55. Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1156725-1725354093/hls-5ffa1d/720p/master-8199223.782807281.m3u8
+56. Cloze Test + Sentence Arrangement : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1160526-1725440305/hls-56cc8e/720p/master-9996546.422759414.m3u8
+57. Cloze Test : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1163719-1725527603/hls-dde98d/720p/master-5661897.561315439.m3u8
+58. Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1177988-1725955288/hls-e1a630/720p/master-4153777.832991443.m3u8
+59.  Cloze Test + Passage : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1178304-1725959251/hls-f8163d/720p/master-546246.602789997.m3u8
+60. Mock Test : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1181788-1726044404/hls-8a1db3/720p/master-380897.5761690081.m3u8
+61. Cloze Test + Passage + PQRS : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1185549-1726131329/hls-4d17da/720p/master-5272322.884996927.m3u8
+62. Error + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1197569-1726477469/hls-568ea2/720p/master-324295.32859105105.m3u8
+63. Cloze Test + Passage + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1201336-1726563510/hls-5a7b72/720p/master-9116408.325204058.m3u8
+64. Spotting Errors + Vocab : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1204840-1726650093/hls-803b8a/720p/master-5916078.269936285.m3u8
+65. Sentence Improvement + Fill in the blanks : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1208611-1726736671/hls-1134ff/720p/master-4006758.821897678.m3u8
+66. Mock Test : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1212645-1726823249/hls-a297b8/720p/master-6255340.584844229.m3u8
+1. Cloze Test + Passage + PQRS : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1674185-1738228219/hls-9c9137/720p/master-408368.0773583298.m3u8
+2. Cloze Test + Topic Wise Errors (Verb) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1688788-1738660946/hls-57073f/720p/master-7313908.860126035.m3u8
+3. Cloze Test  + PQRS + Topic Wise Errors (Adjective) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1696204-1738833033/hls-5865bd/720p/master-8852820.557520123.m3u8
+4. Cloze Test + PQRS + Topic Wise Errors (Adverb) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1714081-1739265379/hls-402b00/720p/master-7818722.671584586.m3u8
+5. Cloze Test + PQRS + Topic Wise Errors (Subject Verb Agreement)) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1722348-1739438001/hls-c2c291/720p/master-5090528.900638014.m3u8
+6. Topic Wise Errors (Conjunction) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1738569-1739869104/hls-f1a664/720p/master-5565746.983401507.m3u8
+7. Cloze Test + PQRS + Topic Wise Errors (Preposition - 1) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1745805-1740049724/hls-cdfaa0/720p/master-4364995.46926083.m3u8
+8. Cloze Test + PQRS + Topic Wise Errors (Preposition - 2) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1767834-1740647062/hls-1ce904/720p/master-8641441.391257247.m3u8
+9. Cloze Test + PQRS + Topic Wise Errors (Article) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1782245-1741078885/hls-a148f0/720p/master-8540817.982465116.m3u8
+10. Cloze Test + Passage + Topic Wise Errors (Pronoun) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1790374-1741252771/hls-b8d310/720p/master-2822637.375467827.m3u8
+11. Cloze Test + Topic Wise Errors (noun) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1806330-1741684043/hls-1f06fb/720p/master-1162934.8871782974.m3u8
+12. Cloze Test + Topic Wise Errors (Tense) : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1822166-1742289568/hls-1583e5/720p/master-7772574.066798641.m3u8
+13. Cloze Test + Passage + Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1829507-1742461649/hls-54e3d0/720p/master-4261621.796572452.m3u8
+14. Cloze Test + Passage + Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1845519-1742894547/hls-c2ed80/720p/master-3350690.442158415.m3u8
+15. Cloze Test + PQRS + Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1854173-1743066267/hls-65cebc/720p/master-5753885.89583987.m3u8
+16. Cloze Test + PQRS + Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1880528-1743671614/hls-0f26bc/720p/master-5836300.728593211.m3u8
+17. Spotting Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1888801-1743844588/hls-ff5243/720p/master-7443368.418160392.m3u8
+18. Cloze Test + PQRS + Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1898361-1744103436/hls-728299/720p/master-5670708.102388855.m3u8
+19. Cloze Test + Passage + Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1907258-1744275694/hls-a82789/720p/master-3958141.8341584774.m3u8
+20. Cloze Test + PQRS + Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1924462-1744707873/hls-7f879a/720p/master-956450.4815408736.m3u8
+21. Cloze Test + Passage + Sentence Improvement : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1933433-1744880854/hls-0c67b1/720p/master-1660464.16512732.m3u8
+22. Cloze Test + Passage + Sentence Improvement : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1951142-1745312497/hls-a88399/720p/master-9454676.140839228.m3u8
+23. Fixed Preposition + Passage : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1960737-1745485838/hls-3ff496/720p/master-6785287.422767268.m3u8
+24. Test On Spotting Errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1980886-1745918376/hls-3d0065/720p/master-9463317.67983435.m3u8
+25. Test On Spotting Errors - 2 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1988773-1746090278/hls-58f6f9/720p/master-5540169.68349843.m3u8
+26. Cloze Test + Sentence Improvement : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/2004892-1746520662/hls-e0131b/720p/master-905859.3683558702.m3u8
+27. Cloze Test + Sentence Improvement : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/2029683-1747127076/hls-705184/720p/master-8250635.339901525.m3u8
+Phrases related spotting errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1954019-1745383053/hls-26d0df/720p/master-9473651.474669464.m3u8
+1. Samundramanthan Of Vocab - 1 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1666686-1738055605/hls-a94be0/720p/master-5746537.639649227.m3u8
+2. Samundramanthan Of Vocab - 2 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1670441-1738142717/hls-c28d2d/720p/master-7340772.223923078.m3u8
+3. Samundramanthan Of Vocab - 3 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1677849-1738314259/hls-a6416e/720p/master-3346093.2031060397.m3u8
+4. Samundramanthan Of Vocab - 4 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1685038-1738573998/hls-9259e5/720p/master-9222245.138119573.m3u8
+5. Samundramanthan Of Vocab - 5 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1700026-1738918882/hls-2a1f24/720p/master-4332659.5608126065.m3u8
+6. Samundramanthan Of Vocabulary - 6 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1710534-1739178800/hls-72a293/720p/master-6095807.816951329.m3u8
+7. Samundramanthan Of Vocabulary - 7 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1718187-1739351243/hls-4de936/720p/master-9284145.681729222.m3u8
+8. Samundramanthan Of Vocabulary - 8 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1726204-1739524763/hls-89d230/720p/master-3457537.886546966.m3u8
+9. Samundramanthan Of Vocabulary - 9 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1742058-1739955686/hls-13ddb3/720p/master-1080468.5944053882.m3u8
+10. Samundramanthan Of Vocabulary - 10 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1749195-1740129020/hls-030c20/720p/master-677000.3135833202.m3u8
+11. Samundramanthan Of Vocabulary - 11 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1757277-1740387865/hls-9e0a43/720p/master-815010.2762973943.m3u8
+12. Samundramanthan Of Vocabulary - 12 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1760787-1740474624/hls-4b1425/720p/master-5041113.079331106.m3u8
+13. Samundramanthan Of Vocabulary - 13 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1771391-1740733826/hls-d0d4c2/720p/master-4973569.133250037.m3u8
+14. Samundramanthan Of Vocabulary - 14 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1778638-1740992483/hls-918be3/720p/master-2090737.117388808.m3u8
+15. Samundramanthan Of Vocabulary - 15 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1786547-1741165650/hls-be4748/720p/master-5202390.176068516.m3u8
+16. Samundramanthan Of Vocabulary - 16 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1794733-1741338091/hls-bd5b5f/720p/master-6591024.179033919.m3u8
+17. Fixed Preposition Test + Root Word : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1802666-1741598007/hls-53a581/720p/master-4651240.331390136.m3u8
+18. Samundramanthan Of Vocabulary - 17 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1809625-1741770448/hls-7cccb2/720p/master-2664366.0271031666.m3u8
+19. Samundramanthan Of Vocabulary - 18 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1818498-1742202087/hls-c60ff3/720p/master-7966028.594425645.m3u8
+20. Samundramanthan Of Vocabulary - 19 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1825890-1742374892/hls-e20ca6/720p/master-5581736.184987401.m3u8
+21. Samundramanthan Of Vocabulary - 20 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1832695-1742541210/hls-0e0864/720p/master-7891670.931148553.m3u8
+22. Samundramanthan Of Vocabulary - 21 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1849843-1742980052/hls-111701/720p/master-3893484.5368386963.m3u8
+23. Samundramanthan Of Vocabulary - 22 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1858812-1743152848/hls-cb3b84/720p/master-697877.5057316677.m3u8
+23. Fixed Preposition : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1862602-1743238531/hls-de9c09/720p/master-838595.3118281964.m3u8
+24. Samundramanthan Of Vocabulary - 23 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1876036-1743586471/hls-43a053/720p/master-4537925.087027131.m3u8
+25. Samundramanthan Of Vocabulary - 24 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1884960-1743758368/hls-10b23c/720p/master-9179356.720435565.m3u8
+26. Samundramanthan Of Vocabulary - 25 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1893844-1744015772/hls-37cfcb/720p/master-9954466.748664366.m3u8
+27. Samundramanthan Of Vocabulary - 26 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1902792-1744201530/hls-507359/720p/master-2358151.516648295.m3u8
+28. Samundramanthan Of Vocabulary - 27 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1911469-1744362274/hls-a9a0fc/720p/master-1756374.4127146385.m3u8
+29. Samundramanthan Of Vocabulary - 28 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1920252-1744621471/hls-551f4b/720p/master-9041012.120394967.m3u8
+30. Samundramanthan Of Vocabulary - 29 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1929098-1744793733/hls-d05119/720p/master-3639872.9504711325.m3u8
+31. Samundramanthan Of Vocabulary - 30 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1937595-1744966895/hls-4559cb/720p/master-956199.7790912224.m3u8
+32. Samundramanthan Of Vocabulary - 31 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1946848-1745226095/hls-2e75f3/720p/master-1707277.1859835046.m3u8
+33. Samundramanthan Of Vocabulary - 32 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1955711-1745399253/hls-54f155/720p/master-8389326.858625848.m3u8
+34. Samundramanthan Of Vocabulary - 33 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1971670-1745658099/hls-dda320/720p/master-7834484.789940441.m3u8
+35. Samundramanthan Of Vocabulary - 34 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1976640-1745831442/hls-a289e2/720p/master-3041382.798366885.m3u8
+36. Samundramanthan Of Vocabulary - 35 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1984907-1746006223/hls-f04626/720p/master-5952279.57717227.m3u8
+37. Samundramanthan Of Vocabulary - 36 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1992497-1746176671/hls-e4a055/720p/master-917258.2526317141.m3u8
+38. Samundramanthan Of Vocabulary - 37 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/2000915-1746436245/hls-75ddbe/720p/master-2497811.047282872.m3u8
+39. Samundramanthan Of Vocabulary - 38 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/2013641-1746694897/hls-1f1ae2/720p/master-8424852.365447823.m3u8
+40. Samundramanthan Of Vocabulary - 39 + Fixed Preposition - 4 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/2017860-1746782559/hls-177886/720p/master-6571200.09880044.m3u8
+41. Samundramanthan Of Vocabulary - 40 : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/2025824-1747041035/hls-8f0efe/720p/master-6755162.369851737.m3u8
+Fixed Preposition -1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/328807-1704960527/hls-d10424/720p/master-7054314.160235648.m3u8
+Fixed Preposition -2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/328946-1704967910/hls-d9b37e/720p/master-795218.1128309221.m3u8
+Fixed Preposition -1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/328807-1704960527/hls-d10424/720p/master-7054314.160235648.m3u8
+Fixed Preposition -2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/328946-1704967910/hls-d9b37e/720p/master-795218.1128309221.m3u8
+Phrasal Verb Part - 1 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/328000-1704873367/hls-8900a9/720p/master-4530525.910912269.m3u8
+Phrasal Verb Part - 2 : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/328368-1704887268/hls-68caf3/720p/master-612365.7649322189.m3u8
+Phrases related spotting errors : https://transcoded-videos-v2.classx.co.in/videos/uclive-data/1954019-1745383053/hls-26d0df/720p/master-9473651.474669464.m3u8
+Top 300+ Important Voice Questions For All Exams : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1124663-1724493148/hls-cca091/720p/master-7106004.200494856.m3u8
+300+ Important Narration Youtube Pdfs : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/1125323-1724500527/hls-4dcc5c/720p/master-8252005.3821267085.m3u8
+Cloze Test / Parajumbles / Passage / Errors - 1 : https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course4/2023-10-10-0.9896459308660499.pdf
+📥 Download PDF : https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course4/2023-10-10-0.9896459308660499.pdf
+Raw : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/352586-1707732025/hls-b28b8a/720p/master-210079.45056375154.m3u8
+Raw : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/354178-1707990479/hls-53bfae/720p/master-2723223.7340412247.m3u8
+Raw : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/362719-1709283968/hls-f9df4f/720p/master-6017897.996113164.m3u8
+Raw : https://appx-transcoded-videos-mcdn.akamai.net.in/videos/uclive-data/364291-1709543066/hls-53ed46/720p/master-5871788.131630129.m3u8

@@ -1,0 +1,207 @@
+[Polity] Class-01 | Intro : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364376876112/6364376876112.m3u8
+[Polity] Class-02 | Intro : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364529737112/6364529737112.m3u8
+[Polity] Class-03 | Intro : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364852545112/6364852545112.m3u8
+[Polity] Class-04 | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364627962112/6364627962112.m3u8
+[Polity] Class-05 | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364681348112/6364681348112.m3u8
+[Polity] Class-06 | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364731238112/6364731238112.m3u8
+[Polity] Class-07 | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364843132112/6364843132112.m3u8
+[Polity] Class-08 | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364886820112/6364886820112.m3u8
+[Polity] Class-09 | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364933067112/6364933067112.m3u8
+[Polity] Class-10 | The Constitution of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364976208112/6364976208112.m3u8
+[Polity] Class-11 | The Constitution of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/eQPSeO9RVBA/eQPSeO9RVBA.m3u8
+[Polity] Class-12 | Part 1 Union & its Territory : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365400669112/6365400669112.m3u8
+[Polity] Class-13 | Unioon & its Territory : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365451082112/6365451082112.m3u8
+[Polity] Class-14 | Citizenship : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365502259112/6365502259112.m3u8
+[Polity] Class-15 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/V0xZOOyoqX0/V0xZOOyoqX0.m3u8
+[Polity] Class-16 | Directive Principle of State Policy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365788128112/6365788128112.m3u8
+[Polity] Class-17 | Union Executive : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365832167112/6365832167112.m3u8
+[Polity] Class-18 | Union Executive : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365886818112/6365886818112.m3u8
+[Polity] Class-19 | Union Executive : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365931250112/6365931250112.m3u8
+[Polity] Class-20 | Judiciary in India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/V5ggYUj85Rs/V5ggYUj85Rs.m3u8
+[Polity] Class-21 | High Court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366093404112/6366093404112.m3u8
+[Polity] Class-22 | Part 08 Union Territories : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366210866112/6366210866112.m3u8
+[Polity] Class-23 | Part 08 Union Territories : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366538320112/6366538320112.m3u8
+[Polity] Class-24 | Part 08 Union Territories : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366609800112/6366609800112.m3u8
+[Polity] Class-25 | Part 08 Union Territories : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366799036112/6366799036112.m3u8
+[Polity] Class-26 | | Constitutional Development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367107821112/6367107821112.m3u8
+[Polity] Class-27 | | Constitutional Development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367158061112/6367158061112.m3u8
+[Polity] Class-28 | Polity | Constitutional Development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367211314112/6367211314112.m3u8
+[Polity] Class-29 | Constitutional Development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367373853112/6367373853112.m3u8
+[Polity] Class-30 | Constituent Assembly : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367422960112/6367422960112.m3u8
+[Polity] Class-31 | Constituent Assembly : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367477759112/6367477759112.m3u8
+[Polity] Class-32 | Constituent Assembly : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367537943112/6367537943112.m3u8
+[Polity] Class-33 | Constituent Assembly : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367603829112/6367603829112.m3u8
+[Polity] Class-34 | Constitution of India (भारत का संविधान) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367812958112/6367812958112.m3u8
+[Polity] Class-35 | Constitution of India (भारत का संविधान) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367861717112/6367861717112.m3u8
+[Polity] Class-36 | Constitution of India (भारत का संविधान) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367977050112/6367977050112.m3u8
+[Polity] Class-37 | Constitution of India (भारत का संविधान) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368028436112/6368028436112.m3u8
+[Polity] Class-38 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368180501112/6368180501112.m3u8
+[Polity] Class-39 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368228531112/6368228531112.m3u8
+[Polity] Class-40 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/PplEYL3nPKY/PplEYL3nPKY.m3u8
+[Polity (VOD)] Class-01 | The Parliament : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6281386493001/6281386493001.m3u8
+[Polity (VOD)] Class-02 | The Parliament : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6281556847001/6281556847001.m3u8
+[Polity (VOD)] Class-03 | The Parliament : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6282003011001/6282003011001.m3u8
+[Polity (VOD)] Class-04 | Legislative procedure : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6282179947001/6282179947001.m3u8
+[Polity (VOD)] Class-05 | Types of Bills : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6282349884001/6282349884001.m3u8
+[Polity (VOD)] Class-06 | Union budget : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6282691190001/6282691190001.m3u8
+[Polity (VOD)] Class-07  | Parliamentary committees : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6283324506001/6283324506001.m3u8
+[Polity (VOD)] Class-08 | Motions in the Parliament : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6283486137001/6283486137001.m3u8
+[Polity (VOD)] Class-09 | Judiciary of Union : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6283654479001/6283654479001.m3u8
+[Polity (VOD)] Class-10 | Supreme Court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6283828813001/6283828813001.m3u8
+[Polity (VOD)] Class-11 | Powers of Supreme Court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6284276564001/6284276564001.m3u8
+[Polity (VOD)] Class-12 | CAG : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6284441367001/6284441367001.m3u8
+[Polity (VOD)] Class-13 | Governor : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6284608318001/6284608318001.m3u8
+[Polity (VOD)] Class-14 | Powers of governor : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6284773211001/6284773211001.m3u8
+[Polity (VOD)] Class-15 | State Legislature : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6284939179001/6284939179001.m3u8
+[Polity (VOD)] Class-16 | High court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6285381867001/6285381867001.m3u8
+[Polity (VOD)] Class-17 | Union Territories : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6285552171001/6285552171001.m3u8
+[Polity (VOD)] Class-18 | Local Governance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6285714710001/6285714710001.m3u8
+[Polity (VOD)] Class-19 | Local Governance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6285884301001/6285884301001.m3u8
+[Polity (VOD)] Class-20 MCQ PRACTICE : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6286086247001/6286086247001.m3u8
+[Polity (VOD)] Class-21 | Municipalities : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6286530532001/6286530532001.m3u8
+[Polity (VOD)] Class-22 | Relations between Union and States : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6286709425001/6286709425001.m3u8
+[Polity (VOD)] Class-23 | Relations between Union and States : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6286882523001/6286882523001.m3u8
+[Polity (VOD)] Class-24 | Services under union and states : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6287057605001/6287057605001.m3u8
+[Polity (VOD)] Class-25 | Elections : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6287241808001/6287241808001.m3u8
+[Polity (VOD)] Class-26 | Elections : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6287713764001/6287713764001.m3u8
+[Polity (VOD)] Class-27 |  Official Language Emergency : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6287893431001/6287893431001.m3u8
+[Polity (VOD)] Class-28 | Part - 19,21,22 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6288077234001/6288077234001.m3u8
+[Polity (VOD)] Class-29 | Part - 19,21,22 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6288242742001/6288242742001.m3u8
+[Polity (VOD)] Class-30 | Part - 19,21,22 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6288405134001/6288405134001.m3u8
+[Polity (VOD)] Class-31 | mcq practics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6288939794001/6288939794001.m3u8
+[Polity (VOD)] Class-32 | mcq practics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6289081441001/6289081441001.m3u8
+[Polity (VOD)] Class-33 | mcq practics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6289232397001/6289232397001.m3u8
+[Polity (VOD)] Class-34  | mcq practics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6289753283001/6289753283001.m3u8
+[Polity (VOD)] Class-35 | Constitutional development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6289897830001/6289897830001.m3u8
+[Polity (VOD)] Class-36 | Constitutional development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6290054034001/6290054034001.m3u8
+[Polity (VOD)] Class-37 | Constitutional development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6290218289001/6290218289001.m3u8
+[Polity (VOD)] Class-38 | Constitutional development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6290393660001/6290393660001.m3u8
+[Polity (VOD)] Class-39 | Constitutional development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6290842186001/6290842186001.m3u8
+[Polity (VOD)] Class-40 | Constitutional development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6291003063001/6291003063001.m3u8
+[Polity (VOD)] Class-41 | Constitutional development of India : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6291359883001/6291359883001.m3u8
+[Polity (VOD)] Class-42 | Making of the Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6291525291001/6291525291001.m3u8
+[Polity (VOD)] Class-43 | Making of the Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6291699890001/6291699890001.m3u8
+[Polity (VOD)] Class-44 | Making of the Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6292150706001/6292150706001.m3u8
+[Polity (VOD)] Class-45 | Schedules of the Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6292315373001/6292315373001.m3u8
+[Polity (VOD)] Class-46 | Schedules of the Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6292483766001/6292483766001.m3u8
+[Polity (VOD)] Class-47 | Part-1 Union & it’s States : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6292652448001/6292652448001.m3u8
+[Polity (VOD)] Class-48 | Part-1 Union & it’s States : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6292833741001/6292833741001.m3u8
+[Polity (VOD)] Class-49 | MCQ practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6293289670001/6293289670001.m3u8
+[Polity (VOD)] Class-50 | Citizenship : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6293464610001/6293464610001.m3u8
+[Polity (VOD)] Class-51 | Citizenship : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6293880831001/6293880831001.m3u8
+[Polity (VOD)] Class-52 | MCQ practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6294069475001/6294069475001.m3u8
+[Polity (VOD)] Class-53 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6294529192001/6294529192001.m3u8
+[Polity (VOD)] Class-54 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6294703660001/6294703660001.m3u8
+[Polity (VOD)] Class-55 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6294880802001/6294880802001.m3u8
+[Polity (VOD)] Class-56 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6295091969001/6295091969001.m3u8
+[Polity (VOD)] Class-57  | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6295336599001/6295336599001.m3u8
+[Polity (VOD)] Class-58 | Fundamental Rights : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6295977862001/6295977862001.m3u8
+[Polity (VOD)] Class-59 | Directive Principles of State Policy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6296440758001/6296440758001.m3u8
+[Polity (VOD)] Class-60 | Directive Principles of State Policy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6296678010001/6296678010001.m3u8
+[Polity (VOD)] Class-61 | MCQ practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6296905704001/6296905704001.m3u8
+[Polity (VOD)] Class-62 | President : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6297372972001/6297372972001.m3u8
+[Polity (VOD)] Class-63 | Powers of the President : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6297539725001/6297539725001.m3u8
+[Polity (VOD)] Class-64 | Vice President : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6297730210001/6297730210001.m3u8
+[Polity (VOD)] Class-65  | PM & Council of Ministers : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6297874674001/6297874674001.m3u8
+[Polity (VOD)] Class-66 | PM & Council of Ministers : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298542297001/6298542297001.m3u8
+[Polity (VOD)] Class-67 | MCQ practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298661673001/6298661673001.m3u8
+[Polity (VOD)] Class-68 | MCQ practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298776480001/6298776480001.m3u8
+[Pol (New VOD)] Class-01 | Pol | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365619851112/6365619851112.m3u8
+[Pol (New VOD)] Class-02 | Pol | Constitutional Development : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365789481112/6365789481112.m3u8
+[Pol (New VOD)] Class-03 | Pol | Company Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365834935112/6365834935112.m3u8
+[Pol (New VOD)] Class-04 | Pol | Company Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365889559112/6365889559112.m3u8
+[Pol (New VOD)] Class-05 | Pol | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365935713112/6365935713112.m3u8
+[Pol (New VOD)] Class-06 | Pol | Crown Rule : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366051968112/6366051968112.m3u8
+[Pol (New VOD)] Class-07 | Pol | Constituent Assembly & Making of Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366098295112/6366098295112.m3u8
+[Pol (New VOD)] Class-08 | Pol | Constituent Assembly & Making of Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366167978112/6366167978112.m3u8
+[Pol (New VOD)] Class-09 | Pol | Constituent Assembly & Making of Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366541321112/6366541321112.m3u8
+[Pol (New VOD)] Class-10 | Pol | Constituent Assembly & Making of Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366611127112/6366611127112.m3u8
+[Pol (New VOD)] Class-11 | Pol | Constituent Assembly & Making of Constitution : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6366642790112/6366642790112.m3u8
+[Pol (New VOD)] Class-12 | Pol | Union & its Territory : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367111164112/6367111164112.m3u8
+[Pol (New VOD)] Class-13 | Pol | Union & its Territory : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367163423112/6367163423112.m3u8
+[Pol (New VOD)] Class-14 | Pol | Union & its Territory : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367216512112/6367216512112.m3u8
+[Pol (New VOD)] Class-15 | Fundamental Rights ( मौलिक अधिकार ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367377093112/6367377093112.m3u8
+[Pol (New VOD)] Class-16 | Fundamental Rights ( मौलिक अधिकार ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367427278112/6367427278112.m3u8
+[Pol (New VOD)] Class-17 | Fundamental Rights ( मौलिक अधिकार ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367480139112/6367480139112.m3u8
+[Pol (New VOD)] Class-18 | Fundamental Rights ( मौलिक अधिकार ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367540920112/6367540920112.m3u8
+[Pol (New VOD)] Class-19 | Fundamental Rights ( मौलिक अधिकार ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367608565112/6367608565112.m3u8
+[Pol (New VOD)] Class-20 | DPSP : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368407376112/6368407376112.m3u8
+[Pol (New VOD)] Class-21 | DPSP : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/SCXr327Mcm4/SCXr327Mcm4.m3u8
+[Pol (New VOD)] Class-22 | DPSP : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368680507112/6368680507112.m3u8
+[Pol (New VOD)] Class-23 | Powers of President : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368736335112/6368736335112.m3u8
+[Pol (New VOD)] Class-24 | Powers of President : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368796270112/6368796270112.m3u8
+[Pol (New VOD)] Class-25 | Vice President & Council of Ministers : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/e7bUJB5yKGc/e7bUJB5yKGc.m3u8
+[Pol (New VOD)] Class-26 | Powers of President : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369029053112/6369029053112.m3u8
+[Pol (New VOD)] Class-27 | Parliament : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369074436112/6369074436112.m3u8
+[Pol (New VOD)] Class-28 | Parliament : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369126344112/6369126344112.m3u8
+[Pol (New VOD)] Class-29 | Parliament : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369242756112/6369242756112.m3u8
+[Pol (New VOD)] Class-30 | Supreme Court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369282956112/6369282956112.m3u8
+[Pol (New VOD)] Class-31 | Supreme Court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369326512112/6369326512112.m3u8
+[Pol (New VOD)] Class-32 | C.A.G : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369374482112/6369374482112.m3u8
+[Pol (New VOD)] Class-33 | State Executive : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369421751112/6369421751112.m3u8
+[Pol (New VOD)] Class-34 | State Executive : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369538768112/6369538768112.m3u8
+[Pol (New VOD)] Class-35 | Chief Minister : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369576433112/6369576433112.m3u8
+[Pol (New VOD)] Class-36 | State Legislature : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369615069112/6369615069112.m3u8
+[Pol (New VOD)] Class-37 | High Court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369659201112/6369659201112.m3u8
+[Pol (New VOD)] Class-38 | High Court : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369705024112/6369705024112.m3u8
+[Pol (New VOD)] Class-39 | UPSC & Election Commission : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369825680112/6369825680112.m3u8
+[Pol (New VOD)] Class-40 | UPSC & Election Commission : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369908844112/6369908844112.m3u8
+[Pol (New VOD)] Class-41 | UPSC & Election Commission : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369949447112/6369949447112.m3u8
+[Syllabus] Syllabus: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1636612844-Polity_Syllabus.pdf
+[Notes] Polity Notes: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670e2bbbe12d5_Polity_Student_pdfcompressed.pdf
+[Notes] Class-10 Schedules: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a3476c614ed_Class 10 Schedules.pdf
+[Notes] Class-9 Preamble: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a3475bdb63b_Class 9 Preamble.pdf
+[Notes] Class-8 Foreign sources: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a34749a6a64_Class 8 Foreign sources.pdf
+[Notes] Class-7 Constitution Making: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a347328dfa6_Class 7 Constitution Making.pdf
+[Notes] Class-6 Constituent Assembly: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a34722dd155_Class 6 Constituent Assembly.pdf
+[Notes] Class-5 Crown Rule-3: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a347123a565_Class 5 Crown Rule 3.pdf
+[Notes] Class-4 Crown Rule-2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a346fd86042_Class 4 Crown Rule 2.pdf
+[Notes] Class-3 Crown Rule-1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a346e425346_Class 3 Crown Rule.pdf
+[Notes] Class-2 Company Rule: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a346cbb4530_Class 2 Company Rule.pdf
+[Notes] Panchayati Raj-2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55b13a4705_Chapter- 25 PANCHAYATI RAJ 2.pdf
+[Notes] Panchayati Raj-1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55b136a09e_Chapter- 24 PANCHAYATI RAJ 1.pdf
+[Notes] Constitutional Amendments: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55b133a406_Chapter- 23 CONSTITUTIONAL AMENDMENT.pdf
+[Notes] Political Parties: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55b12a7e7d_Chapter- 22 POLITICAL PARITIES student copy.pdf
+[Notes] Election Commission: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55b1247c5d_Chapter- 21 ELECTION COMMISSION student copy.pdf
+[Notes] Finance Commission and NITI Aayog: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55a7c37657_Chapter- 19 FINANCE COMMISSION AND NITI AAYOG-.pdf
+[Notes] Emergency Provisions: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55a7c122a6_Chapter- 18 EMERGENCY PROVISIONS.pdf
+[Notes] High Court and Relation: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55a7bc0890_Chapter- 17 HIGH COURT ND RELATION.pdf
+[Notes] The Supreme Court: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a559e27eec1_Chapter- 15 THE SUPREME COURT.pdf
+[Notes] Parliament - 3: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a559e21c2ed_Chapter- 14 PARLIAMENT- 3.pdf
+[Notes] Parliament - 2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a559e1e6d0a_Chapter- 13 PARLIAMENT- 2.pdf
+[Notes] Parliament - 1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55985935c3_Chapter- 12 PARLIAMENT- 1.pdf
+[Notes] Attory General and CAG: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a559852bc9f_Chapter- 11 ATORNY GENERAL AND CAG.pdf
+[Notes] Vice President & Council of Ministers: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a559845da97_Chapter- 10 VICE PRESIDENT & COUNCIL OF MINISTERS.pdf
+[Notes] President: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55984069f8_Chapter- 9 PRESIDENT.pdf
+[Notes] Directive Principle of State Policy: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a558c62c3b1_Chapter- 8 DIRECTIVE PRINCIPLES OF STATE POLICY.pdf
+[Notes] Fundamental Rights : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a558c6059a7_Chapter- 7 FUNDAMENTAL RIGHTS.pdf
+[Notes] The Governance System: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a558c5b05c7_Chapter- 5 THE GOVERNANCE SYSTEM.pdf
+[Notes] Schedule, Parts and Articles: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55704e1ab2_Chapter- 3 SCHEDULES, PARTS AND ARTICLES.pdf
+[Notes] Sources of Constitution: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a55704a5639_Chapter- 2 SOURCES OF CONSTITUTION.pdf
+[Notes] The Constitutional Development of India: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a557045f320_Chapter- 1 THE CONSITUTIONAL DEVELOPMENT OF INDIA.pdf
+[Notes] States and Union Territories: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347576-student_file_NEW____STATES_AND_UNION_TERRITORIES.pdf
+[Notes] The System Governance: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347576-NEw_Student_____THE_GOVERNANCE_SYSTEM.pdf
+[Notes] President Of India: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347576-PRESIDENT01.pdf
+[Notes] Vice Presidentand & Council Of Ministers: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347576-V_P__AND_COM______st.pdf
+[Notes] A.G & CAG: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-A_G_AND_CAG.pdf
+[Notes] Parliament- 3: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-Parlimant-3_student_copy.pdf
+[Notes] Parliament- 2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-PARLIAMENT_2_(Student_Copy).pdf
+[Notes] Parliament- 1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-Parliament-_1_By_Abhishek_Sir.pdf
+[Notes] The Supreme Court Of India: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-THE_SUPREME_COURT_(Student).pdf
+[Notes] Governor and State Legislature: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-GOVERNOR_AND_STATE_LEGISLATURE----.pdf
+[Notes] High Court & Relationship: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-HIGH_COURT_ND_RELATION.pdf
+[Notes] Lokpal and Comm.: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-LOKPAL_AND_COMM_.pdf
+[Notes] Finace & Niti Aayog: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-FINANCE_AND_NITI_AAYOG-.pdf
+[Notes] Political Parties In India: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-POLITICAL_PARITIES_student_copy.pdf
+[Notes] Constitution Amendment Bill : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-CONSTITUTIONAL_AMENDMENT.pdf
+[Notes] Panchayati Raj In India: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627360020-1617347577-PANCHAYATI_RAJ.pdf
+[Notes] Election Commission Of India: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1617347577-ELECTION_COMMISSION_student_copy.pdf
+[Notes] Preamble: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1617248522.pdf
+[Notes] Sources Of Constitutional Law: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1617248495.pdf
+[Notes] The Constitutional Development In India : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1617248447.pdf
+[Notes]  ‎Fundamental Rights : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1614221749.pdf
+[Notes] Parts, Article, and Schedules: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1614221691.pdf
+[Notes] Directive Principles of State Policy: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1614221647.pdf
+[Notes] Polity Hin Notes Part -2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1611833828-polity_class_notes_hindi_pard_2.pdf
+[Notes] Polity Hin Notes Part -1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1611833828-polity_class_notes_hindi_pard_1.pdf
+[Notes] Polity Eng Notes: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627358798-1611833828-polity_class_notes_eng.pdf
