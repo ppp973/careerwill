@@ -1,0 +1,1367 @@
+Lecture - 01 - | Number System | Basics : https://www.youtube.com/embed/yGct4RnGxqc
+Lecture - 02 - | Number System | Basics : https://www.youtube.com/embed/dH1UZYqXI7E
+Lecture - 03 - | Number System | Ex. 1.1 : https://www.youtube.com/embed/3iwO2JXxvEs
+Lecture - 04 - | Number System | Ex. 1.2 : https://www.youtube.com/embed/Z4EhbI2J6is
+Lecture - 05 - | Number System | Ex. 1.3 : https://www.youtube.com/embed/XXvBmqGFXUk
+Lecture - 06 - | Number System | Ex. 1.3 : https://www.youtube.com/embed/cBQmAm0K8zQ
+Lecture - 07 - | Number System | Ex. 1.3 : https://www.youtube.com/embed/jlV6yc3Yhi0
+Lecture - 08 - | Number System | Ex. 1.4 : https://www.youtube.com/embed/jNWD08Oz0NQ
+Lecture - 09 - | Number System | Ex. 1.5 : https://www.youtube.com/embed/Jje3jiVN_Dc
+Lecture - 10 - | Number System | Ex. 1.5 : https://www.youtube.com/embed/vWjPJO6eqWo
+Lecture - 11 - | Number System | Ex. 1.6 : https://www.youtube.com/embed/8QonK8o_d9k
+Lecture - 12 - | Number System | Ex. 1.6 : https://www.youtube.com/embed/iiqJU4tC4KA
+Lecture - 13 - | Polynomials | Basic NCERT : https://www.youtube.com/embed/uVU1KPF1Vlo
+Lecture - 14 - | Polynomials | Ex-2.1 : https://www.youtube.com/embed/lBzUwBGm2wE
+Lecture - 15 - | Polynomials | Ex-2.2 : https://www.youtube.com/embed/dfxeRVY-AxU
+Lecture - 16 - | Polynomials | Ex-2.3 : https://www.youtube.com/embed/9Ij2L5XNJrE
+Lecture - 17 - | Polynomials | Ex-2.4 : https://www.youtube.com/embed/_hyLlXSm710
+Lecture - 18 - | Polynomials | Ex-2.4 : https://www.youtube.com/embed/DazpXhZQOaM
+Lecture - 19 - | Polynomials | Ex-2.4 : https://www.youtube.com/embed/zPCGFwzfA_Q
+Lecture - 20 - | Polynomials | Ex - 2.4 : https://www.youtube.com/embed/ZNFdZdcI7ho
+Lecture - 21 - | Polynomials | Ex - 2.5 : https://www.youtube.com/embed/yNCQE4yMHc0
+Lecture - 22 - | Polynomials | Ex - 2.5 : https://www.youtube.com/embed/JxRSt9Fs1Ek
+Lecture - 23 - | Polynomials | Ex - 2.5 : https://www.youtube.com/embed/1evcLgjSxSQ
+Lecture - 24 - | Polynomials | Ex - 2.5 : https://www.youtube.com/embed/P0Lu3zuNRBQ
+Lecture - 25 - | Polynomials | Ex - 2.5 : https://www.youtube.com/embed/KBGJkRRmMV8
+Lecture - 26 - | Polynomials | Ex - 2.5 : https://www.youtube.com/embed/zbu1C5DvNcc
+Lecture - 27 - | Polynomials | ( Revision NCERT Ex - 2.1- 2.5 ) : https://www.youtube.com/embed/RlR_7AkCU4s
+Lecture - 28 - | Polynomials | ( Revision NCERT Ex - 2.1- 2.5 ) : https://www.youtube.com/embed/2_q4AZ9oPok
+Lecture - 29 - | Co- Ordinate Geometry : https://www.youtube.com/embed/tjh725BwnqY
+Lecture - 30 - | Co- Ordinate Geometry : https://www.youtube.com/embed/6XdBYcGhtks
+Lecture - 31 - | Linear Equation in Two Variables Basics : https://www.youtube.com/embed/hvL6Gc9J6uk
+Lecture - 32 - | Linear Equation in Two Variables | Ex. 4.1 : https://www.youtube.com/embed/zcYaJSB0dPA
+Lecture - 33 - | Linear Equation in Two Variables | Ex. 4.2 : https://www.youtube.com/embed/NAd75rvhvnc
+Lecture - 34 - | Linear Equation in Two Variables | Ex. 4.3 : https://www.youtube.com/embed/rdwmLGAAwA8
+Lecture - 35 - | Linear Equation in Two Variables | Ex. 4.4 : https://www.youtube.com/embed/WXG6ds6Fj98
+Lecture - 36 - | Polynomials | ( Revision NCERT) | Ex - 2.1- 2.5 : https://www.youtube.com/embed/k4XqeCHxXts
+Lecture - 37 - | Linear Equation In two Variables Revision : https://www.youtube.com/embed/5z3ypSjrtNs
+Lecture - 38 - | Euclid 's Geometry Basics : https://www.youtube.com/embed/UIqfXB0_3Ww
+Lecture - 39 - | Eucld 's Geometry | Ex. 5.1 : https://www.youtube.com/embed/qxixq0ma_m4
+Lecture - 40- | Eucld 's Geometry | Ex. 5.2 : https://www.youtube.com/embed/MuvKCGCFV4c
+Lecture - 41- | Lines And Angles Basics : https://www.youtube.com/embed/hir6khHuzDU
+Lecture - 42- | Lines And Angles | Ex. 6 .1 : https://www.youtube.com/embed/uBghMCL6J8U
+Lecture - 43- | Lines And Angles | Ex. 6 .1 : https://www.youtube.com/embed/yIfsJqOlJTY
+Lecture - 44- | Lines And Angles | Ex. 6 .1 : https://www.youtube.com/embed/cY0HEjbfEeA
+Lecture - 45- | Lines And Angles | Ex. 6 .2 : https://www.youtube.com/embed/I_rqUkLg248
+Lecture - 46- | Lines And Angles | Ex. 6 .2 : https://www.youtube.com/embed/GwNkcjR-l98
+Lecture - 47- | Lines And Angles | Ex. 6 .2 : https://www.youtube.com/embed/DR2OVJIFSrU
+Lecture - 48- | Lines And Angles | Ex. 6 .3 : https://www.youtube.com/embed/sUns5Xu7fdg
+Lecture - 49- | Lines And Angles | Ex. 6 .3 : https://www.youtube.com/embed/Y2nEOqwLVw4
+Lecture - 50- | Lines And Angles Revision : https://www.youtube.com/embed/LgSaFVMQXEM
+Lecture - 51 | Triangle Basics : https://www.youtube.com/embed/vnwE_gf_mFo
+Lecture - 52 | Triangle Basics : https://www.youtube.com/embed/H5yPcMr9eAw
+Lecture - 53 | Triangle | Ex. 7.1 : https://www.youtube.com/embed/dUp5Af3Ff1M
+Lecture - 54 | Triangle | Ex. 7.1 : https://www.youtube.com/embed/9MiNK24Ugho
+Lecture - 55 | Triangle | Ex. 7.1 : https://www.youtube.com/embed/YoZ6E15untg
+Lecture - 56 | Triangle | Ex. 7.2 : https://www.youtube.com/embed/3oe6ub1PuqU
+Lecture - 57 | Triangle | Ex. 7.2 : https://www.youtube.com/embed/VJDOhdG_KDQ
+Lecture - 58 | Triangle | Ex. 7.2 : https://www.youtube.com/embed/MDCRcUY1ILA
+Lecture - 59 | Triangle | Ex. 7.3 : https://www.youtube.com/embed/Q6m7vjB3tt0
+Lecture - 60 | Triangle | Ex. 7.3 : https://www.youtube.com/embed/jw53YM9qT4g
+Lecture - 61 | Triangle | Ex. 7.4 : https://www.youtube.com/embed/8Axy1pFXVMw
+Lecture - 62 | Triangle | Ex. 7.4 : https://www.youtube.com/embed/eE-5_fgDFKU
+Lecture - 63 | Triangle | Ex. 7.5 : https://www.youtube.com/embed/spG8SexmLjg
+Lecture - 64 | Triangle | Ex. 7.5 : https://www.youtube.com/embed/tYLIoahfZ0c
+Lecture - 65 | Heron ' s Formula Basics : https://www.youtube.com/embed/iV3Qj6g5tjY
+Lecture - 66 | Heron ' s Formula | Ex. 12.1 : https://www.youtube.com/embed/wmnRifuG_7Q
+Lecture - 67 | Heron ' s Formula | Ex. 12.1 : https://www.youtube.com/embed/hIAQqt0HAhA
+Lecture - 68 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/CyxfctZsi-g
+Lecture - 69 | Revision Triangle : https://www.youtube.com/embed/278t74ksTys
+Lecture - 70 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/rpHh_ya9nl8
+Lecture - 71 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/jwWvafT-zC0
+Lecture - 72 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/Qz1PRBnqjDE
+Lecture - 73 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/mh-vMCPYWMU
+Lecture - 74 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/ANl45jDjYew
+Lecture - 75 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/9T-PYcXZaeY
+Lecture - 76 | Heron ' s Formula | Ex. 12.2 : https://www.youtube.com/embed/BXzSnx6YdcI
+Lecture - 77 | Probability | Ex-15.1 : https://www.youtube.com/embed/XFrtaGoxN8c
+Lecture - 78 | Probability | Ex-15.1 : https://www.youtube.com/embed/CK5uozkEwIY
+Lecture - 79 | Probability | Ex-15.1 : https://www.youtube.com/embed/-QtPqPsLCi0
+Lecture - 80 | Statistics ( Basic ) | Ex -14.1 --14.2 : https://www.youtube.com/embed/dEhC9MZ2mM8
+Lecture - 81 | Statistics ( Basic) | Ex-14.1--14.2 : https://www.youtube.com/embed/fR471BQqAxg
+Lecture - 82 | Statistics ( Basic) | Ex-14.1--14.2 : https://www.youtube.com/embed/B6Y50Uu8zh8
+Lecture - 83 | Statistics ( Basic) | Ex-14.1--14.2 : https://www.youtube.com/embed/OzuiPCY4siI
+L- 84 | Statistics | Ex- 14.3 : https://www.youtube.com/embed/JMPX2OQg4Dc
+L- 85 | Statistics | Ex- 14.3 : https://www.youtube.com/embed/jisIWG9nS6c
+L- 86 | Statistics | Ex- 14.3 : https://www.youtube.com/embed/rsWBophUtuw
+L- 87 | Statistics | Ex- 14.4 : https://www.youtube.com/embed/ZKIlkX_ue3g
+L- 88 | Statistics Revision | : https://www.youtube.com/embed/rXd8sj3hANo
+L- 89 | Surface Area Of Volume (Basics) | : https://www.youtube.com/embed/MmO_wmV-RB8
+L- 90 | Surface Area Of Volume (Basics) | : https://www.youtube.com/embed/kZ0A_R-yA20
+L- 91 | Surface Area Of Volume | Ex-13.1 : https://www.youtube.com/embed/Fq8FSxjH698
+L- 92 | Surface Area Of Volume | Ex-13.1 : https://www.youtube.com/embed/c2z6QMWYIU0
+L- 93 | Surface Area Of Volume | Ex-13.2 : https://www.youtube.com/embed/cl3sCdl9zHA
+L- 94 | Surface Area Of Volume | Ex-13.2 : https://www.youtube.com/embed/saUcWcvmABA
+L- 95 | Surface Area Of Volume | Ex-13.2 -13.3) : https://www.youtube.com/embed/NWJ9po_qCF0
+L- 96 | Surface Area Of Volume | Ex- 13.3) : https://www.youtube.com/embed/pronpCHwUzQ
+L- 97 | Surface Area Of Volume | Ex- 13.4) : https://www.youtube.com/embed/dssR1ysMqwg
+L- 98 | Surface Area Of Volume | Ex- 13.4) : https://www.youtube.com/embed/jRFwhI2XH3U
+L- 99 | Surface Area Of Volume | Ex- 13.5) : https://www.youtube.com/embed/Mvq0mUyo2rc
+L- 100 | Surface Area Of Volume | Ex- 13.5 -13.6) : https://www.youtube.com/embed/5EGgdXB9kRg
+L- 101 | Surface Area Of Volume | Ex- 13.6) : https://www.youtube.com/embed/lwZVjCEOI6o
+L- 102 | Surface Area Of Volume | Ex- 13.6) : https://www.youtube.com/embed/cVFRoUF33fs
+L- 103| Surface Area Of Volume | Ex- 13.6) : https://www.youtube.com/embed/2lBZZVBrE3g
+L- 104 | Surface Area Of Volume | Ex- 13.6) : https://www.youtube.com/embed/fnzbcWhEXRs
+L- 105 | Surface Area Of Volume | Ex- 13.6) : https://www.youtube.com/embed/eFPNpWeoLec
+L- 106 | Surface Area Of Volume | Revision | : https://www.youtube.com/embed/ffi__av1n24
+L- 107 | Surface Area Of Volume | Revision | : https://www.youtube.com/embed/xMv6n3JuEPs
+L- 108 | Topic - Test ( Liens & Angles ) : https://www.youtube.com/embed/6fcTZeWYeZM
+L- 109 | Quadrilateral ( Basics ) : https://www.youtube.com/embed/qM1Dmlmck4M
+L- 110 | Quadrilateral | Ex - 8.1 : https://www.youtube.com/embed/GeW_5PLRH9Q
+L- 111 | Quadrilateral | Ex - 8.1 : https://www.youtube.com/embed/VKzLymCfze0
+L- 112 | Quadrilateral | Ex - 8.1 : https://www.youtube.com/embed/COEDya1bXFg
+L- 113 | Quadrilateral | Ex - 8.1 : https://www.youtube.com/embed/BSCI2cKszyk
+L- 114 | Quadrilateral | Ex - 8.1 : https://www.youtube.com/embed/UGBvlRs1gQI
+L- 115 | Quadrilateral | Ex - 8.1 : https://www.youtube.com/embed/PACisd6XBjs
+L- 116 | Ch - 7 M.C.Q Test | : https://www.youtube.com/embed/96acCnm_yfM
+L- 117 | Quadrilateral | Ex - 8.1 & 2 : https://www.youtube.com/embed/swO8eu8kkqM
+L- 118 | Quadrilateral | Ex - 8.1 & 2 : https://www.youtube.com/embed/OQYldNx-16Y
+L- 119 | Chp-3 Test : https://www.youtube.com/embed/sOCleECj4Rw
+L- 120 | Quadrilateral | Ex - 8.2 : https://www.youtube.com/embed/xz5mpwNDPkk
+L- 121 | Number System M.C.Q | : https://www.youtube.com/embed/Zc2ayWiNbpU
+L - 122 | Algebra M.C.Q : https://www.youtube.com/embed/eSAaULgC6pY
+L - 123 | Algebra M.C.Q : https://www.youtube.com/embed/K2ULo4867OA
+L - 124 | Algebra M.C.Q : https://www.youtube.com/embed/6Lj9QomjgH4
+L - 125 | Number System - M.C.Q : https://www.youtube.com/embed/HLv6FET5p6o
+L - 126 | Triangle - M.C.Q || : https://www.youtube.com/embed/C0cwk26282Q
+L - 127 | Polynomials - MCQ's || : https://www.youtube.com/embed/J6RczAXxOv4
+L - 128 | Polynomials - MCQ's || : https://www.youtube.com/embed/dx-T0NIp2aA
+L - 129 | Chap - 12 Revision || : https://www.youtube.com/embed/cn3Lw271M6U
+L - 130 | Chap - 10.1 Circle || : https://www.youtube.com/embed/y763CzD07lg
+L - 131 | Chap - 10.2 & 10.3 Circle || : https://www.youtube.com/embed/-4WwFtxj5s4
+L - 132 | Chap - 10.4 Circle || : https://www.youtube.com/embed/SyH8IdEO8Lk
+L - 133 | Chap - 10.4 Circle || : https://www.youtube.com/embed/Huh_qLkQ6gM
+L - 131 | Chap - 10.5 Circle || : https://www.youtube.com/embed/Xvu8Shy3sOE
+L - 132 | Chap - 10.5 Circle || : https://www.youtube.com/embed/WfQaheV9JaI
+L - 133 | Chap - 10.5 Circle || : https://www.youtube.com/embed/yC5nqTo8dPU
+L - 134 | Chap - 10.5 & 10.6  Circle || : https://www.youtube.com/embed/SCBTcDDq6AU
+L - 135 | Chap -10.6 Circle || : https://www.youtube.com/embed/4nao1e1IzWI
+L - 136 | Chap -10.6 Circle || : https://www.youtube.com/embed/rH3ce8gtERA
+L - 137 | Chap -10.6 Circle || : https://www.youtube.com/embed/SKXzRu5lXeQ
+L - 138 | Circle Revision || : https://www.youtube.com/embed/KHsAQ2efhTU
+L - 139 | Circle Revision || : https://www.youtube.com/embed/aVDdnSb7IUA
+L - 140 | Circle Revision || : https://www.youtube.com/embed/vmj3STRqM3c
+L - 141 | Basic Of Construction || : https://www.youtube.com/embed/hLzeCLrcnjg
+L - 142 | Basic Of Construction || : https://www.youtube.com/embed/iEux8KOg3PU
+L - 143 | Constructions Ex - 11.1 || : https://www.youtube.com/embed/TbmFI5S4VFM
+L - 144 | Constructions Ex - 11.1 || : https://www.youtube.com/embed/BAKZVXjNU_E
+L - 145 | Constructions Ex - 11.2 || : https://www.youtube.com/embed/lkIoNiryNMc
+L - 146 | Constructions Ex - 11.2 || : https://www.youtube.com/embed/TC-pjImgoRI
+L - 147 | Basic Of Areas Of Parallelograms & Triangles || : https://www.youtube.com/embed/8Pj-BdOlFTo
+L - 148 | Areas Of Parallelograms & Triangles Ex -9.1 || : https://www.youtube.com/embed/AAvqEoTI7Lk
+L - 149 | Areas Of Parallelograms & Triangles Ex -9.2 || : https://www.youtube.com/embed/lBk5jP0j0Ys
+L - 150 | Areas Of Parallelograms & Triangles Ex -9.2 || : https://www.youtube.com/embed/94CfNVZpkiM
+L - 151 | Areas Of Parallelograms & Triangles Ex -9.3 || : https://www.youtube.com/embed/sMLvBsL2HJA
+L - 152 | Areas Of Parallelograms & Triangles Ex -9.3 || : https://www.youtube.com/embed/HXIYHZi91e4
+L - 153 | Areas Of Parallelograms & Triangles Ex -9.3 || : https://www.youtube.com/embed/XRzXA3T8lao
+L - 154 | Areas Of Parallelograms & Triangles Ex -9.3 || : https://www.youtube.com/embed/kFINg4EHRmU
+L - 155 | Areas Of Parallelograms & Triangles Ex -9.3 || : https://www.youtube.com/embed/so3Je0RzDvA
+L - 156 | Areas Of Parallelograms & Triangles Ex -9.3 || : https://www.youtube.com/embed/JcgV1X7CjSs
+9TH CLASS || ENGLISH || INTRODUCTION || LECTURE-01 || ARUN SIR : https://www.youtube.com/embed/n2AbASev_yg
+9TH CLASS || ENGLISH || IEnglish(intro) || LECTURE-02 || ARUN SIR : https://www.youtube.com/embed/X-nIaI5OxqY
+9TH CLASS || ENGLISH || FUNDAMENTALOF ENGLISH  || LECTURE-03 || ARUN SIR : https://www.youtube.com/embed/d4xC5o0RVXY
+9TH CLASS || ENGLISH || FUNDAMENTALOF ENGLISH || LECTURE-04 || ARUN SIR : https://www.youtube.com/embed/iNS9-bZ0pwU
+9TH CLASS || ENGLISH || FUNDAMENTALOF ENGLISH || LECTURE-05 || ARUN SIR : https://www.youtube.com/embed/XJ3Nf4I5npg
+9TH CLASS || ENGLISH || SENTENCE & ITS PARTS || LECTURE-06 || ARUN SIR : https://www.youtube.com/embed/rODNL5HnCxI
+9TH CLASS || ENGLISH || Sentence & its part (Subject & predicate)|| LECTURE-07 || ARUN SIR : https://www.youtube.com/embed/JFb4Mb6yP-I
+9TH CLASS || ENGLISH ||Sentence & its part (Subject & predicate) || LECTURE-08 || ARUN SIR : https://www.youtube.com/embed/5m1cAO92bsc
+9TH CLASS || ENGLISH || Sentence & its part (Subject & predicate)|| LECTURE-08 || ARUN SIR : https://www.youtube.com/embed/xoqcUnYhfSg
+9TH CLASS || ENGLISH || Sentence & its part (Subject & predicate) || LECTURE-10 || ARUN SIR : https://www.youtube.com/embed/dtGkEbyrbE4
+9TH CLASS || ENGLISH ||Sentence & its part (Subject & predicate)|| LECTURE-11 || ARUN SIR : https://www.youtube.com/embed/U0ak8eMpdpU
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence ) || LECTURE-12 || ARUN SIR : https://www.youtube.com/embed/0b6Vr55gGTQ
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence ) || LECTURE-13 || ARUN SIR : https://www.youtube.com/embed/leq-8d8XhnI
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence ) || LECTURE-14|| ARUN SIR : https://www.youtube.com/embed/8yGxTP2zUk0
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence ) || LECTURE-15 || ARUN SIR : https://www.youtube.com/embed/veUA0ALqsPk
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence ) || LECTURE-16 || ARUN SIR : https://www.youtube.com/embed/3mXn4Fm_ekI
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence ) || LECTURE-17 || ARUN SIR : https://www.youtube.com/embed/2l4ev1JtMaU
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence )|| LECTURE-18 || ARUN SIR : https://www.youtube.com/embed/G1Jg-jeFelA
+9TH CLASS || ENGLISH || Sentence & its part (Phrase ,clause & sentence )|| LECTURE-19 || ARUN SIR : https://www.youtube.com/embed/-8JSE4Nc-cs
+9TH CLASS || ENGLISH || Revision & doubt session|| LECTURE-20 || ARUN SIR : https://www.youtube.com/embed/Acgi05bEzPY
+9TH CLASS || ENGLISH || Revision & doubt session || LECTURE-21 || ARUN SIR : https://www.youtube.com/embed/It2jA0rfCII
+9TH CLASS || ENGLISH || Revision & doubt session || LECTURE-22 || ARUN SIR : https://www.youtube.com/embed/vuFVGOtHDMU
+9TH CLASS || ENGLISH || Types of sentence  || LECTURE-23 || ARUN SIR : https://www.youtube.com/embed/s2vveuhPCKQ
+9TH CLASS || ENGLISH || Types of sentence  || LECTURE-24 || ARUN SIR : https://www.youtube.com/embed/E5QXHG4irug
+9TH CLASS || ENGLISH || Types of sentence || LECTURE-25 || ARUN SIR : https://www.youtube.com/embed/l2sJBcnXFCQ
+9TH CLASS || ENGLISH || Types of sentence || LECTURE-26 || ARUN SIR : https://www.youtube.com/embed/Nn192PXXM2A
+9TH CLASS || ENGLISH || Types of sentence  || LECTURE-27 || ARUN SIR : https://www.youtube.com/embed/BnQ5ufPbV7U
+9TH CLASS || ENGLISH || Types of sentence  || LECTURE-28 || ARUN SIR : https://www.youtube.com/embed/3SzoZVgbr0I
+9TH CLASS || ENGLISH || Types of sentence  || LECTURE-29 || ARUN SIR : https://www.youtube.com/embed/bvacdS8h9Ms
+9TH CLASS || ENGLISH || The fun they had (English Beehive) || LECTURE-30 || ARUN SIR : https://www.youtube.com/embed/LG05EtV0rdU
+9TH CLASS || ENGLISH || The fun they had (English Beehive) LECTURE-31 || ARUN SIR : https://www.youtube.com/embed/DXPNEjxgYL8
+9TH CLASS || ENGLISH || The fun they had (English Beehive)|| LECTURE-32 || ARUN SIR : https://www.youtube.com/embed/vLagfqdImXE
+9TH CLASS || ENGLISH || The fun they had (English Beehive) || LECTURE-33 || ARUN SIR : https://www.youtube.com/embed/GP8n71Avrgg
+9TH CLASS || ENGLISH ||  The lost child (English moments)|| LECTURE-34|| ARUN SIR : https://www.youtube.com/embed/QjJmCqUiojw
+9TH CLASS || ENGLISH ||  The lost child (English moments)|| LECTURE-35 || ARUN SIR : https://www.youtube.com/embed/BoAf_avVt6A
+9TH CLASS || ENGLISH ||  The lost child (English moments)|| LECTURE-36 || ARUN SIR : https://www.youtube.com/embed/G4D6D8yK08s
+9TH CLASS || ENGLISH ||  The lost child (English moments)|| LECTURE-37 || ARUN SIR : https://www.youtube.com/embed/LkUlHM29QXA
+9TH CLASS || ENGLISH || Function of helping verb ( Is/am/are/was/were/has /had/have/do/does/did)||| LECTURE-38 || ARUN SIR : https://www.youtube.com/embed/6xQ7-9i1sEc
+9TH CLASS || ENGLISH || Function of helping verb ( Is/am/are/was/were/has /had/have/do/does/did) || LECTURE-39 || ARUN SIR : https://www.youtube.com/embed/Yi0_iIsGPQc
+9TH CLASS || ENGLISH ||  Function of helping verb ( Is/am/are/was/were/has /had/have/do/does/did) || LECTURE-40 || ARUN SIR : https://www.youtube.com/embed/9nR6z15LeQ8
+9TH CLASS || ENGLISH || Function of helping verb ( Is/am/are/was/were/has /had/have/do/does/did)|| LECTURE-41 || ARUN SIR : https://www.youtube.com/embed/3y2LpMhok9Q
+9TH CLASS || ENGLISH || Noun|| LECTURE-42 || ARUN SIR : https://www.youtube.com/embed/OkTUu9RvzA4
+9TH CLASS || ENGLISH ||Noun  || LECTURE-43 || ARUN SIR : https://www.youtube.com/embed/yIKFIBO00YA
+9TH CLASS || ENGLISH || Noun  || LECTURE-44 || ARUN SIR : https://www.youtube.com/embed/Fa8PEzKhGu0
+9TH CLASS || ENGLISH |Noun  || LECTURE-45 || ARUN SIR : https://www.youtube.com/embed/pSQ-ghY6XBA
+9TH CLASS || ENGLISH || Noun || LECTURE-46 || ARUN SIR : https://www.youtube.com/embed/Db8kOLYbJyE
+9TH CLASS || ENGLISH ||Noun || LECTURE-47 || ARUN SIR : https://www.youtube.com/embed/ZT4iydyBfog
+9TH CLASS || ENGLISH || Noun || LECTURE-48 || ARUN SIR : https://www.youtube.com/embed/D2VCy8RRYc4
+9TH CLASS || ENGLISH || Noun || LECTURE-49 || ARUN SIR : https://www.youtube.com/embed/fFvsEhoatOs
+9TH CLASS || ENGLISH || Noun || LECTURE-50 || ARUN SIR : https://www.youtube.com/embed/tHBAbuWVqHU
+9TH CLASS || ENGLISH |Noun || LECTURE-51 || ARUN SIR : https://www.youtube.com/embed/U8QCsHqEE5Y
+9TH CLASS || ENGLISH || noun || LECTURE-52 || ARUN SIR : https://www.youtube.com/embed/VlH9pqsfyUs
+9TH CLASS || ENGLISH || noun || LECTURE-53 || ARUN SIR : https://www.youtube.com/embed/0k7LKXcp1-A
+9TH CLASS || ENGLISH || noun || LECTURE-54 || ARUN SIR : https://www.youtube.com/embed/4VRHVe1ywHc
+9TH CLASS || ENGLISH || noun || LECTURE-55 || ARUN SIR : https://www.youtube.com/embed/dc2svfdQN2w
+9TH CLASS || ENGLISH || noun doubt class || LECTURE-56 || ARUN SIR : https://www.youtube.com/embed/XzvgooycSsY
+9TH CLASS || ENGLISH || noun doubt class || LECTURE-57 || ARUN SIR : https://www.youtube.com/embed/chs4oYAoX4M
+9TH CLASS || ENGLISH || Figure of speech || LECTURE-58 || ARUN SIR : https://www.youtube.com/embed/mDmE49CeMHU
+9TH CLASS || ENGLISH || Figure of speech || LECTURE-59 || ARUN SIR : https://www.youtube.com/embed/ljvC54KkQxQ
+9TH CLASS || ENGLISH || Figure of speech || LECTURE-60 || ARUN SIR : https://www.youtube.com/embed/Vm5BOK2AgLw
+9TH CLASS || ENGLISH || Figure of speech || LECTURE-61 || ARUN SIR : https://www.youtube.com/embed/Mtx8d49A6-U
+9TH CLASS || ENGLISH || Figure of speech || LECTURE-62 || ARUN SIR : https://www.youtube.com/embed/ucALPjkDwKc
+9TH CLASS || ENGLISH || Figure of speech || LECTURE-63 || ARUN SIR : https://www.youtube.com/embed/u5xHndJ9rLA
+9TH CLASS || ENGLISH || Figure of speech || LECTURE-64 || ARUN SIR : https://www.youtube.com/embed/x_owGB9jQJM
+9TH CLASS || ENGLISH || INTRODUCTION || LECTURE-65 || ARUN SIR : https://www.youtube.com/embed/-O8MiWmyA_4
+9TH CLASS || ENGLISH || SOUND OF MUSIC || LECTURE-66 || ARUN SIR : https://www.youtube.com/embed/BNlpwxMRkoY
+9TH CLASS || ENGLISH || PRONOUN || LECTURE-67 || ARUN SIR : https://www.youtube.com/embed/sHv3-c5Ms6M
+9TH CLASS || ENGLISH || PRONOUN || LECTURE-68 || ARUN SIR : https://www.youtube.com/embed/SEJnH3VtFSc
+9TH CLASS || ENGLISH || PRONOUN || LECTURE-69 || ARUN SIR : https://www.youtube.com/embed/KpBPZU8RL2A
+9TH CLASS || ENGLISH || PRONOUN || LECTURE-70 || ARUN SIR : https://www.youtube.com/embed/jZBRhqA9M8o
+9TH CLASS || ENGLISH || PRONOUN || LECTURE-71 || ARUN SIR : https://www.youtube.com/embed/Cg3khAg2odE
+|| PRONOUN || LECTURE-72 || : https://www.youtube.com/embed/paCm1pf4vtM
+|| PRONOUN || LECTURE-73 || : https://www.youtube.com/embed/d_FbZeZ00hA
+|| THE ADVENTURES OF TOTO || LECTURE-74 || : https://www.youtube.com/embed/ExE8k_AmWhE
+|| THE ADVENTURES OF TOTO || LECTURE-75 || : https://www.youtube.com/embed/lR7MULBs2t4
+|| THE ADVENTURES OF TOTO || LECTURE-76 || : https://www.youtube.com/embed/wr8Q-gKVYdQ
+|| TENSE || LECTURE-77 || : https://www.youtube.com/embed/CZTh1FSbM24
+|| TENSE || LECTURE-78 || : https://www.youtube.com/embed/IEPNBeN1Mvk
+|| TENSE || LECTURE-79 || : https://www.youtube.com/embed/L0uTXn4uUoU
+|| TENSE || LECTURE-80 || : https://www.youtube.com/embed/TlQU4W8RKWw
+|| TENSE || LECTURE-81 || : https://www.youtube.com/embed/TBEAcfT0biU
+|| TENSE || LECTURE-82 || : https://www.youtube.com/embed/797C-_IXr2Q
+|| TENSE || LECTURE-83 || : https://www.youtube.com/embed/ZVohdpcUfSQ
+|| TENSE || LECTURE-84 || : https://www.youtube.com/embed/DuyzRCi0oXM
+|| TENSE || LECTURE-85 || : https://www.youtube.com/embed/IEd1sdfjP2E
+|| TENSE || LECTURE-86 || : https://www.youtube.com/embed/G_mvwRdoAIg
+|| TENSE || LECTURE-87 || : https://www.youtube.com/embed/-lxrzCW0ev0
+|| TENSE || LECTURE-88 || : https://www.youtube.com/embed/g2Ja31UvqHM
+|| TENSE || LECTURE-89 || : https://www.youtube.com/embed/k2Jh6CtWdeA
+|| TENSE || LECTURE-90 || : https://www.youtube.com/embed/9irNTJyVPI4
+|| TENSE || LECTURE-91 || : https://www.youtube.com/embed/lbNwP9v1ZzA
+Lecture-92 || Poem 1- The Road Not Taken || : https://www.youtube.com/embed/ae5b7AWHus0
+Lecture-93 || Poem 1- The Road Not Taken || : https://www.youtube.com/embed/MjSCiwZj3_E
+Lecture-94 || In The Kingdom Of Fools || : https://www.youtube.com/embed/YbZ4DN24vdE
+Lecture-95 || In The Kingdom Of Fools || : https://www.youtube.com/embed/NioZQCduwNQ
+L-96 || Subject of Agreement || : https://www.youtube.com/embed/MoaiBAHkPc8
+L-97 || Subject verb Agreement || : https://www.youtube.com/embed/CQu5imZYr30
+L-98 || Subject verb Agreement || : https://www.youtube.com/embed/_X_y9Bwd8KA
+L-99 || Subject verb Agreement || : https://www.youtube.com/embed/H7WyF0D8Pc8
+L-100 || Subject verb Agreement || : https://www.youtube.com/embed/IhggcwkIS5E
+L-101 || Subject verb Agreement Practice [M.C.Q] || : https://www.youtube.com/embed/yh8WcMlJVf0
+L-102 || Subject verb Agreement Practice [M.C.Q] || : https://www.youtube.com/embed/HXgJvMjCwBY
+L-103 || The Little Girl (Beehive) || : https://www.youtube.com/embed/yohmpCvx_AY
+L-104 || The Little Girl (Beehive) || : https://www.youtube.com/embed/IygCngkforA
+L-105 || The Lost Child (M.C.Q) || : https://www.youtube.com/embed/HyIby_4HCYE
+L-106 || The Happy Prince (Moments ) || : https://www.youtube.com/embed/Ol4PjS7pE_g
+L-107 || The Happy Prince (Moments ) || : https://www.youtube.com/embed/BtwsuvcVJp4
+L-108 || A Truly Beautiful Mind (Beehive) || : https://www.youtube.com/embed/Ui3Xu70F1Fo
+L-109 || A Truly Beautiful Mind (Beehive) || : https://www.youtube.com/embed/6RgLoRE_4Qo
+L-110 || Diary Entry || : https://www.youtube.com/embed/hGs6DodLIbg
+L-111 || Diary Entry || : https://www.youtube.com/embed/ikbEK5NGSjk
+L-112 || My Childhood (Beehive ) || : https://www.youtube.com/embed/MCpGcIs8pbQ
+L-113 || My Childhood (Beehive ) || : https://www.youtube.com/embed/42cFu31Ykw8
+L-114 || Narration || : https://www.youtube.com/embed/sbThrzA5y68
+L-115 || Narration || : https://www.youtube.com/embed/TQirWgnQnR0
+L-116 || Narration || : https://www.youtube.com/embed/6o3OE57wetc
+L-117 || Narration || : https://www.youtube.com/embed/GvDBF7Z_4Vg
+L-118 || Narration || : https://www.youtube.com/embed/8pQXXgrASXw
+L-119 || Narration || : https://www.youtube.com/embed/BeQ0nx8glZU
+L-120 || Narration Practice || : https://www.youtube.com/embed/bETyc5IKUik
+L-121 || Passage || : https://www.youtube.com/embed/Qa7_h5ubRO0
+L-122 || Format Of Letter || : https://www.youtube.com/embed/dWvhpd0ZAi0
+L-123 || Modals || : https://www.youtube.com/embed/7VMu_RvY-_8
+L-124 || Modals || : https://www.youtube.com/embed/223quaTDNdI
+L-125 ||  Modals Practice || : https://www.youtube.com/embed/RFKjNVyBjAc
+L-126 || Determiners || : https://www.youtube.com/embed/mp_jtjxNRjQ
+L-127 || Determiners || : https://www.youtube.com/embed/tHQxKsb_trw
+L-128 || Determiners || : https://www.youtube.com/embed/l0OpvB8S4pI
+L-129 || Determiners ( Article ) : https://www.youtube.com/embed/jFQXJZRP0oI
+L-130 || Determiners ( Article ) : https://www.youtube.com/embed/1IMzZNt72fs
+L-131 || Determiners ( Article ) : https://www.youtube.com/embed/khxdkFfrXzs
+L-132 || Determiners ( Article ) : https://www.youtube.com/embed/BaIguKzD6ZM
+L-133 || Determiners Practice Questions : https://www.youtube.com/embed/an0S1oTKzyc
+L-134 || Wind (Poem ) Beehive : https://www.youtube.com/embed/mG2jlIXZiP0
+L-135 || Rain on The Roof (Poem ) Beehive : https://www.youtube.com/embed/gK6hsJ3j6WI
+L-136 || A legend of The Northland (Poem ) Beehive : https://www.youtube.com/embed/axqhpdsZPFA
+L-137 || The Lost Child (Poem MCQ ) Beehive : https://www.youtube.com/embed/z_013c4QjcQ
+L-138 || Letter Writing Stand Alone (M C Q) : https://www.youtube.com/embed/aW0EZ_zKGKQ
+L-139 || Gap Filling || : https://www.youtube.com/embed/icfFn-2hLOk
+L-140 || Dialogue Reporting Passage Based (M C Q) : https://www.youtube.com/embed/72E1SkKUo1s
+L-141 || Dialogue Reporting Passage Based (M C Q) : https://www.youtube.com/embed/Vd1qPPubVZU
+L-142 || Case -Based Factual Passage : https://www.youtube.com/embed/PMomTWKDIB8
+L-143 || Case -Based Factual Passage : https://www.youtube.com/embed/tf7jCp4gwfw
+L-144 || Case -Based Factual Passage : https://www.youtube.com/embed/YttKVy_nqqY
+L-145 || The Adventures of Toto / In The Kingdom of Fools (MCQ) -Moments : https://www.youtube.com/embed/Cc6ZLJGUtos
+L-146 || The Fun They Had /The Sound of Music (MCQ) - Beehive : https://www.youtube.com/embed/1_wGl3mHJ2A
+L-147 || The Sound of Music / The Little Girl (MCQ) - Beehive : https://www.youtube.com/embed/tf2_K-6nNN4
+L-148 || The Happy Prince (MCQ) - Moments : https://www.youtube.com/embed/OHaSzKPiuyY
+L-149 || The Little Girl (MCQ) - Beehive : https://www.youtube.com/embed/BIZIJEjR2_Y
+L-150 || L-150 || A Truly Beautiful Mind  (MCQ) - Beehive : https://www.youtube.com/embed/gSOpWt116Z0
+L-151 || My Childhood (MCQ) - Beehive : https://www.youtube.com/embed/l-8Fmf0HEi4
+L-152 || The Road Not Taken / Wind (MCQ) - Beehive : https://www.youtube.com/embed/r7aVlOX2jOI
+L-153 || Rain On The Roof / A Legend Of The Northland (MCQ) - Beehive : https://www.youtube.com/embed/0h6oKq791wU
+L-154 || Rain On The Roof / A Legend Of The Northland (MCQ) - Beehive : https://www.youtube.com/embed/rKzGD3HQvZM
+L-155 || Rain On The Roof / A Legend Of The Northland (MCQ) - Beehive : https://www.youtube.com/embed/w07b5idVfrA
+L-156 || Voice : https://www.youtube.com/embed/W-fbg-qjgZA
+L-157 || Voice : https://www.youtube.com/embed/MCaiP9tJdtI
+L-158 || Doubt of Active Passive Voice : https://www.youtube.com/embed/Mb37-dYt428
+L-159 || Active Passive Voice : https://www.youtube.com/embed/03qsYwEI8gg
+L-160 || Active Passive Voice : https://www.youtube.com/embed/fkYUgAkzcyY
+L-161 || Active Passive Voice : https://www.youtube.com/embed/-B9FwTkUNgA
+L-162 || Active Passive Voice : https://www.youtube.com/embed/-ZbUMfLUQsg
+L-163 || Active Passive Voice : https://www.youtube.com/embed/VTPf3yhX4Z4
+L-164 || Active Passive Voice : https://www.youtube.com/embed/pebCCPaZGk0
+L-165 || Active Passive Voice : https://www.youtube.com/embed/q0pLE1Xb4tE
+L-166 || Active Passive Voice Practice : https://www.youtube.com/embed/CK0PsIQLL3g
+L-167 || Active Passive Voice Doubt Class : https://www.youtube.com/embed/c2YtngeFfo8
+L-168 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/9c_Zl2POE2E
+L-169 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/DtdlKstTl4U
+L-170 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/ISaOsJC5W2g
+L-171 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/tWgh48cmVbk
+L-172 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/qG70Cw-W6tA
+L-173 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/eJ9y_JoStb4
+L-174 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/0Pqh6i25usI
+L-175 || Weathering The Storm In Ersama - Moments : https://www.youtube.com/embed/TdZt-dE4in8
+L-176 || No Men are Foreign - Beehive : https://www.youtube.com/embed/I-eZHnKOb0Y
+L-177 || Preposition | : https://www.youtube.com/embed/LjHkxTxDHd8
+L-178 || Preposition | : https://www.youtube.com/embed/KXPzPVnh2cM
+L-179 || Preposition | : https://www.youtube.com/embed/v8ISKbBCbak
+L-180 || Preposition | : https://www.youtube.com/embed/bvhQkX44czw
+L-181 || Preposition | : https://www.youtube.com/embed/TRwy_Z7A7KQ
+L-182 || Preposition | : https://www.youtube.com/embed/r9tBRXa5XIU
+L-183 || Preposition | : https://www.youtube.com/embed/hCYuQ1mJpQ0
+L-184 || The Beggar - Moments : https://www.youtube.com/embed/SjUPd5YRaFI
+L-185 || The Beggar - Moments : https://www.youtube.com/embed/9fV7lSbGyJk
+L-186 || Packing - Beehive : https://www.youtube.com/embed/MaLh21fKEHc
+L-187 || Packing - Beehive : https://www.youtube.com/embed/JQcTr4uX8-c
+L-188 || Reach For The Top - Beehive : https://www.youtube.com/embed/Wen8oOFBek0
+L-189 || Reach For The Top - Beehive : https://www.youtube.com/embed/2pc0YcUCUOM
+L-190 || The Bond of Love - Beehive : https://www.youtube.com/embed/7gZvfUFuA38
+L-191 || The Bond of Love - Beehive : https://www.youtube.com/embed/Kc3PtmlDghg
+L-192 || Fillers : https://www.youtube.com/embed/gjgmcAj6858
+L-193 || If I Were You : https://www.youtube.com/embed/RbyGv9xPNxg
+L-194 || If I Were You : https://www.youtube.com/embed/p6Cx6pCYfVA
+L-195 ||  On Killing A Tree- Beehive (Poem ) : https://www.youtube.com/embed/zZGPtsoGRSw
+L-196 ||  The Snake Trying - Beehive (Poem) : https://www.youtube.com/embed/ElcUmJ06shI
+L-197 || The Snake Trying - Beehive (Poem) : https://www.youtube.com/embed/wz0t0JD64F4
+L-198 || Passage Discursive Passage : https://www.youtube.com/embed/XPWadTBXtc4
+L-199 || Passage Discursive Passage : https://www.youtube.com/embed/FaSHGJ-8gzY
+L-200 || Passage Case Based Factual passage : https://www.youtube.com/embed/-tUonKVJqNY
+L-201 || Passage Case Based Factual passage : https://www.youtube.com/embed/R7BmjLKtW4E
+L-202 || Narration Quick Revision : https://www.youtube.com/embed/btUFCHMK9t4
+L-203 || Narration Quick Revision : https://www.youtube.com/embed/ShYwB5bEak4
+L-204 || Narration Quick Revision : https://www.youtube.com/embed/piP9SQXPGaY
+L-205 || Narration Quick Revision : https://www.youtube.com/embed/TgfN17ePbEo
+L-206 || Narration Practice Questions : https://www.youtube.com/embed/4QhLOUefNhI
+L-207 || Narration Practice Questions : https://www.youtube.com/embed/aaEWvDatRSg
+L-208 || Narration Practice Questions : https://www.youtube.com/embed/RIkH1i-yRj0
+L-209 || Passage : https://www.youtube.com/embed/LmZlAz2oadY
+L-210 || Model : https://www.youtube.com/embed/mq-BTt3qK7o
+L-211 || Model : https://www.youtube.com/embed/uXN2MEyeY20
+L-212 || Model : https://www.youtube.com/embed/S9hj4R39Xoc
+L-213 || Letter : https://www.youtube.com/embed/Pmyf5CJDKdA
+L-214 || Letter : https://www.youtube.com/embed/BAHmtnB4P2I
+L-215 || Letter : https://www.youtube.com/embed/f0ZgbBcnfug
+L-216 || Letter of Enquary : https://www.youtube.com/embed/sIzyZFIOge8
+L-217 || Determiner Revision : https://www.youtube.com/embed/EYizeppDdgI
+L-218 || Determiner Revision : https://www.youtube.com/embed/_3D31Xr-7sM
+L-219 || Determiner Revision : https://www.youtube.com/embed/hqz2WSFbFdQ
+L-220 || Determiner Revision : https://www.youtube.com/embed/i3EisAKgVsU
+L-221 || Self Introduction : https://www.youtube.com/embed/76D7uOzVj1Q
+9TH CLASS || PHYSICS || INTRODUCTION || LECTURE -01 || KETAN SIR : https://www.youtube.com/embed/tRO7wh5G4BY
+9TH CLASS || PHYSICS || गति || LECTURE -02 || KETAN SIR : https://www.youtube.com/embed/pgNhXBsm-gQ
+9TH CLASS || PHYSICS || गति || LECTURE -03 || KETAN SIR : https://www.youtube.com/embed/YydWNEmVO6A
+9TH CLASS || PHYSICS || Iगति || LECTURE -04 || KETAN SIR : https://www.youtube.com/embed/2MupT2bhujQ
+9TH CLASS || PHYSICS || गति || LECTURE -05 || KETAN SIR : https://www.youtube.com/embed/iB1y4szz9Mg
+9TH CLASS || PHYSICS || गति || LECTURE -06 || KETAN SIR : https://www.youtube.com/embed/FyVv0cj1mIw
+9TH CLASS || PHYSICS || गति || LECTURE -07  || KETAN SIR : https://www.youtube.com/embed/lfKyQU5-lII
+9TH CLASS || PHYSICS || गति || LECTURE -08 || KETAN SIR : https://www.youtube.com/embed/16XJ32IFhEA
+9TH CLASS || PHYSICS || गति || LECTURE -09 || KETAN SIR : https://www.youtube.com/embed/LRnOerUWs2M
+9TH CLASS || PHYSICS || गति || LECTURE -10 || KETAN SIR : https://www.youtube.com/embed/voBS027Gjp0
+9TH CLASS || PHYSICS || गति || LECTURE -11 || KETAN SIR : https://www.youtube.com/embed/A8Ia1gKtIx8
+9TH CLASS || PHYSICS || गति || LECTURE -12 || KETAN SIR : https://www.youtube.com/embed/-UpeoPX6sjg
+9TH CLASS || PHYSICS || गति || LECTURE -13|| KETAN SIR : https://www.youtube.com/embed/5JZHxc0tfqw
+9TH CLASS || PHYSICS || गति || LECTURE -14 || KETAN SIR : https://www.youtube.com/embed/dY79iOUryrQ
+9TH CLASS || PHYSICS || गति || LECTURE -15 || KETAN SIR : https://www.youtube.com/embed/97y6WvqCDx0
+9TH CLASS || PHYSICS || गति || LECTURE -16 || KETAN SIR : https://www.youtube.com/embed/ONt_ZKMGb1g
+9TH CLASS || PHYSICS || गति || LECTURE -17 || KETAN SIR : https://www.youtube.com/embed/WpfxT9hkbeM
+9TH CLASS || PHYSICS || गति || LECTURE -18 || KETAN SIR : https://www.youtube.com/embed/J4ewC-LIeEM
+9TH CLASS || PHYSICS || गति || LECTURE -19 || KETAN SIR : https://www.youtube.com/embed/I3xjaH3H4Ns
+9TH CLASS || PHYSICS || गति || LECTURE -20 || KETAN SIR : https://www.youtube.com/embed/AKeTOm02jH8
+9TH CLASS || PHYSICS || गति || LECTURE -21 || KETAN SIR : https://www.youtube.com/embed/qh_lIZvoLg4
+9TH CLASS || PHYSICS || गति || LECTURE -22 || KETAN SIR : https://www.youtube.com/embed/AUj_S_q445U
+9TH CLASS || PHYSICS || गति || LECTURE -23 || KETAN SIR : https://www.youtube.com/embed/e1d_5EuNAuw
+9TH CLASS || PHYSICS || गति || LECTURE -24 || KETAN SIR : https://www.youtube.com/embed/cbqcBJPoIdQ
+9TH CLASS || PHYSICS || गति || LECTURE -25 || KETAN SIR : https://www.youtube.com/embed/7h0hW7pqN_w
+9TH CLASS || PHYSICS || गति || LECTURE -26 || KETAN SIR : https://www.youtube.com/embed/TzIsjS-ni-s
+9TH CLASS || PHYSICS || गति || LECTURE -27 || KETAN SIR : https://www.youtube.com/embed/nbUFHFSyB64
+9TH CLASS || PHYSICS || गति || LECTURE -28 || KETAN SIR : https://www.youtube.com/embed/2FGnxlrGDZI
+9TH CLASS || PHYSICS || गति || LECTURE -29 || KETAN SIR : https://www.youtube.com/embed/LkTZZiZqBBg
+9TH CLASS || PHYSICS || गति || LECTURE -30 || KETAN SIR : https://www.youtube.com/embed/tL0Dr9QccLE
+9TH CLASS || PHYSICS || गति || LECTURE -31 || KETAN SIR : https://www.youtube.com/embed/CQ8zu4r9BOU
+9TH CLASS || PHYSICS || गति || LECTURE -32 || KETAN SIR : https://www.youtube.com/embed/Njf_VhYvc6Q
+9TH CLASS || PHYSICS || गति || LECTURE -33 || KETAN SIR : https://www.youtube.com/embed/P0PCkgNAbMg
+9TH CLASS || PHYSICS || गति || LECTURE -34 || KETAN SIR : https://www.youtube.com/embed/5s0cx8B7B60
+9TH CLASS || PHYSICS || गति || LECTURE -35 || KETAN SIR : https://www.youtube.com/embed/iRLiNt_HZCI
+9TH CLASS || PHYSICS || गति || LECTURE -36 || KETAN SIR : https://www.youtube.com/embed/sdl16xU3j7s
+9TH CLASS || PHYSICS || गति || LECTURE -37 || KETAN SIR : https://www.youtube.com/embed/4bDio02oB_E
+9TH CLASS || PHYSICS || गति || LECTURE -38 || KETAN SIR : https://www.youtube.com/embed/px-E6Fakrqw
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -39 || KETAN SIR : https://www.youtube.com/embed/_2y40ss1l4g
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -40 || KETAN SIR : https://www.youtube.com/embed/X_bgDghXr3g
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -41 || KETAN SIR : https://www.youtube.com/embed/dvjTET2WH9E
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -42 || KETAN SIR : https://www.youtube.com/embed/BgdJKuJAzlU
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -43 || KETAN SIR : https://www.youtube.com/embed/0spj4RLZpmw
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -44 || KETAN SIR : https://www.youtube.com/embed/48fFF7eEE_E
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -45 || KETAN SIR : https://www.youtube.com/embed/1JMQPJBTxW8
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -46|| KETAN SIR : https://www.youtube.com/embed/mNhobiHAuWI
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -47 || KETAN SIR : https://www.youtube.com/embed/KTKKi4G9C8U
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -48 || KETAN SIR : https://www.youtube.com/embed/iejj3JQlzxg
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -49 || KETAN SIR : https://www.youtube.com/embed/TtmenuWwE64
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -50 || KETAN SIR : https://www.youtube.com/embed/Db95wOEFKSA
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -51 || KETAN SIR : https://www.youtube.com/embed/I5ynZCN7wJY
+9TH CLASS || PHYSICS || Force and Laws of Motion || बल और गति के नियम || LECTURE -52 || KETAN SIR : https://www.youtube.com/embed/nVWCtalZRWc
+L-53 || Force and Laws of Motion || बल और गति के नियम : https://www.youtube.com/embed/s1slIR1glKQ
+L-54 || Force and Laws of Motion || बल और गति के नियम : https://www.youtube.com/embed/NPVEPi36-Oc
+L-55 || Force and Laws of Motion || बल और गति के नियम : https://www.youtube.com/embed/LccQQP6M-qo
+L-56 || Force and Laws of Motion || बल और गति के नियम : https://www.youtube.com/embed/0bmsyw_iUik
+L-57 || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/hRLK5ChoU_s
+L-58 || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/QYmxdYBmQow
+L-59 || Force and Laws of Motion  (Numerical) || बल और गति के नियम : https://www.youtube.com/embed/oLJsZ3gt0O8
+L-60 || Force and Laws of Motion (Numerical) || बल और गति के नियम : https://www.youtube.com/embed/arO4jmDvAlU
+L-61 || Force and Laws of Motion (Numerical) || बल और गति के नियम : https://www.youtube.com/embed/Lict7Roil5k
+L-62 || Force and Laws of Motion ( Doubts ) || बल और गति के नियम : https://www.youtube.com/embed/yx0_huJ4_GM
+L-63 || Force and Laws of Motion (Numerical) || बल और गति के नियम : https://www.youtube.com/embed/iEM6ZuA3Cgw
+L-64 || Force and Laws of Motion (Numerical) || बल और गति के नियम : https://www.youtube.com/embed/vz-jsFIkcvA
+L-65 || Gravitation || गुरुत्वाकर्षण बल : https://www.youtube.com/embed/neK_d6qp7GY
+L-66 || Gravitation || गुरुत्वाकर्षण बल : https://www.youtube.com/embed/n4k5iURD5iE
+L-67 || Gravitation || गुरुत्वाकर्षण बल : https://www.youtube.com/embed/Q96fLw9NU3I
+L-68 || Gravitation || गुरुत्वाकर्षण बल : https://www.youtube.com/embed/clv2Cx_2DoQ
+L-69 || Gravitation || गुरुत्वाकर्षण : https://www.youtube.com/embed/bPXeS-4bgqA
+L-70 || Gravitation || गुरुत्वाकर्षण : https://www.youtube.com/embed/Ftjvx7MIUGA
+L-71 || Gravitation || गुरुत्वाकर्षण : https://www.youtube.com/embed/zOf_XRmYmxY
+L-72 || Gravitation || गुरुत्वाकर्षण : https://www.youtube.com/embed/0K6JWOWqDWQ
+L-73 || Class - 1 (Work and Energy ) कार्य एवं  ऊर्जा : https://www.youtube.com/embed/sstN5lQ5SYI
+L-74 || Gravitation || गुरुत्वाकर्षण : https://www.youtube.com/embed/8eLiGLjigKY
+L-75 || Class - 2 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/2vcOArzuEY8
+L-76 || Buoyancy उत्प्लावन : https://www.youtube.com/embed/yTdtm8iEONQ
+L-77 ||  Class - 3 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/C5A7y96Yy9Y
+L-78 || Gravitation || गुरुत्वाकर्षण : https://www.youtube.com/embed/q8RR-TMHWlE
+L-79 || Class - 4 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/jRwafUKetfE
+L-80 || Class - 5 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/qkPJ1rnqlBo
+L-81 || Class - 6 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/qJCz4jFqTps
+L-82 || Class - 7 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/JGuZ2q_9qe0
+L-83 || Class - 8 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/O--jJ9Tj0_0
+L-84 || Class - 9 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/HiiZn2RGO0A
+L-85 || Class - 10 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/OWJv09hbVg0
+L-86 || Class - 11 (Work and Energy ) कार्य एवं ऊर्जा : https://www.youtube.com/embed/KdzHQtn0Atk
+L-87 || Class - 12 (Gravitation) गुरुत्वाकर्षण : https://www.youtube.com/embed/e7dMPpqCF-g
+L-88 || Class - 13 (Gravitation) गुरुत्वाकर्षण : https://www.youtube.com/embed/8c_El2H8eXg
+L-89 || Class - 14 (Gravitation) गुरुत्वाकर्षण : https://www.youtube.com/embed/Cmsgbmr4WSE
+L-90 || Class - 15 ( Buoyancy  ) उत्प्लावनता : https://www.youtube.com/embed/E1iaMdqsvq8
+L-91 || Class - 16 ( Buoyancy ) उत्प्लावनता : https://www.youtube.com/embed/_cIjaRwRR8k
+L-92 || Class - 17 ( Buoyancy ) उत्प्लावनता : https://www.youtube.com/embed/Y-tIpzykyRo
+L-93 || Class - 18 ( Buoyancy ) उत्प्लावनता : https://www.youtube.com/embed/CwY_2Ijp_es
+L-94 || Class - 19 ( Buoyancy ) उत्प्लावनता : https://www.youtube.com/embed/pcXqY9ms1h4
+L-95 || Class - 19 Gravitation || गुरुत्वाकर्षण : https://www.youtube.com/embed/3XXEO8mLxps
+L-96 || Class - 20 Sound || ध्वनि : https://www.youtube.com/embed/YCDJaR5g4dI
+L-97 || Class - 21 Sound || ध्वनि : https://www.youtube.com/embed/gYO8VPNxyeU
+L-98 || Class - 22 Sound || ध्वनि : https://www.youtube.com/embed/bspYZy746wY
+L-98 || Class - 23 Sound || ध्वनि : https://www.youtube.com/embed/ufMm1kIW3_g
+L-99 || Class - 24 Sound || ध्वनि : https://www.youtube.com/embed/rHFdxU6UEMQ
+L-100 || Class - 25 Sound || ध्वनि : https://www.youtube.com/embed/SD-vuW1XfpQ
+L-101 || Class - 26 Sound || ध्वनि : https://www.youtube.com/embed/R0sEorsUmp8
+L-102 || Class - 27 Sound || ध्वनि : https://www.youtube.com/embed/_hZ7W3E_xO4
+L-103 || Class - 28 Sound || ध्वनि : https://www.youtube.com/embed/8LXI4EcHI5I
+L-104 || Class - 29 Sound || ध्वनि : https://www.youtube.com/embed/vdsyBWZdZhQ
+L-105 || Class - 30 Sound || ध्वनि : https://www.youtube.com/embed/-T2wYcAKgtk
+L-106 || Class - 31 Sound || ध्वनि : https://www.youtube.com/embed/thp00t8d41A
+L-107 || Class - 32 Sound || ध्वनि : https://www.youtube.com/embed/nVMI_ERn_Qk
+L-108 || Class - 33 Sound || ध्वनि : https://www.youtube.com/embed/gCiktGJnUio
+L-109 || Class - 34 Sound || ध्वनि : https://www.youtube.com/embed/OF-IhWmgZlc
+L-110 || Class - 35 || Revision : https://www.youtube.com/embed/A58AZqW9spM
+L-111 || Class - 36 || Revision : https://www.youtube.com/embed/dJ6nsoqhHRU
+L-112 || Class - 37  || Revision : https://www.youtube.com/embed/eqBbQYmLJuk
+L-113 || Class - 38 || Revision : https://www.youtube.com/embed/nTP1dSZAOnk
+L-114 || Class - 39 || Revision : https://www.youtube.com/embed/rro9qCfXcPA
+L-115 || Class - 40 || Revision : https://www.youtube.com/embed/-6hnEi87qIg
+L-116 || Class - 41 || Revision : https://www.youtube.com/embed/uEYTq4L94Yo
+L-117 || Class - 42 || Revision : https://www.youtube.com/embed/-R5fwj4zD18
+L-118 || Class - 43 || Revision : https://www.youtube.com/embed/8nlDI23cHW8
+L-119 || Class - 44 || Revision : https://www.youtube.com/embed/0n5lXt9wi3A
+L-120 || Class - 45 || Revision : https://www.youtube.com/embed/L-9old3mjP0
+L-121 || Class - 46 || Revision : https://www.youtube.com/embed/QDj3R1WD5n0
+L-122 || Class - 47 || Revision : https://www.youtube.com/embed/PpHR0tPO-oo
+L-123 || Class - 48 || Revision : https://www.youtube.com/embed/5PPlg_xoeAM
+L-124 || Class - 49 || Revision : https://www.youtube.com/embed/2UH_YVkc9dU
+L-125 || Class - 50 || Revision : https://www.youtube.com/embed/Y5DVGDHda7Y
+L-126 || Class - 51 || Revision : https://www.youtube.com/embed/s2WapgyeM3U
+L-127 || Class - 52 || Revision : https://www.youtube.com/embed/Wlw1cRLZeXs
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ  || LECTURE -01 || KETAN SIR : https://www.youtube.com/embed/qd_rkh8iTfc
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -02 || KETAN SIR : https://www.youtube.com/embed/WGZpfsirHLI
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -03 || KETAN SIR : https://www.youtube.com/embed/awZVkprEhMs
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -04 || KETAN SIR : https://www.youtube.com/embed/co2pDxtrqm4
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -05 || KETAN SIR : https://www.youtube.com/embed/GsIPBsK6EMU
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -06 || KETAN SIR : https://www.youtube.com/embed/kdL0m8fnZ44
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -07 || KETAN SIR : https://www.youtube.com/embed/yC94gB2bDrc
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -08 || KETAN SIR : https://www.youtube.com/embed/iCEovsBmBXQ
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -09 || KETAN SIR : https://www.youtube.com/embed/-QyQ0K0ANSU
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -10 || KETAN SIR : https://www.youtube.com/embed/D-eyVsM380Y
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -11 || KETAN SIR : https://www.youtube.com/embed/dpolK7Xa1ss
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -12 || KETAN SIR : https://www.youtube.com/embed/YbLsd65LO50
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -13 || KETAN SIR : https://www.youtube.com/embed/YMn_Barm41w
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -14 || KETAN SIR : https://www.youtube.com/embed/Fcj8rTBFQL8
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -15 || KETAN SIR : https://www.youtube.com/embed/WrV6cHwJNno
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -16 || KETAN SIR : https://www.youtube.com/embed/GJiXJzeBjYk
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -17 || KETAN SIR : https://www.youtube.com/embed/sEOZpYbRFgg
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -18 || KETAN SIR : https://www.youtube.com/embed/F-0saQGHdBk
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -19 || KETAN SIR : https://www.youtube.com/embed/eUsGlrDMy_w
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -20|| KETAN SIR : https://www.youtube.com/embed/z27N5IpGXis
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -21 || KETAN SIR : https://www.youtube.com/embed/vGQyrmiOUYQ
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -22 || KETAN SIR : https://www.youtube.com/embed/166HrENStb4
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -23 || KETAN SIR : https://www.youtube.com/embed/Rx4ytM_FwaE
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -24 || KETAN SIR : https://www.youtube.com/embed/k0avCyAf0SA
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -25 || KETAN SIR : https://www.youtube.com/embed/Zwv7gJ5Jygw
+9TH CLASS || CHEMISTRY || पहमारे आस-पास के पदार्थ || LECTURE -26 || KETAN SIR : https://www.youtube.com/embed/n1GBSCsGraQ
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ|| LECTURE -27 || KETAN SIR : https://www.youtube.com/embed/YuM_aD9khlg
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -28 || KETAN SIR : https://www.youtube.com/embed/0Uc0TzPUkaU
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -29 || KETAN SIR : https://www.youtube.com/embed/-5NV8MVa-Os
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -30 || KETAN SIR : https://www.youtube.com/embed/7C-2gpJ-pbo
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -31 || KETAN SIR : https://www.youtube.com/embed/WrC2-ePWaJI
+9TH CLASS || CHEMISTRY || हमारे आस-पास के पदार्थ || LECTURE -32 || KETAN SIR : https://www.youtube.com/embed/NWBgzNV7-Yo
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -33 || KETAN SIR : https://www.youtube.com/embed/rbfGAWOtOlg
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -34 || KETAN SIR : https://www.youtube.com/embed/Ls0YoGYoDQA
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -35 || KETAN SIR : https://www.youtube.com/embed/TAlBJzzGiJM
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -36 || KETAN SIR : https://www.youtube.com/embed/PhRlp9VHQj8
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -37 || KETAN SIR : https://www.youtube.com/embed/Oiv7TR4td4E
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -38 || KETAN SIR : https://www.youtube.com/embed/SHtCoXm7f-Y
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -39 || KETAN SIR : https://www.youtube.com/embed/7wPhdomrZXg
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -40 || KETAN SIR : https://www.youtube.com/embed/mi21e3bpwAA
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -41 || KETAN SIR : https://www.youtube.com/embed/bMhjkMmnVFk
+9TH CLASS || CHEMISTRY || क्या हमारे आसपास के पदार्थ शुद्ध हैं? || LECTURE -42 || KETAN SIR : https://www.youtube.com/embed/gogWHkYWkk0
+L-43 || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/pjB6C5Qy3So
+L-44 || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/C1qqMahVqKI
+L-45 || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/Df54KmM5TUI
+L-48 || Important Experiments || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/ns_KDGUVSN4
+L-50 || Important Experiments || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/LeVdHUgbXZg
+L-51 || Important Experiments || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/FRXgx-Tvu0w
+L-52 || Important Experiments || क्या हमारे आसपास के पदार्थ शुद्ध हैं? : https://www.youtube.com/embed/HKomWUjEbMo
+L-53 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/ovn32Hocuao
+L-54  || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/_AQ0Qe3yLlo
+L-55 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/r1u6-lMjDtA
+L-56 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/ts-8MfjXXus
+L-57 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/KcS50bD2_4Y
+L-58 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/zMp3LSp7Rkk
+L-59 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/paM7Em5eHmM
+L-60 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/7WzWx541gk8
+L-61 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/QtABxqbY7ZI
+L-62 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/Ytv1LEKbV-s
+L-63 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/gkOqSzYN_AE
+L-64 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/wBTpY9rgjQU
+L-65 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/aX4QQlSNDr8
+L-66 || Atoms and Molecules || परमाणु और अणु : https://www.youtube.com/embed/FlXslq_Kxl8
+L-67 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/cr4FRKzX5T4
+L-68 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/e_mzq2j6gtk
+L-69 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/mzzERrhkNnM
+L-70 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/OyqDMfM_ktU
+L-71 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/cdNMQWN-_84
+L-72 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/-yz0B2ph8g4
+L-73 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/Yzf59AN2eC8
+L-74 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/ihJ7yJ21iLg
+L-75 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/bh-6_kNqvuM
+L-76 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/AH6y9qK5EcY
+L-77 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/t_VL4TxRPhA
+L-78 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/VnSZ3MR76uM
+L-79 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/VtAqARwtPac
+L-80 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/b7XXksgAr7Y
+L-81 || Structure Of Atom || परमाणु संरचना : https://www.youtube.com/embed/4Clck_ZOxYY
+L-82 || Radio Activity || रेडियोधर्मिता : https://www.youtube.com/embed/SFTgw0qNAxo
+L-83 || Radio Activity || रेडियोधर्मिता : https://www.youtube.com/embed/VaUundeMl9E
+L-84 || Radio Activity || रेडियोधर्मिता : https://www.youtube.com/embed/Vyn6xXfN5UI
+L-85 || Radio Activity || रेडियोधर्मिता : https://www.youtube.com/embed/TTJ4JkMGHAY
+L-86 || Radio Activity || रेडियोधर्मिता : https://www.youtube.com/embed/s3LVa-WUkPk
+L-87 || Radio Activity || रेडियोधर्मिता : https://www.youtube.com/embed/Uy-IU1NVCyk
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई  || BASIC OF कोशिका || LECTURE -01 || KETAN SIR : https://www.youtube.com/embed/ae5q7RZbc2E
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई  || कोशिका सिद्धांत || LECTURE -02 || KETAN SIR : https://www.youtube.com/embed/Lx79NwQ5yi0
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || कोशिका सिद्धांत || LECTURE -03 || KETAN SIR : https://www.youtube.com/embed/-cbNwDNrhb0
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || कोशिका सिद्धांत || LECTURE -04 || KETAN SIR : https://www.youtube.com/embed/JnLN2BcsWio
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || कोशिका सिद्धांत || LECTURE -05 || KETAN SIR : https://www.youtube.com/embed/xqf5eDN3Jc4
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || कोशिका सिद्धांत || LECTURE -06 || KETAN SIR : https://www.youtube.com/embed/jJAtulQiPOI
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || कोशिका सिद्धांत || LECTURE -07 || KETAN SIR : https://www.youtube.com/embed/xFNBIjdqjKk
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || कोशिका सिद्धांत || LECTURE -08 || KETAN SIR : https://www.youtube.com/embed/8vnVag8Hl3w
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || कोशिका सिद्धांत || LECTURE -09 || KETAN SIR : https://www.youtube.com/embed/z1dgnW-82pk
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई  || LECTURE -10 || KETAN SIR : https://www.youtube.com/embed/91GHp7mHl7Q
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -11 || KETAN SIR : https://www.youtube.com/embed/q5pNyzjhZt0
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -12 || KETAN SIR : https://www.youtube.com/embed/0W270_ngz_k
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -13 || KETAN SIR : https://www.youtube.com/embed/ppGOsjZZKFA
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -14 || KETAN SIR : https://www.youtube.com/embed/7e4sTizzjRQ
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -15 || KETAN SIR : https://www.youtube.com/embed/bspsIq9TKOU
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -16 || KETAN SIR : https://www.youtube.com/embed/QZJ6B-b5Txo
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -17 || KETAN SIR : https://www.youtube.com/embed/wFmdpZxMnhE
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -18 || KETAN SIR : https://www.youtube.com/embed/HkeB0fw8GPg
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -19 || KETAN SIR : https://www.youtube.com/embed/kl2C8Hbtt2Q
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -20 || KETAN SIR : https://www.youtube.com/embed/ooD8GshxjZI
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -21 || KETAN SIR : https://www.youtube.com/embed/zC7TTVE9tkc
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -22 || KETAN SIR : https://www.youtube.com/embed/FJI_6Gs0GWs
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -23 || KETAN SIR : https://www.youtube.com/embed/m4itHP0WsYk
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -24 || KETAN SIR : https://www.youtube.com/embed/L2bi0iclMcE
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -25 || KETAN SIR : https://www.youtube.com/embed/gYQVv6zCZX8
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -26 || KETAN SIR : https://www.youtube.com/embed/NoaH5zqZZIc
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -27 || KETAN SIR : https://www.youtube.com/embed/jkq9u6ZjJeU
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -28 || KETAN SIR : https://www.youtube.com/embed/w7agi1YU8zI
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -29 || KETAN SIR : https://www.youtube.com/embed/KfxI5wN8BzM
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -30 || KETAN SIR : https://www.youtube.com/embed/6mJCcgVcrgk
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -31 || KETAN SIR : https://www.youtube.com/embed/s74lL8HTSD8
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -32 || KETAN SIR : https://www.youtube.com/embed/gqtARMWBbeM
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -33 || KETAN SIR : https://www.youtube.com/embed/CW4K-96lm-E
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -34 || KETAN SIR : https://www.youtube.com/embed/syeZSJTbnYc
+9TH CLASS || BIOLOGY || जीवन की मौलिक इकाई || LECTURE -35 || KETAN SIR : https://www.youtube.com/embed/ycMJ8ZcHMIg
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -36 || KETAN SIR : https://www.youtube.com/embed/GyLc7-d5M14
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -37 || KETAN SIR : https://www.youtube.com/embed/gRUrnoyIiCs
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -38 || KETAN SIR : https://www.youtube.com/embed/YiOb1BGn8Nc
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -39|| KETAN SIR : https://www.youtube.com/embed/FQk8tQbIv50
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -40|| KETAN SIR : https://www.youtube.com/embed/TjAwTGN-SU8
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -41 || KETAN SIR : https://www.youtube.com/embed/OXZMaXlWtZg
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -42 || KETAN SIR : https://www.youtube.com/embed/TqEY0EQvBBs
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -43 || KETAN SIR : https://www.youtube.com/embed/eWg3acSSyKA
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -44 || KETAN SIR : https://www.youtube.com/embed/C6kGQQe5g0Q
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -45 || KETAN SIR : https://www.youtube.com/embed/Mnhq3FAPqxc
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -46 || KETAN SIR : https://www.youtube.com/embed/TE3nbSCnTRQ
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -47 || KETAN SIR : https://www.youtube.com/embed/xGB4zd-4n4w
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -48 || KETAN SIR : https://www.youtube.com/embed/5tyuP0RTnwg
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -50 || KETAN SIR : https://www.youtube.com/embed/f1ejilIK874
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -49 || KETAN SIR : https://www.youtube.com/embed/Ak3HK3eiyik
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -51 || KETAN SIR : https://www.youtube.com/embed/f1ejilIK874
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -52 || KETAN SIR : https://www.youtube.com/embed/TxO7UTmgr6g
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -53 || KETAN SIR : https://www.youtube.com/embed/YrvaiZhcT4U
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -54 || KETAN SIR : https://www.youtube.com/embed/pvQlUUs67iw
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -55 || KETAN SIR : https://www.youtube.com/embed/oOXjrdhzniM
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -56 || KETAN SIR : https://www.youtube.com/embed/kW4gWsNt3NQ
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -57 || KETAN SIR : https://www.youtube.com/embed/2CNbNZ4qeU4
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -58 || KETAN SIR : https://www.youtube.com/embed/0dVjqwO95do
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -59 || KETAN SIR : https://www.youtube.com/embed/fq6DT6k2nAs
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -60 || KETAN SIR : https://www.youtube.com/embed/z2WrX2c11Zk
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -61 || KETAN SIR : https://www.youtube.com/embed/33umZlmotlk
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -62 || KETAN SIR : https://www.youtube.com/embed/Iizy4ihpNMc
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -63 || KETAN SIR : https://www.youtube.com/embed/rWI6sQt0BwQ
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -64 || KETAN SIR : https://www.youtube.com/embed/ZLeCDYMjyAc
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -65 || KETAN SIR : https://www.youtube.com/embed/1OLVgpvYyPs
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -66 || KETAN SIR : https://www.youtube.com/embed/BjeZNfu6di8
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -67 || KETAN SIR : https://www.youtube.com/embed/n7YGYR7fk2c
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -68 || KETAN SIR : https://www.youtube.com/embed/GRow389TUtc
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -69 || KETAN SIR : https://www.youtube.com/embed/-YCw7kJeJIA
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -70 || KETAN SIR : https://www.youtube.com/embed/NJu7fZCjFCM
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -71 || KETAN SIR : https://www.youtube.com/embed/UMCWJT579D0
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -72 || KETAN SIR : https://www.youtube.com/embed/lo3J_WZ4DLM
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -73 || KETAN SIR : https://www.youtube.com/embed/-Ht0fMB3-wE
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -74 || KETAN SIR : https://www.youtube.com/embed/IU0jzu1VE1o
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -75 || KETAN SIR : https://www.youtube.com/embed/TgzxQZUl8F0
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -76 || KETAN SIR : https://www.youtube.com/embed/q3vaC16z_FY
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -77 || KETAN SIR : https://www.youtube.com/embed/jbN0MnsQ_Yg
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -78 || KETAN SIR : https://www.youtube.com/embed/aGOoEn4nyjE
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -79 || KETAN SIR : https://www.youtube.com/embed/cWhzzDLi1mo
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -80 || KETAN SIR : https://www.youtube.com/embed/hwgIKJFW-sQ
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -81 || KETAN SIR : https://www.youtube.com/embed/n7s0jMJHgqk
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -82 || KETAN SIR : https://www.youtube.com/embed/cpzRK_i0wBQ
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -83 || KETAN SIR : https://www.youtube.com/embed/lMgM2g293UA
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -84 || KETAN SIR : https://www.youtube.com/embed/epWCH2Z2ICI
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -85 || KETAN SIR : https://www.youtube.com/embed/eQfRIfNPq0w
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -86 || KETAN SIR : https://www.youtube.com/embed/hspOdZ96Ygk
+9TH CLASS || BIOLOGY || ऊतक || LECTURE -87 || KETAN SIR : https://www.youtube.com/embed/c4YNv8MGlGk
+L-88 || Diversity in Organisms : https://www.youtube.com/embed/fSXC6A_7_38
+L-89 || Diversity in Organisms : https://www.youtube.com/embed/EdgBzmGaNeM
+L-90 || Diversity in Organisms : https://www.youtube.com/embed/vcdq5XgD9DA
+L-91 || Diversity in Organisms : https://www.youtube.com/embed/ZZqQdy9mcg0
+L-92 || Diversity in Organisms : https://www.youtube.com/embed/mPWpLYCyL24
+L-93 || Diversity in Organisms : https://www.youtube.com/embed/MDTOKW5vJ0w
+L-94 || Diversity in Organisms : https://www.youtube.com/embed/wxJ8736R6Ns
+L-95 || Diversity in Organisms : https://www.youtube.com/embed/Az21geNpzaA
+L-96 || Diversity in Organisms : https://www.youtube.com/embed/75J_i9feY98
+L-97 || Diversity in Organisms : https://www.youtube.com/embed/Eb4UZLqdhw4
+L-98 || Diversity in Organisms : https://www.youtube.com/embed/gxmlu5FcffM
+L-99 || Diversity in Organisms : https://www.youtube.com/embed/tJyAeCKBpgY
+L-100 || Diversity in Organisms : https://www.youtube.com/embed/LxSrK6uEhaM
+L-101 || Diversity in Organisms : https://www.youtube.com/embed/AHmke_XZ6WU
+L-102 || Diversity in Organisms : https://www.youtube.com/embed/4Twcp6TzivQ
+L-103 || Diversity in Organisms : https://www.youtube.com/embed/wW76zhwi7-g
+L-104 || Diversity in Organisms : https://www.youtube.com/embed/A-DC-4JYvw0
+L-105 || Diversity in Organisms : https://www.youtube.com/embed/GMLvHux-NAY
+L-106 || Diversity in Organisms : https://www.youtube.com/embed/m7qMUHO_ps4
+L-107 || Diversity in Organisms : https://www.youtube.com/embed/-cpuWyUGKUo
+L-108 || Diversity in Organisms : https://www.youtube.com/embed/Z5bkw9VfBmk
+L-109 || Diversity in Organisms : https://www.youtube.com/embed/x2Bfrz1hQUM
+L-110 || Diversity in Organisms : https://www.youtube.com/embed/94oj7fPskRY
+L-111 || Diversity in Organisms : https://www.youtube.com/embed/rcuSpR8vdB4
+L-112 || Diversity in Organisms : https://www.youtube.com/embed/rlK7CogNsbE
+L-113 || Diversity in Organisms : https://www.youtube.com/embed/qYsK2B6-RnE
+L-114 || Diversity in Organisms : https://www.youtube.com/embed/9BMXmxSojIU
+L-115 || Diversity in Organisms : https://www.youtube.com/embed/N8JR4Dkw_GE
+L-116 || Diversity in Organisms : https://www.youtube.com/embed/pX0YeUB5PJA
+L-117 || Diversity in Organisms : https://www.youtube.com/embed/13rBPXhZYkA
+L-118 || Diversity in Organisms : https://www.youtube.com/embed/t3pKhtYanHw
+L-119 || Diversity in Organisms : https://www.youtube.com/embed/OGFksvGMBwo
+L-120 || Diversity in Organisms : https://www.youtube.com/embed/XV5u2igJz_Q
+L-121 || Diversity in Organisms : https://www.youtube.com/embed/JFT-tDzbwNM
+L-122 || Why Do We Fall ill : https://www.youtube.com/embed/Qe70FSZHCG8
+L-123 || Why Do We Fall ill : https://www.youtube.com/embed/JbNeC19rKG4
+L-124 || Why Do We Fall ill : https://www.youtube.com/embed/9Tax80SUfRk
+L-125 || Why Do We Fall ill : https://www.youtube.com/embed/sZlV8qZJVp4
+L-126 || Why Do We Fall ill : https://www.youtube.com/embed/H77syAmq4rU
+L-127  || Why Do We Fall ill : https://www.youtube.com/embed/QIxkwCvInxg
+L-128  || Why Do We Fall ill : https://www.youtube.com/embed/XVi9YqkYxtc
+L-129 || Why Do We Fall ill : https://www.youtube.com/embed/dHPr9DUfR3s
+L-130 || Why Do We Fall ill : https://www.youtube.com/embed/Mcp9aun_Upk
+L-131 || Why Do We Fall ill : https://www.youtube.com/embed/MNdLXHeoOZQ
+L-132 || Why Do We Fall ill : https://www.youtube.com/embed/uswvjVqeSIg
+L-133 || Why Do We Fall ill : https://www.youtube.com/embed/iz4_j3H6EaE
+L-134 || Natural Resources : https://www.youtube.com/embed/_GwdJCH5ZAg
+L-135 || Natural Resources : https://www.youtube.com/embed/Qsmk-0nhyds
+L-136 || Natural Resources : https://www.youtube.com/embed/DrhQIDdfXG4
+L-137 || Natural Resources : https://www.youtube.com/embed/yoVC6GlEVRs
+L-138 || Natural Resources : https://www.youtube.com/embed/V1MO5XISFbM
+L-139 || Natural Resources : https://www.youtube.com/embed/ZLFHk5NFlj8
+L-140 || Natural Resources : https://www.youtube.com/embed/V_fa-rDpo7A
+L-141 || Natural Resources : https://www.youtube.com/embed/o5bTSfzusVs
+L-142 || Natural Resources : https://www.youtube.com/embed/5ihnHsKV1lQ
+L-143 || Natural Resources : https://www.youtube.com/embed/zik2eTzefgo
+L-144 || Natural Resources : https://www.youtube.com/embed/Sk3FGN4cfHo
+L-145 || Natural Resources : https://www.youtube.com/embed/Rt-Z0JuG9hg
+L-146 || Natural Resources : https://www.youtube.com/embed/ueP4jxez-MQ
+L-147 || Natural Resources : https://www.youtube.com/embed/dA_DhJ0fOYg
+L-148 || Natural Resources : https://www.youtube.com/embed/TJT_8Teu4CQ
+L-149 || Natural Resources : https://www.youtube.com/embed/hgnWLG2OALg
+L-150 || Natural Resources : https://www.youtube.com/embed/fzRc5hW1TsI
+L-151 || Natural Resources : https://www.youtube.com/embed/p2y8RTILmyw
+L-152 || Natural Resources : https://www.youtube.com/embed/xo2KzCu0aiA
+L-153 || Natural Resources : https://www.youtube.com/embed/RpX1YXZhqvQ
+L-154 ||  Improvement In Food Resources : https://www.youtube.com/embed/_fc56Bh8RyI
+L-155 || Improvement In Food Resources : https://www.youtube.com/embed/9t03_g1pBJU
+L-156 || Improvement In Food Resources : https://www.youtube.com/embed/JoXgDUFiKDU
+L-157 || Improvement In Food Resources : https://www.youtube.com/embed/Uxxblh8hEIs
+L-158 || Improvement In Food Resources : https://www.youtube.com/embed/6X5xRkdac7A
+L-159 || Improvement In Food Resources : https://www.youtube.com/embed/VspfAzSfYvc
+L-160 || Improvement In Food Resources : https://www.youtube.com/embed/rMubBgAJ20g
+L-161 || Improvement In Food Resources : https://www.youtube.com/embed/xosMH_Fiy90
+L-162 || Improvement In Food Resources : https://www.youtube.com/embed/grvFDZTv9Js
+L-163 || Improvement In Food Resources : https://www.youtube.com/embed/XqZPsZnAk-I
+L-164 || Revision : https://www.youtube.com/embed/iglukcYKJsI
+L-165 || Revision : https://www.youtube.com/embed/Ldqx1b_E2ro
+L-166 || Revision : https://www.youtube.com/embed/pcyU5ICnhDY
+L-167 || Revision : https://www.youtube.com/embed/VgPUqWaKW6A
+L-168 || Revision : https://www.youtube.com/embed/_vYnS_krYLQ
+L-169 || Revision : https://www.youtube.com/embed/McXlCmK3D_0
+L-170 || Revision : https://www.youtube.com/embed/q69idT7WMyE
+L-171|| Tissue : https://www.youtube.com/embed/SfZhHs_SkiY
+L-172 || Tissue : https://www.youtube.com/embed/4_ogmoK8OdA
+L-173 || Tissue : https://www.youtube.com/embed/NA6DHPr5MQc
+L-174 || Tissue : https://www.youtube.com/embed/6BqoJ82tw5A
+L-175 || Tissue : https://www.youtube.com/embed/P-Lv7Q1ZkOA
+L-176 || Tissue : https://www.youtube.com/embed/6gu0FnxMIvU
+L-177 || Revision : https://www.youtube.com/embed/TFyjQmusaT0
+L-178 || Revision : https://www.youtube.com/embed/qxPxh9GnYUY
+L-179 || Revision : https://www.youtube.com/embed/ptcRb5pWito
+L-180 || Revision : https://www.youtube.com/embed/bpO0u2EuRws
+L-181 || Revision : https://www.youtube.com/embed/ISLPaYoYGXI
+9TH CLASS || Computer || INTRODUCTION || By Yatendra Sir : https://www.youtube.com/embed/vEtIIFuoQnU
+L-02 || INTRODUCTION : https://www.youtube.com/embed/0z3H1RUshRk
+L-03 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/eGXvIDmUp0U
+L-04 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/DU0nl_f-bSQ
+L-05 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/NOyRVusWP78
+L-06 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/BscJAVmzgn0
+L-07 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/GSLmZOlegug
+L-08 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/JFa-iGCeVzk
+L-09 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/JI-c9bYYtxY
+L-10 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/upD6wrs4P2c
+L-11 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/FEJztZdKizw
+L-12 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/j72zFbZVMOM
+L-13 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/O-bMUaZlU80
+L-14 ||  BASIC ICT SKILLS : https://www.youtube.com/embed/6fEFTYFg5Js
+L-15 || ICT SKILLS : https://www.youtube.com/embed/yT5Gk8URn4k
+L-16 || ICT SKILLS : https://www.youtube.com/embed/9i8pDoGo8Vc
+L-17 || ICT SKILLS : https://www.youtube.com/embed/rPsPHCAplWc
+L-18 || ICT SKILLS : https://www.youtube.com/embed/wDCGJcK-OGk
+L-19 || ICT SKILLS : https://www.youtube.com/embed/U6rjd4OF0NU
+L-20 || Cyber Safety 1 : https://www.youtube.com/embed/ZjMaHXIkksQ
+L-21 || Cyber Safety 2 : https://www.youtube.com/embed/B9DXKGvhnKs
+L-22 || Cyber Safety 3 : https://www.youtube.com/embed/EOhyNnA5VUM
+L-23 || Cyber Safety 3 : https://www.youtube.com/embed/0WAF3NIMZKA
+L-24 || Cyber Safety 4 : https://www.youtube.com/embed/7zgND-q-OPY
+L-25 || Office Tools-1 : https://www.youtube.com/embed/xoe5J4XanUs
+L-26 || Office Tools-2 : https://www.youtube.com/embed/dbGXBjOVV24
+L-27 || Office Tools-3 : https://www.youtube.com/embed/bISS20igYAQ
+L-28 || Office Tools-4 : https://www.youtube.com/embed/SzNAvVEeODA
+L-29 || Office Tools-5 : https://www.youtube.com/embed/2EzPgGYp_CY
+L-30 || Office Tools-6 : https://www.youtube.com/embed/eglhJNZFTwA
+L-31 || Office Tools-7 : https://www.youtube.com/embed/gzLWtIVD1IQ
+9TH CLASS || Hindi || INTRODUCTION || LECTURE -01 || By Arun sir : https://www.youtube.com/embed/WA2ur6umGa0
+9TH CLASS || Hindi || उपसर्ग और प्रत्यय || LECTURE -02 || By Arun sir : https://www.youtube.com/embed/CkcaaQqNwz8
+9TH CLASS || Hindi || प्रत्यय के भेद || LECTURE -03 || By Arun sir : https://www.youtube.com/embed/3LZp85u1xzk
+9TH CLASS || Hindi || समास के भेद || LECTURE -04 || By Arun sir : https://www.youtube.com/embed/60cuLR5YbCQ
+9TH CLASS || Hindi || समास के भेद || LECTURE -05 || By Arun sir : https://www.youtube.com/embed/P5vJW3OB9ek
+9TH CLASS || Hindi || द्वन्द्व समास || LECTURE -06 || By Arun sir : https://www.youtube.com/embed/o4rM60Mx4f8
+9TH CLASS || Hindi || कर्मधारय समास || LECTURE -07 || By Arun sir : https://www.youtube.com/embed/jLgy9-rwUb8
+9TH CLASS || Hindi || द्विगु समास व बहुव्रीहि समास || LECTURE -08 || By Arun sir : https://www.youtube.com/embed/r_VfAl-KPew
+9TH CLASS || Hindi || तत्पुरुष समास || LECTURE -09 || By Arun sir : https://www.youtube.com/embed/mcibpqE8oOU
+9TH CLASS || Hindi || तत्पुरुष समास के भेद || LECTURE -10 || By Arun sir : https://www.youtube.com/embed/4eCQ3AtJdHw
+9TH CLASS || Hindi || तत्पुरुष समास के भेद || LECTURE -11|| By Arun sir : https://www.youtube.com/embed/QmBeQAQmSNM
+9TH CLASS || Hindi || तत्पुरुष समास के भेद || LECTURE -12 || By Arun sir : https://www.youtube.com/embed/Sx0Eih5Ktxc
+9TH CLASS || Hindi || अर्थ के आधार पर वाक्य के भेद || LECTURE -13 || By Arun sir : https://www.youtube.com/embed/1iRUKMI2QKA
+9TH CLASS || Hindi || अलंकार || LECTURE -14 || By Arun sir : https://www.youtube.com/embed/yXuVyTj8nEo
+9TH CLASS || Hindi || शब्दालंकार के भेद  || LECTURE -15 || By Arun sir : https://www.youtube.com/embed/ZiSAZOLAKcM
+9TH CLASS || Hindi || शब्दालंकार के भेद || LECTURE -16 || By Arun sir : https://www.youtube.com/embed/vOLk1sUlIMQ
+9TH CLASS || Hindi || अर्थालंकार के भेद || LECTURE -17 || By Arun sir : https://www.youtube.com/embed/pAkBqpKmIs4
+9TH CLASS || Hindi || अर्थालंकार के भेद || LECTURE -18 || By Arun sir : https://www.youtube.com/embed/owJF2j61t9A
+9TH CLASS || Hindi || अनुच्छेद लेखन तथा अपठित अवरोध || LECTURE -19 || By Arun sir : https://www.youtube.com/embed/ua7cayUiriw
+9TH CLASS || Hindi || अनुच्छेद लेखन तथा अपठित अवरोध || LECTURE -20 || By Arun sir : https://www.youtube.com/embed/ktqQYFKGhS0
+9TH CLASS || Hindi || पाठ-01, दो बैलों की कथा || LECTURE -21 || By Arun sir : https://www.youtube.com/embed/J6NUrMXAuuA
+9TH CLASS || Hindi || पाठ-01, दो बैलों की कथा (प्रेमचंद) || LECTURE -22 || By Arun sir : https://www.youtube.com/embed/Q6NJbW93jg4
+9TH CLASS || Hindi || पाठ-01, दो बैलों की कथा (प्रेमचंद) || LECTURE -23 || By Arun sir : https://www.youtube.com/embed/-NRGFxOuTdQ
+9TH CLASS || Hindi || दो बैलों की कथा (प्रेमचंद) || LECTURE -24 || By Arun sir : https://www.youtube.com/embed/VDFQ4lc4DdE
+9TH CLASS || Hindi || उपसर्ग और प्रत्यय प्रैक्टिस प्रश्न || LECTURE -25 || By Arun sir : https://www.youtube.com/embed/Gq2QPZQJ4ao
+9TH CLASS || Hindi || प्रत्यय के प्रैक्टिस प्रश्न || LECTURE -26 || By Arun sir : https://www.youtube.com/embed/cpd3sR14n3s
+9TH CLASS || Hindi || समास के प्रैक्टिस प्रश्न || LECTURE -27 || By Arun sir : https://www.youtube.com/embed/JZ4bLSD_feg
+L -28 || अलंकार : https://www.youtube.com/embed/TKu2w3tTGUI
+L -29 || अलंकार : https://www.youtube.com/embed/QNTh8R12PEg
+L -30 || अनुच्छेद अथार्थ अपठित' गद्यांश : https://www.youtube.com/embed/8n3RqTPl3wI
+L -31 || वाक्य के भेद : https://www.youtube.com/embed/PMTbi456z7E
+L -32 || वाक्य के भेद : https://www.youtube.com/embed/Ztx2TZIg50A
+L -33 || वाक्य के भेद : https://www.youtube.com/embed/H_8ivqx6ol0
+L -34 || मेरे संग की औरतें (पाठ-01) : https://www.youtube.com/embed/kbQ4SV69EpU
+L -35 || गद्य खंड -ल्हासा की ओर : https://www.youtube.com/embed/hIv3KMy6KMY
+L -36 || गद्य खंड : https://www.youtube.com/embed/vBOHN2hI-x0
+L -37 || कबीर की साखी : https://www.youtube.com/embed/5v6Z_A8MmxM
+L -38 || अनुच्छेद अपठित गद्यांश : https://www.youtube.com/embed/2IHXwJK1kBc
+L -39 || अपठित गद्यांश अतार्थ अनुच्छेद : https://www.youtube.com/embed/-eqD_bc0wn4
+L -40 || पाठ -1 रीढ़ की हड्डी : https://www.youtube.com/embed/CyZNB1T8Zqo
+L -41 || पाठ -1 रीढ़ की हड्डी : https://www.youtube.com/embed/h8qq9KAVyUI
+L -42 || मेरे संग की औरतें (मृदुला गर्ग) : https://www.youtube.com/embed/NVC1-x91lWg
+L -43 || मेरे संग की औरतें  (मृदुला गर्ग) : https://www.youtube.com/embed/YfHEMzLww-o
+L -44 || माटी वाली (विद्यासागर नौटियाल) : https://www.youtube.com/embed/IfZKue704Dc
+L -45 || मेसाँवले सपनों की याद (जाबिर हुसैन) : https://www.youtube.com/embed/e8hPQRkm3Zg
+9TH CLASS || SST || HISTORY || INTRODUCTION || LECTURE -01 || SUNIL SIR : https://www.youtube.com/embed/rQHpa7Uu6_I
+9TH CLASS || SST || HISTORY || Basic to Understand all Chapters || LECTURE -02 || SUNIL SIR : https://www.youtube.com/embed/3ax71tH9vSo
+9TH CLASS || SST || HISTORY || Basic to Understand all Chapters || LECTURE -03 || SUNIL SIR : https://www.youtube.com/embed/Oo6_38Y-uKI
+9TH CLASS || SST || HISTORY || Chapter-1, 2, 3 Introduction || LECTURE -04 || SUNIL SIR : https://www.youtube.com/embed/Sf0UPIfErlo
+9TH CLASS || SST || HISTORY || Chapter-1, 2, 3 Introduction || LECTURE -05 || SUNIL SIR : https://www.youtube.com/embed/V7Q-FBd5TDs
+9TH CLASS || SST || HISTORY || Chapter-1, 2, 3 Introduction || LECTURE -06 || SUNIL SIR : https://www.youtube.com/embed/Ho09ccJD6t0
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -07 || SUNIL SIR : https://www.youtube.com/embed/y9ts-CbGuTU
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -08 || SUNIL SIR : https://www.youtube.com/embed/vrpiYKWCj20
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -09 || SUNIL SIR : https://www.youtube.com/embed/aAG9CKHB-yI
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -10 || SUNIL SIR : https://www.youtube.com/embed/LPPjVZioaBU
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -11 || SUNIL SIR : https://www.youtube.com/embed/Z6K9LXMlYsc
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -12 || SUNIL SIR : https://www.youtube.com/embed/PdI_4O9GdMg
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -13 || SUNIL SIR : https://www.youtube.com/embed/H3ovosjgvzQ
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -14 || SUNIL SIR : https://www.youtube.com/embed/M3qELXdfzLA
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -15 || SUNIL SIR : https://www.youtube.com/embed/lMxIHXEK8s0
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -16 || SUNIL SIR : https://www.youtube.com/embed/jyIJzKxkZEA
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -17 || SUNIL SIR : https://www.youtube.com/embed/Ik-1uS6HUzM
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -18 || SUNIL SIR : https://www.youtube.com/embed/sjky8Euq76U
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -19 || SUNIL SIR : https://www.youtube.com/embed/EUVK1IYLZUw
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -20 || SUNIL SIR : https://www.youtube.com/embed/XwAPCvaDhIo
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -21 || SUNIL SIR : https://www.youtube.com/embed/Twk_vylRrl4
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -22 || SUNIL SIR : https://www.youtube.com/embed/T2m2W9G5AI4
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -23 || SUNIL SIR : https://www.youtube.com/embed/rXfpbwXrmak
+9TH CLASS || SST || HISTORY || Chapter-1 || LECTURE -24 || SUNIL SIR : https://www.youtube.com/embed/pUw3wfGb3Us
+L-25 || History ch-1 French Revolution | Hindi medium || : https://www.youtube.com/embed/NbyKtGbOFYo
+L-26 || History ch-1 French Revolution | Hindi medium || : https://www.youtube.com/embed/3z_0ftYhXZs
+L-27 || History ch-1 French Revolution | Hindi medium || : https://www.youtube.com/embed/NNG0N8V9moE
+L-28 || History ch-1 French Revolution | Hindi medium || : https://www.youtube.com/embed/E-w3vU7GaEA
+L-29 || History ch-1 French Revolution | Hindi medium || : https://www.youtube.com/embed/84YssREYZKU
+L-30 || History ch-1 French Revolution | Hindi medium || : https://www.youtube.com/embed/H0cjDAPj4Eo
+L-31 || History ch-1 French Revolution | Hindi medium || : https://www.youtube.com/embed/wLryhXQhqIs
+L-32 || History ch-1 The Story of Village Palampur | Hindi medium || : https://www.youtube.com/embed/LkzgbD6OGlw
+L-33 || History ch-1 The Story of Village Palampur | Hindi medium || : https://www.youtube.com/embed/92uXn1Etrtw
+L-34 || History ch-1 The Story of Village Palampur | Hindi medium || : https://www.youtube.com/embed/_F8vWvdT91Q
+L-35 || History ch-1 What Is Democracy ? , Why Democracy ? | Hindi medium || : https://www.youtube.com/embed/L5Lmba4Sv9A
+L-36 || History ch-1 What Is Democracy ? , Why Democracy ? | Hindi medium || : https://www.youtube.com/embed/AK447Uto144
+L-37 || History ch-1 Making of Constitution MCQ ? | Hindi medium || : https://www.youtube.com/embed/fBNMtwueQXE
+L-38 || SST | Doubt || : https://www.youtube.com/embed/df60SKX4G_A
+L-39 || (SST) His | Chap - 1 French Revolution || : https://www.youtube.com/embed/Zwl4T1XcU5A
+L-40 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/19uV6buTns4
+L-41 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/V7_9KMtqH8w
+L-42 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/1Nh9eR_K6jA
+L-43 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/s43NsKHUgSI
+L-44 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/tUS9uDLoF08
+L-45 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/c4uLW01J38s
+L-46 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/tcgYZccJ9HI
+L-47 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/EaxTZmN4Kxk
+L-48 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/dPIrBkhI1EQ
+L-49 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/UVSoPnhHsLY
+L-50 || History | Chap -2 Socialisam In Europe & The Russian Revolution || : https://www.youtube.com/embed/nvdvKcjjayM
+L-51 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/M088cj2O038
+L-52 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/W0_oZSkpLVg
+L-53 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/aiA9fT-7ueU
+L-54 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/ToYzljpsM3A
+L-55 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/fn2I6wF9EW4
+L-56 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/2lLAs2zXWcY
+L-57 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/00SRKPDR6Yo
+L-58 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/zcVfnVAkAKQ
+L-59 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/qBKzMvn3V0Q
+L-60 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/vOzbk7wublk
+L-61 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/Ofe2wJJ9uvs
+L-62 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/Gn38b1KdFkg
+L-63 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/UMTbjdygoqs
+L-64 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/DHG42pbbD-0
+L-65 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/ZiH62-16-Gg
+L-66 || History | Nazism & The Rise Of Hitler || : https://www.youtube.com/embed/jsiA0zyT1Hc
+9TH CLASS || SST || GEOGRAPHY || INTRODUCTION || LECTURE -01 || VIVEK SIR : https://www.youtube.com/embed/8kW67B2lqew
+9TH CLASS || SST || GEOGRAPHY || INTRODUCTION || LECTURE -02 || VIVEK SIR : https://www.youtube.com/embed/Vvq08mHATzw
+9TH CLASS || SST || GEOGRAPHY || INTRODUCTION || LECTURE -03 || VIVEK SIR : https://www.youtube.com/embed/MzTAQbKw7so
+9TH CLASS || SST || GEOGRAPHY || Frontiers of India || LECTURE -04 || VIVEK SIR : https://www.youtube.com/embed/IAJNScDqFRw
+9TH CLASS || SST || GEOGRAPHY || Frontiers of India || LECTURE -05  || VIVEK SIR : https://www.youtube.com/embed/xaZZpe_mvGA
+9TH CLASS || SST || GEOGRAPHY || INTRODUCTION || LECTURE -06 || VIVEK SIR : https://www.youtube.com/embed/5tf-FdV6C6I
+9TH CLASS || SST || GEOGRAPHY ||  Himalaya Mountain || LECTURE -07 || VIVEK SIR : https://www.youtube.com/embed/nv4UjIGoXcU
+9TH CLASS || SST || GEOGRAPHY || I Himalaya Mountain || LECTURE -08 || VIVEK SIR : https://www.youtube.com/embed/THQnUGb45wE
+9TH CLASS || SST || GEOGRAPHY || I Himalaya Mountain || LECTURE -09 || VIVEK SIR : https://www.youtube.com/embed/h5HkUXa7oWM
+9TH CLASS || SST || GEOGRAPHY || I Islands of india || LECTURE -10 || VIVEK SIR : https://www.youtube.com/embed/QQcTUnjTI2A
+9TH CLASS || SST || GEOGRAPHY || I Plateau of india || LECTURE -11 || VIVEK SIR : https://www.youtube.com/embed/AyhAzKzBmps
+L-12 || Indian Desert || VIVEK SIR : https://www.youtube.com/embed/z1XyZM7DfnI
+L-13 | India-Size & Iocation Q-A | VIVEK SIR : https://www.youtube.com/embed/35LOJnjFjfk
+L-14  | Physical Features of India Q-A | VIVEK SIR : https://www.youtube.com/embed/YgDklAEOnno
+L-15 | Physical Features of India Q-A | VIVEK SIR : https://www.youtube.com/embed/znkISMPoAu0
+L-16 | Physical Features of India Q-A | VIVEK SIR : https://www.youtube.com/embed/YE9Qyrr1Umc
+L-17 | Drainage Patter of India | : https://www.youtube.com/embed/Adbo_qqwCn4
+L-18 | Drainage Patter of India | : https://www.youtube.com/embed/3y5S6xmGdXY
+L-19 | Drainage Patter of India | : https://www.youtube.com/embed/-m1uipHKSGA
+L-20 | Drainage Patter of India | : https://www.youtube.com/embed/MWgOzf8scp0
+L-21 | Drainage Patter of India | : https://www.youtube.com/embed/3WvjycL7Mkk
+L-22 | Drainage Patter of India | : https://www.youtube.com/embed/qKoTQNju6UI
+L-23 | Lake | : https://www.youtube.com/embed/qJ5LFC5lrbE
+L-24 | Types of Lake | : https://www.youtube.com/embed/8_X0dQs8RbM
+L-25 |River of INDIA MCQ | : https://www.youtube.com/embed/-g-zPtYekZA
+L-26 | River and Lake | : https://www.youtube.com/embed/4PPy_6gv1JE
+L-27 | Climate| : https://www.youtube.com/embed/Hzn3cxOb9lw
+L-28 |  Summer Season | : https://www.youtube.com/embed/Fk1yZIKlPLw
+L-29 | Climate of India | : https://www.youtube.com/embed/tAhQKAv6K7M
+L-30 | Climate of India | : https://www.youtube.com/embed/Xr-U5Sxbh84
+L-31 | Climate of India | : https://www.youtube.com/embed/DWSk_cjzu3g
+L-32 | Natural vegetation  | : https://www.youtube.com/embed/HyglBH3CJPY
+L-33 | Forest  | : https://www.youtube.com/embed/nnJObMPZe2g
+L-34 | Forest | : https://www.youtube.com/embed/ZkuPoAPSZJE
+L-35 | Forest | : https://www.youtube.com/embed/4LTZFN3ArB8
+L-36 | Natural Vegetation & Wildlife | : https://www.youtube.com/embed/lOgfSBiprCc
+L-37 | Natural Vegetation & Wildlife | : https://www.youtube.com/embed/nkVgynD08oY
+L-38 | Natural Vegetation & Wildlife | : https://www.youtube.com/embed/p29gZPp0174
+L-39 | Natural Vegetation & Wildlife | : https://www.youtube.com/embed/RjvFH39ahAI
+L-40 | Natural Vegetation & Wildlife | : https://www.youtube.com/embed/mW4BUQ84U6o
+9TH CLASS || SST || ECONOMICS || INTRODUCTION || LECTURE -01 || SUNIL SIR : https://www.youtube.com/embed/10ZWmsbhCFI
+9TH CLASS || SST || ECONOMICS || THE STORY OF VILLAGE PALAMPUR || LECTURE -02 || SUNIL SIR : https://www.youtube.com/embed/Ex4860i4mnE
+9TH CLASS || SST || ECONOMICS || THE STORY OF VILLAGE PALAMPUR || LECTURE -03 || SUNIL SIR : https://www.youtube.com/embed/vqOSznmM1DU
+9TH CLASS || SST || ECONOMICS || THE STORY OF VILLAGE PALAMPUR || LECTURE -04 || SUNIL SIR : https://www.youtube.com/embed/NkSq4aGYqT8
+9TH CLASS || SST || ECONOMICS || THE STORY OF VILLAGE PALAMPUR || LECTURE -05 || SUNIL SIR : https://www.youtube.com/embed/jJe-9JsFxEQ
+9TH CLASS || SST || ECONOMICS || THE STORY OF VILLAGE PALAMPUR || LECTURE -06 || SUNIL SIR : https://www.youtube.com/embed/eF7X2oo5er8
+9TH CLASS || SST || ECONOMICS || THE STORY OF VILLAGE PALAMPUR || LECTURE -07 || SUNIL SIR : https://www.youtube.com/embed/lWLNHq6Thio
+9TH CLASS || SST || ECONOMICS || CHAPTER-01 || THE STORY OF VILLAGE PALAMPUR || LECTURE -08 || SUNIL SIR : https://www.youtube.com/embed/f2wmy4gsdq0
+9TH CLASS || SST || HISTORY ||  Focus on Questions and Answers Discussion in Respect of Test papers || LECTURE -09 || SUNIL SIR : https://www.youtube.com/embed/dKhSLfb9VDU
+9TH CLASS || SST || HISTORY || Focus on Questions and Answers Discussion in Respect of Test papers || LECTURE -10 || SUNIL SIR : https://www.youtube.com/embed/BkdZtOPUjxE
+L-11 || Eco | Chp-2 | People as Resource || : https://www.youtube.com/embed/NlAyWNISKjs
+L-12 || Eco | Chp-2 | People as Resource || : https://www.youtube.com/embed/2yCqO4M9n5A
+L-13 || Eco | Chp-2 | People as Resource || : https://www.youtube.com/embed/Fz9dac4jyn0
+L-14 | Eco | Chp-2 || (Unemployment) People as Resource || : https://www.youtube.com/embed/NePtJyGsaNE
+L-15 | Eco | Chp-2 || ( Unemployment) People as Resource || : https://www.youtube.com/embed/Au-eQsNjXHs
+L-16 | Eco | Chp-2 || ( Types of Unemployment) People as Resource || : https://www.youtube.com/embed/t81Whp9rcKs
+L-17 | Eco | Chp-2 || ( Types of Unemployment) People as Resource || : https://www.youtube.com/embed/Vc9SBQnUk-8
+L-18 | Eco | Chp-2 | Unemployment People as Resource || : https://www.youtube.com/embed/q1W1uhkt4X4
+L-19 | Eco | Eco | Chp-2 | People as Resource || : https://www.youtube.com/embed/BwMM95uEu_8
+L-20 | Eco | Eco | Chp-2 | People as Resource || : https://www.youtube.com/embed/yWwbMikBHG8
+L-21 | Eco | Chp-01 || The Story of palampur || : https://www.youtube.com/embed/XEp7cEchWI0
+L-22 || Eco - Chap - 1 M.C.Q || : https://www.youtube.com/embed/npnoKmth_lM
+L-23 || Eco - Chap - 1 M.C.Q || : https://www.youtube.com/embed/B_vVSnoyGWM
+L-24 || Economics- M.C.Q|| : https://www.youtube.com/embed/XsXSFu6XQrg
+L-25 || Economics | Chap - 2 People as Resource || : https://www.youtube.com/embed/CBtcFbYxFyU
+L-26 || Economics | Chap - 2 People as Resource || : https://www.youtube.com/embed/KMJBtN5rZI0
+L-27 || Economics | Chap - 2 People as Resource || : https://www.youtube.com/embed/IlL6zoYx8bw
+L-28 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/edhOua0gcO8
+L-29 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/oBoZzAhI4cE
+L-30 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/o_sIGaLZ6MQ
+L-31 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/XJ6BX83C6do
+L-32 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/r7GqAxla6ew
+L-33 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/n5VyKyiBEw0
+L-34 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/KUh-8w6-upo
+L-35 ||  ( SST ) Doubt - About Wind || : https://www.youtube.com/embed/mRCZfL2s64A
+L-36 ||  Economics | Chap - 3 Poverty as a Challenge ||| : https://www.youtube.com/embed/g22lkjGOs4Q
+L-37 ||  Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/7UvDLSTSwL8
+L-38 ||  Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/sTKzlqbEL50
+L-39 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/70iOdTANIRs
+L-40 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/09iSev4mkmY
+L-41 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/u_MhwAf6Q04
+L-42 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/7-TCAjTEsY8
+L-43 || Economics | Chap - 3 Poverty as a Challenge || : https://www.youtube.com/embed/y4U0nuMzxLg
+9TH CLASS || SST || POLITY || INTRODUCTION || LECTURE -01 || SUNIL SIR : https://www.youtube.com/embed/cXqIhO93UXE
+9TH CLASS || SST || POLITICAL SCIENCE || INTRODUCTION || LECTURE -02 || SUNIL SIR : https://www.youtube.com/embed/kd7xfm2ySxo
+9TH CLASS || SST || POLITICAL SCIENCE || INTRODUCTION || LECTURE -03 || SUNIL SIR : https://www.youtube.com/embed/7P07PQUpJg4
+9TH CLASS || SST || POLITICAL SCIENCE || INTRODUCTION || LECTURE -04 || SUNIL SIR : https://www.youtube.com/embed/i4UUCGV788w
+9TH CLASS || SST || POLITICAL SCIENCE || INTRODUCTION || LECTURE -05 || SUNIL SIR : https://www.youtube.com/embed/-YLGIWaibHI
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -06 || SUNIL SIR : https://www.youtube.com/embed/TVEY53OEWWs
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -07 || SUNIL SIR : https://www.youtube.com/embed/01G1Pot9BK0
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -08 || SUNIL SIR : https://www.youtube.com/embed/bTnBmfZpoi8
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -09 || SUNIL SIR : https://www.youtube.com/embed/vjXBwDFpRng
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -10 || SUNIL SIR : https://www.youtube.com/embed/9N39hUGKfGE
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -11 || SUNIL SIR : https://www.youtube.com/embed/SteAdR98LrQ
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -12 || SUNIL SIR : https://www.youtube.com/embed/_7wORPnRsCY
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -13 || SUNIL SIR : https://www.youtube.com/embed/4qhWPRIDEVc
+9TH CLASS || SST || POLITY || CHAPTER-01 || LECTURE -14 || SUNIL SIR : https://www.youtube.com/embed/IZJm-bLPjts
+L - 15 || Features of Democracy : https://www.youtube.com/embed/pAM83A2jJUM
+L - 16 || Features of Democracy : https://www.youtube.com/embed/oim5J9bplSM
+L - 17 || Features of Democracy : https://www.youtube.com/embed/sZNMnbReiho
+L-18 || Chapter-01 || what is Democracy : https://www.youtube.com/embed/SO5rMuCtIl4
+L-19 || Chapter-02 || what is Democracy : https://www.youtube.com/embed/RUnq7fQwDzM
+L-20 || Chapter-02 || What is Democracy : https://www.youtube.com/embed/XvC8DPY9clo
+L-21 || Chapter-01 || What is Democracy Chapter 1 || : https://www.youtube.com/embed/dITaUROs6SI
+L-22 || Chapter-01 || What is Democracy Chapter 1 (Last Class) || : https://www.youtube.com/embed/CtrDG_cEzT4
+L-23 || Chapter-01 || Pol. Ch-2 Framing of Constitution | : https://www.youtube.com/embed/1h_ShB82-Pk
+L-24 || Chapter-01 || Pol. Ch-2 Framing of Constitution || : https://www.youtube.com/embed/IErfy2R8isM
+L-25 || Chapter-01 || Pol. Ch-2 Framing of Constitution || : https://www.youtube.com/embed/3eVkwbR-Qj4
+L-26 || Chapter-01 || Pol. Ch-2 Constitution design || : https://www.youtube.com/embed/tOs11PAysac
+L-27 || Chapter-01 || Pol. Ch-2 Constitution design || : https://www.youtube.com/embed/FkL2RclfSfw
+L-28 || Chapter-01 || Pol. Ch-2 Constitution design || : https://www.youtube.com/embed/Dk76lYIL2uQ
+L-29 || Chapter-01 || Pol. Ch-2 Constitution design || : https://www.youtube.com/embed/dYVB4ivrL2M
+L-30 || Chapter-01 || Pol. Ch-2 || : https://www.youtube.com/embed/H9CiESU2Z48
+L-31 || Chapter-01 || Pol. Ch-2 || : https://www.youtube.com/embed/xCNSlXFi6g8
+L-32 || Chapter-01 || Pol. Ch-2 || : https://www.youtube.com/embed/AUbgwxDlQGU
+L-33 || Chapter-01 || Pol. Ch-2 || : https://www.youtube.com/embed/Sy-hPebTXJk
+L-34 || Chapter-01 || Pol. Ch-2 || : https://www.youtube.com/embed/3XKrineW-9w
+L-35 || Chapter-01 || Pol. Ch-2 || Constitution design : https://www.youtube.com/embed/EsUl9vIKy5k
+L-36 || Chapter-01 || Pol. Ch-2 || Constitution design : https://www.youtube.com/embed/gZLKcOpaH5k
+L-37 || Chapter-01 || Pol. Ch-2 || Constitution design : https://www.youtube.com/embed/jW61vQXwLf8
+L-38 || Chapter-01 || Pol. Ch-2 || Constitution design : https://www.youtube.com/embed/GJa7UHMH0jU
+L-39 || Polity | Chap - 4 Electoral Politics|| : https://www.youtube.com/embed/4KUj6fvafDA
+L-40 || Polity | Chap - 4 Electoral Politics|| : https://www.youtube.com/embed/gJnFawQngws
+L-41 || Polity | Chap - 4 Electoral Politics|| : https://www.youtube.com/embed/TihmKEYDCvA
+L-42 || Polity | Chap - 4 Electoral Politics|| : https://www.youtube.com/embed/k6KFyZ0E5dU
+L-43 || Polity | Chap - 4 Electoral Politics|| : https://www.youtube.com/embed/lxFOI4tkNXA
+L-44 || Polity | Chap -4 Working Of Institutions || : https://www.youtube.com/embed/Z0svk-LUCpU
+L-45 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/C2SMrxxINj0
+L-46 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/cRYaUWqlsSQ
+L-47 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/ADh0N97SZBo
+L-48 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/uQq10I4YV6s
+L-49 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/7v4rhaoG8Pk
+L-50 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/udfchIyhJio
+L-51 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/9bEIN1hHdvc
+L-52 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/2P4gdhOhD70
+L-53 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/S0v2yeQSYQM
+L-54 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/q1MUbng2kDk
+L-55 || Polity | Chap -4 Working Of Institutions | : https://www.youtube.com/embed/xhjAHKxAQGo
+9TH CLASS || MAT || INTRODUCTION || LECTURE-01 || BY KETAN SIR : https://www.youtube.com/embed/wSvjgRy7QYI
+9TH CLASS || MAT || Alphabetical test || LECURE-02 || BY KETAN SIR : https://www.youtube.com/embed/-VFbs00Kfj0
+9TH CLASS || MAT || Alphabetical test || LECURE-03 || BY KETAN SIR : https://www.youtube.com/embed/W_5GZ4ZvGcQ
+9TH CLASS || MAT || Alphabetical test || LECURE-04 || BY KETAN SIR : https://www.youtube.com/embed/ts4-TtplHlg
+9TH CLASS || MAT || Mathematical operations || गणितीय संचालन || LECURE-05 || BY KETAN SIR : https://www.youtube.com/embed/UoU56yi3UCc
+9TH CLASS || MAT || Mathematical operations || गणितीय संचालन || LECURE-06 || BY KETAN SIR : https://www.youtube.com/embed/urzcGJG2BzU
+9TH CLASS || MAT || Mathematical operations || गणितीय संचालन || LECURE-07 || BY KETAN SIR : https://www.youtube.com/embed/-UvZfnpkjv0
+9TH CLASS || MAT || Mathematical operations || गणितीय संचालन || LECURE-08 || BY KETAN SIR : https://www.youtube.com/embed/A6obYPivDGM
+9TH CLASS || MAT || Mathematical operations || गणितीय संचालन || LECURE-09 || BY KETAN SIR : https://www.youtube.com/embed/rfc-PMJuX5U
+9TH CLASS || MAT || SYLLOGISM || न्याय निगमन || LECURE-10 || BY KETAN SIR : https://www.youtube.com/embed/zBI2DAB4xr4
+9TH CLASS || MAT || SYLLOGISM || न्याय निगमन || LECURE-11 || BY KETAN SIR : https://www.youtube.com/embed/ak9yOTI75Fc
+9TH CLASS || MAT || SYLLOGISM || न्याय निगमन || LECURE-12 || BY KETAN SIR : https://www.youtube.com/embed/oVroz3-2KM4
+9TH CLASS || MAT || SYLLOGISM || न्याय निगमन || LECURE-13 || BY KETAN SIR : https://www.youtube.com/embed/3FHuRqnqEWA
+9TH CLASS || MAT || SYLLOGISM || न्याय निगमन || LECURE-14 || BY KETAN SIR : https://www.youtube.com/embed/cz_3Ck4IMr0
+L-15 || Syllogism || न्याय निगमन : https://www.youtube.com/embed/anGQpRGp6HI
+L-16 || Syllogism || न्याय निगमन : https://www.youtube.com/embed/A9DgC0O3F_8
+L-17 || Syllogism || न्याय निगमन : https://www.youtube.com/embed/UFOehr1_hHg
+L-18 || Syllogism || न्याय निगमन : https://www.youtube.com/embed/T1pZT63sjTc
+L-19 || Syllogism || न्याय निगमन : https://www.youtube.com/embed/YanvvD_fqjs
+L-20 || Syllogism || न्याय निगमन : https://www.youtube.com/embed/ND0qoXNAZDM
+L-21 || Clock ( Part -1)  || घड़ी : https://www.youtube.com/embed/EOH5uM4BDKg
+L-22 ||  Clock ( Part -2) || घड़ी : https://www.youtube.com/embed/ZGab55gqjfw
+L-23 || Clock ( Part -3) || घड़ी : https://www.youtube.com/embed/f0YTjtMKQl4
+L-24 || Clock ( Part -3) || घड़ी : https://www.youtube.com/embed/SC7kD3a_HK4
+9TH CLASS || Sanskrit || संस्कृत पाठ्‌यक्रम पे चर्चा || LECTURE -01 || By Arun sir : https://www.youtube.com/embed/ATh35qNcr_s
+9TH CLASS || Sanskrit || संधि के भेद || LECTURE -02 || By Arun sir : https://www.youtube.com/embed/hLRZKo_jYLg
+9TH CLASS || Sanskrit || दीर्घ संधि || LECTURE -03 || By Arun sir : https://www.youtube.com/embed/Q02XBZClhSo
+9TH CLASS || Sanskrit || गुण संधि और अयादि संधि || LECTURE -04 || By Arun sir : https://www.youtube.com/embed/0de5lEkTueU
+L-05 || अयादि संधि : https://www.youtube.com/embed/8jA6VA_rOUM
+L-06 || व्यंजन संधि : https://www.youtube.com/embed/nfBSG3ifS-8
+L-07 || व्यंजन और विसर्ग संधि : https://www.youtube.com/embed/98R3bPAX32c
+L-08 || व्यंजन और विसर्ग संधि : https://www.youtube.com/embed/x7vg8Ob1zQY
+L-09 || व्यंजन और विसर्ग संधि : https://www.youtube.com/embed/-3OEggAj2oQ
+L-10 || धातु रूप : https://www.youtube.com/embed/hjGvSHu2i3o
+L-11 ||  धातु रूप-स्वर्णकाकः : https://www.youtube.com/embed/8vjAJKUAKEU
+L-12 || गोदोहनम् : https://www.youtube.com/embed/6TgmXvcbs7A
+L-13 || सूक्तिमौक्तिकम् : https://www.youtube.com/embed/ZgoJxrQMGgs
+L-14 || धातु रूप : https://www.youtube.com/embed/PRQGI6lZBpE
+L-15 || भ्रान्तो बालः : https://www.youtube.com/embed/vrRztTsiyl0
+L-16 || भ्रान्तो बालः : https://www.youtube.com/embed/un6lm_Nw1SE
+L-17 || भ्रान्तो बालः : https://www.youtube.com/embed/hLWvvt6pdK0
+L-18 || भ्रान्तो बालः : https://www.youtube.com/embed/rQI2H86YgVg
+Sentence and Its Parts : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620655395.pdf
+Sentence and Its Practice : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621859016.pdf
+Sentence and Its Parts Practice : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621859498.pdf
+Identify The Types Of Sentences : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621859999.pdf
+The Fun They Had : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1622803506.pdf
+The Lost Child Final : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1622803597.pdf
+Figure Of Speech : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627021649-FIGURE_OF_SPEECH_updated.pdf
+The Adventures Of Toto Final PDF (Book Eng Moments) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627283912-CHAPTER-2_The_Adventures_of_Toto_FINAL_PDF.pdf
+The Little Girl  Final PDF (Book Beehive) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627283912-CHAPTER-3_THE_LITTLE_GIRL_FINAL_PDF.pdf
+The Sound Of Music Final PDF (Book Beehive) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627283912-CHAPTER-2_THE_SOUND_OF_MUSIC_FINAL_PDF.pdf
+The Fun They Had Final PDF  (Book Beehive) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627283912-CHAPTER-1_The_Fun_They_Had.pdf
+The Lost Child Final PDF (Book Eng Moments) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627283912-CHAPTER-1_THE_LOST_CHILD_FINAL_PDF.pdf
+Tense : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630478675-Tense_(PDF).pdf
+Subject and Verb Agreement Exercise - 1 Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631539070-SUBJECT_VERB_AGREEMENT_PRACTICE_SHEET-1_FINAL_PDF.pdf
+Subject and Verb Agreement Exercise - 2 Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631539070-SUBJECT_VERB_AGREEMENT_PRACTICE_SHEET-2_FINAL_PDF.pdf
+Chapter -3 - The Little Girl PNG New : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632829819-CHAPTER-3_THE_LITTLE_GIRL_PNG_NEW.pdf
+Chapter - 4 - A Truly Beautyful Mind PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632829819-CHAPTER-4_A_TRULY_BEAUTIFUL_MIND_PNG.pdf
+Chapter - 5 - The Happy Prince PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632829819-CHAPTER-5_THE_HAPPY_PRINCE_PNG.pdf
+Chapter - 6 The Hundred Dresses - II PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632829819-CHAPTER-6_THE_HUNDRED_DRESSES-II_PNG.pdf
+Determiners Practice Questions Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1636524624-DETERMINERS_PRACTICE_QUESTIONS_FINAL_PDF.pdf
+Letter Writing Stand Alone PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637067788-LETTER_WRITING_STAND_ALONE_PNG.pdf
+GAP Filling Or Cloze Passage Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637307251-GAP_FILLING_OR_CLOZE_PASSAGE_FINAL_PDF.pdf
+Dialogue Reporting (Passage Based MCQS) Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637320985-DIALOGUE_REPORTING_(PASSAGE_BASED_MCQS)_FINAL_PDF_(1).pdf
+Case - Based PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637750286-CASE-BASED_PNG.pdf
+Ch-2 The Adventures Of Toto (MCQ) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637844441-Ch-2_The_Adventures_Of_Toto_(MCQ).pdf
+Ch-4 In The Kingdom Of Fools (MCQ) PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637844441-Ch-4_In_The_Kingdom_Of_Fools_(MCQ)_PNG.pdf
+Chapter - 4 A Truly Beautiful Mind MCQ : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1638623837-CHAPTER-4_A_TRULY_BEAUTIFUL_MIND_MCQ.pdf
+Chapter - 6 My Childhood : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1638623837-CHAPTER-6_MY_CHILDHOOD_PNG.pdf
+Packing Png : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1643436713-CH-7_PACKING_PNG_(1).pdf
+Weathering the Strom in Ersama Png : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1643436713-CH-6_(WEATHERING_THE_STORM_IN_ERSAMA)_PNG_NEW_(1).pdf
+The Last Leaf Png : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1643436713-CHAPTER-7_The_Last_Leaf_PNG_(1).pdf
+A House Is Not a Home Png : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1643436713-CHAPTER-8_A_House_Is_Not_a_Home_png_(1).pdf
+No Men are Foreign : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1643436713-POEM-5_(NO_MEN_ARE_FOREIGN)_FINAL_PDF_(1).pdf
+GS Study Material : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645091924-jpg2pdf-1.pdf
+Reporting Dialogue : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646227612-Reporting_Dialogue.pdf
+Reported Speech Digital : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646227612-REPORTED_SPEECH_DIGITAL.pdf
+Passage Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646227612-PASSAGE_FINAL_PDF.pdf
+Reported Speech Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646227612-REPORTED_SPEECH_FINAL_PDF.pdf
+Narration Practice Questions PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646227612-NARRATION_PRACTICE_QUESTIONS_FINAL_PDF.pdf
+SSC 25 Sample Paper and 66 Set Link : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646902233-ssc_25_sample_paper_and_66_set_compressed.pdf
+Letter : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646973823-LETTER_compressed.pdf
+Letter of Enquiry : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646973823-LETTER_OF_ENQUARY_compressed.pdf
+Phy - 1 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620632505-ketan_sir_class_9_phy_07-may-2021_8.pdf
+Phy - 2  (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620632560-ketan_sir_class_09-phy_08-may-2021_12.pdf
+Phy - 3 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620971730-sci_by_ketan_sir_class_09_phy_13-may-2021.pdf
+Phy - 4 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621791702-science_by_ketan_sir_class_09_phy_20may_2021.pdf
+Phy - 5 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309447-science_by_ketan_sir_class_09_june_04_2021_18.pdf
+Phy - 6 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309530-sci_by_ketan_sir_class_09_phy_05_june_2021_21.pdf
+Phy - 7 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-sci_by_ketan_sir_class_09_phy_10_june_2021.pdf
+Phy - 8 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-sci_by_ketan_sir_class_09_phy_12_june_2021.pdf
+Phy - 9 (Motion Final PDF) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-Motion-1.pdf
+Phy - 10 (Motion) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627047353-science_by_ketan_sir_class_09_phy_22july_2021.pdf
+Force And Laws Of Motion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627623008-Force_And_Laws_Of_Motion_Class_9_Phy_29_July_By_Ketan_Sir_.pdf
+Types Of Forces : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628303599-science_by_ketan_sir_(Phy)_Types_Of_Forces_05_Aug_(Class_09).pdf
+Centripetal and Centrifugal Forces : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628303599-science_by_ketan_sir_(Phy)_Centripetal_And_Centrifugal_Forces_06_Aug_(Class_09).pdf
+Gravitational + Magnetic Force : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629810506-class_9th_phy_gravitational_+_magnetic_force_20aug_2021.pdf
+Unbalanced Forces : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630387776-UNBALANCED_FORCES_CLASS_9_PHY_27-08-2021_BY_KETAN_SIR.pdf
+Inertia Theory : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630647101-Inertia_Theory_9-PHY_02_sept-2021_by_ketan_sir.pdf
+Newton 3rd Law of Motion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631253567-NEWTON_3RD_LAW_OF_MOTION_9TH_PHY_09-SEPT-2021.pdf
+Examples of Motion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631768077-examples_of_motion_phy_class_9_sept-152021.pdf
+Flm Numerical - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631848881-FLM_NUMERICAL-1_PHY_-9_BY_KETAN_SIR_16-SEPT-2021.pdf
+Chapter- 9 -  Force and Lows of Motion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632113444-Chapter-9_Force_and_Lows_of_Motion_(Student).pdf
+Chapter - 9 Force and Lows of Motion (Digital) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632210708-Chapter-9_Force_and_Lows_of_Motion_(Digital).pdf
+Numerical Forces and Laws of Motion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632383824-numerical_forces_and_laws_of_motion_class_9.pdf
+Numericals : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632461350-20210923174603989.pdf
+Gravitation : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1633579982-gravitation_9_class_phy_by_ketan_sir.pdf
+Unit of Small : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634208602-unit_of_small_g_class_9_by_ketan_sir_13-oct.pdf
+Value of Small : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634545394-value_of_small_g_class_09-by_ketan_sir_14-oct-2021.pdf
+Mass and Weight : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634812042-MASS_AND_WEIGHT_PHY_CLASS_9_BY_KETAN_SIR.pdf
+Work and Energy - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635331064-work_and_energy_9_class_phy_by_ketan_sir.pdf
+Work and Energy - 2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635331064-class_9_workband_energy_by_ketanvsir.pdf
+Work and Energy - 3 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635331064-work_and_energy_9_Class_phy_by_ketan.pdf
+Work and Energy - 4 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635488550-energy_class_9_phy_by_ketan_sir.pdf
+Work and Energy - 5 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635488550-energy_class_9_phy_by_ketan_sir_(1).pdf
+Kinetic Energy : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635568587-kinetic_energy_09_class_phy.pdf
+Work and Energy : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1636537265-work_and_energy_9_phy.pdf
+Potential Energy : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1636537265-potential_energy_9_class_phy_by_ketan_sier.pdf
+Buoyancy : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637834266-Buoyancy_9th_bio.pdf
+Sound : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1639464828-sound_class_9_physics_by_ketan_sir.pdf
+Chemistry -1 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620632425-ketan_sir_class_9th_CHE_04-may-2021_4.pdf
+Chemistry -2 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620634704-CHEMISTRY_9TH.pdf
+Chemistry -3 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620971599-science_by_ketan_sir_class_9_chemistry_12_may_2021.pdf
+Chemistry - 4 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621495801-science_by_ketan_sir_class_09_che_18may_2021.pdf
+Chemistry -5 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621495901-sci_by_ketan_sir_class_9_phy_17may_2021.pdf
+Chemistry -6  (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621998886-sci_by_ketan_sir_class_09_che_24_may_2021.pdf
+Chemistry -7 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309006-sci_by_ketan_sir_class_09_che_08_june_2021_3.pdf
+Chemistry - 8 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309052-sci_by_ketan_sir_class_09_che_09_june_2021_5.pdf
+Chemistry - 9 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309137-sci_by_ketan_sir_class_09_che_08_june_2021_8.pdf
+Chemistry - 10 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309256-sci_by_ketan_sir_class_09_che_01_june_2021_10.pdf
+Chemistry - 11 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309373-science_by_ketan_sir_che_class_09___02_june_15.pdf
+Chemistry - 12 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309395-science_by_ketan_sir_che_class_09___02_june_16.pdf
+Chemistry - 13 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-sci_by_ketan_sir_class_09_che_14_june_2021.pdf
+Chemistry -14 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-science_by_ketan_sir_class_09_che_15_june_2021.pdf
+Chemistry -15 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-science_by_ketan_sir_class_09_che_16_june_2021.pdf
+Chemistry -17 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-clas-9th_chem_14th_april_ketan_sir.pdf
+Chemistry -18 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-9th_chemistry_13_april_ktn_sir.pdf
+Chemistry -19 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-9th_chemistry_12_april.pdf
+Chemistry - 20 (Matter In Our Surroundings) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626500505-Sci_by_ketan_sir_class_09_che_16_july_2021.pdf
+Chemistry - 21 (Matter In Our Surroundings Final PDF) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-Matter_in_our_surroundings-1.pdf
+Is Matter Around Us Pure  - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626687731-1618401526-9th_chemistry_12_april.pdf
+Is Matter Around Us Pure  - 2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626687731-1618401934-9th_chemistry_13_april_ktn_sir.pdf
+Is Matter Around Us Pure - 3 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626687731-1618486362-clas-9th_chem_14th_april_ketan_sir.pdf
+Difference Between Homogeneous and Heterogeneous Mixture : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627403744-sci_by_ketan_sir_class_09_che_26_july_2021.pdf
+Metals : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627403744-science_by_ketan_sir_class_09_che_27_july_2021.pdf
+Chem Solution : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628049595-science_by_ketan_sir_class_09_che_SOLUTION_03Aug_2021.pdf
+Types Of Forces : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628151445-science_by_ketan_sir_class_09_Che_Types_Of_Forces_04_August_2021.pdf
+Solvent and Solute - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629361557-Solvent_and_Solute_-9.pdf
+Solvent and Solute - 2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629361557-Science_9th_CHE_17_Aug_2021.pdf
+Types Of Solutions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629810506-TYPES_OF_SOLUTIONS_23aug_chemistry.pdf
+Saturated Unsaturated Solution : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630491785-CHE_9_SATURATED_UNSATURATED_SOLUTION_BY_KETAN_SIR.pdf
+Colloidal Solution and Types : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631592622-colloidal_solution_and_types_class_9_by_ketan_sir_13-sept-2021.pdf
+Important Questions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631680408-IMPORTANT_QUESTIONS_CLASS_-_9_CHE_BY_KETAN_SIR_14-SEPT-2021.pdf
+Distillation Method : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632199347-distillation_method_class_9_chem_20-sept-2021_b_y_ketan_sir.pdf
+Diff Between Distillation and Fd : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632812293-diff_between_distillation_and_fd_che_9_by_ketan_sir.pdf
+Separating Funnel Method : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632845559-separating_funnel_method_class_9_CHE_sept_28_by_kletan_sir.pdf
+Metal Atoms and Molecules : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1633497563-chem_09_metal_atoms_and_molecules_by_ketan_sir_05-oct-2021.pdf
+Consrvation Of Mass : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634208602-CONSRVATION_OF_MASS_9_CLASS_BY_KETAN_SIR.pdf
+Law of Constant Proportion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634875440-law_of_constant_proportion_9_che_by_ketan_sir.pdf
+Atomic Masses : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635488550-atomic_masses_9_che_class_by_ketan_sir.pdf
+Atoms And Molecules : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1638521108-Atoms_And_Molecules.pdf
+Is Matter Around us Pure : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1639464828-9th_chem.pdf
+Atomic Structure : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1639823463-Atomic_Structure_9TH_CHEM.pdf
+Periodic Classification of Element - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646216645-Class-10_Periodic_Classification_of_element-1.pdf
+Biology - 25 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309478-science_by_ketan_sir_class_09_bio_05_june_2021_20.pdf
+Biology - 26 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-science_by_ketan_sir_class_09_bio_14_june_2021.pdf
+Biology - 27 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-science_by_ketan_sir_bio_class_09_(june_10-2021).pdf
+Biology - 28 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-science_by_ketan_sir_class_09_bio_12_june_2021.pdf
+Biology - 29 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-science_by_ketan_sir_class_09_bio_15_june_2021.pdf
+Biology - 30 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623926390-science_by_ketan_sir_class_09_bio_16_june_2021.pdf
+Biology - 31 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-sci_by_ketan_sir_class_09_bio_08_july_2021.pdf
+Biology - 32 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-sci_by_ketan_sir_class_09_bio_12_july_2021.pdf
+Biology - 33 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-sci_by_ketan_sir_class_09_bio_13_july_2021.pdf
+Biology - 34 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-science_by_ketan_sir_class_09_bio_15_july_2021_(1).pdf
+Biology - 35 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-sci_by_ketan_sir_class_09_bio_07_july_2021.pdf
+Biology - 36 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-sci_by_ketan_sir_class_09_bio_14_july_2021.pdf
+Biology - 37 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-Bioligy.pdf
+Biology - 38 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626500505-science_by_ketan_sir_class_09_bio_15_july_2021.pdf
+Biology - 39 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626500505-science_by_ketan_sir_class_09_bio_16_july_2021.pdf
+Biology - 40 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626766106-science_by_ketan_sir_class_09_bio_19_july_2021.pdf
+Biology - 41 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626844678-science_by_ketan_sir_class_09_bio_20_july_2021.pdf
+Biology - 42 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626885517-science_by_ketan_sir_class_09_bio_21_july_2021.pdf
+Biology - 43 (Tissue) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627047353-science_by_ketan_sir_class_09_bio_22_july_2021.pdf
+White Blood Corpuscles (WBC) - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627404666-science_by_ketan_sir_class_09_bio_27_july_2021.pdf
+White Blood Corpuscles (WBC) - 2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627403744-sci_by_ketan_sir_class_09_bio_22_july_2021.pdf
+Small Intestine : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627403744-science_by_ketan_sir_class_09_bio_27_july_2021.pdf
+Platelets Blood : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627553273-Platelets_Blood_(Bio_Class-9)_28_july.pdf
+Blood Clotting : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627623008-Blood_Clotting_Class_9_Bio_29_July.pdf
+Neuron : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628050032-science_by_ketan_sir_class_09_bio_Neuron_03_August_2021.pdf
+Neuron Part  - 2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628151445-science_by_ketan_sir_class_09_bio_(Neuron_part_2)_04_August_2021.pdf
+Tissue Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628303599-TISSUE_CH-6(CLASS-9)_BIOLOGY.pdf
+Diversity In Living Organisms : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629810506-class_9_bio_diversity_in_living_organisms_23_august_2021.pdf
+Kingdom Classification : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630387776-BIO_CLASS_9_KINGDOM_CLASSIFICATION_BY_KETAN_SIR_27-08-2021.pdf
+Classification Chart Explanation : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630491785-9_CLASSIFICATION_CHART_EXPLANATION_CLASS_9_BIO.pdf
+Monera Kingdom : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630565684-Monera_Kingdom_Class_9_sept01-2021_by_ketan_sir.pdf
+Inertia Basics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630565684-Inertia_Basics_9-PHY_01_sept-2021_by_ketan_sir_(1).pdf
+Protista Kingdom : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630647101-PROTISTA_KINGDOM_(CLASS_-9)_BIO_02-SEP-2021_BY_KETAN_SIR.pdf
+Animalia Kingdom : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630990353-ANIMALIA_KINGDOM_9_BIO.pdf
+Porifera Lecture - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631076233-porifera_Lecture-1_(class-9)_bio_by_ketan_sir.pdf
+Coelentrata Phylum : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631253567-COELENTRATA_PHYLUM_BIO_-9_BY_KETAN_SIR_09-SEPT-2021.pdf
+Platehelmenthis : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631338993-PLATEHELMENTHIS_CLASS_9_BIO_BY_KETAN_SIR.pdf
+Conservation of Momentom : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631338993-CONSERVATION_OF_MOMENTOM_9TH_CLASS.pdf
+Arthropoda Phylum : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631592622-arthropoda_phylum_bio_class_-_9_by_ketan_sir_13-sept-2021.pdf
+Nimetida : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631680408-nimetida_class_9_bioby_ketan_sir_Sept_14-2021.pdf
+Mollusca Phylum : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631768077-mollusca_phylum_class_9_bio_by_ketan_sir_15sept2021.pdf
+Annelida Phylum : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631848881-ANNELIDA_PHYLUM_9-BIO_BY_KETAN_SIR_16-SEPT-2021.pdf
+Chordata Phylum : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632199347-chordata_phylum_bio_9_classs_by_ketan_sir_20-sept-2021.pdf
+Protochordata Sub-phylum : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632383824-protochordata_sub-phylum_bio_class_9-_by_ketan_sir.pdf
+Vertebrates Subphylum : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632383824-vertebrates_subphylum_class_9_bio_by_ketan_sir_22-sept-2021.pdf
+Pisces : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632461350-20210923194113601.pdf
+Amphibians : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632541994-AMPHIBIANS_CLASS_9_BIO_BY_KETAN_SIR_24-SEPT-2021.pdf
+Reptiles : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632812293-reptiles_class_9_bio_27_sept-2021_by_ketan_sir.pdf
+AVES : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632845559-AVES_CLASS_09_BIO_BY_KETAN_SIR_28-SEPT-2021.pdf
+Mammals : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632982600-mammals_class_09_by_ketan_sir_29-sept-2021.pdf
+Chapter-7 Diversity in Living Organisms : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1633116016-Chapter-7_Diversity_in_Living_Organisms_(Student).pdf
+Why Do We Fall ILL : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634208602-WHY_DO_WE_FALL_ILL_CLASS_9_BY_KETAN_SIR.pdf
+Diseases Caused by Pathogens : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634545438-diseases_caused_by_pathogens_class_9_by_ketan_sir_14-oct-2021.pdf
+Types of Diseases : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634652912-class_9_types_of_diseases_by_ketan_sir_18-oct.pdf
+Nephron : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634812042-nephron_class_10_bio_by_ketan_sir_20-oct-2021.pdf
+Infectious Diseases : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1634875660-infectious_diseases_9_bio_class_by_ketan_sir.pdf
+Cariers of Diseases : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635219735-cariers_of_diseases_09_class_bio_by_ketan_sir_25_october_2021.pdf
+Biosphere : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1636537265-biosphere_9th_class_bio.pdf
+Natural Resources : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637658643-Natural_Resources_9th_bio.pdf
+Nitrogen Cycle : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1638251250-Nitrogen_Cycle.pdf
+Chapter-14 Natural Resources : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1638793642-Chapter-14_Natural_Resources_(Student).pdf
+Chapter - 9 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646216470-Class-10_Chapter-9_(Student).pdf
+उपसर्ग- प्रत्यय : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620888627.pdf
+वाच्य : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-वाच्य.pdf
+सर्वनाम (हिंदी) - 100 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-सर्वनाम_(हिंदी)_-_100.pdf
+समास : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-समास.pdf
+संज्ञा - 100 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-संज्ञा_-_100.pdf
+विशेषण और विशेष्य : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-विशेषण_और_विशेष्य.pdf
+वाक्य के भेद : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-वाक्य_के_भेद.pdf
+रस अलंकार छंद : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-रस_अलंकार_छंद.pdf
+निपात ,अव्यय ( अविकारी शब्द ) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-निपात_,अव्यय_(_अविकारी_शब्द_).pdf
+क्रिया विशेषण : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-क्रिया_विशेषण.pdf
+उपसर्ग , प्रत्यय और काल : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-उपसर्ग_,_प्रत्यय_और_काल.pdf
+अव्यय : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625043202-अव्यय.pdf
+Full Class notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620888568.pdf
+Hindi List Class-9 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629911967-Class-9_Chapter_List.pdf
+साखियाँ एवं सबद : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637240677-साखियाँ_एवं_सबद.pdf
+समास 100 Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637240677-समास_100_Question_(Digital).pdf
+रसखान : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637240677-रसखान.pdf
+उपसर्ग : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637240677-उपसर्ग.pdf
+उपसर्ग व प्रत्यय 100 Ques : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637240677-उपसर्ग_व_प्रत्यय_100_Ques.pdf
+Class Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637240677-Class_Notes.pdf
+अलंकार : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637240677-Alnkar.pdf
+The French  Revolution : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628860451-Class_9_th_History_pmd_pmd.pdf
+Socialism in Europe : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645003471-Digital_Bord_Socialism_in_Europe(1).pdf
+His Chapter - 3 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645440307-student_copy_the_Making_of_global_word.pdf
+His Chapter - 4 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645440372-ch-3_Nazism_and_the_rise_of_Hitler_pmd.pdf
+His Chapter - 2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645440609-Socialism_in_Europe_and_the_Russian_II.pdf
+People as Resource Hindi Medium : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628860317-class_9_th_Economics_Ch-2_People_as_Resource_Hindi_medium_Student_copy.pdf
+People as Resource English Medium : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629203902-Class_9_th_Economics_ch-2_People_as_Resource_English_medium_Student_copy.pdf
+Story Of Village Palampur (Q&A) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629441360-Class_9_th_Economics_ch-1_story_of_village_palampur_QA_Hindi_medium.pdf
+Economics term-2 , Ch -3 Poverty as a Challenge , Ch-4 Food Security In India : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1638447712-class_9_th_Economics_term-2_,ch_-3_poverty_as_a_challenge_,ch-4_Food_security_in_India.pdf
+Polity Chapter-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621833452.pdf
+Chapter -1 Qustion & Answer : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629101440-Class_9_th_Polity_sc_ch-1_QA_Hindi_medium_Student_copy.pdf
+What Democracy Why Democracy Q&A : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629911626-Class_9_th_Pol_sc_ch-1_what_democracy_why_democracy_QA_Hindi_medium_Student_copy.pdf
+Mat : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309569-MAT_by_ketan_sir_05-june-2021_24.pdf
+Mathematical Operations : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626501201-MAT_by_ketan_sir_16july_-2021.pdf
+Syllogism Replacement Approach Basics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630387776-MAT_CLASS_9-10_SYLLOGS_REPLACEMENT_APPROACH_BASICS_BY_KETAN_SIR.pdf
+Sanskrit List Class-9 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629911967-Sanskrit_List_Class-9.pdf
+(Maghalam) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-(Maghalam).pdf
+(गोदोहनम्) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-(गोदोहनम्).pdf
+(सूक्तिमौक्तिकम्) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-(सूक्तिमौक्तिकम्).pdf
+Sanskrit List Class : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-Sanskrit_List_Class.pdf
+अपठित अनुच्छेद : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-अपठित_अनुच्छेद.pdf
+उपसर्ग : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-उपसर्ग.pdf
+कारक तथा विभक्ति : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-कारक_तथा_विभक्ति.pdf
+द्वितीयः पाठः स्वर्णकाकः : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-द्वितीयः_पाठः_स्वर्णकाकः.pdf
+धातुरूप लट्लकार : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-धातुरूप_लट्लकार.pdf
+पर्यायवाची शब्द : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-पर्यायवाची_शब्द.pdf
+प्रत्यय : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-प्रत्यय.pdf
+वाच्य : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-वाच्य.pdf
+विलोम शब्द : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-विलोम_शब्द.pdf
+सन्धि : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637237316-सन्धि.pdf
+Maths Test -1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623654795-MATHS_TEST-1_9TH_HINDI.pdf
+Physics Test-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623741698-Class_-9th_physics_only_questions_Hindi.pdf
+Chemistry Test-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623831831-Chemistry_Class_-9th_(Test_series)_Only_questions_pmd.pdf
+Biology Test-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623914546-Class-9th_Biology_(Test_Series)_Only_Questions.pdf
+SST Test-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624080939-SST_Class-IX_Test_Series.pdf
+English Test-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624082963-9th_Class_Test_Series_FINAL_PDF.pdf
+Chemistry Test Solution - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624279484-Chemistry_Class_-_IX_Test_Series_(With_Solutions).pdf
+Physics Test Solution - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624279515-Class_-9th_physics_With_solution.pdf
+Biology Test Solution - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624279546-Class-9th_Biology_(Test_Series)_with_solutions.pdf
+SST Test Solution (Eng) - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624446077-class_9_SST_Test_paper_(English_Solutions).pdf
+Maths Test Solution - 1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624515702-Test_Paper_9th_class_-_HINDI_-_07_06_2021.pdf
+Why Do We Fall Iii : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1635488550-TEST_9_CLASS_BIO_WHY_DO_WE_FALL_ILL_BY_KETAN_SIR.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618062549-biology_ktn_sir_9_april.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618062549-class-9th_ketan_sir_bio_10th_April.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618401762-9th_biology_12_april_ktn_sir.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618401995-9th_chemistry_13_april_ktn_sir.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618549446-9_Class-9th_bio_by_ketan_sir_15th_april.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620632365-ketan_sir_class_09th_Bio_04-may-2021_1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620632463-class_9th_by_ketan_sir_07-may_biology_cell_7.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620632534-ketan_sir_class_09-bio_08-may-2021_11.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620634622-9th_ketan_sir.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620634734-BIOLOGY_9TH.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620971565-bio_class_09_by_ketan_sir_11_may_2021.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620971644-sci_by_ketan_sir_class_9_bio_may_12_-2021.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620971695-class_9_bio_by_ketan_sir_13may20.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620971756-bio_class_09_by_ketan_sir_11_may_2021_(1).pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621495829-science_by_ketan_sir_class_09_bio18may_2021.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621495874-science_by_ketan_sir_class_9bio_17may_2021.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621791632-sci_by_ketan_sir_bio_9_may_20-2021.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621998832-sci_by_ketan_sir_class_09_bio_24_may_2021.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621998932-sci_by_ketan_sir_class_09_bio_25_may_2021.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623308972-sci_by_ketan_sir_class_09_phy_08_june_2021_2.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309094-science_by_ketan_sir_class_09_bio_09_june_2021_7.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309216-sci_by_ketan_sir_class_09_bio_1_june_2021_9.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623309334-science_by_ketan_sir_BIO_class_09___02_june_13.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626425174-The_fundamental_Unit_of_life__Final_pdf_.pdf

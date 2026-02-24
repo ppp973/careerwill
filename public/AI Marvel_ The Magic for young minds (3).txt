@@ -1,0 +1,43 @@
+[live] How Chatbots Work? _ Chatbots technologies:https://d1d34p8vz63oiq.cloudfront.net/d26f7bcb-8c05-4aeb-8b61-d410fee0cfea/master.mpd&parentId=663f485a5671390018b61ff2&childId=6675f57115f6e900189e215a
+[notes] How Chatbots Work  Chatbots technologies Class Notes.pdf:https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b4bae375-fe57-4669-b92b-474fd443c190.pdf
+[live] Building Chatbots with your own data _ Basic Chatbot Using:https://d1d34p8vz63oiq.cloudfront.net/2ac54fb5-55b9-45a7-b73a-aa1e74ffa12c/master.mpd&parentId=663f485a5671390018b61ff2&childId=6673be722449a30018d225ce
+[notes] Building Chatbots with your own data  Basic Chatbot Using Class Notes.pdf:https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/daa0f7a2-3a31-49ff-9b8e-951f943062f8.pdf
+[live] How AI Motion works? _ Animation in AI:https://d1d34p8vz63oiq.cloudfront.net/4d32ad7d-95b0-4d57-9f4c-90387c5478a0/master.mpd&parentId=663f485a5671390018b61ff2&childId=6671065a6419890018e26ef9
+[notes] How AI Motion works  Animation in AI Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d2128173-01de-495e-869e-4987a5346859.pdf
+[live] Bringing Images to Life with AI _ Motion AI:https://d1d34p8vz63oiq.cloudfront.net/c0b1a7bd-1b67-4e74-8622-413d744e5f82/master.mpd&parentId=663f485a5671390018b61ff2&childId=666c88e217deff00183b43f6
+[notes] Bringing Images to Life with AI  Motion AI  Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1ba669e6-8ac6-4fdb-9545-d9a561d2ac94.pdf
+[live] Generating Consistent Image with AI _ AI Image Generation:https://d1d34p8vz63oiq.cloudfront.net/58828ffc-5263-4aca-8cc1-a03ee9c7880c/master.mpd&parentId=663f485a5671390018b61ff2&childId=666a7c8e5dca6100189c9d40
+[notes] Generating Consistent Image with AI  AI Image Generation Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0999c2fc-cc14-43e4-9816-0f29e8450910.pdf
+[live] How AI Creates and Edits Images _ AI Video Generation:https://d1d34p8vz63oiq.cloudfront.net/248a725f-0e60-4d2e-a1e4-b8b591a0e865/master.mpd&parentId=663f485a5671390018b61ff2&childId=6667f0008bd81a0018431371
+[notes] How AI Creates and Edits Images  AI Video Generation Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/68ac97a6-a9bc-47fd-83be-1cbfea71fbae.pdf
+[live] Editing Pictures with AI _ Step by Step __ Rescheduled @07_00 PM:https://d1d34p8vz63oiq.cloudfront.net/24d9e500-033d-43cf-babb-1d5157426a94/master.mpd&parentId=663f485a5671390018b61ff2&childId=66635da5f6bc8b0018672cd9
+[notes] Editing Pictures with AI  Step by Step Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e1ef8c4d-2891-430f-848d-ebfbeab5555b.pdf
+[live] Drawing with AI _ Your Digital Palette  __ Rescheduled @07_00 PM:https://d1d34p8vz63oiq.cloudfront.net/749a806d-b782-42a2-bb4d-e1ebc86c7b4d/master.mpd&parentId=663f485a5671390018b61ff2&childId=6660933b0339a200182da77e
+[notes] Drawing with AI  Your Digital Palette Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3e16f514-ef90-45cf-9cf7-a7c18e7164c5.pdf
+[live] Inside AI Music _ The Creation Process:https://d1d34p8vz63oiq.cloudfront.net/0fc29f0e-860d-4bb5-91bf-06caeca079fc/master.mpd&parentId=663f485a5671390018b61ff2&childId=665e9f445eba900019e5b6fa
+[notes] Inside AI Music  The Creation Process Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1a89e3a6-8dcf-4c7d-a6f3-0222104cf566.pdf
+[live] AI Voices & Sounds _ How They're Made:https://d1d34p8vz63oiq.cloudfront.net/11e6561a-a956-449a-951d-715e8018c6b0/master.mpd&parentId=663f485a5671390018b61ff2&childId=665ab7a9dd91020018c9700f
+[notes] AI Voices & Sounds  How They're Made Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/52427b3f-81cf-46d1-98f8-4e222ba85b10.pdf
+[live] Making Music with AI _ A New Tune:https://d1d34p8vz63oiq.cloudfront.net/f9d9e57e-1dd9-4488-9947-b7176817a734/master.mpd&parentId=663f485a5671390018b61ff2&childId=66578e006503a6001753312a
+[notes] Making Music with AI  A New Tune Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d1f3be8a-0eec-4f15-a80f-431e3ee6de52.pdf
+[live] Chatting with AI _ Importance of Prompting:https://d1d34p8vz63oiq.cloudfront.net/41577ad5-c54a-4a23-99f5-636adf4be5c7/master.mpd&parentId=663f485a5671390018b61ff2&childId=6654b46a63aed30018c7e746
+[notes] Chatting with AI Importance of Prompting Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/48c0e350-c4a4-4b4f-ba8b-0e1631d6879e.pdf
+[live] AI in Your Day _ Surprising Use Cases:https://d1d34p8vz63oiq.cloudfront.net/43cf2c25-7b65-4ee0-946a-6e6cb456c484/master.mpd&parentId=663f485a5671390018b61ff2&childId=66509d1623c7bb001841662c
+[notes] AI Magic  How Does it Work  Class Notes .pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0616cc24-2785-4fe5-bce9-8b35289a4e66.pdf
+[live] AI Magic _ How Does it Work?:https://d1d34p8vz63oiq.cloudfront.net/c7f043ab-76dd-4438-82ec-c787397e4019/master.mpd&parentId=663f485a5671390018b61ff2&childId=664df8eb1dab070018d647b5
+[notes] AI Magic How Does it Work Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/530f6477-31bc-4465-b53e-92556a7bcd50.pdf
+[live] Beginner's Guide _ What is AI?:https://d1d34p8vz63oiq.cloudfront.net/4db13ad5-dd46-4623-a10e-89ad4ea3daac/master.mpd&parentId=663f485a5671390018b61ff2&childId=664ca2e294d45100180d90d7
+[notes] Beginner's Guide What is AI Class Notes.pdf:https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/91760048-1989-4c01-97e7-ee66e7fdad31.pdf
+[recorded] New Feature Update _ New Quality Options in Video Player:https://d1d34p8vz63oiq.cloudfront.net/24d9ac67-629a-4ef1-b410-8613b01c495e/master.mpd&parentId=663f485a5671390018b61ff2&childId=664c460b370eb30018cc29c7
+[recorded] Demo Lecture By Vivek Singh Sir:https://d1d34p8vz63oiq.cloudfront.net/62d79916-6a0c-461c-b87d-edd0be0ea71e/master.mpd&parentId=663f485a5671390018b61ff2&childId=6650a1070610d4001887e92f
+[recorded] Demo Lecture By Vishal Tiwari Sir:https://d1d34p8vz63oiq.cloudfront.net/e041a74e-48e8-4306-8f5f-e02709b06fea/master.mpd&parentId=663f485a5671390018b61ff2&childId=664cabd1411fc900183c1d06
+[recorded] New Update _ Study Page (App):https://d1d34p8vz63oiq.cloudfront.net/9ab84d64-ff14-4d72-96b4-9c510b232a9a/master.mpd&parentId=663f485a5671390018b61ff2&childId=664c43e58e0a0a001840b767
+[recorded] Important Update _ Dark Mode:https://d1d34p8vz63oiq.cloudfront.net/d8f17b42-5f04-45f0-9a87-7e4ee2d838dc/master.mpd&parentId=663f485a5671390018b61ff2&childId=664c463a4223e900184a34a5
+[recorded] New Feature Update _ Audio Mode:https://d1d34p8vz63oiq.cloudfront.net/c4a2f637-2869-4643-84ef-ef900de884dd/master.mpd&parentId=663f485a5671390018b61ff2&childId=664c42e09c5d6c001853a428
+[recorded] New Feature Update _ Notes Feature In Video Player:https://d1d34p8vz63oiq.cloudfront.net/38af3dd1-f4a8-44a3-9111-5b4c40c6c3c5/master.mpd&parentId=663f485a5671390018b61ff2&childId=664c45d8eff74c0019400850
+[recorded] New Study Page _ KT Video:https://d1d34p8vz63oiq.cloudfront.net/a3d0d2ad-f753-4e97-877f-63c7010a01ce/master.mpd&parentId=663f485a5671390018b61ff2&childId=664c4290eb89080018298caf
+[recorded] New Feature Update _ Chat Template:https://d1d34p8vz63oiq.cloudfront.net/257fe045-d0a0-46ae-aa16-8a72221136b7/master.mpd&parentId=663f485a5671390018b61ff2&childId=664c442a9c5d6c001853a6d6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 Extracted: 23-11-2025 02:34 PM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

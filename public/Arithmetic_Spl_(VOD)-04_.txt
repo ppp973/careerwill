@@ -1,0 +1,259 @@
+[Arithmetic] Class-1 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6329732646112/6329732646112.m3u8
+[Arithmetic] Class-2 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6329787176112/6329787176112.m3u8
+[Arithmetic] Class-3 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6329842789112/6329842789112.m3u8
+[Arithmetic] Class-4 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6329907469112/6329907469112.m3u8
+[Arithmetic] Class-5 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6329969783112/6329969783112.m3u8
+[Arithmetic] Class-6 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330123050112/6330123050112.m3u8
+[Arithmetic] Class-7 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330178501112/6330178501112.m3u8
+[Arithmetic] Class-8 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330234115112/6330234115112.m3u8
+[Arithmetic] Class-9 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330291041112/6330291041112.m3u8
+[Arithmetic] Class-10 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330359639112/6330359639112.m3u8
+[Arithmetic] Class-11 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330506884112/6330506884112.m3u8
+[Arithmetic] Class-12 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330571536112/6330571536112.m3u8
+[Arithmetic] Class-13 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330617729112/6330617729112.m3u8
+[Arithmetic] Class-14 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330680991112/6330680991112.m3u8
+[Arithmetic] Class-15 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330744750112/6330744750112.m3u8
+[Arithmetic] Class-16 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330924298112/6330924298112.m3u8
+[Arithmetic] Class-17 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6330981937112/6330981937112.m3u8
+[Arithmetic] Class-18 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331061713112/6331061713112.m3u8
+[Arithmetic] Class-19 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331121050112/6331121050112.m3u8
+[Arithmetic] Class-20 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331306119112/6331306119112.m3u8
+[Arithmetic] Class-21 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331339226112/6331339226112.m3u8
+[Arithmetic] Class-22 || Percentage: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331393632112/6331393632112.m3u8
+[Arithmetic] Class-1 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331452649112/6331452649112.m3u8
+[Arithmetic] Class-2 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331534295112/6331534295112.m3u8
+[Arithmetic] Class-3 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331746153112/6331746153112.m3u8
+[Arithmetic] Class-4 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331809650112/6331809650112.m3u8
+[Arithmetic] Class-5 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331868231112/6331868231112.m3u8
+[Arithmetic] Class-6 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331929153112/6331929153112.m3u8
+[Arithmetic] Class-7 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331936442112/6331936442112.m3u8
+[Arithmetic] Class-8 | Ratio: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6331995223112/6331995223112.m3u8
+[Arithmetic] Class-1 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332000127112/6332000127112.m3u8
+[Arithmetic] Class-2 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332180781112/6332180781112.m3u8
+[Arithmetic] Class-3 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332304964112/6332304964112.m3u8
+[Arithmetic] Class-4 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332361504112/6332361504112.m3u8
+[Arithmetic] Class-5 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332422409112/6332422409112.m3u8
+[Arithmetic] Class-6 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332562837112/6332562837112.m3u8
+[Arithmetic] Class-7 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332611192112/6332611192112.m3u8
+[Arithmetic] Class-8 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332688192112/6332688192112.m3u8
+[Arithmetic] Class-9 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6332982725112/6332982725112.m3u8
+[Arithmetic] Class-10 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6333122869112/6333122869112.m3u8
+[Arithmetic] Class-11 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6333800714112/6333800714112.m3u8
+[Arithmetic] Class-12 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6334033362112/6334033362112.m3u8
+[Arithmetic] Class-13 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6334282530112/6334282530112.m3u8
+[Arithmetic] Class-14 || Time and Work: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6335069419112/6335069419112.m3u8
+[Arithmetic] Class -1 || Pipe and Cistern: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6335246671112/6335246671112.m3u8
+[Arithmetic] Class -2 || Pipe and Cistern: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6335405468112/6335405468112.m3u8
+[Arithmetic] Class -3 || Pipe and Cistern: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6335494557112/6335494557112.m3u8
+[Arithmetic] Class -4 || Pipe and Cistern: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6335552772112/6335552772112.m3u8
+[Arithmetic] Class-1 || Partnership: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6335719738112/6335719738112.m3u8
+[Arithmetic] Class-2 || Partnership: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6335909275112/6335909275112.m3u8
+[Arithmetic] Class-3 || Partnership: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6336293724112/6336293724112.m3u8
+[Arithmetic] Class-04 || Partnership: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6336464909112/6336464909112.m3u8
+[Arithmetic] Class-1 ||Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6336568464112/6336568464112.m3u8
+[Arithmetic] Class-2 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6336616076112/6336616076112.m3u8
+[Arithmetic] Class-3 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6336674225112/6336674225112.m3u8
+[Arithmetic] Class-4 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6336737160112/6336737160112.m3u8
+[Arithmetic] Class-5 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6336813429112/6336813429112.m3u8
+[Arithmetic] Class-6 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337012909112/6337012909112.m3u8
+[Arithmetic] Class-7 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337020996112/6337020996112.m3u8
+[Arithmetic] Class-8 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337141281112/6337141281112.m3u8
+[Arithmetic] Class-09 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337207378112/6337207378112.m3u8
+[Arithmetic] Class-10 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337358166112/6337358166112.m3u8
+[Arithmetic] Class-11 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337416289112/6337416289112.m3u8
+[Arithmetic] Class-12 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337481790112/6337481790112.m3u8
+[Arithmetic] Class-13 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337549087112/6337549087112.m3u8
+[Arithmetic] Class-14 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337617998112/6337617998112.m3u8
+[Arithmetic] Class-15 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337791220112/6337791220112.m3u8
+[Arithmetic] Class-16 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337854907112/6337854907112.m3u8
+[Arithmetic] Class-17 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337915504112/6337915504112.m3u8
+[Arithmetic] Class-18 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6337985991112/6337985991112.m3u8
+[Arithmetic] Class-19 || Time,Speed and Distance: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338067478112/6338067478112.m3u8
+[Arithmetic] Class-1 || Boat and Stream: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338305870112/6338305870112.m3u8
+[Arithmetic] Class-2 || Boat and Stream: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338367096112/6338367096112.m3u8
+[Arithmetic] Class-3 || Boat and Stream: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338441924112/6338441924112.m3u8
+[Arithmetic] Class-04 || Boat and Stream: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338512413112/6338512413112.m3u8
+[Arithmetic] Class-1 || Race: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338720236112/6338720236112.m3u8
+[Arithmetic] Class-02 || Race: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338834903112/6338834903112.m3u8
+[Arithmetic] Class-03 || Race: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338899866112/6338899866112.m3u8
+[Arithmetic] Class-1 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338986328112/6338986328112.m3u8
+[Arithmetic] Class-02 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339244079112/6339244079112.m3u8
+[Arithmetic] Class-03 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339385001112/6339385001112.m3u8
+[Arithmetic] Class-04 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339444791112/6339444791112.m3u8
+[Arithmetic] Class-05 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339521137112/6339521137112.m3u8
+[Arithmetic] Class-06 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339600782112/6339600782112.m3u8
+[Arithmetic] Class-07 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339831806112/6339831806112.m3u8
+[Arithmetic] Class-08 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339899899112/6339899899112.m3u8
+[Arithmetic] Class-09 || Average: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6339968214112/6339968214112.m3u8
+[Arithmetic] Class -1 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6340141480112/6340141480112.m3u8
+[Arithmetic] Class -02 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6340217852112/6340217852112.m3u8
+[Arithmetic] Class-03 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6340290074112/6340290074112.m3u8
+[Arithmetic] Class-04 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6340357025112/6340357025112.m3u8
+[Arithmetic] Class-06 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6340602700112/6340602700112.m3u8
+[Arithmetic] Class-07 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6340727992112/6340727992112.m3u8
+[Arithmetic] Class-08 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6340797118112/6340797118112.m3u8
+[Arithmetic] Class-09 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341232614112/6341232614112.m3u8
+[Arithmetic] Class-10 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341478679112/6341478679112.m3u8
+[Arithmetic] Class-12 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341594455112/6341594455112.m3u8
+[Arithmetic] Class-13 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341658691112/6341658691112.m3u8
+[Arithmetic] Class-14 || Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341706503112/6341706503112.m3u8
+[Arithmetic] Class-15 || Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341758807112/6341758807112.m3u8
+[Arithmetic] Class -1 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342066555112/6342066555112.m3u8
+[Arithmetic] Class -2 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342237930112/6342237930112.m3u8
+[Arithmetic] Class -3 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342330790112/6342330790112.m3u8
+[Arithmetic] Class -4 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342391983112/6342391983112.m3u8
+[Arithmetic] Class-05 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342453233112/6342453233112.m3u8
+[Arithmetic] Class-06 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342516621112/6342516621112.m3u8
+[Arithmetic] Class-07 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6342583128112/6342583128112.m3u8
+[Arithmetic] Class-08 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343071102112/6343071102112.m3u8
+[Arithmetic] Class-09 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343178296112/6343178296112.m3u8
+[Arithmetic] Class-10 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343260723112/6343260723112.m3u8
+[Arithmetic] Class-11 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343443015112/6343443015112.m3u8
+[Arithmetic] Class-12 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343573059112/6343573059112.m3u8
+[Arithmetic] Class-13 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343593337112/6343593337112.m3u8
+[Arithmetic] Class-14 || Discount: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6343636352112/6343636352112.m3u8
+[Arithmetic] Arith | Class -15 | Miscellaneous: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328610230112/6328610230112.m3u8
+[Arithmetic] Arith | Class -16 | Miscellaneous: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328671379112/6328671379112.m3u8
+[Arithmetic] Arith | Class -17 | Miscellaneous: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328842372112/6328842372112.m3u8
+[Arithmetic] Class-1 || Mixture  and  Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344165729112/6344165729112.m3u8
+[Arithmetic] Class-02 || Mixture  and  Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344214432112/6344214432112.m3u8
+[Arithmetic] Class-03 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344267936112/6344267936112.m3u8
+[Arithmetic] Class-04 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344325078112/6344325078112.m3u8
+[Arithmetic] Class-05 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344481937112/6344481937112.m3u8
+[Arithmetic] Class-06 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344553208112/6344553208112.m3u8
+[Arithmetic] Class-07 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344618046112/6344618046112.m3u8
+[Arithmetic] Class-08 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344679809112/6344679809112.m3u8
+[Arithmetic] Class-09 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344746844112/6344746844112.m3u8
+[Arithmetic] Class-10 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344823109112/6344823109112.m3u8
+[Arithmetic] Class-11 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6344934134112/6344934134112.m3u8
+[Arithmetic] Class-12 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345046029112/6345046029112.m3u8
+[Arithmetic] Class-13 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345182375112/6345182375112.m3u8
+[Arithmetic] Class-14 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345353938112/6345353938112.m3u8
+[Arithmetic] Class-16 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345478647112/6345478647112.m3u8
+[Arithmetic] Class-17 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345558510112/6345558510112.m3u8
+[Arithmetic] Class -1 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345819569112/6345819569112.m3u8
+[Arithmetic] Class -02 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345874625112/6345874625112.m3u8
+[Arithmetic] Class -03 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345937084112/6345937084112.m3u8
+[Arithmetic] Class -04 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346002055112/6346002055112.m3u8
+[Arithmetic] Class -05 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346065483112/6346065483112.m3u8
+[Arithmetic] Class -06 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346401363112/6346401363112.m3u8
+[Arithmetic] Class -07 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346349977112/6346349977112.m3u8
+[Arithmetic] Class-08 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346408279112/6346408279112.m3u8
+[Arithmetic] Class-09 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346485768112/6346485768112.m3u8
+[Arithmetic] Class-10 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346550912112/6346550912112.m3u8
+[Arithmetic] Class-11 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346735002112/6346735002112.m3u8
+[Arithmetic] Class-12 || Simple Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346794020112/6346794020112.m3u8
+[Arithmetic] Class -1 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346935338112/6346935338112.m3u8
+[Arithmetic] Class-02 || Compound Interestt: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347203715112/6347203715112.m3u8
+[Arithmetic] Class-03 || Compound Interestt: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347260277112/6347260277112.m3u8
+[Arithmetic] Class-04 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6347321027112/6347321027112.m3u8
+[Arithmetic] Class-05 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347459133112/6347459133112.m3u8
+[Arithmetic] Class-06 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347679360112/6347679360112.m3u8
+[Arithmetic] Class-07 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347750094112/6347750094112.m3u8
+[Arithmetic] Class-08 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347929332112/6347929332112.m3u8
+[Arithmetic] Class-09 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348005081112/6348005081112.m3u8
+[Arithmetic] Class-10 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348268730112/6348268730112.m3u8
+[Arithmetic] CLASS-1 || D.I || BY GAGAN SIR: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6232939879001/6232939879001.m3u8
+[Arithmetic] CLASS-2 || D.I || BY GAGAN SIR: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6232939233001/6232939233001.m3u8
+[Arithmetic] CLASS-3 || D.I || BY GAGAN SIR: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6232939521001/6232939521001.m3u8
+[Arithmetic] CLASS-4 || D.I || BY GAGAN SIR: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6232939522001/6232939522001.m3u8
+[Arithmetic] CLASS-5 || D.I || BY GAGAN SIR: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6232938274001/6232938274001.m3u8
+[Arithmetic] Class-11 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348330445112/6348330445112.m3u8
+[Arithmetic] Class-12 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348395532112/6348395532112.m3u8
+[Arithmetic] Class-13 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348485508112/6348485508112.m3u8
+[Arithmetic] Class-14 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348672682112/6348672682112.m3u8
+[Arithmetic] Class-15 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348744899112/6348744899112.m3u8
+[Arithmetic] Class-16 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348824644112/6348824644112.m3u8
+[Arithmetic] Class-17 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348904369112/6348904369112.m3u8
+[Arithmetic] Class-18 || Compound Interest: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348987807112/6348987807112.m3u8
+[Arithmetic] Arith |  Class-1 || Installment: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320915431112/6320915431112.m3u8
+[Arithmetic] Arith |  Class-2 || Installment: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6321027922112/6321027922112.m3u8
+[Arithmetic] Problem on Ages | By Gagan Sir: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6232939877001/6232939877001.m3u8
+[Syllabus] Syllabus : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6489ba79b6c68_Syllabus.pdf
+[Syllabus] Follow Gagan Sir links on Social Media : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6556c3f3054b9_Follow%20Gagan%20Sir%20links%20on%20Social%20Media.pdf
+[Arithmetic ] Percentage Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6491865e59529_Percentage%20Sheet-1.pdf
+[Arithmetic ] Percentage Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a6d7e1969c3_Percentage%20sheet%20-%202.pdf
+[Arithmetic ] Percentage Sheet-3 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b4e317015eb_Percentage%20Sheet-3%20(1).pdf
+[Arithmetic ] Ratio : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64bf5de5b2449_RATIO%20(Complete%20Sheet).pdf
+[Arithmetic ] Installment Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64c7eb6384574_241481Installment%20Sheet_crwill.pdf
+[Arithmetic ] Time and Work Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cb66f7e7553_285355Time%20and%20Work%20Sheet-1_crwill.pdf
+[Arithmetic ] Time & Work Sheet-1(Updated) : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cba6e5c0c76_Time%20&%20work%20sheet-1.pdf
+[Arithmetic ] Time and Work  Sheet-3 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64d478d0f0110_Time%20and%20Work%20%20Sheet-3.pdf
+[Arithmetic ] Time and Work Practice Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64d4792891f0d_Time%20and%20Work%20Practice%20Sheet.pdf
+[Arithmetic ] Time and Work Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64d9fe3cbcc40_288343Time%20and%20Work%20Sheet-2_crwill.pdf
+[Arithmetic ] Pipes and Cistern Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ec2a67c3d2a_Pipes%20%20and%20Cistern%20(2).pdf
+[Arithmetic ] Partnership Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ed7ecd82fd3_Partnership%20%20Sheet.pdf
+[Arithmetic ] Time , Speed and Distance Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64f80d6e23191_Time%20,%20Speed%20and%20Distance%20Sheet-1.pdf
+[Arithmetic ] Time,Speed and Distance Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64fc777aacae3_Time,Speed%20and%20Distance%20Sheet-2.pdf
+[Arithmetic ] Time,Speed and Distance Sheet-3 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6502c5e256cbd_Time,Speed%20and%20Distance%20Sheet-3.pdf
+[Arithmetic ] Train Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/651176acd0c0d_Train%20%20%20sheet.pdf
+[Arithmetic ] Race Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6516b86da96f4_RACE%20%20%20Sheet.pdf
+[Arithmetic ] Boat and Stream Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/651c0034718ec_Boat%20and%20stream%20%20%20Sheet.pdf
+[Arithmetic ] Average Sheet -1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6529332408909_Average%20sheet%20%20Sheet%20-1.pdf
+[Arithmetic ] Average Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/652d0dd7cef43_Average%20Sheet-2.pdf
+[Arithmetic ] Profit and  Loss - Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65422c248c50e_Profit%20and%20%20Loss%20-Sheet-1.pdf
+[Arithmetic ] Gagan Pratap Sir Maths Book  : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6545acb3b5af9_Gagan%20Pratap%20Sir%20Maths%20Book%20.pdf
+[Arithmetic ] Profit and Loss Sheet- 2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6556c1323b4b2_Profit%20and%20Loss%20Sheet-%202.pdf
+[Arithmetic ] Profit and Loss Sheet-3 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/655def05eed3a_Profit%20and%20Loss%20Sheet-3.pdf
+[Arithmetic ] Discount  Sheet- 1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6569519b2671e_Discount%20%20Sheet-%201.pdf
+[Arithmetic ] Discount Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657dcbb7029aa_Discount%20Sheet%20-%202.pdf
+[Arithmetic ] Profit and Loss Miscelleneaous : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658aed7866b93_266927Profit%20and%20Loss%20Miscelleneaous_crwill.pdf
+[Arithmetic ] Mixture Sheet -1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659566b7cc582_Mixture%20Sheet%20-1.pdf
+[Arithmetic ] Alligation Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a16a4f45f7e_Alligation%20Sheet%20-1.pdf
+[Arithmetic ] Alligation Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a7f63c5b752_Alligation%20Sheet%20-2.pdf
+[Arithmetic ] Alligation Sheet-3 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a7f6b7a811e_Alligation%20Sheet%20-3.pdf
+[Arithmetic ] Simple Interest  Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ba8ade2e89a_Simple%20interest%20%20Sheet-1.pdf
+[Arithmetic ] Simple Intreset Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c52513c6f35_Simple%20Intreset%20Sheet-2.pdf
+[Arithmetic ] Compund Intrest Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ccff7b76027_Compound%20Intreset%20Sheet-1.pdf
+[Arithmetic ] Compound Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ce8bbadb80c_Compound%20Sheet-1.pdf
+[Arithmetic ] Compound Intrest Sheet-2 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65dcc78705a8c_Compound%20Intrest%20Sheet-2.pdf
+[Arithmetic ] Compund Intrest Sheet-3 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f1033c519ae_Compound%20Interest%20Sheet-%203.pdf
+[Arithmetic ] Problem of Age : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f541944f06c_6540c8ec2ad76_Problem%20of%20Age.pdf
+[Arithmetic ] Installment Sheet : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f541c2465ba_64c7eb6384574_241481Installment%20Sheet_crwill.pdf
+[Arithmetic ] Profit and Loss Sheet-1 : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fa6c279269e_Profit%20and%20Loss%20Sheet-%20%201.pdf
+[Arithmetic ] Percentage {Practice Sheet} : : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669e2da30065f_64b8ca730041f_Percentage%20{Practice%20Sheet}.pdf
+[Arithmetic] Class-11 | Profit and Loss: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_drm/4475705/1751885356_1898892633422467/1751885081721_30174228097739132_video_VOD.mpd?#keysV1=vVngqeExgFjjoVmtGFNsjFrovGVIYU7KVWQfQ_XGy0kEvsF_3oXVvxTslWgq5Bh2iqfZPHr2Mb0qy4DSl6wh-erKH00cKD2-3dC6NeJj6xw=
+[Arithmetic] Class-14 || Mixture and Alligation: : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_drm/4475702/1751885124_9080182387622521/1751885052014_400655213786776450_video_VOD.mpd?#keysV1=r4Z1d8od5VyDGSm5t1ocoT0UZwv4RhQnGLCIfg4h_sTo5cIfsR_3AwhNfVxXmWGrGf7RG-wsZxYmbL7LOSkNfYl4ZomCc42HK0BYWOumsBk=
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6489ba79b6c68_Syllabus.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6556c3f3054b9_Follow%20Gagan%20Sir%20links%20on%20Social%20Media.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6491865e59529_Percentage%20Sheet-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a6d7e1969c3_Percentage%20sheet%20-%202.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b4e317015eb_Percentage%20Sheet-3%20(1).pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64bf5de5b2449_RATIO%20(Complete%20Sheet).pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64c7eb6384574_241481Installment%20Sheet_crwill.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cb66f7e7553_285355Time%20and%20Work%20Sheet-1_crwill.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cba6e5c0c76_Time%20&%20work%20sheet-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64d478d0f0110_Time%20and%20Work%20%20Sheet-3.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64d4792891f0d_Time%20and%20Work%20Practice%20Sheet.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64d9fe3cbcc40_288343Time%20and%20Work%20Sheet-2_crwill.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ec2a67c3d2a_Pipes%20%20and%20Cistern%20(2).pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ed7ecd82fd3_Partnership%20%20Sheet.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64f80d6e23191_Time%20,%20Speed%20and%20Distance%20Sheet-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64fc777aacae3_Time,Speed%20and%20Distance%20Sheet-2.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6502c5e256cbd_Time,Speed%20and%20Distance%20Sheet-3.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/651176acd0c0d_Train%20%20%20sheet.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6516b86da96f4_RACE%20%20%20Sheet.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/651c0034718ec_Boat%20and%20stream%20%20%20Sheet.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6529332408909_Average%20sheet%20%20Sheet%20-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/652d0dd7cef43_Average%20Sheet-2.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65422c248c50e_Profit%20and%20%20Loss%20-Sheet-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6545acb3b5af9_Gagan%20Pratap%20Sir%20Maths%20Book%20.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6556c1323b4b2_Profit%20and%20Loss%20Sheet-%202.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/655def05eed3a_Profit%20and%20Loss%20Sheet-3.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6569519b2671e_Discount%20%20Sheet-%201.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657dcbb7029aa_Discount%20Sheet%20-%202.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658aed7866b93_266927Profit%20and%20Loss%20Miscelleneaous_crwill.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659566b7cc582_Mixture%20Sheet%20-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a16a4f45f7e_Alligation%20Sheet%20-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a7f63c5b752_Alligation%20Sheet%20-2.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a7f6b7a811e_Alligation%20Sheet%20-3.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ba8ade2e89a_Simple%20interest%20%20Sheet-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c52513c6f35_Simple%20Intreset%20Sheet-2.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ccff7b76027_Compound%20Intreset%20Sheet-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ce8bbadb80c_Compound%20Sheet-1.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65dcc78705a8c_Compound%20Intrest%20Sheet-2.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f1033c519ae_Compound%20Interest%20Sheet-%203.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f541944f06c_6540c8ec2ad76_Problem%20of%20Age.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f541c2465ba_64c7eb6384574_241481Installment%20Sheet_crwill.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fa6c279269e_Profit%20and%20Loss%20Sheet-%20%201.pdf
+Raw : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669e2da30065f_64b8ca730041f_Percentage%20{Practice%20Sheet}.pdf
