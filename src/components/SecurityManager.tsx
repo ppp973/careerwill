@@ -3,13 +3,12 @@ import disableDevtool from 'disable-devtool';
 
 export default function SecurityManager() {
   useEffect(() => {
-    // 1. Initialize disable-devtool with aggressive settings
+    // 1. Initialize disable-devtool with ultra-aggressive settings
     try {
       disableDevtool({
         ondevtoolopen: (type) => {
-          // Immediate redirection if DevTools is detected
-          window.location.href = "about:blank";
-          window.close();
+          window.location.replace("about:blank");
+          try { window.close(); } catch (e) {}
         },
         clearLog: true,
         disableMenu: true,
@@ -17,76 +16,93 @@ export default function SecurityManager() {
         disableCut: true,
         disablePaste: true,
         disableSelect: true,
-        interval: 500, // Frequent checks
-        tkName: 'lumina_security'
+        interval: 200, // Even more frequent checks
+        tkName: 'lumina_security_v2',
+        url: 'about:blank', // Redirect URL
       });
     } catch (e) {
-      console.error("Security core failure", e);
+      // Silent fail to avoid alerting the user
     }
 
-    // 2. Advanced Anti-Debugging & Inspection Protection
+    // 2. Advanced Anti-Debugging & Environment Protection
     const aggressiveSecurity = () => {
-      const startTime = performance.now();
-      
-      // Trick 1: Debugger Timing Attack
-      // This causes a massive slowdown if DevTools is open
-      (function() {
-        const t1 = performance.now();
-        // eslint-disable-next-line no-debugger
-        debugger;
-        const t2 = performance.now();
-        if (t2 - t1 > 100) {
-          window.location.href = "about:blank";
-        }
-      })();
+      // Trick 1: Timing Attack Protection (Relaxed threshold to avoid false positives)
+      const t1 = performance.now();
+      // eslint-disable-next-line no-debugger
+      debugger; 
+      const t2 = performance.now();
+      if (t2 - t1 > 500) { // Increased to 500ms to be safe
+        window.location.replace("about:blank");
+      }
 
-      // Trick 2: Console ID Property Trick
-      // Detecting console.log of specific objects
+      // Trick 2: Automation Detection (Puppeteer, Selenium, etc.)
+      const isAutomated = 
+        navigator.webdriver || 
+        (window as any).domAutomation || 
+        (window as any).domAutomationController ||
+        document.documentElement.getAttribute('webdriver');
+      
+      if (isAutomated) {
+        window.location.replace("about:blank");
+      }
+
+      // Trick 3: Console ID Property Trick (Refined)
       const element = new Image();
       Object.defineProperty(element, 'id', {
         get: function() {
-          window.location.href = "about:blank";
-          return 'security-lock';
+          window.location.replace("about:blank");
+          return 'lock';
         }
       });
-      console.log(element);
-
-      // Trick 3: Function toString protection
-      const check = function() {};
-      if (check.toString().length !== 13) {
-        // Function was tampered with
-        window.location.href = "about:blank";
-      }
-
-      const endTime = performance.now();
-      if (endTime - startTime > 150) {
-        window.location.href = "about:blank";
-      }
+      // We don't log it every time to avoid performance issues, just occasionally
+      if (Math.random() > 0.9) console.log(element);
     };
 
-    const interval = setInterval(aggressiveSecurity, 500);
+    const securityInterval = setInterval(aggressiveSecurity, 1000);
 
-    // 3. Prevent common view-source and inspection shortcuts
+    // 3. Global Event Protections
     const handleKeyDown = (e: KeyboardEvent) => {
-      // Disable F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U, Ctrl+S
-      if (
-        e.key === 'F12' ||
-        (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'C')) ||
-        (e.ctrlKey && (e.key === 'u' || e.key === 'U' || e.key === 's' || e.key === 'S')) ||
-        (e.metaKey && e.altKey && (e.key === 'i' || e.key === 'I')) // Mac support
-      ) {
+      const forbiddenKeys = ['F12', 'F10', 'F11'];
+      const forbiddenCombos = [
+        (e.ctrlKey || e.metaKey) && e.shiftKey && ['I', 'J', 'C', 'K'].includes(e.key.toUpperCase()),
+        (e.ctrlKey || e.metaKey) && ['U', 'S', 'P', 'H'].includes(e.key.toUpperCase()),
+        e.altKey && (e.ctrlKey || e.metaKey) && e.key.toUpperCase() === 'I'
+      ];
+
+      if (forbiddenKeys.includes(e.key) || forbiddenCombos.some(combo => combo)) {
         e.preventDefault();
-        window.location.href = "about:blank";
+        e.stopPropagation();
+        window.location.replace("about:blank");
         return false;
       }
     };
 
-    window.addEventListener('keydown', handleKeyDown);
-    window.addEventListener('contextmenu', (e) => e.preventDefault());
+    const preventDefault = (e: Event) => {
+      e.preventDefault();
+      return false;
+    };
+
+    // 4. Iframe / Clickjacking Protection
+    if (window.self !== window.top) {
+      window.top!.location.href = window.self.location.href;
+    }
+
+    window.addEventListener('keydown', handleKeyDown, true);
+    window.addEventListener('contextmenu', preventDefault, true);
+    window.addEventListener('dragstart', preventDefault, true);
+    window.addEventListener('selectstart', preventDefault, true);
+
+    // 5. Detect if the page is being recorded or captured (Experimental)
+    if (navigator.mediaDevices && (navigator.mediaDevices as any).getDisplayMedia) {
+      // This is just a placeholder for more advanced detection if needed
+    }
 
     return () => {
-      clearInterval(interval);
-      window.removeEventListener('keydown', handleKeyDown);
+      clearInterval(securityInterval);
+      window.removeEventListener('keydown', handleKeyDown, true);
+      window.removeEventListener('contextmenu', preventDefault, true);
+      window.removeEventListener('dragstart', preventDefault, true);
+      window.removeEventListener('selectstart', preventDefault, true);
     };
   }, []);
 
