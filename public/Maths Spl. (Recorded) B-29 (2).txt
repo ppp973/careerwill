@@ -1,0 +1,339 @@
+[Intro] Maths Spl. (Recorded) B-29 | Introduction | By Adutiya Sir | Careerwill App:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/O72FiYyGT4E/O72FiYyGT4E.m3u8
+[Arithmetic] Class-01 | Introduction:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347923267112/6347923267112.m3u8
+[Arithmetic] Class-02 | Introduction:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347997942112/6347997942112.m3u8
+[Arithmetic] Class-03 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348206878112/6348206878112.m3u8
+[Arithmetic] Class-04 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348264964112/6348264964112.m3u8
+[Arithmetic] Class-05 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348325599112/6348325599112.m3u8
+[Arithmetic] Class-06 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348389336112/6348389336112.m3u8
+[Arithmetic] Class-07 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348479181112/6348479181112.m3u8
+[Arithmetic] Class-08 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348665267112/6348665267112.m3u8
+[Arithmetic] Class-09 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348736857112/6348736857112.m3u8
+[Arithmetic] Class-10 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348820858112/6348820858112.m3u8
+[Arithmetic] Class-11 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348895840112/6348895840112.m3u8
+[Arithmetic] Class-12 | Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348980914112/6348980914112.m3u8
+[Arithmetic] Class-13 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6349180911112/6349180911112.m3u8
+[Arithmetic] Class-14 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349236218112/6349236218112.m3u8
+[Arithmetic] Class-15 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349315218112/6349315218112.m3u8
+[Arithmetic] Class-16 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349379890112/6349379890112.m3u8
+[Arithmetic] Class-17 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349466979112/6349466979112.m3u8
+[Arithmetic] Class-18 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349807028112/6349807028112.m3u8
+[Arithmetic] Class-19 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349865445112/6349865445112.m3u8
+[Arithmetic] Class-20 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349936799112/6349936799112.m3u8
+[Arithmetic] Class-21 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350077335112/6350077335112.m3u8
+[Arithmetic] Class-22 | Profit And Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350135492112/6350135492112.m3u8
+[Arithmetic] Class-23 | Simple Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350198092112/6350198092112.m3u8
+[Arithmetic] Class-24 | Simple Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350259574112/6350259574112.m3u8
+[Arithmetic] Class-25 | Simple Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350323102112/6350323102112.m3u8
+[Arithmetic] Class-26 | Simple Interest-Compound Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350510134112/6350510134112.m3u8
+[Arithmetic] Class-27 | Compound Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350561827112/6350561827112.m3u8
+[Arithmetic] Class-28 | Compound Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350625662112/6350625662112.m3u8
+[Arithmetic] Class-29 | Compound Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350689557112/6350689557112.m3u8
+[Arithmetic] Class-30 | Compound Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350964115112/6350964115112.m3u8
+[Arithmetic] Class-31 | Compound Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351029008112/6351029008112.m3u8
+[Arithmetic] Class-32 | Compound Interest:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351162563112/6351162563112.m3u8
+[Arithmetic] Class-33 | Average:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351236190112/6351236190112.m3u8
+[Arithmetic] Class-34 | Average:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351408585112/6351408585112.m3u8
+[Arithmetic] Class-35 | Average:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351738041112/6351738041112.m3u8
+[Arithmetic] Class-36 | Average:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351804251112/6351804251112.m3u8
+[Arithmetic] Class-37 | Age:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351972595112/6351972595112.m3u8
+[Arithmetic] Class-38 | Age:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352006238112/6352006238112.m3u8
+[Arithmetic] Class-39 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352179711112/6352179711112.m3u8
+[Arithmetic] Class-40 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352239953112/6352239953112.m3u8
+[Arithmetic] Class-41 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352410320112/6352410320112.m3u8
+[Arithmetic] Class-42 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352462761112/6352462761112.m3u8
+[Arithmetic] Class-43 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352526479112/6352526479112.m3u8
+[Arithmetic] Class-44 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352593813112/6352593813112.m3u8
+[Arithmetic] Class-45 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/J8fJuIU-fX8/J8fJuIU-fX8.m3u8
+[Arithmetic] Class-46 | Time & Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352825841112/6352825841112.m3u8
+[Arithmetic] Class-47 | Pipes and Cistern:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352896247112/6352896247112.m3u8
+[Arithmetic] Class-48 | Pipes and Cistern:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352952962112/6352952962112.m3u8
+[Arithmetic] Class-49 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353014290112/6353014290112.m3u8
+[Arithmetic] Class-50 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353093024112/6353093024112.m3u8
+[Arithmetic] Class-51 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353280489112/6353280489112.m3u8
+[Arithmetic] Class-52 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353353776112/6353353776112.m3u8
+[Arithmetic] Class-53 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353416030112/6353416030112.m3u8
+[Arithmetic] Class-54 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353495491112/6353495491112.m3u8
+[Arithmetic] Class-55 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353572247112/6353572247112.m3u8
+[Arithmetic] Class-56 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353747977112/6353747977112.m3u8
+[Arithmetic] Class-57 | Time Speed & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353794891112/6353794891112.m3u8
+[Arithmetic] Class-58 | Race:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353860050112/6353860050112.m3u8
+[Arithmetic] Class-59 | Train:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353927670112/6353927670112.m3u8
+[Arithmetic] Class-60 | Train:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354002601112/6354002601112.m3u8
+[Arithmetic] Class-61 | Doubt Class:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354199731112/6354199731112.m3u8
+[Arithmetic] Class-62 | HCF & LCM:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354245889112/6354245889112.m3u8
+[Arithmetic] Class-63 | HCF & LCM:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354333366112/6354333366112.m3u8
+[Arithmetic] Class-64 | HCF & LCM:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354401042112/6354401042112.m3u8
+[Arithmetic] Class-65 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6354727303112/6354727303112.m3u8
+[Arithmetic] Class-66| Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354793347112/6354793347112.m3u8
+[Arithmetic] Class-67 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354852369112/6354852369112.m3u8
+[Arithmetic] Class-68 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354920906112/6354920906112.m3u8
+[Arithmetic] Class-69 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355345005112/6355345005112.m3u8
+[Arithmetic] Class-70 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/i8kL0aRWYkA/i8kL0aRWYkA.m3u8
+[Arithmetic] Class-71 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355587521112/6355587521112.m3u8
+[Arithmetic] Class-72 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355646566112/6355646566112.m3u8
+[Arithmetic] Class-73 | Ratio & Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355696579112/6355696579112.m3u8
+[Arithmetic] Class-74 | Partnership:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355751963112/6355751963112.m3u8
+[Arithmetic] Class-75 | Partnership:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355809405112/6355809405112.m3u8
+[Arithmetic] Class-76 | Mixture & Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356122899112/6356122899112.m3u8
+[Arithmetic] Class-77 | Mixture & Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356257780112/6356257780112.m3u8
+[Arithmetic] Class-78 | Mixture & Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356396445112/6356396445112.m3u8
+[Arithmetic] Class-79 | Mixture & Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356670438112/6356670438112.m3u8
+[Advance] Class-01 | Geometry(Lines & Angles and Polygon):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6349781321112/6349781321112.m3u8
+[Advance] Class-02 | Geometry(Lines & Angles and Polygon):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349840562112/6349840562112.m3u8
+[Advance] Class-03 | Geometry(Lines & Angles and Polygon):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349913220112/6349913220112.m3u8
+[Advance] Class-04 | Geometry(Lines & Angles and Polygon):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350057230112/6350057230112.m3u8
+[Advance] Class-05 | Geometry(Lines & Angles and Polygon):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/aMgz8Gs72C4/aMgz8Gs72C4.m3u8
+[Advance] Class-06 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350172582112/6350172582112.m3u8
+[Advance] Class-07 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350236132112/6350236132112.m3u8
+[Advance] Class-08 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350295972112/6350295972112.m3u8
+[Advance] Class-09 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350489018112/6350489018112.m3u8
+[Advance] Class-10 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350542598112/6350542598112.m3u8
+[Advance] Class-11 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350603418112/6350603418112.m3u8
+[Advance] Class-12 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350666385112/6350666385112.m3u8
+[Advance] Class-13 | Geometry(triangle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350737228112/6350737228112.m3u8
+[Advance] Class-14 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/qE6a7a74YH8/qE6a7a74YH8.m3u8
+[Advance] Class-15 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350998931112/6350998931112.m3u8
+[Advance] Class-16 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351138008112/6351138008112.m3u8
+[Advance] Class-17 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351207290112/6351207290112.m3u8
+[Advance] Class-18 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351385136112/6351385136112.m3u8
+[Advance] Class-19 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351678132112/6351678132112.m3u8
+[Advance] Class-20 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351774840112/6351774840112.m3u8
+[Advance] Class-21 | Geometry(Circle):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351950683112/6351950683112.m3u8
+[Advance] Class-22 | Geometry(Quadrilateral):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352073480112/6352073480112.m3u8
+[Advance] Class-23 | Geometry(Quadrilateral):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352159117112/6352159117112.m3u8
+[Advance] Class-24 | Geometry(Quadrilateral):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352393090112/6352393090112.m3u8
+[Advance] Class-25 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352444194112/6352444194112.m3u8
+[Advance] Class-26 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352502631112/6352502631112.m3u8
+[Advance] Class-27 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/LZscq7uvGK4/LZscq7uvGK4.m3u8
+[Advance] Class-28 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352628393112/6352628393112.m3u8
+[Advance] Class-29 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/Qr1talnom_k/Qr1talnom_k.m3u8
+[Advance] Class-30 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352874594112/6352874594112.m3u8
+[Advance] Class-31 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352929600112/6352929600112.m3u8
+[Advance] Class-32 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352986344112/6352986344112.m3u8
+[Advance] Class-33 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353065062112/6353065062112.m3u8
+[Advance] Class-34 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353341206112/6353341206112.m3u8
+[Advance] Class-35 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353407359112/6353407359112.m3u8
+[Advance] Class-36 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353480836112/6353480836112.m3u8
+[Advance] Class-37 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353553125112/6353553125112.m3u8
+[Advance] Class-38 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353734427112/6353734427112.m3u8
+[Advance] Class-39 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353780683112/6353780683112.m3u8
+[Advance] Class-40 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353840914112/6353840914112.m3u8
+[Advance] Class-41 | Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353910404112/6353910404112.m3u8
+[Advance] Class-42 | Prism And Pyramid:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353987880112/6353987880112.m3u8
+[Advance] Class-43 | Prism And Pyramid:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354187080112/6354187080112.m3u8
+[Advance] Class-44 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354471327112/6354471327112.m3u8
+[Advance] Class-45 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354704677112/6354704677112.m3u8
+[Advance] Maths | Class-46 | Co-ordinate Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320005375112/6320005375112.m3u8
+[Advance] Maths | Class-47 | Co-ordinate Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320060172112/6320060172112.m3u8
+[Advance] Maths | Class-48 | Co-ordinate Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320292673112/6320292673112.m3u8
+[Advance] Maths | Class-49 | Co-ordinate Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320361814112/6320361814112.m3u8
+[Advance] Maths | Class-50 | Remainder Based:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354777193112/6354777193112.m3u8
+[Advance] Maths | Class-51 | Remainder Based:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354836618112/6354836618112.m3u8
+[Advance] Maths | Class-52 | Number System (Binomial Theorem):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354903206112/6354903206112.m3u8
+[Advance] Maths | Class-53 | Number System (Binomial Theorem):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354978180112/6354978180112.m3u8
+[Advance] Maths | Class-54 | Number System (Binomial Theorem):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355152445112/6355152445112.m3u8
+[Advance] Maths | Class-55 | Number System(Series):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355203372112/6355203372112.m3u8
+[Advance] Maths | Class-56 | Number System(Series):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355265142112/6355265142112.m3u8
+[Advance] Maths | Class-57 | Number System(Series):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/1sHjLqNo290/1sHjLqNo290.m3u8
+[Advance] Maths | Class-58 | Data Interpretation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355393914112/6355393914112.m3u8
+[Advance] Maths | Class-59  | Data Interpretation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355581855112/6355581855112.m3u8
+[Advance] Maths | Class-60 | Data Interpretation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355684844112/6355684844112.m3u8
+[Advance] Maths | Class-61 | Data Interpretation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355737669112/6355737669112.m3u8
+[Advance] Maths | Class-62 | Data Interpretation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355801252112/6355801252112.m3u8
+[Advance] Maths | Class-63 | Doubt class:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356098446112/6356098446112.m3u8
+[Advance] Maths | Class-64 | Square root Cube root:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356233200112/6356233200112.m3u8
+[Advance] Maths | Class-65 | Square root Cube root:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356371674112/6356371674112.m3u8
+[Advance] Maths | Class-66 | Square root Cube root:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356649789112/6356649789112.m3u8
+[Advance] Maths | Class-67 | Surds And Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357162817112/6357162817112.m3u8
+[Advance] Maths | Class-68 | Surds And Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357302126112/6357302126112.m3u8
+[Advance] Maths | Class-69 | Surds & Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357512723112/6357512723112.m3u8
+[Advance] Maths | Class-70 | Fraction:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357674606112/6357674606112.m3u8
+[Advance] Maths | Class-70 A | Fraction:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358003615112/6358003615112.m3u8
+[Advance] Maths | Class-71 | Fraction:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358115782112/6358115782112.m3u8
+[Advance] Maths | Class-72 | Formula Bases Simplification:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358230518112/6358230518112.m3u8
+[Advance] Maths | Class-73 | Simplification (BODMAS):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358370581112/6358370581112.m3u8
+[Advance] Maths | Class-74  | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358797404112/6358797404112.m3u8
+[Advance] Maths | Class-75 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358908437112/6358908437112.m3u8
+[Advance] Maths | Class-76 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359024638112/6359024638112.m3u8
+[Advance] Maths | Class-77 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359157326112/6359157326112.m3u8
+[Advance] Maths | Class-78 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359284220112/6359284220112.m3u8
+[Advance] Maths | Class-79 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359535795112/6359535795112.m3u8
+[Advance] Maths | Class-80 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359591334112/6359591334112.m3u8
+[Advance] Maths | Class-81 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359958609112/6359958609112.m3u8
+[Advance] Maths | Class-82 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360012365112/6360012365112.m3u8
+[Advance] Maths | Class-83 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360124429112/6360124429112.m3u8
+[Advance] Maths | Class-84 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360282532112/6360282532112.m3u8
+[Advance] Maths | Class-85 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6360329955112/6360329955112.m3u8
+[Advance] Maths | Class-86 | Trigonometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360386966112/6360386966112.m3u8
+[Advance] Maths | Class-87 | Height & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360486051112/6360486051112.m3u8
+[Advance] Maths | Class-88 | Height & Distance:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360677616112/6360677616112.m3u8
+[Advance] Maths | Class-89 | Number System(Divisibility Based):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360728319112/6360728319112.m3u8
+[Advance] Maths | Class-90 | Number System(Divisibility Based):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360852006112/6360852006112.m3u8
+[Advance] Maths | Class-91 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361065951112/6361065951112.m3u8
+[Advance] Maths | Class-92 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361119684112/6361119684112.m3u8
+[Advance] Maths | Class-93 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361171855112/6361171855112.m3u8
+[Advance] Maths | Class-94 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361228994112/6361228994112.m3u8
+[Advance] Maths | Class-95 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361372816112/6361372816112.m3u8
+[Advance] Maths | Class-96 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361421486112/6361421486112.m3u8
+[Advance] Maths | Class-97 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361470912112/6361470912112.m3u8
+[Advance] Maths | Class-98 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361526773112/6361526773112.m3u8
+[Advance] Maths | Class-99 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361583624112/6361583624112.m3u8
+[Advance] Maths | Class-100 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361773171112/6361773171112.m3u8
+[Advance] Maths | Class-101 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361818515112/6361818515112.m3u8
+[Advance] Maths | Class-102 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361859145112/6361859145112.m3u8
+[Advance] Maths | Class-103 | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361902686112/6361902686112.m3u8
+[Advance] Class-103 | Maths | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362007868112/6362007868112.m3u8
+[Advance] Class-104 | Maths | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362087237112/6362087237112.m3u8
+[Advance] Class-105 | Statistics:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6306564979112/6306564979112.m3u8
+[Advance] Maths | Class-106 | Permutation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320435883112/6320435883112.m3u8
+[Advance] Maths | Class-107 | Combination & probability:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320518222112/6320518222112.m3u8
+[Advance] Maths | Class-108 | Combination & probability:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320644356112/6320644356112.m3u8
+[Arithmetic] Arithmetic All Topics Practice Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659527d20d9e1_MATHS%20ALL%20TOPIC%20PDF%202023%20(DONE).pdf
+[Arithmetic] Percentage Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660557d03065f_305715Percentage%20Sheet_crwill_240328_161924.pdf
+[Arithmetic] Profit and Loss Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6605580569e7b_PROFIT%20&%20LOSS%20%20FINAL%20FILE%202024%20FINAL.pdf
+[Arithmetic] Speed Time and Distance Practice Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e12ad641d4e_TIME%20SPEED%20DISTANCE%20FINAL%20PDF%202024.pdf
+[Arithmetic] Permutation, Combination & Probability Final 2025 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa18ac08e65_Permutation_Combination_Probability_Final_2025.pdf
+[Arithmetic] Time & Work + Work & Wages Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6808b770abf79_67aee54ac38b5TimeWorkWorkWagesFinalPdf2025.pdf
+[Arithmetic] Arithmetic All Topics Practice Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6808b7a0c003f_675d2b2de82936631d8820b0b2659527d20d9e1MATHSALLTOPICPDF2023DONE.pdf
+[Advance] Line and Angles Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e783366581e_LINE%20AND%20ANGLES%20FINAL%20PDF%202023.pdf
+[Advance] Coordinate Geometry Sheet-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e784239460a_REFLECTION%20BASED%20TYPE-1%20FINAL%20PDF.pdf
+[Advance] Coordinate Geometry Sheet-2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e784872aa80_Coordinate%20Geometry%20TYPE-2%20Properties%20and%20Equations%20of%20line%20FINAL%20PDF%202020.pdf
+[Advance] Coordinate Geometry Sheet-3 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e784bb8436c_COORDINATE%20GEOMETRY%20Area%20&%20Centers%20of%20Triangle%20TYPE-3%20(2023).pdf
+[Advance] Advance Maths All Sheet Part-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6625f7d1baf35_ADVANCE%20MATHS%20ALL%20SHEET-%20PART-1%20(1).pdf
+[Advance] Advance Maths All Sheet Part-2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6625f7f86ed01_ADVANCE%20MATHS%20ALL%20SHEET-%20PART-2%20(1).pdf
+[Advance] Advance Maths All Sheet Part-3 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6625f82fa80ed_ADVANCE%20MATHS%20ALL%20SHEET-%20PART-3%20(1).pdf
+[Advance] DI Final Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668cd3ff40cbb_DI%20FINAL%20MAIN%20PDF%20(B)%202022.pdf
+[Syllabus] Syllabus PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623836546-SYLLABUS_MS_38.pdf
+[Class PNG] 29 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e0c451196ab_0600pmnewbatch29feb24_compressed.pdf
+[Class PNG] 1 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e27cd885d00_0600pm1march24newbatch_compressed.pdf
+[Class PNG] 4 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e6730f11cff_0600pm4march24.pdf
+[Class PNG] 5 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e785b7c0a06_0600pm5march24_compressed.pdf
+[Class PNG] 6 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e92759b5241_0600pm6march24_compressed.pdf
+[Class PNG] 7 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e9f8e66243b_0600pm7march24_compressed.pdf
+[Class PNG] 8 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65eb5a8a545fc_0600pm8march24_compressed.pdf
+[Class PNG] 11 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ef32eedbeb3_0600pm11march24_compressed.pdf
+[Class PNG] 12 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f12fdede713_0600pm12march24_compressed.pdf
+[Class PNG] 13 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f2968438ec0_0600pm13march24_compressed.pdf
+[Class PNG] 14 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f3d26a25a7d_0600pm14march24_compressed.pdf
+[Class PNG] 15 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f9305a100af_0600pm15march24_compressed.pdf
+[Class PNG] 18 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f93109ccc8b_0600pm18march23_compressed.pdf
+[Class PNG] 19 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fa6fe690c23_0600pm19march24_compressed.pdf
+[Class PNG] 21 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6605006f14f8c_0600pm21march24_compressed.pdf
+[Class PNG] 27 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6605013747aee_0900am27march24_compressed.pdf
+[Class PNG] 27 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66055a48482db_0900am27march24_compressed.pdf
+[Class PNG] 28 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66055ad2153e7_0900am28march24_compressed.pdf
+[Class PNG] 28 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66064d13ab444_0600pm28march24_compressed.pdf
+[Class PNG] 29 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6606889f64bb9_0900am29march24_compressed.pdf
+[Class PNG] 29 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6607b2ca8c309_0600pm29march24_compressed.pdf
+[Class PNG] 1 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660a4b1228f5c_0900am1apr24_compressed.pdf
+[Class PNG] 1 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660b8a1d03aac_0600pm1apr24_compressed.pdf
+[Class PNG] Geometry Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660bcf0919b0b_66029a9cceaf9_GEOMETRY%20ALL%20(DONE).pdf
+[Class PNG] 2 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660cf9fa4fe72_0600pm2apr24_compressed.pdf
+[Class PNG] 2 April 2024 Class PNG (9AM) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660d0e7fca9aa_Adutiya.sir[maths.spl14.17.20.24]%209;00am%202apr_compressed.pdf
+[Class PNG] 3 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660f8f13b1f37_0600pm3apr24_compressed.pdf
+[Class PNG] 4 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660f906139771_0600pm4apr24_compressed.pdf
+[Class PNG] 5 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6610ea93aa9e2_0600pm5apr24_compressed.pdf
+[Class PNG] 8 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6614d53b41942_0600pm8apr24_compressed.pdf
+[Class PNG] 9 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66161ffc61d7d_0600pm9apr24_compressed.pdf
+[Class PNG] 10 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66165d5c219d0_1100am10apr24_compressed.pdf
+[Class PNG] 11 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6618acb090ae9_9AM%20Adutiya%20sir%20class%2011%20April_compressed.pdf
+[Class PNG] 15 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e0ef8cef66_0600pm15apr24_compressed.pdf
+[Class PNG] 16 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f59a015b10_0600pm15apr24%20(1)_compressed.pdf
+[Class PNG] 18 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662209b692a8d_0600pm18apr24_compressed.pdf
+[Class PNG] 19 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6625fb3db0dd4_1100am19apr24_compressed.pdf
+[Class PNG] 19 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6625fb7324815_0600pm19apr24_compressed.pdf
+[Class PNG] 22 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66274daeb1b9e_0600pm22apr24_compressed.pdf
+[Class PNG] 25 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662b531334bf0_0600pm25apr24_compressed.pdf
+[Class PNG] 26 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66309a67eb31c_0600pm26apr24_compressed.pdf
+[Class PNG] 26 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66309ab585143_0600pm29apr24_compressed.pdf
+[Class PNG] 30 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66309ba5eee24_0900am30apr24_compressed.pdf
+[Class PNG] 3 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6635cb82ce837_0600pm3may24_compressed.pdf
+[Class PNG] 6 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66397ffe669ad_10AM%20Adutiya%20Sir%20Class%2006%20May_compressed.pdf
+[Class PNG] 6 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6639e5f5423bc_0600pm6may24_compressed.pdf
+[Class PNG] 7 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663ad1d9be332_10AM%20Adutiya%20Sir%20Class%207%20May.pdf
+[Class PNG] 7 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b0e9f337d0_0600pm7may24_compressed.pdf
+[Class PNG] 8 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b11cfe73aa_0900am8may24_compressed.pdf
+[Class PNG] 8 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c635532120_0600pm8may24_compressed.pdf
+[Class PNG] 9 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c63993e28b_0900am9may24_compressed.pdf
+[Class PNG] 13 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641d51345408_0900am13may24_compressed.pdf
+[Class PNG] 13 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641d5b0ed867_12pm13may24_compressed.pdf
+[Class PNG] 14 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66447b471d8c3_0900am14may24_compressed.pdf
+[Class PNG] 14 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66447bb2bf3b4_0600pm14may24_compressed.pdf
+[Class PNG] 15 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66447c14b8f06_0900am15may24_compressed.pdf
+[Class PNG] 15 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6646f83833aa2_0600pm15may24%20(1)_compressed.pdf
+[Class PNG] 16 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6646edf5c3349_0600pm16may24_compressed.pdf
+[Class PNG] 17 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66480135cc108_10AM%20Adutiya%20Sir%20Class%2017%20may_compressed.pdf
+[Class PNG] 17 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664adbf3df9e6_0600pm17may24_compressed.pdf
+[Class PNG] Time Speed and Distance Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664c63f564634_TIME%20SPEED%20DISTANCE%20FINAL%20PDF%202024_compressed.pdf
+[Class PNG] 20 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664c652225fa1_12pm21may24_compressed.pdf
+[Class PNG] 21 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664d4bc14b12a_Adutiya%20Sir%2021%20May%2008.00%20AM%20MATHS%20SPL%20-%2014,%2017,%2020%20&%2024_compressed.pdf
+[Class PNG] 24 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66507120498a3_0800am24may24_compressed.pdf
+[Class PNG] 24 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665071b212419_12pm24may24_compressed.pdf
+[Class PNG] 29 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6656f0a296bdc_1200pm29may2024_compressed.pdf
+[Class PNG] 31 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665a78a2abc53_Adutiya%20Sir%2031%20May%2008.00%20AM%20MATHS%20SPL%20-%2014,%2017,%2020%20&%2024_compressed.pdf
+[Class PNG] 31 May 2024 Class PNG (12PM) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665a794236837_Math%20spl.20,24%20&%2029%20by%20Adutiya%20Sir%2012%20pm%2031%20May_compressed.pdf
+[Class PNG] 3 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665e71897de4c_Adutiya%20Sir%2003%20June%2008.00%20AM%20MATHS%20SPL%20-%2014,%2017,%2020%20&%2024.pdf
+[Class PNG] 3 June 2024 Class PNG (12PM) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665e71bde15af_Adutiya%20Sir%2012.00%20PM%2003%20June.pdf
+[Class PNG] 04 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665fc7706ba26_Adutiya%20Sir%2004%20June%2008.00%20AM_compressed.pdf
+[Class PNG] 6 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6661bc802c0b7_8am6june24_compressed.pdf
+[Class PNG] 07 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6664150d16435_8am7june24_compressed.pdf
+[Class PNG] 10 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66678c4696e29_8am10june24_compressed.pdf
+[Class PNG] 10 June 2024 Class PNG(12 PM) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66678cadf2c7f_12pm10june24_compressed.pdf
+[Class PNG] 11 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66691115790b2_800am11june24_compressed.pdf
+[Class PNG] 11 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666911c943a4b_12pm11june24_compressed.pdf
+[Class PNG] 12 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6669bc6960385_0800am12june24_compressed.pdf
+[Class PNG] 12 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6669bcc90be84_12pm12june24_compressed.pdf
+[Class PNG] 13 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666ab0e6c5e0f_0800am13june24_compressed.pdf
+[Class PNG] 13 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666ab138711c2_12pm14june24_compressed.pdf
+[Class PNG] 14 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666cf2fd99452_Adutiya%20Sir%2014%20June%2008.00%20AM%20MATHS%20SPL%20-%2014,%2017,%2020,%2024%20&%2029_compressed.pdf
+[Class PNG] 17 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666ffdf5bbaf0_8am17june24_compressed.pdf
+[Class PNG] 17 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666ffe1cda398_930am17june24_compressed.pdf
+[Class PNG] 18 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667118c958c40_8am18june24_compressed.pdf
+[Class PNG] 19 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6673be0b7f8a5_8am19jun24_compressed.pdf
+[Class PNG] 19 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6673bf92c2547_6pm19jun24_compressed.pdf
+[Class PNG] 20 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66751de93bd93_8am20jun24_compressed.pdf
+[Class PNG] 20 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66751e4d3caa8_12pm20jun24_compressed.pdf
+[Class PNG] 21 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66762cc16b7a3_Adutiya%20Sir%2012.00%20PM%2021%20June_compressed.pdf
+[Class PNG] 21 June 2024 Class PNG (8AM) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66762d9d3385f_Adutiya%20Sir%2021%20June%2008.00%20AM_compressed.pdf
+[Class PNG] 24 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667a25772ccc3_Adutiya%20Sir%2024%20June%2008.00%20AM_compressed.pdf
+[Class PNG] 24 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667a265de2f38_Adutiya%20Sir%2012.00%20PM%2024%20June_compressed.pdf
+[Class PNG] 25 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b70c32c7aa_Adutiya%20Sir%2012.00%20PM%2025%20June_compressed.pdf
+[Class PNG] 27 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667d2fba3c3de_8am27june24_compressed.pdf
+[Class PNG] 27 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667d2fd72b8e8_12pm27june24_compressed.pdf
+[Class PNG] 28 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668244943ec0d_8am28june24_compressed.pdf
+[Class PNG] 28 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668246393ca56_12pm28jun24_compressed.pdf
+[Class PNG] 1 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66826b79ebad1_12pm1july24_compressed.pdf
+[Class PNG] 2 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684a9697ccb9_8am2july24_compressed.pdf
+[Class PNG] 3 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66850fbcc68b9_8am3july24_compressed.pdf
+[Class PNG] 3 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668510647fe08_12pm3july24_compressed.pdf
+[Class PNG] 5 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6689569e53fe4_8am5july24.pdf
+[Class PNG] 5 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668956fea6436_12pm5july24_compressed.pdf
+[Class PNG] 9 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668dedcc1daf5_Adutiya%20Sir%2008.00%20AM%2009%20July_compressed.pdf
+[Class PNG] 10 July 2024 Class PNG (8AM) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668f3d1c40fc6_8am10july24_compressed.pdf
+[Class PNG] 10 July 2024 Class PNG (12PM) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668f3d8d6ebe4_12pm10july24_compressed.pdf
+[Class PNG] 11 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66908721310b3_8am11july24.pdf
+[Class PNG] 12 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66948f9782f75_8am12july24_compressed.pdf
+[Class PNG] 15 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6695d99b2d025_Adutiya%20Sir%2008.00%20AM%2015%20July_compressed.pdf
+[Class PNG] 16 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669780b9f22de_16july24_compressed.pdf
+[Class PNG] 17 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6697812c7eb84_08am17july24_compressed.pdf
+[Class PNG] 22 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f0bf3b01b5_Adutiya%20Sir%2008.00%20AM%2022%20July%20Math%20Spl-%2020,%2024%20&%2029_compressed.pdf
+[Class PNG] 24 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a08d9e92e60_8am24july24_compressed.pdf
+[Class PNG] 25 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a1f7966f02a_8am25july24_compressed.pdf
+[Class PNG] 29 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a84c5469442_Adutiya%20Sir%2029%20July%20Maths%20Spl%20-%2020,%2024%20&%2029_compressed.pdf
+[Class PNG] 30 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a87fe530e65_8am30july24_compressed.pdf
+[Class PNG] Miscellaneous| 06 Aug Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b1dec8325c5_8am6aug24_compressed.pdf
+[Class PNG] Maths | 07 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bafd487079a_8am7aug24%20(1)_compressed.pdf
+[Class PNG] Maths | Trigonometry | 12 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bb040447bcd_trigo12aug_compressed.pdf
+[Class PNG] Adv | Height and Distance | 16 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bf254f23ec9_8am16aug24_compressed.pdf
+[Class PNG] Maths | Height & Distance | 20 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c4390922520_8am20aug24_compressed.pdf
+[Class PNG] Maths | 21 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c575de7e4f2_8am21aug24_compressed.pdf
+[Class PNG] Maths | Number System&#40;Divisibility Based&#41; | 23 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c84bf20a204_8am23aug24_compressed.pdf
+[Class PNG] Maths | 27 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cd8ec2d8488_27%20aug%20adv%20maths..pdf
+[Class PNG] Maths | 28 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cf002e8888b_8am28aug24_compressed.pdf
+[Class PNG] 30 Aug-4 Sep Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d83e572180b_30%20Aug-4%20Sep%208%20am.pdf
+[Class PNG] Maths | 5-6 September Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e008866774b_8am5sep24%20(1)_merged_compressed.pdf
+[Class PNG] Algebra | 10 Sept | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e03704e7e34_10th%20sept%2011;00%20am_compressed.pdf
+[Class PNG] Algebra | 11 Sept | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e12b22d6bc8_8am11sep24.pdf
+[Class PNG] Algebra | 12 Sept | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e3dc9fe9562_8am12sep24_compressed.pdf
+[Class PNG] Algebra | 13 Sept | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e3dcbe0189c_8am13sep24_compressed.pdf
+[Class PNG] Algebra | 18 Sept | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ebdfb1c65ed_8am18sep24compressed.pdf

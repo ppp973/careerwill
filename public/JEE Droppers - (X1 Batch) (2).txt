@@ -1,0 +1,73 @@
+[Physics (12th)] Geometrical Optics | L-1 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372218033112/6372218033112.m3u8
+[Physics (12th)] Geometrical Optics | L-02 | Angle Of Deviation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372370887112/6372370887112.m3u8
+[Physics (12th)] Geometrical Optics | L-03 | Image Formation By a Plane Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372467393112/6372467393112.m3u8
+[Physics (12th)] Geometrical Optics | L-04 | Velocity Of Image & Field Of View : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372576127112/6372576127112.m3u8
+[Physics (12th)] Geometrical Optics | L-05 | Spherical Mirror : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372701134112/6372701134112.m3u8
+[Physics (12th)] Geometrical Optics | L-06 | Mirror Formula & It's Applications : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372794558112/6372794558112.m3u8
+[Physics (12th)] Geometrical Optics | L-07 | Application Of Mirror Formula : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372902483112/6372902483112.m3u8
+[Physics (12th)] Geometrical Optics | L-08 | Velocity Of Image And Longitudinal Magnification : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373175043112/6373175043112.m3u8
+[Physics (12th)] Geometrical Optics | L-09 | refraction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373222583112/6373222583112.m3u8
+[Physics (12th)] Geometrical Optics | L-10 | refraction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373386483112/6373386483112.m3u8
+[Physics (12th)] Geometrical Optics | L-11 | refraction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373459779112/6373459779112.m3u8
+[Physics (12th)] Geometrical Optics | L-12 | Critical Angle & TIR : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373496938112/6373496938112.m3u8
+[Physics (12th)] Geometrical Optics | L-13 | Prism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373568810112/6373568810112.m3u8
+[Physics (12th)] Geometrical Optics | L-14 | Thin Prism Refraction At Curved Surface : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373650729112/6373650729112.m3u8
+[Physics (12th)] Geometrical Optics | L-15 | Lens : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373785741112/6373785741112.m3u8
+[Physics (12th)] Geometrical Optics | L-16 | Lens : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373864750112/6373864750112.m3u8
+[Physics (12th)] Geometrical Optics | L-17 | Lens : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373948412112/6373948412112.m3u8
+[Physics (12th)] Geometrical Optics | L-18 | Ex-2 Discussion : https://www.youtube.com/embed/0Al2qfeplpg
+[Physics (12th)] Geometrical | L-19 | Combination Of Lens And Mirror Displacement Method : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374052902112/6374052902112.m3u8
+[Physics (12th)] Geometrical | L-20 | Dispersion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374129972112/6374129972112.m3u8
+[Physics (12th)] Geometrical | L-21 | Optical Instruments : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374236611112/6374236611112.m3u8
+[Physics (12th)] Geometrical Optics | L-22 | Talley Scope : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6374312246112/6374312246112.m3u8
+[Physics (12th)] Electrostatics | L-01 | Properties Of Charge : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374571705112/6374571705112.m3u8
+[Physics (12th)] Electrostatics | L-02 | Coulomb's Law : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374613534112/6374613534112.m3u8
+[Physics (12th)] Electrostatics | L-03 | Application Of Coulomb's Law : https://www.youtube.com/embed/AW6Nqq2hZHI
+[Physics (12th)] Electrostatics | L-04 | Electric Field Due To Point Charge : https://www.youtube.com/embed/4neyPpf8pTA
+[Physics (12th)] Electrostatics | L-05 | Electric Field Due To Point Charge : https://www.youtube.com/embed/dZGZQUd5Thw
+[Physics (12th)] Electrostatics | L-06 | Electric Field Due To Ring And Disc : https://www.youtube.com/embed/uk2MCKnFTEo
+[Physics (12th)] Electrostatics | L-07 | Electric Field And Electric Force : https://www.youtube.com/embed/yGNJyvbhYsk
+[Physics (12th)] Electrostatics | L-08 | Electric Flux : https://www.youtube.com/embed/x7dz2PGOazY
+[Physics (12th)] Electrostatics | L-09 | Electric Flux : https://www.youtube.com/embed/AjvnKA1O8Dw
+[Physics (12th)] Electrostatics | L-10 | Electric Field : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_drm/4482571/1752570046_1893549365745862/1752569867976_670828351416763600_video_VOD.mpd?#keysV1=5gy0kkkjl_lri-uHs0BG02PaXEFB0BqnOd8gEzvCE-XnByUJlvvmLQhHSU_IfeKMHLYRR5dQWjqdxV0EiYOSOYJxxdB2Wr5mOwTR_7Y5vxOANuyEgVivVgPtexhflQnJE-EFhwIwaIC3V5XWX7us5w==
+[Physics (12th)] Electrostatics | L-11 | Electric Potential : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4482996/175258761952896723772/175258761952896723772_6723772.m3u8
+[Physics (12th)] Electrostatics | L-12 | Electric Potential And Equipotential Surfaces : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4485053/175276038474946723772/175276038474946723772_6723772.m3u8
+[Physics (12th)] Electrostatics | L-13 | Electric Potential : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4486016/175284636694708770242/175284636694708770242_8770242.m3u8
+[Physics (12th)] Electrostatics | L-14 : https://dfj20ef2xs681.cloudfront.net/out/v1/ae454eb8d6c64c20ac8ab18bce738c31/index.m3u8
+[Physics (12th)] Electrostatics | L-13 (Class Notes) | Electric Potential: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a5bf07d230_20250718191815083compressed.pdf
+[Physics (12th)] Electrostatics | L-12 (Class Notes) | Electric Potential And Equipotential Surfaces: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68790775103fd_20250717192628782compressed.pdf
+[Physics (12th)] Electrostatics | L-11 (Class Notes) | Electric Potential: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687667b67e9fc_20250715192734076compressed.pdf
+[Physics (12th)] Electrostatics | L-10 (Class Notes) | Electric Field: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687138c91948e_20250711192604866compressed.pdf
+[Physics (12th)] Electrostatics | L-09 (Class Notes) | Electric Flux: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fd037ac589_20250710192001902compressed.pdf
+[Physics (12th)] Electrostatics | L-08 (Class Notes) | Electric Flux: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d2d1151ccb_20250708192715003compressed.pdf
+[Physics (12th)] Electrostatics | L-07 (Class Notes) | Electric Field And Electric Force: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867f09979d77_20250704192441237compressed_1.pdf
+[Physics (12th)] Electrostatics | L-06 (Class Notes) | Electric Field Due To Ring And Disc: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6866985f39aa8_20250703192403813compressed.pdf
+[Physics (12th)] Electrostatics | L-05 (Class Notes) | Electric Field Due To Point Charge: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863e7efedb83_20250701190506051compressed.pdf
+[Physics (12th)] Electrostatics | L-04 (Class Notes) | Electric Field Due To Point Charge: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ea36124969_20250627191647569compressed.pdf
+[Physics (12th)] Electrostatics | L-03 (Class Notes) | Application Of Coulomb's Law: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ab680c822b_20250624190529535compressed.pdf
+[Physics (12th)] Electrostatics | L-02 (Class Notes) | Coulomb's Law: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68556d55ea094_20250620192511746compressed.pdf
+[Physics (12th)] Sheet - 01 | Electrostatics: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685556445d022_1._ElectrostaticsSheetCWcompressed.pdf
+[Physics (12th)] Electrostatics | L-01 (Class Notes) | Properties Of Charge: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6854260cc6efd_20250619192246530compressed.pdf
+[Physics (12th)] Geometrical Optics | L-22 (Class Notes) | Talley Scope: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ea86504512_20250615155007380compressed.pdf
+[Physics (12th)] Geometrical | L-21 (Class Notes) | Optical Instruments: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c49290a4fd_20250613210317629compressed.pdf
+[Physics (12th)] Geometrical | L-20 (Class Notes) | Dispersion: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6849a3bc3e250_20250611210344619compressed.pdf
+[Physics (12th)] Geometrical | L-19 (Class Notes) | Combination Of Lens And Mirror Displacement Method: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6847bc6d9897b_20250609211948106compressed.pdf
+[Physics (12th)] Geometrical Optics | L-18 (Class Notes) | Ex-2 Discussion: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684513b03e75c_20250608095651086compressed.pdf
+[Physics (12th)] Geometrical Optics | L-17 (Class Notes) | Lens: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68431076d58d3_20250606203847164compressed_1.pdf
+[Physics (12th)] Geometrical Optics | L-16 (Class Notes) | Lens: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68406fbdbbfaa_20250604213344415compressed.pdf
+[Physics (12th)] Geometrical Optics | L-15 (Class Notes) | Lens: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683dce4968463_20250602213529074compressed.pdf
+[Physics (12th)] Geometrical Optics | L-14 (Class Notes) | Thin Prism Refraction At Curved Surface: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839d8aa00f16_20250530213617328compressed.pdf
+[Physics (12th)] Geometrical Optics | L-13 (Class Notes) | Prism: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683733043fc99_20250528212447130compressed.pdf
+[Physics (12th)] Geometrical Optics | L-12 (Class Notes) | Critical Angle & TIR: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68348c3846522_20250526210757553compressed.pdf
+[Physics (12th)] Geometrical Optics | L-11 (Class Notes) | Refraction From Multiple Parallel Medium: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6832ed8dd07d0_20250525154116090compressed.pdf
+[Physics (12th)] Geometrical Optics | L-10 | refraction: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68309a8edc8ec_20250523211801161compressed.pdf
+[Physics (12th)] Geometrical Optics | L-09 (Class Notes) | Refraction: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68309a71c91d3_682f331d47dc220250522191837697compressed.pdf
+[Physics (12th)] Geometrical Optics | L-08 (Class Notes) | Velocity Of Image And Longitudinal Magnification: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682df7930d6ea_20250521212120882compressed.pdf
+[Physics (12th)] Geometrical Optics | L-07 (Class Notes) | Application Of Mirror Formula: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682763474b742_20250516213253659compressed.pdf
+[Physics (12th)] Module | Geometrical Optics: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682750064c22d_17447950671GeometricalOpticscompressed.pdf
+[Physics (12th)] Geometrical Optics | L-06 (Class Notes) | Mirror Formula & It's Applications: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6824c00c71ff3_20250514213453977compressed.pdf
+[Physics (12th)] Geometrical Optics | L-05 (Class Notes) | Spherical Mirror: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6822177772400_20250512210510113compressed.pdf
+[Physics (12th)] Geometrical Optics | L-04 (Class Notes) | Velocity Of Image & Field Of View: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681e2737802cf_20250509212626923compressed.pdf
+[Physics (12th)] Geometrical Optics | L-03 (Class Notes) | Image Formation By a Plane Mirror: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b8117a8636_20250507211451189compressed.pdf
+[Physics (12th)] Geometrical Optics | L-02 (Class Notes) | Angle Of Deviation: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6818e147b9f87_20250505212205736compressed.pdf
+[Physics (12th)] Geometrical Optics | L-01 (Class Notes) | Laws Of Reflection: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68186906374f1_174620038620250502210353622compressed.pdf

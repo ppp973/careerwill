@@ -1,0 +1,350 @@
+Function | L-01 | Basic Definations : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373563645112/6373563645112.m3u8
+Wave Optics | L-01 | Review of SHM Basic Concepts : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373597828112/6373597828112.m3u8
+Redox | L-01 | Oxidation Reduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373600747112/6373600747112.m3u8
+Types of Reaction | L-01 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373650175112/6373650175112.m3u8
+Wave Optics | L-01 | Review of SHM Basic Concepts : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373597828112/6373597828112.m3u8
+Wave Optics | L-02 | Review of Waves Basic Concept : https://www.youtube.com/embed/Ng_DRRJ7yuw
+Wave Optics | L-03 | YDS Method : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373815469112/6373815469112.m3u8
+Wave Optics | L-04 | YDS Method : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373894839112/6373894839112.m3u8
+Wave Optics | L-05 | Variations of YDSE : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6373986708112/6373986708112.m3u8
+Wave Optics | L-06 | Thin Film Interference : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374079279112/6374079279112.m3u8
+Wave Optics | L-07 | Differection of Light : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374172752112/6374172752112.m3u8
+Wave Optics | L-08 | Polarization of Light : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374275335112/6374275335112.m3u8
+Electrostatics | L-01 | Coulomb's Law : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374426851112/6374426851112.m3u8
+Electrostatics | L-02 | Electric Feild : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374567543112/6374567543112.m3u8
+Electrostatics | L-03 | Electric Potential : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374654713112/6374654713112.m3u8
+Electrostatics | L-04 | Electric Dipole : https://www.youtube.com/embed/qrPIglLF3qE
+Electrostatics | L-05 | Gauss's Law : https://www.youtube.com/embed/EqJTBLK002A
+Electrostatics | L-06 | Application of Gauss's Law : https://www.youtube.com/embed/aXTSqAHyAFI
+Electrostatics | L-07 | Application of Gauss's Law : https://www.youtube.com/embed/KfyWUAI8XdQ
+Electrostatics | L-08 | Conductors : https://www.youtube.com/embed/mEKHXNXhjXw
+Electrostatics | L-09 | Conductors : https://www.youtube.com/embed/P9cpWDUqlUw
+Electrostatics | L-10 | Conductors : https://www.youtube.com/embed/wWUAktqjdb8
+Electrostatics | L-11 | Conductors : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4477782/175205885923313907752/175205885923313907752_3907752.m3u8
+Gravitation | L-01 | Introduction : https://www.youtube.com/embed/tD72qlQoiyY
+Gravitation | L-02 | Satellite : https://www.youtube.com/embed/t_I-YNxAims
+Gravitation | L-03 | Kepler's Law : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483784/175266362046626723772/175266362046626723772_6723772.m3u8
+Gravitation | L-04 | Gravitation Discussion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4485765/175283639660234221427/175283639660234221427_4221427.m3u8
+Current Electricity | L-01 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4487780/17530957044779622509/17530957044779622509_622509.m3u8
+Current Electricity | L-02 | Ohm's Law : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4491006/175326844791869803317/175326844791869803317_9803317.m3u8
+Current Electricity | L-03 | Kirchhoff's Law : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4493625/175344145231626723772/175344145231626723772_6723772.m3u8
+Current Electricity | L-04 | Kirchhoff's Law : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4501398/175370048993196723772/175370048993196723772_6723772.m3u8
+Current Electricity | L-05 | Electrical Instruments : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4504040/175387348279319803317/175387348279319803317_9803317.m3u8
+Current Electricity | L-06 | Potentiometer : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4506738/175404615083449803317/175404615083449803317_9803317.m3u8
+Function | L-01 | Basic Definations : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373563645112/6373563645112.m3u8
+Function | L-02 | Domain and Range : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373645936112/6373645936112.m3u8
+Function | L-03 | Types of Function : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372969167112/6372969167112.m3u8
+Function | L-04 | Different Types of Function : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373736048112/6373736048112.m3u8
+Function | L-05 | Domain and Range : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373776787112/6373776787112.m3u8
+Function | L-06 | Range and Equal Function : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373894591112/6373894591112.m3u8
+Function | L-07 | Classification of Function : https://www.youtube.com/embed/a2Z4NjFrYDk
+Function | L-08 | Composite Function : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374047132112/6374047132112.m3u8
+Function | L-09 | Inverse of A Formula : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374085847112/6374085847112.m3u8
+Function | L-10 | Even and Odd Functions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374180246112/6374180246112.m3u8
+Function | L-11 | Periodic Function : https://www.youtube.com/embed/gEkWy3Nm3rg
+Function | L-12 | Functional Equations : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374454485112/6374454485112.m3u8
+Inverse Trigonometric Function  | L-01 | Six ITF : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374573918112/6374573918112.m3u8
+Inverse Trigonometric Function | L-02 | Basic Properties : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374660607112/6374660607112.m3u8
+Inverse Trigonometric Function | L-03 | Properties of ITF : https://www.youtube.com/embed/iw-XMbuUVxY
+Inverse Trigonometric Function | L-04 | Properties : https://www.youtube.com/embed/Cfz5Sp1bfcM
+Inverse Trigonometric Function | L-05 | Properties : https://www.youtube.com/embed/op_q5zVZRns
+Inverse Trigonometric Function | L-06 | Equations and Series Summation : https://www.youtube.com/embed/DhM61GysHYM
+Inverse Trigonometric Function | L-07 | Properties : https://www.youtube.com/embed/5a_G7HnpDa4
+Limits | L-01 | Introduction : https://www.youtube.com/embed/GRFbLsAQSY8
+Limits | L-02 | Conceptual Illustrations : https://www.youtube.com/embed/e8QqocSFVCY
+Limits | L-03 | Limits Illustration : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480814/175233167756955193874/175233167756955193874_5193874.m3u8
+Limits | L-04 | Sandwich Theorem and Trigo Limits : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483044/175259076441603259814/175259076441603259814_3259814.m3u8
+Limits | L-05 | Trigonometric Limits : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4485100/175276298989861190274/175276298989861190274_1190274.m3u8
+Limits | L-06 | Logarithmic and Exponential Limits : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_drm_dash/4486870/175293556135491976266/175293556135491976266_1976266_Dash.mpd?#keysV1=XfPO2zdA0tzBA6M9wrM9yAk5zLkfWygYaBe-puPl1u3DutVd0XHbIsMv7WsSPO402WQZxNqz7BmJwvuIfOmGmhSBFmJNSFBSom-Ov8OhuQlT-dmvi3PETApGGfor5f9fMEXqRkRkeitU98yiE57y0E0S1WkvCdYUxSZE0-GuhJtuFX7tsvhzkSUPEELdPg03G9EBxuPCC54V4OiarkcS1jrVAirYMZmlIrgx0uXLSKoecBtPKBM6swqm-MP72iUME1CafKJjk1ihtfKixlK8JrtJY8MqbqkKsOnavsGGDJuD_6F4TWt8F6e2TKvS-1h_cvSGXT2qSScdGDSQAU1stuxtx-NPw9eksgQBfLQaW4KQHxOiBWUTaf1UGNVG7v59
+Limits | L-07 | Logarithmic and Exponential Limits : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4489472/175318184454779803317/175318184454779803317_9803317.m3u8
+Limits | L-08 | Generalised Form of 1 to The Power Infinity : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4489805/175319502873791190274/175319502873791190274_1190274.m3u8
+Limits | L-09 | Special Limits : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4492549/175335485681989803317/175335485681989803317_9803317.m3u8
+Continuity | L-01 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4492855/175336771288377371692/175336771288377371692_7371692.m3u8
+Continuity | L-02 | Illustrations : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4495289/175354053290189803317/175354053290189803317_9803317.m3u8
+Continuity | L-03 | Continuity of Composite Function Intermediate Value Theorem : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4503026/175378694854039803317/175378694854039803317_9803317.m3u8
+Differentiability | L-01 | Illustration : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4503295/175379945941711190274/175379945941711190274_1190274.m3u8
+Differentiability | L-02 | Illustration : https://www.youtube.com/embed/U7a_ZyYJagY
+Differentiability | L-03 | Illustration : https://www.youtube.com/embed/uTRq8R8MfA0
+Differentiability | L-04 | Determination of Function : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4511145/175413262092764221427/175413262092764221427_4221427.m3u8
+Alkyl Halide and Aryl Halide | L-01 | SN2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374042725112/6374042725112.m3u8
+Alkyl Halide and Aryl Halide | L-02 | SN2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374121682112/6374121682112.m3u8
+Alkyl Halide and Aryl Halide | L-03 | Williamson Ether Synthesis : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374225707112/6374225707112.m3u8
+Alkyl Halide and Aryl Halide | L-04 | Nucleophicity in SN2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374346482112/6374346482112.m3u8
+Alkyl Halide and Aryl Halide | L-05 | Step up of Alkyne Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374512263112/6374512263112.m3u8
+Alkyl Halide and Aryl Halide | L-06 | SN1 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374608248112/6374608248112.m3u8
+Alkyl Halide and Aryl Halide | L-07 |  SN1 : https://www.youtube.com/embed/n_gijlyEprI
+Alkyl Halide and Aryl Halide | L-08 | SN-Ar : https://www.youtube.com/embed/UP1yZV0yIww
+Alkyl Halide and Aryl Halide | L-09 | Reaction of Ether with HI : https://www.youtube.com/embed/J4lXcrxTyfw
+Alkyl Halide and Aryl Halide | L-10 | Hydrolysis of Ether : https://www.youtube.com/embed/YQmwe0B3Xd0
+Alkyl Halide and Aryl Halide | L-11 | SN-I : https://www.youtube.com/embed/rt-bnKzkNsg
+Alkyl Halide and Aryl Halide | L-12 | Elimination Reaction : https://www.youtube.com/embed/eVlmse7s2qY
+Alkyl Halide and Aryl Halide | L-13 | Ring Expansion and Elimination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4475894/175189308839944800893/175189308839944800893_4800893.m3u8
+Alkyl Halide and Aryl Halide | L-14 | Pinacol Pinacolone Rearrangement : https://www.youtube.com/embed/F3Fepg043Y0
+Alkyl Halide and Aryl Halide | L-15 | Quiz : https://www.youtube.com/embed/V_qy8bSwV5Q
+Alkyl Halide and Aryl Halide | L-16 | E2 Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4481879/175249715624457371692/175249715624457371692_7371692.m3u8
+Alkyl Halide and Aryl Halide | L-17 | E2 Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483921/175267009086101761844/175267009086101761844_1761844.m3u8
+Alkyl Halide and Aryl Halide | L-18 | Hofmann Elimination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4485906/175284288614735908244/175284288614735908244_5908244.m3u8
+Alkyl Halide and Aryl Halide | L-19 | Substitution vs Elimination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4487947/175310214621819985012/175310214621819985012_9985012.m3u8
+Grignard Reagent | L-01 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4491431/175327440086565908244/175327440086565908244_5908244.m3u8
+Grignard Reagent | L-02 | Reactions with Aldehydes and Ketones : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4493824/175344749563951561360/175344749563951561360_1561360.m3u8
+Grignard Reagent | L-03 | Grignard Reagent and Acid Derivatives : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4501564/175370694917384842669/175370694917384842669_4842669.m3u8
+Grignard Reagent | L-04 | De-carboxylation Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4504252/175387973853321561360/175387973853321561360_1561360.m3u8
+Carbene & Nitrene | L-01 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4510380/175405020937333664730/175405020937333664730_3664730.m3u8
+Coordination Compounds | L-01 | Basics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371472526112/6371472526112.m3u8
+Coordination Compounds | L-02 | Classification of Ligands : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371556396112/6371556396112.m3u8
+Coordination Compounds | L-03 | Classical and Non Classical Ligands : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371644205112/6371644205112.m3u8
+Coordination Compounds | L-04 | Synergic Bonding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371751535112/6371751535112.m3u8
+Coordination Compounds | L-05 | Calculation of EAN : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371827487112/6371827487112.m3u8
+Coordination Compounds | L-06 | IUPAC Naming : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371926199112/6371926199112.m3u8
+Coordination Compounds | L-07 | IUPAC Naming : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372024830112/6372024830112.m3u8
+Coordination Compounds | L-08 | Werner's Law : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372108831112/6372108831112.m3u8
+Coordination Compounds | L-09 | Valence Bond Theory (VBT) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372214314112/6372214314112.m3u8
+Coordination Compound | L-10 | VBT : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372366698112/6372366698112.m3u8
+Coordination Compound | L-11 | VBT : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372464362112/6372464362112.m3u8
+Coordination Compound | L-12 | Crystel Field Theory : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372574001112/6372574001112.m3u8
+Coordination Compound | L-13 | CFT : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372699792112/6372699792112.m3u8
+Coordination Compound | L-14 | CFT : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372794200112/6372794200112.m3u8
+Coordination Compound | L-15 | CFT : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372899204112/6372899204112.m3u8
+Coordination Compound | L-16 | CFT : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373058820112/6373058820112.m3u8
+Coordination Compound | L-17 | Colour in Complex Compounds : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373168779112/6373168779112.m3u8
+Coordination Compound | L-18 | Structural Isomerism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373382660112/6373382660112.m3u8
+Coordination Compound | L-19 | Stereoisomerism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373493466112/6373493466112.m3u8
+Coordination Compound | L-20 | Stereoisomerism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373568042112/6373568042112.m3u8
+Types of Reaction | L-01 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373650175112/6373650175112.m3u8
+Types of Reaction | L-02 | Preciprepation Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373782185112/6373782185112.m3u8
+Types of Reaction | L-03 | Salt Decomposition Reactions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373863122112/6373863122112.m3u8
+Types of Reaction | L-04 | Salt Decomposition Reactions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374049981112/6374049981112.m3u8
+Types of Reaction | L-04 | Salt Decomposition Reactions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374049981112/6374049981112.m3u8
+Types of Reaction | L-05 | Complex Formation Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374128423112/6374128423112.m3u8
+Types of Reaction | L-06 | Types of Reaction | L-06 | Complex Salt Precipitation Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374233488112/6374233488112.m3u8
+Types of Reaction | L-07 | Redox Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374351947112/6374351947112.m3u8
+Types of Reaction | L-08 | Redox Reaction : https://www.youtube.com/embed/trxEPDy2Z7k
+Types of Reaction | L-09 | Redox Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374615430112/6374615430112.m3u8
+Types of Reaction | L-10 | Redox Reaction : https://www.youtube.com/embed/6VXGdD1Llu0
+Types of Reaction | L-11 | Redox Reaction : https://www.youtube.com/embed/S0_2kC_D4fg
+Types of Reaction | L-12 | Disproportionation Reaction : https://www.youtube.com/embed/RF5bnv3TE3M
+Types of Reaction | L-13 | Comproportionation Reaction : https://www.youtube.com/embed/tgqfSNVmaHA
+Types of Reaction | L-13 | Comproportionation Reaction : https://www.youtube.com/embed/tgqfSNVmaHA
+Types of Reaction | L-14 | Thermal Decomposition Reaction : https://www.youtube.com/embed/9-JLzr2Vjf0
+Types of Reaction | L-15 | Thermal Decomposition Reaction : https://www.youtube.com/embed/Kto8lfNEL-A
+Types of Reaction | L-16 | Hydrolysis Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4475990/175189897083266908824/175189897083266908824_6908824.m3u8
+Types of Reaction | L-17 | Hydrolysis Reaction : https://www.youtube.com/embed/_fhWirWDalw
+Types of Reaction | L-18 | Hydrolysis Reaction : https://www.youtube.com/embed/sToDXkLWWCc
+p-Block Elements and Their Compounds | L-01 | 13th Group Elements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4481995/175250376663346723772/175250376663346723772_6723772.m3u8
+p-Block Elements and Their Compounds | L-01 | 13th Group Elements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4484066/175267689587609803317/175267689587609803317_9803317.m3u8
+p-Block Elements and Their Compounds | L-03 | 14th Group Elements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4486056/175284975054163259814/175284975054163259814_3259814.m3u8
+p-Block Elements and Their Compounds | L-04 | 14th Group Elements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4488076/175310862492184842669/175310862492184842669_4842669.m3u8
+p-Block Elements and Their Compounds | L-05 | 15th Group Elements : https://www.youtube.com/embed/LhzbpERPPRo
+p-Block Elements and Their Compounds | L-06 | 15th Group Elements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4493959/175345425150657371692/175345425150657371692_7371692.m3u8
+p-Block Elements and Their Compounds | L-07 | 16th Group Elements : https://www.youtube.com/embed/wPu15kFvvng
+p-Block Elements and Their Compounds | L-08 | 17th and 18th Group Elements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4510570/175405947328327371692/175405947328327371692_7371692.m3u8
+Redox | L-01 | Oxidation Reduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373600747112/6373600747112.m3u8
+Redox | L-02 | Balancing of Redox Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373699154112/6373699154112.m3u8
+Redox | L-03 | Balancing of Redox Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373820851112/6373820851112.m3u8
+Redox | L-04 | Titration : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373896985112/6373896985112.m3u8
+Redox | L-05 | n-factor Calculation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373987655112/6373987655112.m3u8
+Redox | L-06 | n-factor Calculation : https://www.youtube.com/embed/VDjwEq4XwRw
+Redox | L - 07 | DPP Discussion and Titration : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374175498112/6374175498112.m3u8
+Redox | L - 08 | Titration : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374278400112/6374278400112.m3u8
+Redox | L - 09 | Titration : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374438726112/6374438726112.m3u8
+Redox | L - 10 | Double Indicator Titration : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374569597112/6374569597112.m3u8
+Redox | L - 11 | Hardness of Water : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374655660112/6374655660112.m3u8
+Redox | L-12 | Hardness of Water : https://www.youtube.com/embed/EtZVM7o2XUM
+Thermodynamics | L-01 | Introduction : https://www.youtube.com/embed/5_c3yCI7cDg
+Thermodynamics | L-02 | Basic of Thermodynamics : https://www.youtube.com/embed/LgdIe5jP_p4
+Thermodynamics | L-03 | Internal Energy of System : https://www.youtube.com/embed/8At2yAOLHDg
+Thermodynamics | L-04 | Law's of Thermodynamics : https://www.youtube.com/embed/ZsDVpjqFrOE
+Thermodynamics | L-05 | Internal Energy and Enthalpy : https://www.youtube.com/embed/YRvuZvKTXTE
+Thermodynamics | L-06 | Kirchhoff's law : https://www.youtube.com/embed/xCloeWlGuis
+Thermodynamics | L-07 | Calculation of Work Done : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480745/175232501372441590324/175232501372441590324_1590324.m3u8
+Thermodynamics | L-08 | Adiabatic Process : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4482868/175258397728101561360/175258397728101561360_1561360.m3u8
+Thermodynamics | L-09 | Adiabatic Process : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4484962/175275651925655908244/175275651925655908244_5908244.m3u8
+Thermodynamics | L-10 | Second Law of Thermodynamics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_drm_dash/4486809/175292944757135384965/175292944757135384965_5384965_Dash.mpd?#keysV1=4P5fA9Wg-39gyd3NW_a4X6-B_IsERC6pq9TnhyQPckwvZ7n6nVzQHrpPjLAp9OvQc6QR1jPdskw1DTyT1uagi-by4evzXcR5iHmMdxcI0oUR4UH_FnXZcTAA4-KeMB34Xe8-P-nVa379D1s-ICqp5hwVVAfT6w3p5ODl_Y-nGM6P1v6KBj0rMdZkXi1rJiAnLR0oyFGBzy6RgRwTYv8Fp5hbwd1kFNkOeSBNIGa1PdMMuWGiPDXrQynWUQ3lY2liAKnkXwtbPb7jVxBADtZ88TztEzVJmgWqkbRaYuH9W2__SQamnUu1TAkux-1kfPkuZfg_gmZVXE3sRn0WlzUAo6T6jYoIA8vRvKKdftFGblRKG-6JwzWfDpC-WtWawC3X
+Thermodynamics | L-11 | Second Law of Thermodynamics : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4489689/175318859172285908244/175318859172285908244_5908244.m3u8
+Thermodynamics | L-12 | Entropy Change in Reactions and Process : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4492757/175336161668373664730/175336161668373664730_3664730.m3u8
+Thermodynamics | L-13 | Entropy Change Calculation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4495217/175353409751081761844/175353409751081761844_1761844.m3u8
+Thermodynamics | L-14 | Gibb's Free Energy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4503182/175379339243065908244/175379339243065908244_5908244.m3u8
+Thermodynamics | L-15 | Gibb's Energy and Basic Idea of Thermochemistry : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4505546/175396603044103664730/175396603044103664730_3664730.m3u8
+Thermochemistry | L-01 | Types of Enthalpy of Reaction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4511235/175413879213815384965/175413879213815384965_5384965.m3u8
+JEE 12th A2 Batch | Test Syllabus (JEE MAIN) : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Test_Syllabus_A2.pdf
+JEE 12th A2 Batch | Test Schedule : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874c57e43bb0_Test_Schedule_A2.pdf
+JEE 12th A2 BATCH | Class Schedule : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687dff15f33e8_A2_Time_Table.pdf
+JEE 12th A2 Batch | Academic Planner : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684987103088e_Planner_12th_A2.pdf
+JEE Advance Test - 02 (Paper -01) | Answer key & Solution Explanation | 20-July-2025 : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Careerwill_XII_JEE_Advanced_Test2_XII_200725_With_Answer_Solution.pdf
+Current Electricity | L-06 (class Notes) | Potentiometer : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NJ_Sir_Physics_12th_Current_Electricity_Lecture06_compressed1.pdf
+Current Electricity | L-05 (Class Notes) | Electrical Instruments : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NJ_Sir_Physics_12th_Current_Electricity_Lecture05_compressed1.pdf
+Current Electricity | L-04 (Class Notes) | Kirchhoff's Law : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NJ_Sir_Physics_12th_Current_Electricity_Lecture04_compressed1.pdf
+Current Electricity | L-03 (Class Notes) | Kirchhoff's Law : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NJ_Sir_Physics_12th_Current_Electricity_Lecture03_compressed1.pdf
+Current Electricity | L-02 (Class Notes) | Ohm's Law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6880c408292b1_NJ_Sir_Physics_12th_Current_Electricity_Lecture02.pdf
+Current Electricity | L-01 (Class Notes) | Introduction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e1f6c3b6d6_NJ_Sir_Physics_12th_Current_Electricity_Lecture01.pdf
+Gravitation | L-04 (Class Notes) | Gravitation Discussion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a2c9dc4ec9_NJ_Sir_Physics_12th_Gravitation_Lecture04.pdf
+Gravitation | L-03 (Class Notes) | Kepler's Law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687789e0bf91e_NJ_Sir_Physics_12th_Gravitation_Lecture03.pdf
+Gravitation | L-02 (Class Notes) | Satellite : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e64dbaddb_NJ_Sir_Physics_12th_Gravitation_Lecture02.pdf
+Gravitation | L-01 (Class Notes) | Introduction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870f1e3f1892_NJ_Sir_Physics_12th_Gravitation_Lecture01.pdf
+Electrostatics | L-11 (Class Notes) | Conductors : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e4de8cbef6_NJ_Sir_Physics_12th_Electrostatics_Lecture11.pdf
+Electrostatics | L-10 (Class Notes) | Conductors : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686bab34d1384_NJ_Sir_Physics_12th_Electrostatics_Lecture10compressed.pdf
+Electrostatics | L-09 (Class Notes) | Conductors : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68691eeb1e387_NJ_Sir_Physics_12th_Electrostatics_Lecture010.pdf
+Electrostatics | L-08 (Class Notes) | Conductors : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68666764df7c7_NJ_Sir_Physics_12th_Electrostatics_Lecture08.pdf
+Electrostatics | L-07 (Class Notes) | Application of Gauss's Law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863c2bcba73b_NJ_Sir_Physics_12th_Electrostatics_Lecture07.pdf
+Electrostatics | L-06 (Class Notes) | Application of Gauss's Law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fd046664ac_NJ_Sir_Physics_12th_Electrostatics_Lecture06.pdf
+Electrostatics | L-05 (Class Notes) | Gauss's Law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d2b48a5568_NJ_Sir_Physics_12th_Electrostatics_Lecture05.pdf
+Electrostatics | L-04 (Class Notes) | Electric Dipole : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a889addfc9_NJ_Sir_Physics_12th_Electrostatics_Lecture04.pdf
+Electrostatics | L-03 (Class Notes) | Electric Potential : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685693e326094_NJ_Sir_Physics_12th_Electrostatics_Lecture03compressed.pdf
+Electrostatics | L-02 (Class Notes) | Electric Feild : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853f19398b39_NJ_Sir_Physics_12th_Electrostatics_Lecture02compressed.pdf
+Electrostatics | L-01 (Class Notes) | Coulomb's Law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68514fa358ee0_NJ_Sir_Physics_12th_Electrostatics_Lecture01compressed.pdf
+Wave Optics | L-08 (Class Notes) | Polarization of Light : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d5d01ded7b_NJ_Sir_Physics_12th_Wave_Optics_Lecture11compressed.pdf
+Wave Optics | L-07 (Class Notes) | Differection of Light : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ab8dd31328_20250612163840072compressed.pdf
+Wave Optics | L-06 (Class Notes) | Thin Film Interference : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6848185f5accf_20250610164931169.pdf
+Wave Optics | L-05 (Class Notes) | Variations of YDSE : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6844357c01823_Nj_Sir_Physics_07.06.2025compressed.pdf
+Wave Optics | L-04 (Class Notes) | YDSE Method : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684180ce7ab02_NJ_Sir_Physics_12th_Wave_Optics_Lecture04compressed.pdf
+Sheet - 01 | Wave Optics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683eea8d04979_Wave_OpticsXIISendcompressed.pdf
+Wave Optics | L-03 (Class Notes) | YDSE Method : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ee6e9a14b5_NJ_Sir_Physics_12th_Wave_Optics_Lecture06compressed.pdf
+Wave Optics | L-02 (Class Notes) | Review of Wave Basic Concept : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683aff0fec917_NJ_Sir_Physics_12th_A2_Batch_Wave_Optics_Lecture02compressed.pdf
+Wave Optics | L-01 (Class Notes) | Review of SHM Basic Concepts : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68385c95576b7_NJ_Sir_Physics_12th_A2_Batch_Wave_Optics_Lecture01compressed.pdf
+Differentiability | L-04 (Class Notes) | Determination of Function : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_PJ_Sir_Maths_12th_Differentiability_Lecture041.pdf
+Differentiability | L-03 (Class Notes) | Illustration : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_PJ_Sir_Maths_12th_Differentiability_Lecture031.pdf
+Differentiability | L-02 (Class Notes) | Illustration : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_PJ_Sir_Maths_12th_Differentiability_Lecture021.pdf
+Sheet - 01 | Differentiability : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Differentiability_XII_Careerwill_Send1.pdf
+Differentiability | L-01 (Class Notes) | Illustration : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_PJ_Sir_Maths_12th_Differentiability_Lecture011.pdf
+Continuity | L-03 (Class Notes) | Continuity of Composite Function Intermediate Value Theorem : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_PJ_Sir_Maths_12th_Continuity_Lecture031.pdf
+Sheet - 01 | Continuity : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Continuity_XII_Careerwill1.pdf
+Continuity | L-02 (Class Notes) | Illustrations : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_202507262006078621.pdf
+Continuity | L-01 (Class Notes) | Introduction : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_PJ_Sir_Maths_12th_Continuity_Lecture011.pdf
+Limits | L-09 (Class Notes) | Special Limits : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_PJ_Sir_Maths_12th_Limits_Lecture091.pdf
+Limits | L-08 (Class Notes) | Generalised Form of 1 to The Power Infinity : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687fa2d54b9a4_PJ_Sir_Maths_12th_Limits_Lecture08.pdf
+Limits | L-07 (Class Notes) | Logarithmic and Exponential Limits : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f6fc1a5712_PJ_Sir_Maths_12th_Limits_Lecture07.pdf
+Limits | L-06 (Class Notes) | Logarithmic and Exponential Limits : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687badc662e4f_PJ_Sir_Maths_12th_Limits_Lecture06.pdf
+Limits | L-05 (Class Notes) | Trigonometric Limits : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68790b0b20cb7_PJ_Sir_Maths_12th_Limits_Lecture05.pdf
+Limits | L-04 (Class Notes) | Sandwich Theorem and Trigo Limits : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68766a8e0dd34_PJ_Sir_Maths_12th_Limits_Lecture04.pdf
+Limits | L-03 (Class Notes) | Limits Illustration : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687276420b797_PJ_Sir_Maths_12th_Limits_Lecture03.pdf
+Sheet - 01 | Limits : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870c45dd0650_LimitXIICareerwillcompressed.pdf
+Limits | L-02 (Class Notes) | Conceptual Illustrations : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fd1ef913b6_PJ_Sir_Maths_12th_Limits_Lecture02.pdf
+Limits | L-01(Class Notes) | Introduction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d30517b047_PJ_Sir_Maths_12th_Limits_Lecture01.pdf
+Inverse Trigonometric Function | L-07 (Class Notes) | Properties : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6866948fca025_PJ_Sir_Maths_12th_ITF_Lecture07.pdf
+Inverse Trigonometric Function | L-06 (Class Notes) | Equations and Series Summation : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863f2e26d038_PJ_Sir_Maths_12th_ITF_Lecture06.pdf
+Inverse Trigonometric Function | L-05 (Class Notes) | Properties : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ffe34cb2bd_PJ_Sir_Maths_12th_ITF_Lecture05.pdf
+Inverse Trigonometric Function | L-04 (Class Notes) | Properties : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d5dd905c8b_PJ_Sir_Maths_12th_ITF_Lecture04.pdf
+Sheet - 01 | Inverse Trigonometric Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d2d324006c_ITFXIICareerwill.pdf
+Inverse Trigonometric Function | L-03 (Class Notes) | Properties of ITF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ab910116ca_PJ_Sir_Maths_12th_ITF_Lecture03.pdf
+Inverse Trigonometric Function | L-02 (Class Notes) | Basic Properties : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6856c3ed4fc15_PJ_Sir_Maths_12th_ITF_Lecture02.pdf
+Inverse Trigonometric Function | L-01 (Class Notes) | Six ITF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68541fd0ed819_PJ_Sir_Maths_12th_ITF_Lecture01.pdf
+Function | L-12 (Class Notes) | Functional Equations : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68517dc0d65b3_PJ_Sir_Maths_12th_Function_Lecture12.pdf
+Function | L-11 (Class Notes) | Periodic Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d8c0ce6422_PJ_Sir_Maths_12th_Function_Lecture11.pdf
+Function | L-10 (Class Notes) | Even and Odd Functions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ae8e9181a1_20250612201400590.pdf
+Function | L-09 (Class Notes) | Inverse of A Formula : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684846058c36f_20250610201628727.pdf
+Function | L-08 (Class Notes) | Composite Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846d98459b7f_20250609182022624.pdf
+Function | L-07 (Class Notes) | Classification of Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68455630801f0_20250608144903751.pdf
+Function | L-06 (Class Notes) | Range and Equal Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684042890e9f0_PJ_Sir_Maths_12th_A2_Batch_Function_Lecture06.pdf
+Sheet - 01 | Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ee01c11911_FunctionXIICareerwill.pdf
+Function | L-05 (Class Notes) | Domain and Range : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683da5a7ebef8_PJ_Sir_Maths_12th_A2_Batch_Function_Lecture05.pdf
+Function | L-04 (Class Notes) |  Different Types of Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683c3edfec5ef_PJ_Sir_Maths_12th_A2_Batch_Function_Lecture04.pdf
+Function | L-03 (Class Notes) | Types of Function : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683c2ff2c5a9e_PJ_Sir_Maths_12th_A2_Batch_Function_Lecture03.pdf
+Function | L-02 (Class Notes) | Domain and Range : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839abc44d494_PJ_Sir_Maths_12th_A2_Batch_Function_Lecture02.pdf
+Function | L-01 (Class Notes) | Basic Defination : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68370f5186845_PJ_Sir_Maths_12th_A2_Batch_Function_Lecture01.pdf
+Carbene & Nitrene  L-01 (Class Notes)  Introduction : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_MSC_Sir_OC_12th_Carbene_Nitrene_Lecture011.pdf
+Grignard Reagent | L-04 (Class Notes) | De-carboxylation Reaction : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_MSC_Sir_OC_12th_Grignard_Reagent_Lecture041.pdf
+Grignard Reagent | L-03 (Class Notes) | Grignard Reagent and Acid Derivatives : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_MSC_Sir_OC_12th_Grignard_Reagent_Lecture03_compressed1.pdf
+Grignard Reagent | L-02 (Class Notes) | Reactions with Aldehydes and Ketones : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_MSC_Sir_OC_12th_Grignard_Reagent_Lecture02_compressed_11.pdf
+Grignard Reagent | L-01 (Class Notes) | Introduction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68832b798ff83_MSC_Sir_OC_12th_Grignard_Reagent_Lecture01compressed.pdf
+Alkyl Halide and Aryl Halide | L-19 | Substitution vs Elimination : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e39910b6e3_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture19.pdf
+Alkyl Halide and Aryl Halide | L-18 (Class Notes) | Hofmann Elimination : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a448760c31_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture18compressed.pdf
+Alkyl Halide and Aryl Halide | L-17 (Class Notes) | E2 Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6877a1b54e7b8_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture17compressed.pdf
+Alkyl Halide and Aryl Halide | L-16 (Class Notes) | E2 Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874fe3811020_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture16compressed.pdf
+Alkyl Halide and Aryl Halide | L-15 (Class Notes) | Quiz : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6871029cf3825_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture15.pdf
+Alkyl Halide and Aryl Halide | L-14 (Class Notes) | Pinacol Pinacolone Rearrangement : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e6690aa401_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture14compressed.pdf
+Theory Notes - 01 (Solution) | GOC : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686cd8d5613e3_2GOCTheory_NotesSolutions.pdf
+Theory Notes - 01 | GOC : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686cd8ae85134_1GOCTheory_Notes.pdf
+Sheet - 01 | GOC : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686cd8686980e_GOCExerciseXIFinalSend.pdf
+Alkyl Halide and Aryl Halide | L-13 (Class Notes) | Ring Expansion and Elimination : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686bc53ea976d_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture13compressed.pdf
+Alkyl Halide and Aryl Halide | L-12 (Class Notes) | Elimination Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867b50579560_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture12compressed.pdf
+Alkyl Halide and Aryl Halide | L-11 (Class Notes) | SN-I : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686513967cadc_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture11compressed.pdf
+Alkyl Halide and Aryl Halide | L-10 (Class Notes) | Hydrolysis of Ether : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6862703d39ccc_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture10compressed.pdf
+Alkyl Halide and Aryl Halide | L-09 (Class Notes) | Reaction of Ether with HI : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685e7cb50e218_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture09compressed.pdf
+Alkyl Halide and Aryl Halide | L-08 (Class Notes) | SN-Ar : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685bd8fc68447_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture08compressed.pdf
+Alkyl Halide and Aryl Halide | L-07 (Class Notes) |  SN1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68593553519dc_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture07compressed.pdf
+Alkyl Halide and Aryl Halide | L-06 (Class Notes) | SN1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68553dbc5c8bc_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture06compressed.pdf
+Alkyl Halide and Aryl Halide | L-05 (Class Notes) | Step up of Alkyne Series : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852b13a2e2bd_68529fda7fcceMSCSirOC12thAlkylHalideandArylHalideLecture05compressed.pdf
+Alkyl Halide and Aryl Halide | L-04 (Class Notes) | Nucleophicity in SN2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ffbca0bdb1_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture04compressed.pdf
+Alkyl Halide and Aryl Halide | L-03 | Williamson Ether Synthesis : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c07b2e2ef4_MSC_Sir_OC_12th_Alkyl_Halide_and_Aryl_Halide_Lecture03compressed.pdf
+Alkyl Halide and Aryl Halide | L-02 (Class Notes) | SN2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ad9962a867_lec_2.pdf
+Alkyl Halide and Aryl Halide | L-01 (Class Notes) | SN2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ad97ef1e79_lec1.pdf
+Sheet - 01 | Alkyl Halide and Aryl Halide : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ad94c7c3ce_6800e5f099e4aAlkylHalideClassNotes.pdf
+p-Block Elements and Their Compounds | L-08 (class Notes) | 17th and 18th Group Elements : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_VKJ_Sir_IOC_12th_A1_A2_Batch_pBlock_Lecture08_compressed1.pdf
+p-Block Elements and Their Compounds | L-07 (Class Notes) | 16th Group Elements : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_VKJ_Sir_IOC_12th_A1_A2_Batch_pBlock_Lecture07_compressed1.pdf
+p-Block Elements and Their Compounds | L-06 (Class Notes) | 15th Group Elements : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_202507252008353381.pdf
+p-Block Elements and Their Compounds | L-05 (Class Notes) | 15th Group Elements : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_VKJ_Sir_IOC_12th_A1_A2_Batch_pBlock_Lecture051.pdf
+Coordination Compound | L-20 (Class Notes) | Stereoisomerism : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68372a6db4b95_VKJ_Sir_Sir_IOC_12th_Coordination_Compound_Lecture20.pdf
+Coordination Compound | L - 19 (Class Notes) | Stereoisomerism : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6834804b99168_VKJ_Sir_Sir_IOC_12th_Coordination_Compound_Lecture19.pdf
+Coordination Compound | L-18 (Class Notes) | Strucural Isomerism : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68308b16c518d_VKJ_Sir_Sir_IOC_12th_Coordination_Compound_Lecture18.pdf
+Coordination Compounds | L-17 (Class Notes) | Colour in Complex Compounds : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682de75c2e3aa_VKJ_Sir_Sir_IOC_12th_Coordination_Compound_Lecture17.pdf
+Coordination Compound | L-16 (Class Notes) | CFT : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b454d45b46_VKJ_Sir_Sir_IOC_12th_Coordination_Compound_Lecture16.pdf
+Coordination Compound | L-15 (Class Notes) | CFT : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6827509c19369_VKJ_Sir_Sir_IOC_11th_Coordination_Compound_Lecture15.pdf
+Coordination Compound | L-14 (Class Notes) | CFT : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6824ad6af321c_Coordination_Compound_L14_Class_Notes_CFT.pdf
+Coordination Compound | L-13 (Class Notes) | CFT : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682210172dba9_VKJ_Sir_Sir_IOC_11th_Coordination_Compound_Lecture13.pdf
+Coordination Compound | L-12 (Class Notes) | Crystel Field Theory (CFT) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681ec53c45f13_VKJ_Sir_Sir_IOC_11th_Coordination_Compound_Lecture112.pdf
+Coordination Compound | L-11 (Class Notes) | VBT : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b7021cc5fe_VKJ_Sir_Sir_IOC_11th_Coordination_Compound_Lecture11.pdf
+Coordination Compound | L-10 (Class Notes) | VBT : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6818d125c63d0_VKJ_Sir_IOC_12th_Coordination_Compounds_Lecture10.pdf
+Coordination Compounds | L-09 (Class Notes) | Valence Bond Theory (VBT) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68157cc586629_VKJ_Sir_IOC_12th_Coordination_Compounds_Lecture09.pdf
+Coordination Compounds | L-08 (Class Notes) | Werner's Law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6812fd2e6146b_VKJ_Sir_IOC_12th_Coordination_Compounds_Lecture08.pdf
+Coordination Compounds | L-06 (Class Notes) | IUPAC Naming : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680caafddf037_VKJ_Sir_IOC_12th_Lecture06.pdf
+Sheet - 01 | Coordination Compound : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68071f2a99b96_Coordination_compoundXII.pdf
+Coordination Compounds | L-04 (Class Notes) | Synergic Bonding : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68071e9dcab07_VKJ_Sir_IOC_12th_Lecture04.pdf
+Coordination Compounds | L-03 (Class Notes) | Classical and Non Classical Ligands : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6800c44a3d018_Ligands_Note_1.pdf
+p-Block Elements and Their Compounds | L-04 (Class Notes) | 14th Group Elements : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e5188ce9d2_VKJ_Sir_IOC_12th_A1_A2_Batch_pBlock_Lecture04.pdf
+p-Block Elements and Their Compounds | L-03 (Class Notes) | 14th Group Elements : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a5e8a18af4_VKJ_Sir_IOC_12th_A1_A2_Batch_pBlock_Lecture03compressed.pdf
+p-Block Elements and Their Compounds | L-01 (Class Notes) | 13th Group Elements : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6877bb8b93676_VKJ_Sir_IOC_12th_A1_A2_Batch_pBlock_Lecture02.pdf
+p-Block Elements and Their Compounds | L-01 (Class Notes) | 13th Group Elements : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68751824c7577_6875174bd74c1VKJSirIOC12thA1A2BatchpBlockLecture01.pdf
+Types of Reaction | L-18 (Class Notes) | Hydrolysis Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6871226c81ed0_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture18.pdf
+ypes of Reaction | L-17 (Class Notes) | Hydrolysis Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e7f55051ff_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture17.pdf
+Types of Reaction | L-16 (Class Notes) | Hydrolysis Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686bdc30557b7_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture16.pdf
+Types of Reaction | L-15 (Class Notes) | Thermal Decomposition Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867e844ea69f_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture15.pdf
+Types of Reaction | L-14 (Class Notes) | Thermal Decomposition Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686545c962621_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture14.pdf
+Types of Reaction | L-13 (Class Notes) | Comproportionation Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6862a228bed70_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture13.pdf
+Types of Reaction | L-12 (Class Notes) | Disproportionation Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685eab4f9e511_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture12.pdf
+Types of Reaction | L-11 (Class Notes) | Redox Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685c0a377dd38_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture11.pdf
+Types of Reaction | L-10 (Class Notes) | Redox Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68596876b778a_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture10.pdf
+Types of Reaction | L-09 (Class Notes) | Redox Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685572a90d68d_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture09.pdf
+Types of Reaction | L-08 (Class Notes) | Redox Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852d01442f10_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture08.pdf
+Types of Reaction | L-07 (Class Notes) | Redox Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68502a935187f_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture067.pdf
+Types of Reaction | L-06 (Class Notes) | Complex Salt Precipitation Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c3821b1cc5_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture06.pdf
+Types of Reaction | L-05 (Class Notes) | Complex Formation Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6849967d30bb9_20250611201158867.pdf
+Types of Reaction | L-04 (Class Notes) | Salt Decomposition Reactions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846f3309d565_20250609200836760.pdf
+Types of Reaction | L-03 (Class Notes) | Salt Decomposition Reactions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68405b1dbf3ec_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture03.pdf
+Types of Reaction | L-02 (Class Notes) | Preciprepation Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683dc80f46879_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture02.pdf
+Types of Reactions | L-01 (Class Notes) Types of Reactions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839c5e472153_VKJ_Sir_IOC_12th_A1_A2_Batch_Types_of_Reaction_Lecture01.pdf
+Thermochemistry | L-01 (Class Notes) | Types of Enthalpy of Reaction : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NA_Sir_PC_12th_A1_A2_Batch_Thermochemistry_Lecture011.pdf
+Thermodynamics | L-15 (Class Notes) | Gibb's Energy and Basic Idea of Thermochemistry : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture151.pdf
+Thermodynamics | L-14 (Class Notes) | Gibb's Free Energy : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture141.pdf
+Thermodynamics | L-13 (Class Notes) | Entropy Change Calculation : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture131.pdf
+Thermodynamics | L-12 (Class Notes) | Entropy Change in Reactions and Process : https://educp.crwilladmin.com/uploads/class-attachment/lclsys_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture121.pdf
+Thermodynamics | L-11 (Class Notes) | Second Law of Thermodynamics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f8d37238cb_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture11.pdf
+Thermodynamics | L-10 (Class Notes) | Second Law of Thermodynamics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b99763b0e8_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture10.pdf
+Thermodynamics | L-09 (Class Notes) | Adiabatic Process : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878f2de22d73_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture09.pdf
+Thermodynamics | L-08 (Class Notes) | Adiabatic Process : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68765426ecc25_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture08.pdf
+Sheet - 01 | Chemical Kinetics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687261e356c34_68394926f24b5ChemicalKineticsFinal.pdf
+Sheet - 01 | Surface Chemistry : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687261507a42d_6800e163bc673SurfaceChemistryFinalClassNotes.pdf
+Sheet - 01 | Solid State : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6872612ff1e6a_6800e144025e7SolidStateFinalClassNotes.pdf
+Sheet - 01 | Liquid Solution : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68726111772f9_6800e0f9aeab8LiquidSolutionFinalClassNotes.pdf
+Sheet - 01 | Electrochemistry : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687260eca982d_6800e09417384ElectrochemistryFinalClassNotes.pdf
+Sheet - 01 | Thermochemistry : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687260cb5720f_6800e18383f10ThermochemistryFinalClassNotes.pdf
+Sheet - 01 | Thermodynamic : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6872609dd8277_6800e0b92b867ThermodynamicFinalClassNotes.pdf
+Thermodynamics | L-07 (Class Notes) | Calculation of Work Done : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68725e22e9f20_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture07.pdf
+Thermodynamics | L-06 (Class Notes) | Kirchhoff's law : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fb88d01757_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture06.pdf
+Thermodynamics | L-05 (Class Notes) | Internal Energy and Enthalpy : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d17eae4abe_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture05.pdf
+Thermodynamics | L-04 (Class Notes) | Law's of Thermodynamics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68667d4cee1e5_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture04.pdf
+Thermodynamics | L-03 (Class Notes) | Internal Energy of System : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863dd457111b_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture03.pdf
+Thermodynamics | L-02 (Class Notes) | Basic of Thermodynamics : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fe7f83a6ac_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture02.pdf
+Thermodynamics | L-01 (Class Notes) | Introduction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d43c5096da_NA_Sir_PC_12th_A1_A2_Batch_Thermodynamics_Lecture01.pdf
+Redox | L-12 (Class Notes) | Hardness of Water : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685aa0cb1b78d_NA_Sir_PC_12th_A2_Batch_Redox_Lecture12.pdf
+Redox | L - 11 (class Notes) | Hardness of Water : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6856ac08a0ba8_NA_Sir_PC_12th_A2_Batch_Redox_Reaction_Lecture11.pdf
+Redox | L-10 (Class Notes) | Double Indicator Titration : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68540bd928ede_NA_Sir_PC_12th_A1_Batch_Redox_Lecture10.pdf
+Redox | L - 09 (Class Notes) | Titration : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68516ad53aad7_NA_Sir_PC_12th_A2_Batch_Redox_Reaction_Lecture09.pdf
+Sheet - 01 | Redox & Equivalent Concepts : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68510b143568a_Redox_Equivalent_conceptsFinalSend.pdf
+Redox | L - 08 (Class Notes) | Titration : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d7486c2c30_NA_Sir_PC_12th_A2_Batch_Redox_Reaction_Lecture08.pdf
+Redox | L - 07 (Class Notes) | DPP Discussion and Titration : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ad1715818b_20250612182655624.pdf
+Redox | L-06 (Class Notes) | n-factor Calculation : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68482ab55f804_NA_Sir_PC_12th_A2_Batch_Redox_Lecture06.pdf
+Redox | L-05 (Class Notes) | n-factor Calculation : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68443616884bb_NA_Sir_PC_12th_A2_Batch_Redox_Lecture05.pdf
+Redox | L-04 (Class Notes) | Titration : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6841adb29b77d_NA_Sir_PC_12th_A2_Batch_Redox_Lecture05.pdf
+Redox | L-03 (Class Notes) | Balancing of Redox Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ef2ede35f9_NA_Sir_PC_12th_A2_Batch_Redox_Lecture03.pdf
+Redox | L-02 (Class Notes) | Balancing of Redox Reaction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683b0127461bf_NA_Sir_PC_12th_A2_Batch_Redox_Reaction_Lecture02.pdf
+Redox | L-01 (Class Notes) | Oxidation Reduction : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683860c58f694_NA_Sir_PC_12th_A2_Batch_Redox_Reaction_Lecture01.pdf
