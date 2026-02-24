@@ -35,13 +35,42 @@ export const batchService = {
         return;
       }
 
-      // Regex to match [Folder](Subfolder)Title:URL
-      const match = line.match(/^\[(.*?)\]\((.*?)\)(.*?):(.*)$/);
-      if (match) {
-        const folderName = match[1].trim();
-        const subfolderName = match[2].trim();
-        const title = match[3].trim();
-        const url = match[4].trim();
+      // Robust parsing for various formats
+      // Format 1: [Folder](Subfolder)Title:URL
+      // Format 2: [Folder]Title:URL
+      // Format 3: [Folder] Title : URL
+      
+      let folderName = "General";
+      let subfolderName = "Default";
+      let title = "";
+      let url = "";
+
+      // Try to extract Folder and Subfolder
+      const folderMatch = line.match(/^\[(.*?)\]/);
+      if (folderMatch) {
+        folderName = folderMatch[1].trim();
+        let remaining = line.substring(folderMatch[0].length).trim();
+
+        const subfolderMatch = remaining.match(/^\((.*?)\)/);
+        if (subfolderMatch) {
+          subfolderName = subfolderMatch[1].trim();
+          remaining = remaining.substring(subfolderMatch[0].length).trim();
+        }
+
+        // Now extract Title and URL
+        // Split by the last colon to handle cases where Title might contain colons
+        // But usually it's Title:URL or Title : URL
+        const parts = remaining.split(/:(.+)/);
+        if (parts.length >= 2) {
+          title = parts[0].trim();
+          url = parts[1].trim();
+        } else {
+          // Fallback if no colon found
+          title = remaining;
+        }
+      }
+
+      if (url) {
         const type = url.toLowerCase().endsWith(".pdf") ? "pdf" : "video";
 
         if (!folders[folderName]) {
@@ -54,7 +83,7 @@ export const batchService = {
 
         folders[folderName].subfolders[subfolderName].items.push({
           id: Math.random().toString(36).substr(2, 9),
-          title,
+          title: title || "Untitled",
           url,
           type
         });
