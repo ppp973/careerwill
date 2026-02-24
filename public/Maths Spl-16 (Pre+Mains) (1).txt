@@ -1,0 +1,165 @@
+[Arithmetic] Class -1 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347312104112/6347312104112.m3u8
+[Arithmetic] Class-02 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347449464112/6347449464112.m3u8
+[Arithmetic] Class-03 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347670071112/6347670071112.m3u8
+[Arithmetic] Class-04 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347741935112/6347741935112.m3u8
+[Arithmetic] Class-05 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347821550112/6347821550112.m3u8
+[Arithmetic] Class-06 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347918972112/6347918972112.m3u8
+[Arithmetic] Class-07 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347996174112/6347996174112.m3u8
+[Arithmetic] Class-08 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348202147112/6348202147112.m3u8
+[Arithmetic] Class-09 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348261544112/6348261544112.m3u8
+[Arithmetic] Class-10 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348323443112/6348323443112.m3u8
+[Arithmetic] Class-11 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348386489112/6348386489112.m3u8
+[Arithmetic] Class-12 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348475169112/6348475169112.m3u8
+[Arithmetic] Class-13 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348665073112/6348665073112.m3u8
+[Arithmetic] Class-14 || Percentage : https://www.youtube.com/embed/40sU1DYQp1k
+[Arithmetic] Class-15 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348892986112/6348892986112.m3u8
+[Arithmetic] Class-16 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348976203112/6348976203112.m3u8
+[Arithmetic] Class-17 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349176008112/6349176008112.m3u8
+[Arithmetic] Class-18 || Percentage : https://www.youtube.com/embed/OutFY2nIjVg
+[Arithmetic] Class-19 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349308519112/6349308519112.m3u8
+[Arithmetic] Class-20 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349377221112/6349377221112.m3u8
+[Arithmetic] Class-21 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349461744112/6349461744112.m3u8
+[Arithmetic] Class-22 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349802894112/6349802894112.m3u8
+[Arithmetic] Class-23 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349863132112/6349863132112.m3u8
+[Arithmetic] Class-24 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349935564112/6349935564112.m3u8
+[Arithmetic] Class-25 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350074265112/6350074265112.m3u8
+[Arithmetic] Class-26 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350132937112/6350132937112.m3u8
+[Arithmetic] Class-27 || Percentage : https://www.youtube.com/embed/ewJbcmVI4Yo
+[Arithmetic] Class-28 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350254292112/6350254292112.m3u8
+[Arithmetic] Class-29 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350509371112/6350509371112.m3u8
+[Arithmetic] Class-30 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350557704112/6350557704112.m3u8
+[Arithmetic] Class-31 || Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350622437112/6350622437112.m3u8
+[Arithmetic] Class-1 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350686894112/6350686894112.m3u8
+[Arithmetic] Class-02 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350770741112/6350770741112.m3u8
+[Arithmetic] Class-03 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350961137112/6350961137112.m3u8
+[Arithmetic] Class-04 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351024292112/6351024292112.m3u8
+[Arithmetic] Class-05 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351090578112/6351090578112.m3u8
+[Arithmetic] Class-06 || Ratio : https://www.youtube.com/embed/2JTNSXK8D4Y
+[Arithmetic] Class-07 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351406519112/6351406519112.m3u8
+[Arithmetic] Class-08 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351467631112/6351467631112.m3u8
+[Arithmetic] Class-09 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351575285112/6351575285112.m3u8
+[Arithmetic] Class-10 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351733301112/6351733301112.m3u8
+[Arithmetic] Class-11 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351797775112/6351797775112.m3u8
+[Arithmetic] Class-12 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351876062112/6351876062112.m3u8
+[Arithmetic] Class-13 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351969529112/6351969529112.m3u8
+[Arithmetic] Class-14 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352031052112/6352031052112.m3u8
+[Arithmetic] Class-15 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352122836112/6352122836112.m3u8
+[Arithmetic] Class-16 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352176772112/6352176772112.m3u8
+[Arithmetic] Class-17 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352237574112/6352237574112.m3u8
+[Arithmetic] Class-18 || Ratio : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352407978112/6352407978112.m3u8
+[Arithmetic] Class-01 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352459033112/6352459033112.m3u8
+[Arithmetic] Class-02 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352524315112/6352524315112.m3u8
+[Arithmetic] Class-03 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352591049112/6352591049112.m3u8
+[Arithmetic] Class-04 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352652989112/6352652989112.m3u8
+[Arithmetic] Class-05 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352831990112/6352831990112.m3u8
+[Arithmetic] Class-06 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352894182112/6352894182112.m3u8
+[Arithmetic] Class-07 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352947756112/6352947756112.m3u8
+[Arithmetic] Class-08 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353010018112/6353010018112.m3u8
+[Arithmetic] Class-09 || Time and Work : https://www.youtube.com/embed/hGIyRldvUAw
+[Arithmetic] Class-10 || Time and Work : https://www.youtube.com/embed/ScLoZu40WNU
+[Arithmetic] Class-11 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353431150112/6353431150112.m3u8
+[Arithmetic] Class-12 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359557318112/6359557318112.m3u8
+[Arithmetic] Class-13 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353583503112/6353583503112.m3u8
+[Arithmetic] Class-14 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353753642112/6353753642112.m3u8
+[Arithmetic] Class-15 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353804847112/6353804847112.m3u8
+[Arithmetic] Class-16 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353870081112/6353870081112.m3u8
+[Arithmetic] Class-17 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353936310112/6353936310112.m3u8
+[Arithmetic] Class-18 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363728994112/6363728994112.m3u8
+[Arithmetic] Class-19 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354103332112/6354103332112.m3u8
+[Arithmetic] Class-20 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354205878112/6354205878112.m3u8
+[Arithmetic] Class-21 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354732476112/6354732476112.m3u8
+[Arithmetic] Class-22 || Time and Work : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354860136112/6354860136112.m3u8
+[Arithmetic] Class-1 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354930083112/6354930083112.m3u8
+[Arithmetic] Class-02 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355005178112/6355005178112.m3u8
+[Arithmetic] Class-03 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355224890112/6355224890112.m3u8
+[Arithmetic] Class-04 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355290281112/6355290281112.m3u8
+[Arithmetic] Class-05 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355350966112/6355350966112.m3u8
+[Arithmetic] Class-06 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355418488112/6355418488112.m3u8
+[Arithmetic] Class-07 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355592394112/6355592394112.m3u8
+[Arithmetic] Class-08 || Pipe and Cistern : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355652844112/6355652844112.m3u8
+[Arithmetic] Class-1 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355706379112/6355706379112.m3u8
+[Arithmetic] Class-02 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355759845112/6355759845112.m3u8
+[Arithmetic] Class-03 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355825335112/6355825335112.m3u8
+[Arithmetic] Class-04 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356144687112/6356144687112.m3u8
+[Arithmetic] Class-05 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356281756112/6356281756112.m3u8
+[Arithmetic] Class-06 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356419198112/6356419198112.m3u8
+[Arithmetic] Class-07 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356547709112/6356547709112.m3u8
+[Arithmetic] Class-08 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356699767112/6356699767112.m3u8
+[Arithmetic] Class-09 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357073964112/6357073964112.m3u8
+[Arithmetic] Class-11 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357209525112/6357209525112.m3u8
+[Arithmetic] Class-11 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357576268112/6357576268112.m3u8
+[Arithmetic] Class-12 || Time, Speed and Distance : https://www.youtube.com/embed/B7va78d1-gw
+[Arithmetic] Class-13 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358044034112/6358044034112.m3u8
+[Arithmetic] Class-14 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358158292112/6358158292112.m3u8
+[Arithmetic] Class-15 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358276341112/6358276341112.m3u8
+[Arithmetic] Class-16 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358413516112/6358413516112.m3u8
+[Arithmetic] Class-17 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358521489112/6358521489112.m3u8
+[Arithmetic] Class-18 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358840328112/6358840328112.m3u8
+[Arithmetic] Class-19 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358950551112/6358950551112.m3u8
+[Arithmetic] Class-20 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359072217112/6359072217112.m3u8
+[Arithmetic] Class-21 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359206659112/6359206659112.m3u8
+[Arithmetic] Class-22 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359324778112/6359324778112.m3u8
+[Arithmetic] Class-23 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359616608112/6359616608112.m3u8
+[Arithmetic] Class-24 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359675382112/6359675382112.m3u8
+[Arithmetic] Class-25 || Time, Speed and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359738999112/6359738999112.m3u8
+[Arithmetic] Class -1 || Boat and Stream : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359797676112/6359797676112.m3u8
+[Arithmetic] Class -2 || Boat and Stream : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359852384112/6359852384112.m3u8
+[Arithmetic] Class -3 || Boat and Stream : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359929074112/6359929074112.m3u8
+[Arithmetic] Class -04 || Boat and Stream : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6365238322112/6365238322112.m3u8
+[Arithmetic] Class-1 || Problem on Ages : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360023014112/6360023014112.m3u8
+[Arithmetic] Class -05 || Boat and Stream : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360037168112/6360037168112.m3u8
+[Arithmetic] Class-02 || Problem on Ages : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360074299112/6360074299112.m3u8
+[Arithmetic] Class -06 || Boat and Stream : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360088028112/6360088028112.m3u8
+[Arithmetic] Class-1 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360135061112/6360135061112.m3u8
+[Arithmetic] Class-1 || Train : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360145991112/6360145991112.m3u8
+[Arithmetic] Class-02 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360189066112/6360189066112.m3u8
+[Arithmetic] Class-2 || Train : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360211622112/6360211622112.m3u8
+[Arithmetic] Class-03 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360286821112/6360286821112.m3u8
+[Arithmetic] Class-03 || Train : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360300529112/6360300529112.m3u8
+[Arithmetic] Class-1 || Race : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338720236112/6338720236112.m3u8
+[Arithmetic] Class-02 || Race : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338834903112/6338834903112.m3u8
+[Arithmetic] Class-03 || Race : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338899866112/6338899866112.m3u8
+[Arithmetic] Class-04 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360340916112/6360340916112.m3u8
+[Arithmetic] Class-05 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360394782112/6360394782112.m3u8
+[Arithmetic] Class-06 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360792155112/6360792155112.m3u8
+[Arithmetic] Class-07 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360861545112/6360861545112.m3u8
+[Arithmetic] Class-08 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360930215112/6360930215112.m3u8
+[Arithmetic] Class-09 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361075222112/6361075222112.m3u8
+[Arithmetic] Class-10 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361126815112/6361126815112.m3u8
+[Arithmetic] Class-11 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361178967112/6361178967112.m3u8
+[Arithmetic] Class-12 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361235271112/6361235271112.m3u8
+[Arithmetic] Class-13 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361378221112/6361378221112.m3u8
+[Arithmetic] Class-14 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361426986112/6361426986112.m3u8
+[Arithmetic] Class-15 || Profit and Loss : https://www.youtube.com/embed/h8-jgpv-inU
+[Arithmetic] Well wishes for Happy Teachers day by Gagan Pratap Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361532934112/6361532934112.m3u8
+[Arithmetic] Class-16 || Profit and Loss : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361588962112/6361588962112.m3u8
+[Arithmetic] Class-1 || Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361639060112/6361639060112.m3u8
+[Arithmetic] Class-02 || Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361823683112/6361823683112.m3u8
+[Arithmetic] Class-03 || Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361863091112/6361863091112.m3u8
+[Arithmetic] Class-04 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361907293112/6361907293112.m3u8
+[Arithmetic] Class-05 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361949065112/6361949065112.m3u8
+[Arithmetic] Class-06 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362008659112/6362008659112.m3u8
+[Arithmetic] Class-07 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362048884112/6362048884112.m3u8
+[Arithmetic] Class-08 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362093978112/6362093978112.m3u8
+[Arithmetic] Class-09 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362141962112/6362141962112.m3u8
+[Arithmetic] Class-10 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362376983112/6362376983112.m3u8
+[Arithmetic] Class-11 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362421874112/6362421874112.m3u8
+[Arithmetic] Class-12 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362476070112/6362476070112.m3u8
+[Arithmetic] Class-13 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362528583112/6362528583112.m3u8
+[Arithmetic] Class-14 | Maths | Discount : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362584738112/6362584738112.m3u8
+[Arithmetic] Class -1  | Maths || Partnership : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362659371112/6362659371112.m3u8
+[Arithmetic] Arith | Class -01 | Miscellaneous (Dishonest Shopkeeper) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328610230112/6328610230112.m3u8
+[Arithmetic] Arith | Class -02| Miscellaneous (Dishonest Shopkeeper) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328671379112/6328671379112.m3u8
+[Arithmetic] Arith | Class -03 | Miscellaneous (Dishonest Shopkeeper) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328842372112/6328842372112.m3u8
+[Arithmetic] Class -02 | Maths || Partnership : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362785108112/6362785108112.m3u8
+[Arithmetic] Class -03 | Maths || Partnership : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362826350112/6362826350112.m3u8
+[Arithmetic] Class -04 | Maths || Partnership : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362870043112/6362870043112.m3u8
+[Arithmetic] Class -01 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362931248112/6362931248112.m3u8
+[Arithmetic] Class -02 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6362969827112/6362969827112.m3u8
+[Arithmetic] Class -03 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363017203112/6363017203112.m3u8
+[Arithmetic] Class -04 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363061172112/6363061172112.m3u8
+[Arithmetic] Class -05 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363107146112/6363107146112.m3u8
+[Arithmetic] Class -06 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363228468112/6363228468112.m3u8
+[Arithmetic] Class -07 | Maths || Average : https://www.youtube.com/embed/2ZPv6DI-860
+[Arithmetic] Class -08 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363320905112/6363320905112.m3u8
+[Arithmetic] Class -09 | Maths || Average : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363363599112/6363363599112.m3u8

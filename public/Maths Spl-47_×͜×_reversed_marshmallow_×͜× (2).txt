@@ -1,0 +1,339 @@
+[Arithmetic]Class-1 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368415658112/6368415658112.m3u8
+[Arithmetic]Class-02 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368582967112/6368582967112.m3u8
+[Arithmetic]Class-03 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368649068112/6368649068112.m3u8
+[Arithmetic]Class-04 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368686591112/6368686591112.m3u8
+[Arithmetic]Class-05 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368744598112/6368744598112.m3u8
+[Arithmetic]Class-06 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368942118112/6368942118112.m3u8
+[Arithmetic]Class-07 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368984848112/6368984848112.m3u8
+[Arithmetic]Class-08 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369034302112/6369034302112.m3u8
+[Arithmetic]Class-09 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369080235112/6369080235112.m3u8
+[Arithmetic]Class-10 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369133708112/6369133708112.m3u8
+[Arithmetic]Class-11 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369246010112/6369246010112.m3u8
+[Arithmetic]Class-12 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369287596112/6369287596112.m3u8
+[Arithmetic]Class-13 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369332444112/6369332444112.m3u8
+[Arithmetic]Class-14 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369381114112/6369381114112.m3u8
+[Arithmetic]Class-15 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369427210112/6369427210112.m3u8
+[Arithmetic]Class-16 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369579618112/6369579618112.m3u8
+[Arithmetic]Class-17 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369621030112/6369621030112.m3u8
+[Arithmetic]Class-18 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369665343112/6369665343112.m3u8
+[Arithmetic]Class-19 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369833156112/6369833156112.m3u8
+[Arithmetic]Class-20 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369871654112/6369871654112.m3u8
+[Arithmetic]Class-21 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369914193112/6369914193112.m3u8
+[Arithmetic]Class-22 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370176487112/6370176487112.m3u8
+[Arithmetic]Class-23 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370219525112/6370219525112.m3u8
+[Arithmetic]Class-24 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370260756112/6370260756112.m3u8
+[Arithmetic]Class-25 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370312354112/6370312354112.m3u8
+[Arithmetic]Class-26 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370454048112/6370454048112.m3u8
+[Arithmetic]Class-27 || Percentage:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370509088112/6370509088112.m3u8
+[Arithmetic]Class-1 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370569470112/6370569470112.m3u8
+[Arithmetic]Class-2 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370618021112/6370618021112.m3u8
+[Arithmetic]Class-03 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370669006112/6370669006112.m3u8
+[Arithmetic]Class-04 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370815828112/6370815828112.m3u8
+[Arithmetic]Class-05 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370910694112/6370910694112.m3u8
+[Arithmetic]Class-06 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370963596112/6370963596112.m3u8
+[Arithmetic]Class-07 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371018671112/6371018671112.m3u8
+[Arithmetic]Class-08 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371078643112/6371078643112.m3u8
+[Arithmetic]Class-09 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371162286112/6371162286112.m3u8
+[Arithmetic]Class-10 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371206343112/6371206343112.m3u8
+[Arithmetic]Class-11 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371253590112/6371253590112.m3u8
+[Arithmetic]Class-12 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371297529112/6371297529112.m3u8
+[Arithmetic]Class-13 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/mzQqkr8ppHo/mzQqkr8ppHo.m3u8
+[Arithmetic]Class-14 || Ratio and Proportion:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371349138112/6371349138112.m3u8
+[Arithmetic]Class -1 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371468882112/6371468882112.m3u8
+[Arithmetic]Clasa-2 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371511104112/6371511104112.m3u8
+[Arithmetic]Clasa-03 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371593915112/6371593915112.m3u8
+[Arithmetic]Clasa-04 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371640371112/6371640371112.m3u8
+[Arithmetic]Clasa-05 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371674554112/6371674554112.m3u8
+[Arithmetic]Clasa-06 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371747943112/6371747943112.m3u8
+[Arithmetic]Clasa-07 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371784434112/6371784434112.m3u8
+[Arithmetic]Clasa-08 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371823222112/6371823222112.m3u8
+[Arithmetic]Clasa-09 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371919898112/6371919898112.m3u8
+[Arithmetic]Clasa-10 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372020857112/6372020857112.m3u8
+[Arithmetic]Clasa-11 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372064488112/6372064488112.m3u8
+[Arithmetic]Clasa-12 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372103422112/6372103422112.m3u8
+[Arithmetic]Clasa-13 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372159698112/6372159698112.m3u8
+[Arithmetic]Clasa-14 || Profit and Loss:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372218256112/6372218256112.m3u8
+[Arithmetic]Class -1 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372363358112/6372363358112.m3u8
+[Arithmetic]Class-02 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372409376112/6372409376112.m3u8
+[Arithmetic]Class-03 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372458412112/6372458412112.m3u8
+[Arithmetic]Class-04 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372565190112/6372565190112.m3u8
+[Arithmetic]Class-05 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372695339112/6372695339112.m3u8
+[Arithmetic]Class-06 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372750141112/6372750141112.m3u8
+[Arithmetic]Class-07 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372787851112/6372787851112.m3u8
+[Arithmetic]Class-08 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372836853112/6372836853112.m3u8
+[Arithmetic]Class-09 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372948605112/6372948605112.m3u8
+[Arithmetic]Class-10 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373105769112/6373105769112.m3u8
+[Arithmetic]Class-11 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373173683112/6373173683112.m3u8
+[Arithmetic]Class-12 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373220318112/6373220318112.m3u8
+[Arithmetic]Class-13 || Discount:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373379793112/6373379793112.m3u8
+[Arithmetic]Class-1 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373490110112/6373490110112.m3u8
+[Arithmetic]Arith | Class -01 | Miscellaneous (Dishonest Shopkeeper):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328610230112/6328610230112.m3u8
+[Arithmetic]Arith | Class -02| Miscellaneous (Dishonest Shopkeeper):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328671379112/6328671379112.m3u8
+[Arithmetic]Arith | Class -03 | Miscellaneous (Dishonest Shopkeeper):https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6328842372112/6328842372112.m3u8
+[Arithmetic]Class-02 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373521442112/6373521442112.m3u8
+[Arithmetic]Class-03 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373560649112/6373560649112.m3u8
+[Arithmetic]Class-04 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373768319112/6373768319112.m3u8
+[Arithmetic]Class-05 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373898011112/6373898011112.m3u8
+[Arithmetic]Class-06 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373940837112/6373940837112.m3u8
+[Arithmetic]Class-07 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374044830112/6374044830112.m3u8
+[Arithmetic]Class-08 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374080997112/6374080997112.m3u8
+[Arithmetic]Class-09 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374124076112/6374124076112.m3u8
+[Arithmetic]Class-10 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374175352112/6374175352112.m3u8
+[Arithmetic]Class-11 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374347486112/6374347486112.m3u8
+[Arithmetic]Class-12 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374435349112/6374435349112.m3u8
+[Arithmetic]Class-13 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374515771112/6374515771112.m3u8
+[Arithmetic]Class-14 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374568780112/6374568780112.m3u8
+[Arithmetic]Class-15 || Mixture and Alligation:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374608801112/6374608801112.m3u8
+[Arithmetic]Class-1 || Average:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/OVk_rbjTuwM/OVk_rbjTuwM.m3u8
+[Arithmetic]Class-2 || Average:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6c75ISEndIk/6c75ISEndIk.m3u8
+[Arithmetic]Class-03 || Average:https://www.youtube.com/embed/RWW2Gd6cpDw
+[Arithmetic]Class-04 || Average:https://www.youtube.com/embed/_91qbhMmV3M
+[Arithmetic]Class-05 || Average:https://www.youtube.com/embed/yQfBt9GMiBo
+[Arithmetic]Class-06 || Average:https://www.youtube.com/embed/hQszWzs5Rhc
+[Arithmetic]Class-07 || Average:https://www.youtube.com/embed/_5m-Mm1BVxk
+[Arithmetic]Class-08 || Average:https://www.youtube.com/embed/dtg0jO6HDMo
+[Arithmetic]CLASS-1 || SI & CI:https://www.youtube.com/embed/-p1DMmseXe0
+[Arithmetic]CLASS-2 || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4476723/175197620162665193874/175197620162665193874_5193874.m3u8
+[Arithmetic]CLASS-3 || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4477889/175206228896608939759/175206228896608939759_8939759.m3u8
+[Arithmetic]CLASS-4 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4478971/175214994463477316486/175214994463477316486_7316486.m3u8
+[Arithmetic]CLASS-5 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480079/175223776241173259814/175223776241173259814_3259814.m3u8
+[Arithmetic]CLASS-6 || Maths || SI & CI:https://www.youtube.com/embed/Ou-4GKMd3gk
+[Arithmetic]CLASS-7 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4482810/175258159182453107929/175258159182453107929_3107929.m3u8
+[Arithmetic]CLASS-8 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483812/175266463982901268445/175266463982901268445_1268445.m3u8
+[Arithmetic]CLASS-9 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4485814/175283908756125607949/175283908756125607949_5607949.m3u8
+[Arithmetic]CLASS-10 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4487799/175309720076294392287/175309720076294392287_4392287.m3u8
+[Arithmetic]CLASS-11 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4491324/175327227688753107929/175327227688753107929_3107929.m3u8
+[Arithmetic]CLASS-12 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4493766/175344524522596974029/175344524522596974029_6974029.m3u8
+[Arithmetic]CLASS-13 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4503100/175379069999723907752/175379069999723907752_3907752.m3u8
+[Arithmetic]CLASS-14 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4504134/175387683037303907752/175387683037303907752_3907752.m3u8
+[Arithmetic]CLASS-15 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4513080/175439426983498309336/175439426983498309336_8309336.m3u8
+[Arithmetic]CLASS-16 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4515192/175456875422774292795/175456875422774292795_4292795.m3u8
+[Arithmetic]CLASS-17 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4519753/175508608330839762013/175508608330839762013_9762013.m3u8
+[Arithmetic]CLASS-18 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4523106/175551857660433107929/175551857660433107929_3107929.m3u8
+[Arithmetic]CLASS-19 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4524529/175561825530595146684/175561825530595146684_5146684.m3u8
+[Arithmetic]CLASS-20 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4525427/175569100525795146684/175569100525795146684_5146684.m3u8
+[Arithmetic]CLASS-21 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4527635/175586332732323590984/175586332732323590984_3590984.m3u8
+[Arithmetic]CLASS-22 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4532320/175629382950724392287/175629382950724392287_4392287.m3u8
+[Arithmetic]CLASS-23 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4534680/175646857134327195824/175646857134327195824_7195824.m3u8
+[Arithmetic]CLASS-24 || Maths || SI & CI:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4536712/175672705827597316486/175672705827597316486_7316486.m3u8
+[Arithmetic]CLASS-25 || Maths || SI & CI:https://www.youtube.com/embed/fo9JBLXdayU
+[Arithmetic]Class-1 || Complete Installment of SI and CI (किस्तों वाले सवाल) || By Gagan Pratap Sir:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373655180112/6373655180112.m3u8
+[Arithmetic]Class-01 || Maths || Time and Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4541311/175698750288353287604/175698750288353287604_3287604.m3u8
+[Arithmetic]Class-02 || Maths || Time and Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4542437/175707384130646974029/175707384130646974029_6974029.m3u8
+[Arithmetic]Class-03 || Maths || Time and Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4544132/175733323514929906065/175733323514929906065_9906065.m3u8
+[Arithmetic]Class-04 || Maths || Time and Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4545062/175741970644828969043/175741970644828969043_8969043.m3u8
+[Arithmetic]Class-05 || Maths || Time and Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4546974/175759246774572356362/175759246774572356362_2356362.m3u8
+[Arithmetic]Class-06 || Maths || Time and Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4549682/175793702994123287604/175793702994123287604_3287604.m3u8
+[Arithmetic]Class-07 || Maths || Time and Work:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4550734/175802311975756399745/175802311975756399745_6399745.m3u8
+[Advance]Class- 1 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369340450112/6369340450112.m3u8
+[Advance]Class-02 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369389529112/6369389529112.m3u8
+[Advance]Class-03 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369438786112/6369438786112.m3u8
+[Advance]Class-04 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369587500112/6369587500112.m3u8
+[Advance]Class-05 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369630699112/6369630699112.m3u8
+[Advance]Class-06 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369672862112/6369672862112.m3u8
+[Advance]Class-07 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369720669112/6369720669112.m3u8
+[Advance]Class-08 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369772419112/6369772419112.m3u8
+[Advance]Class-09 || Surds and Indices:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369827900112/6369827900112.m3u8
+[Advance]Class-1 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369839868112/6369839868112.m3u8
+[Advance]Class-1 || Statistics:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338835510112/6338835510112.m3u8
+[Advance]Class-2 || Statistics:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338849498112/6338849498112.m3u8
+[Advance]Class-3 || Statistics:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6338981630112/6338981630112.m3u8
+[Advance]Class-2 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369881439112/6369881439112.m3u8
+[Advance]Class-03 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369921679112/6369921679112.m3u8
+[Advance]Class-04 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370143373112/6370143373112.m3u8
+[Advance]Class-05 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370226429112/6370226429112.m3u8
+[Advance]Class-06 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370269678112/6370269678112.m3u8
+[Advance]Class-07 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/Lr2cahZKHB8/Lr2cahZKHB8.m3u8
+[Advance]Class-08 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370462301112/6370462301112.m3u8
+[Advance]Class-09 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/ZLp77wD5ryE/ZLp77wD5ryE.m3u8
+[Advance]Class-10 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370578167112/6370578167112.m3u8
+[Advance]Class-11 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370627789112/6370627789112.m3u8
+[Advance]Class-12 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370679873112/6370679873112.m3u8
+[Advance]Class-13 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370826121112/6370826121112.m3u8
+[Advance]Class-14 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370921285112/6370921285112.m3u8
+[Advance]Class-15 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370972827112/6370972827112.m3u8
+[Advance]Class-16 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/bb7WRapZ9-w/bb7WRapZ9-w.m3u8
+[Advance]Class-17 || 2D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371171683112/6371171683112.m3u8
+[Advance]Class-01 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371220300112/6371220300112.m3u8
+[Advance]Class-02 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/BT36oT5HiYY/BT36oT5HiYY.m3u8
+[Advance]Class-03 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371343026112/6371343026112.m3u8
+[Advance]Class-04 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371355137112/6371355137112.m3u8
+[Advance]Class-05 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371472608112/6371472608112.m3u8
+[Advance]Class-06 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/fsCBBtoKabc/fsCBBtoKabc.m3u8
+[Advance]Class-07 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371557182112/6371557182112.m3u8
+[Advance]Class-08 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371597336112/6371597336112.m3u8
+[Advance]Class-09 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371642689112/6371642689112.m3u8
+[Advance]Class-10 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371750214112/6371750214112.m3u8
+[Advance]Class-11 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371787371112/6371787371112.m3u8
+[Advance]Class-12 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371829033112/6371829033112.m3u8
+[Advance]Class-13 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371868559112/6371868559112.m3u8
+[Advance]Class-14 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371926007112/6371926007112.m3u8
+[Advance]Class-15 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372023688112/6372023688112.m3u8
+[Advance]Class-16 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372060734112/6372060734112.m3u8
+[Advance]Class-17 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372107452112/6372107452112.m3u8
+[Advance]Class-18 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372164364112/6372164364112.m3u8
+[Advance]Class-19 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372215265112/6372215265112.m3u8
+[Advance]Class-20 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372256558112/6372256558112.m3u8
+[Advance]Class-21 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372366281112/6372366281112.m3u8
+[Advance]Class-22 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372413101112/6372413101112.m3u8
+[Advance]Class-23 || 3D Mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372452249112/6372452249112.m3u8
+[Advance]Class-01 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372462858112/6372462858112.m3u8
+[Advance]Class-02 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372516708112/6372516708112.m3u8
+[Advance]Class-03 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372569532112/6372569532112.m3u8
+[Advance]Class-04 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372699059112/6372699059112.m3u8
+[Advance]Class-05 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372743050112/6372743050112.m3u8
+[Advance]Class-06 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372791595112/6372791595112.m3u8
+[Advance]Class-07 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372840863112/6372840863112.m3u8
+[Advance]Class -24 || 3D mensuration:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6322846572112/6322846572112.m3u8
+[Advance]Class-08 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372896869112/6372896869112.m3u8
+[Advance]Class-09 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373057416112/6373057416112.m3u8
+[Advance]Class-10 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373109663112/6373109663112.m3u8
+[Advance]Class-11 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373168444112/6373168444112.m3u8
+[Advance]Class-12 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/zZG-APE0u2g/zZG-APE0u2g.m3u8
+[Advance]Class-13 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373385828112/6373385828112.m3u8
+[Advance]Class-14 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373493443112/6373493443112.m3u8
+[Advance]Class-15 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373526447112/6373526447112.m3u8
+[Advance]Class-16 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373566484112/6373566484112.m3u8
+[Advance]Class-17 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373822772112/6373822772112.m3u8
+[Advance]Class-18 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373900291112/6373900291112.m3u8
+[Advance]Class-19 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373943012112/6373943012112.m3u8
+[Advance]Class-20 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373990141112/6373990141112.m3u8
+[Advance]Class-21 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374041329112/6374041329112.m3u8
+[Advance]Class -1 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374049570112/6374049570112.m3u8
+[Advance]Class-02 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374083836112/6374083836112.m3u8
+[Advance]Class-22 | Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374119000112/6374119000112.m3u8
+[Advance]Class-03 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374126239112/6374126239112.m3u8
+[Advance]Class-04 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374177047112/6374177047112.m3u8
+[Advance]Class-05 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374349657112/6374349657112.m3u8
+[Advance]Class-06 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374519516112/6374519516112.m3u8
+[Advance]Class-07 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374570761112/6374570761112.m3u8
+[Advance]Class-08 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6374615105112/6374615105112.m3u8
+[Advance]Class-09 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/Eq0xJkWWvr4/Eq0xJkWWvr4.m3u8
+[Advance]Class-10 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/cXaIoSWdbTU/cXaIoSWdbTU.m3u8
+[Advance]Class-11 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/quoYKGT5l_E/quoYKGT5l_E.m3u8
+[Advance]Class-12 || Geometry:https://www.youtube.com/embed/Dbws5dbB3H8
+[Advance]Class-13 || Geometry:https://www.youtube.com/embed/kxHbxtQGF4w
+[Advance]Class-14 || Geometry:https://www.youtube.com/embed/JbaylUL-IzM
+[Advance]Class-15 || Geometry:https://www.youtube.com/embed/wmTf_brk5Yw
+[Advance]Class-16 || Geometry:https://www.youtube.com/embed/Lgw3dS0wOU4
+[Advance]Class-17 || Geometry:https://www.youtube.com/embed/sMYxxIjekoE
+[Advance]Class-18 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4475963/175189722619775193874/175189722619775193874_5193874.m3u8
+[Advance]Class-19 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4476885/175198354384493907752/175198354384493907752_3907752.m3u8
+[Advance]Class-20 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4478105/175206992034758367574/175206992034758367574_8367574.m3u8
+[Advance]Class-21 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480160/175224265277858309336/175224265277858309336_8309336.m3u8
+[Advance]Class-23 || Number System:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480491/175230438740387140453/175230438740387140453_7140453.m3u8
+[Advance]Class-22 || Geometry:https://www.youtube.com/embed/tXaOZYJSnUg
+[Advance]Class-23 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483008/175258804414759906065/175258804414759906065_9906065.m3u8
+[Advance]Class-24 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4483993/175267333149806618747/175267333149806618747_6618747.m3u8
+[Advance]Class-25 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4485039/175275963956427195824/175275963956427195824_7195824.m3u8
+[Advance]Class-26 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4491575/175327941176389906065/175327941176389906065_9906065.m3u8
+[Advance]Class-27 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4492812/175336419320694120866/175336419320694120866_4120866.m3u8
+[Advance]Class-28 || Geometry:https://www.youtube.com/embed/o-GQsw-fRyU
+[Advance]Class-29 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4501710/175371138154613199068/175371138154613199068_3199068.m3u8
+[Advance]Class-30 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4503259/175379719324598309336/175379719324598309336_8309336.m3u8
+[Advance]Class-31 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4504444/175388357285068309336/175388357285068309336_8309336.m3u8
+[Advance]Class-32 || Geometry:https://dfj20ef2xs681.cloudfront.net/out/v1/86b23e964f7147c094fa6457c84f1932/index.m3u8
+[Advance]Class-33 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4515334/175457488347485146684/175457488347485146684_5146684.m3u8
+[Advance]Class-34 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4521236/17551801237601416846/17551801237601416846_416846.m3u8
+[Advance]Class-35 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4523287/175552611445844819135/175552611445844819135_4819135.m3u8
+[Advance]Class-36 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4524434/175561194292864120866/175561194292864120866_4120866.m3u8
+[Advance]Class-37 || Geometry:https://www.youtube.com/embed/nVbESwsBFdg
+[Advance]Class-38 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4526718/175578510026929906065/175578510026929906065_9906065.m3u8
+[Advance]Class-39 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4531379/175621668440515780339/175621668440515780339_5780339.m3u8
+[Advance]Class-40 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4532588/175630236663156974029/175630236663156974029_6974029.m3u8
+[Advance]Class-41 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4533777/175639001983248959035/175639001983248959035_8959035.m3u8
+[Advance]Class-42 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4534847/175647635743473907752/175647635743473907752_3907752.m3u8
+[Advance]Class-43 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4536905/175673462348493907752/175673462348493907752_3907752.m3u8
+[Advance]Class-44 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4538090/175682006295489047400/175682006295489047400_9047400.m3u8
+[Advance]Class-45 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4541558/175699464171729047400/175699464171729047400_9047400.m3u8
+[Advance]Class-46 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4544216/175733779495791590324/175733779495791590324_1590324.m3u8
+[Advance]Class-47 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345817275112/6345817275112.m3u8
+[Advance]Class-48 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345870162112/6345870162112.m3u8
+[Advance]Class-49 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345933727112/6345933727112.m3u8
+[Advance]Class-50 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6345998783112/6345998783112.m3u8
+[Advance]Class-51 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346333951112/6346333951112.m3u8
+[Advance]Class-52 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346344962112/6346344962112.m3u8
+[Advance]Class-53 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346729514112/6346729514112.m3u8
+[Advance]Class-54 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346483191112/6346483191112.m3u8
+[Advance]Class-55 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346731938112/6346731938112.m3u8
+[Advance]Class-56 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346790362112/6346790362112.m3u8
+[Advance]Class-57 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346867408112/6346867408112.m3u8
+[Advance]Class-58 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6346931480112/6346931480112.m3u8
+[Advance]Class-59 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347009388112/6347009388112.m3u8
+[Advance]Class-60 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347198994112/6347198994112.m3u8
+[Advance]Class-61 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347315845112/6347315845112.m3u8
+[Advance]Class-62 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347254541112/6347254541112.m3u8
+[Advance]Class-63 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347452442112/6347452442112.m3u8
+[Advance]Class-64 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347674938112/6347674938112.m3u8
+[Advance]Class-65 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347744739112/6347744739112.m3u8
+[Advance]Class-66 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347826065112/6347826065112.m3u8
+[Advance]Class-67 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347922885112/6347922885112.m3u8
+[Advance]Class-68 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347998236112/6347998236112.m3u8
+[Advance]Class-69 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348205609112/6348205609112.m3u8
+[Advance]Class-70 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348264277112/6348264277112.m3u8
+[Advance]Class-71 || Geometry:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348327058112/6348327058112.m3u8
+[Advance]Class-01 | Maths | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4546178/175751283675903199068/175751283675903199068_3199068.m3u8
+[Advance]Class-02 | Maths | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4547142/175759890294755193874/175759890294755193874_5193874.m3u8
+[Advance]Class-03 | Maths | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4548081/175768561885334800893/175768561885334800893_4800893.m3u8
+[Advance]Class-04 | Maths | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4549900/175794480350691268445/175794480350691268445_1268445.m3u8
+[Advance]Class-05 | Maths | Algebra:https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4550933/175802952657706974029/175802952657706974029_6974029.m3u8
+[Arithmetic]Time and Work Sheet -2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c10e167a886_time_and_work_sheet_2.pdf
+[Arithmetic]Time and Work Sheet -1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ba77b233be5_Time_and_Work_Sheet_1.pdf
+[Arithmetic]Complete Installment:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7e98310fc8_677235355f1d0_DOC20230731WA0015..pdf
+[Arithmetic]Complete Installment:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7c4b23a470_Complete_Installment.pdf
+[Arithmetic]Compound Interest Sheet -3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aef222a8981_Comooud_Interest_Sheet_3.pdf
+[Arithmetic]Compount Interest Sheet -2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/lclsys_Compond_Interest_Sheet_2.pdf
+[Arithmetic]Compount Interest Sheet -1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6884632aa7fb3_Compount_Interest_Sheet_1.pdf
+[Arithmetic]Simple Interest Sheet - 2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6877919777b5d_Simple_Interest_Sheet_2.pdf
+[Arithmetic]Number System Sheet -6 (Unit Digit):https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68723a61ae7b5_NUMBER_SYSTEM_SHEET_6_unit_digit.pdf
+[Arithmetic]Simple Interest sheet -1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686dfe7ef2a9d_Simple_Interest_sheet_1.pdf
+[Arithmetic]Average Sheet-2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863d52e75dda_Average_Sheet_2.pdf
+[Arithmetic]Average Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6859457c07913_Average_Sheet1.pdf
+[Arithmetic]Mixture and  Alligation Sheet -3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6850ed57c7a98_Mixture_and_Alligation_Sheet_3.pdf
+[Arithmetic]Mixture and Alligation Sheet-2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6849265b9a754_Mixture_and_Alligation_Sheet_2compressed.pdf
+[Arithmetic]Dishonest Shopkeeper:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683542672cfe2_Dishonest_Shopkeeper432714crwill.pdf
+[Arithmetic]Mixture and Alligation Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683541e30ef0d_Mixture_and_Alligation_Sheet_1.pdf
+[Arithmetic]Discount Sheet- 2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d2e2e25b3b_Discount_Sheet_2.pdf
+[Arithmetic]Discount Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819b8781a308_Discount_Sheet1_2.pdf
+[Arithmetic]Profit and Loss Sheet-3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681202f03af37_Profit_and_Loss_Sheet_3.pdf
+[Arithmetic]Profit and Loss Sheet -2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680209bc657bc_Profit_and_Loss_Sheet_2.pdf
+[Arithmetic]Profit and Loss Sheet -3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680208cc2d40a_Profit_and_Loss_Sheet_3.pdf
+[Arithmetic]Profit and Loss Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fd3782f18bb_Profit_and_Loss_Sheet_1.pdf
+[Arithmetic]Ratio Sheet-2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f4a8de05fe1_RATIO_Sheet_2.pdf
+[Arithmetic]Ratio Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e5350aa99d0_RATIO1.pdf
+[Arithmetic]Percentage Sheet -3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dd215e3883a_Percentage_Sheet_3_1.pdf
+[Arithmetic]Percentage Sheet-2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bfd5f0e10a8_Percentage_Sheet_21.pdf
+[Arithmetic]Percentage Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a6cb38d1e43_Percentage_Sheet_12.pdf
+[Advance]Algebra  Sheet -1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2963008f08_Algebra_Sheet_1.pdf
+[Advance]Geometry Sheet -12 ,13, 14, 15:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671db4ea85c12_ilovepdfmerged.pdf
+[Advance]Geometry Sheet-11:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b13ccc52807_Geometry_11.pdf
+[Advance]Geometry 10:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6d51751280_Geometry_10.pdf
+[Advance]Geometry Sheet -9:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a574d2a900f_Geometry_Sheet_9.pdf
+[Advance]Geometry Sheet-8:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/lclsys_Geometry_Sheet_8.pdf
+[Advance]Geometry Sheet-7:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688462695d5e0_Geometry_Sheet_7.pdf
+[Advance]Geometry Sheet-6:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6884617761890_Geometr_6.pdf
+[Advance]Geometry Sheet-5:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686f5ecc9c31b_Geometry_Sheet_5.pdf
+[Advance]Geometry Sheet-4:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685b8d6de104f_Geometry_Sheet_4.pdf
+[Advance]Geometry Sheet-3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685946137355c_Geometry_Sheet3.pdf
+[Advance]Geometry Sheet-2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6850ecf9d7aea_Geometry_Sheet_2.pdf
+[Advance]Geometry Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6850ebf63888d_Geometry_Sheet_1.pdf
+[Advance]Geometry Sheet -1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68492794e5356_Geometry_Sheet_1.pdf
+[Advance]Number System Sheet-5:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fd64c9c842_NUMBER_SYSTEM_SHEET_5.pdf
+[Advance]Number System Sheet -3 & 4:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d2dce81188_ilovepdfmerged_22.pdf
+[Advance]Number System Sheet-2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68256f48b1ecf_Number_System_Sheet_2.pdf
+[Advance]Mensuration Sheet-6:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68248b6c08433_Mensuration_Sheet6407661crwill.pdf
+[Advance]Number System Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c4cb0afaee_Number_System_Sheet_1.pdf
+[Advance]3D Mensuration Sheet-5:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819b926674d3_3D_Mensuration_Sheet_5.pdf
+[Advance]3D Mensuration Sheet-4:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811aaaa635b5_3D_Mensuration_Sheet_4.pdf
+[Advance]3D Mensuration Sheet-3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6809becd20dba_3D_Mensuration_Sheet_3.pdf
+[Advance]3D Mensuration Sheet- 2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680650c5b2172_3D_Mensuration_Sheet_2.pdf
+[Advance]3D Mensuration Sheet -1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f86cec7dd3e_3D_Mensuration_Sheet_1.pdf
+[Advance]Mensuration Sheet-4 (Polygon):https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ea59899b293_Mensuration_Sheet_4_Polygon.pdf
+[Advance]2D Mensuration Sheet -3:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e269a8565fd_2D_Mensuration_Sheet_3.pdf
+[Advance]2D Mensuration Sheet -2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dcf06f8b1da_2D_Mensuration_Sheet_2.pdf
+[Advance]2D Mensuration Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cfdbdac3316_2D_Mensuration_Sheet_1.pdf
+[Advance]Statistics Sheet With Solution:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ce81ef1c212_Statistics_Sheet_with_Solutions.pdf
+[Advance]Statistics Sheet:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ce819b7fc76_Statistics_Sheet.pdf
+[Advance]Surds & Indices Sheet-2:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ce6d49c5ef8_Surds_Indices_Sheet_2.pdf
+[Advance]Surds & Indices Sheet-1:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cbdc6057511_Surds_Indices_1_3.pdf
+[Syllabus]Syllabus:  (1).pdf:https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664c873aea956_66260ddc3a6a7_65f94b876390d_6489ba79b6c68_Syllabus
