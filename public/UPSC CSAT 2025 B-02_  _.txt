@@ -1,0 +1,690 @@
+Class-01 | Number System | Divisibility : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367824773112/6367824773112.m3u8
+Class-02 | Number System | Divisibility : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367872603112/6367872603112.m3u8
+Class-03 | Number System | Divisibility : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367936857112/6367936857112.m3u8
+Class-04 | Number System | Divisibility and Unit Digit : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367985758112/6367985758112.m3u8
+Class-05 | Number System | Unit Digit : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368038154112/6368038154112.m3u8
+Class-06 | Number System | No. Of Trailing Zeros : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368195735112/6368195735112.m3u8
+Class-07 | Number System |  No. Of Factor : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368236010112/6368236010112.m3u8
+Class-08 | Number System | Number Of Digit : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368359576112/6368359576112.m3u8
+Class-09 | Number System | Number Of Digit + Decimal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368418637112/6368418637112.m3u8
+Class-10 | Number System | Classification Of Number : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368590772112/6368590772112.m3u8
+Class-11 | Number System | Classification Of Number : https://www.youtube.com/embed/LQqbZGcsvZU
+Class-12 | Number System | Classification Of Number : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368743754112/6368743754112.m3u8
+Class-13 | Number System | Remainder Theorem : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368747694112/6368747694112.m3u8
+Class-14 | Number System | Remainder Theorem : https://www.youtube.com/embed/qGq8IP8xSZI
+Class-15 | Number System | Progression : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369084084112/6369084084112.m3u8
+Class-16 | Number System | Progression : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369138893112/6369138893112.m3u8
+Digital Sum (Rec) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369139679112/6369139679112.m3u8
+Class-17 | Number System | Fraction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369249883112/6369249883112.m3u8
+Class-18 | HCF and LCM : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369291897112/6369291897112.m3u8
+Class-19 |  HCF and LCM : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369336544112/6369336544112.m3u8
+Class-20 |  HCF and LCM : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369383852112/6369383852112.m3u8
+Class-21 |  Permutation And Combination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369623773112/6369623773112.m3u8
+Class-22 |  Permutation And Combination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369669276112/6369669276112.m3u8
+Class-23 |  Permutation And Combination : https://www.youtube.com/embed/YQzScRd2wkM
+Class-24 | Permutation And Combination : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369834583112/6369834583112.m3u8
+Class-25 | Probability : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369922762112/6369922762112.m3u8
+Class-26 | Probability : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369917631112/6369917631112.m3u8
+Class-27 | Miscellaneous Question : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370135613112/6370135613112.m3u8
+Class-28 | Miscellaneous Question : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370224296112/6370224296112.m3u8
+Class-29 | Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370623448112/6370623448112.m3u8
+Class-30 | Percentage : https://www.youtube.com/embed/QodAm7CBNx0
+Class-31 | Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370628854112/6370628854112.m3u8
+Class-32 | Percentage : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370678013112/6370678013112.m3u8
+Class-33 | Percentage (Election Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370727901112/6370727901112.m3u8
+Class-34 | Percentage (Venn Diagram Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370827367112/6370827367112.m3u8
+Class-35 | Percentage (Successive Recorded) : https://www.youtube.com/embed/bdyCPtwH3xg
+Class-36 | Percentage (Ratio Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370863088112/6370863088112.m3u8
+Class-37 | Percentage (Fail Pass Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370864569112/6370864569112.m3u8
+Class-38 | Profit And Loss (Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370914978112/6370914978112.m3u8
+Class-39 | Ratio And Proportion (Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371214310112/6371214310112.m3u8
+Class-40 | Age (Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371214734112/6371214734112.m3u8
+Class-41 | Proportion (Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371258127112/6371258127112.m3u8
+Class-42 | Partnership (Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371303915112/6371303915112.m3u8
+Class-43 | Mixture and Alligation (Recorded) : https://www.youtube.com/embed/Jl58nR40Y5s
+Class-44 | Average (Recorded) : https://www.youtube.com/embed/jvsY2sZNddE
+Class-45 | Time And Work (Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371465541112/6371465541112.m3u8
+Class-46 | Time Speed And Distance(Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371547636112/6371547636112.m3u8
+Class-47 | Boat And Race (Recorded) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371547432112/6371547432112.m3u8
+UPSC CSAT 2025 Maths Paper Solution  | By Rakesh Sir : https://www.youtube.com/embed/NfIhBAYyJ8E
+Class-01 | English | Intro ( Pattern & Strategy ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367876408112/6367876408112.m3u8
+Class-02 | English | How To Get Main Idea Of Paragraph : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367935991112/6367935991112.m3u8
+Class-03 | English | How To Get Main Idea Of Paragraph : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367989175112/6367989175112.m3u8
+Class-04 | English | How To Get Main Idea Of Paragraph : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368041887112/6368041887112.m3u8
+Class-05 | English | RC-Main Idea based PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368595012112/6368595012112.m3u8
+Class-06 | English | RC-Main Idea based PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368641410112/6368641410112.m3u8
+Class-07 | English | RC-Main Idea based PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368695962112/6368695962112.m3u8
+Class-08 | English | RC-Main Idea based PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368751307112/6368751307112.m3u8
+Class-09 | English | RC-Main Idea Question Practice PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368815432112/6368815432112.m3u8
+Class-10 | English | Concept Building Session- Inference vs Conclusion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368990594112/6368990594112.m3u8
+Class-11 | English | Concept Building Session- Inference vs Conclusion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369040573112/6369040573112.m3u8
+Class-12 | English | Concept Building Session- Inference vs Conclusion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369087730112/6369087730112.m3u8
+Class-13 | English | Concept Building Session- Inference vs Conclusion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369173884112/6369173884112.m3u8
+Class-13 | English | Concept Building Session- Inference vs Conclusion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369251526112/6369251526112.m3u8
+Class-14 | English | CSAT PYQs Level 2,3 and 4 Practice  2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369293360112/6369293360112.m3u8
+Class-15 | English | CSAT PYQs Level 2,3 and 4 Practice 2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369586652112/6369586652112.m3u8
+Class-16 | English | Comprehension-Miscellaneous Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369627904112/6369627904112.m3u8
+Class-17 | English | Comprehension-Miscellaneous Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369715786112/6369715786112.m3u8
+Class-18 | English | Comprehension-Miscellaneous Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369771176112/6369771176112.m3u8
+Class-19 | English | Comprehension-Miscellaneous Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369838712112/6369838712112.m3u8
+Class-20 | English | Comprehension-Miscellaneous Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_drm/4475885/1751892813_4354735519708881/1751892785017_888427016304565500_video_VOD.mpd?#keysV1=fy3yBNC-Mpn5DR0c8FdOv_nflr90W3Q3bu7dt1CqFRJlLPU3IXR-3OJtDKu-v4qe5fsAFMggM_QZPbkSNIega5VIG92FsxQsQCs5Za2-tekvNLX-NlutphYoITgfoyxYv7UBBwZAa12LOB9A4m7i0v38iuhkDbd_-N__xZedt_q5g0cklxGMHk8O6BZ_PsNcYlqznxej0wmhqbOjVuh43mAvjYwCqumoQhUgTT_QkdfVV0Ogfmwh6HqN_xxflTeDmv5X430rK5i0BzgseQwf3afkaESsiVQEyNpPzEC6Rt_VEIpMYgwgptYD4VlGN6JgiYjkyBdAixz3rxDWAAHzMrGnX9-rdohxNbm_qTD9DKeVH4Zh_NlM94WpcFIp0lku
+Class-21 | English | Comprehension-Miscellaneous Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369918493112/6369918493112.m3u8
+Class-22 | English | PHILOSOPHY BASED PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370140213112/6370140213112.m3u8
+Class-23 | English | PHILOSOPHY BASED PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370181493112/6370181493112.m3u8
+Class-24 | English | PHILOSOPHY BASED PYQs : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370223993112/6370223993112.m3u8
+Class-01 | Clock | Reasoning : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367870931112/6367870931112.m3u8
+Class-02 | Clock | Reasoning : https://www.youtube.com/embed/JvcSQQyrd-Q
+Class-03 | Clock | Reasoning : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367983884112/6367983884112.m3u8
+Class-04 | Clock | Reasoning : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368036697112/6368036697112.m3u8
+Class-05 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368184804112/6368184804112.m3u8
+Class-06 | Clock PYQ Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368234943112/6368234943112.m3u8
+Class-07 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368352237112/6368352237112.m3u8
+Class-08 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368418550112/6368418550112.m3u8
+Class-09 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368587633112/6368587633112.m3u8
+Class-10 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368636823112/6368636823112.m3u8
+Class-11 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368688993112/6368688993112.m3u8
+Class-12 | Calendar PYQ Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368745742112/6368745742112.m3u8
+Class-13 | Cube and Cuboid ( घन और घनाभ ) : https://www.youtube.com/embed/BnCTLC3qrfg
+Class-14 | Cube and Cuboid ( घन और घनाभ ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369036015112/6369036015112.m3u8
+Class-15 | Cube and Cuboid ( घन और घनाभ ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369079684112/6369079684112.m3u8
+Class-16 | Cube and Cuboid ( घन और घनाभ ) : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369136378112/6369136378112.m3u8
+Class-17 | Cube and Cuboid PYQ Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369247787112/6369247787112.m3u8
+Class-18 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369288908112/6369288908112.m3u8
+Class-19 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369334249112/6369334249112.m3u8
+Class-20 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369382040112/6369382040112.m3u8
+Class-21 | Coding PYQ Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369429640112/6369429640112.m3u8
+Class-22 | Letter Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369542950112/6369542950112.m3u8
+Class-23 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369582687112/6369582687112.m3u8
+Class-24 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369621553112/6369621553112.m3u8
+Class-25 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369667636112/6369667636112.m3u8
+Class-26 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369713573112/6369713573112.m3u8
+Class-27 | Blood Relation PYQ Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369832309112/6369832309112.m3u8
+Class-28 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369872283112/6369872283112.m3u8
+Class-29 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369913890112/6369913890112.m3u8
+Class-30 | Reas | Direction And Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363785378112/6363785378112.m3u8
+Class-31 | Reas | Direction And Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364217557112/6364217557112.m3u8
+Class-32 | Reas | Direction And Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364279200112/6364279200112.m3u8
+Class-33 | Reas | Direction And Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364330817112/6364330817112.m3u8
+Class-34 | Reas | Direction and Distance PYQ Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370133508112/6370133508112.m3u8
+Class-35 | Reas | Number Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370178383112/6370178383112.m3u8
+Class-36 | Reas | Number Series PYQ Practice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370219057112/6370219057112.m3u8
+Class-37 | Reas | Inequality : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370262221112/6370262221112.m3u8
+Class-38 | Reas | Inequality : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370313956112/6370313956112.m3u8
+Class-39 | Reas | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370453089112/6370453089112.m3u8
+Class-40 | Reas | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370508806112/6370508806112.m3u8
+Class-41 | Reas | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373424068112/6373424068112.m3u8
+Class - 01 | Introduction : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347307090112/6347307090112.m3u8
+Class - 02 | Counting of Figures : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347372487112/6347372487112.m3u8
+Class - 03 | Counting of Figures : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347441647112/6347441647112.m3u8
+Class - 04 | Counting of Figures : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347666691112/6347666691112.m3u8
+Class - 05 | Counting of Figures : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347732107112/6347732107112.m3u8
+Class - 06 | Counting of Figures : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347818084112/6347818084112.m3u8
+Class - 07 | Dice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347913047112/6347913047112.m3u8
+Class - 08 | Dice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6347990954112/6347990954112.m3u8
+Class - 09 | Dice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348197465112/6348197465112.m3u8
+Class - 10 | Dice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348258118112/6348258118112.m3u8
+Class - 11 | Dice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348319779112/6348319779112.m3u8
+Class - 12 | Dice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348465084112/6348465084112.m3u8
+Class - 13 | Dice : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348660157112/6348660157112.m3u8
+Class - 14 | Cube & Cuboid : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348727654112/6348727654112.m3u8
+Class - 15 | Cube & Cuboid : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348808524112/6348808524112.m3u8
+Class - 16 | Cube & Cuboid : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348889314112/6348889314112.m3u8
+Class - 17 | Cube & Cuboid : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6348969461112/6348969461112.m3u8
+Class - 18 | Cube & Cuboid : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349225212112/6349225212112.m3u8
+Class - 19 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349303332112/6349303332112.m3u8
+Class - 20 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349369540112/6349369540112.m3u8
+Class - 21 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349453413112/6349453413112.m3u8
+Class - 22 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349857503112/6349857503112.m3u8
+Class - 23 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6349928045112/6349928045112.m3u8
+Class - 24 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350071150112/6350071150112.m3u8
+Class - 26 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350132638112/6350132638112.m3u8
+Class - 25 | Clock : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350129279112/6350129279112.m3u8
+Class - 27 | Alphabetical Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350187640112/6350187640112.m3u8
+Class - 28 | Alphabetical Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350250129112/6350250129112.m3u8
+Class - 29 | Alphabetical Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350314341112/6350314341112.m3u8
+Class - 30 | Alphabetical Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350555419112/6350555419112.m3u8
+Class - 31 | Alphabetical Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350616588112/6350616588112.m3u8
+Class - 32 | Letter Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350681972112/6350681972112.m3u8
+Class - 33 | Letter Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350759583112/6350759583112.m3u8
+Class - 34 |Pair Formation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6350954829112/6350954829112.m3u8
+Class - 35 | Dictionary, Jumbling, Word Formation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351017511112/6351017511112.m3u8
+Class - 36 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351085952112/6351085952112.m3u8
+Class - 37 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351152879112/6351152879112.m3u8
+Class - 38 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351225776112/6351225776112.m3u8
+Class - 39 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351399175112/6351399175112.m3u8
+Class - 40 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351458105112/6351458105112.m3u8
+Class - 41 | Coding Decoding : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351562278112/6351562278112.m3u8
+Class - 42 | Matrix : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351723034112/6351723034112.m3u8
+Class - 43 | Test : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351794878112/6351794878112.m3u8
+Class - 44 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6351964674112/6351964674112.m3u8
+Class - 45 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352024341112/6352024341112.m3u8
+Class - 46 | Calendar : https://www.youtube.com/embed/r-LA3iwc_lI
+Class - 47 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352170265112/6352170265112.m3u8
+Class - 48 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352230563112/6352230563112.m3u8
+Class - 49 | Calendar : https://www.youtube.com/embed/yuKfzsnzgWk
+Class - 50 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352456419112/6352456419112.m3u8
+Class - 51 | Calendar : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352520240112/6352520240112.m3u8
+Class - 52 | Inequalities : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352582140112/6352582140112.m3u8
+Class - 53 | Inequalities : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352646562112/6352646562112.m3u8
+Class - 54 | Inequalities : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352828922112/6352828922112.m3u8
+Class - 55 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352889017112/6352889017112.m3u8
+Class - 56 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6352944185112/6352944185112.m3u8
+Class - 57 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353003958112/6353003958112.m3u8
+Class - 58 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341823980112/6341823980112.m3u8
+Class-59 | Blood Relation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6341887181112/6341887181112.m3u8
+Class-60 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353423521112/6353423521112.m3u8
+Class-61 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353498835112/6353498835112.m3u8
+Class-62 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353576345112/6353576345112.m3u8
+Class-63 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353750859112/6353750859112.m3u8
+Class-64 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353798585112/6353798585112.m3u8
+Class-65 | Directions and Distance : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353864357112/6353864357112.m3u8
+Class-66 | Venn Diagram : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353929578112/6353929578112.m3u8
+Class-67 | Venn Diagram : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354005681112/6354005681112.m3u8
+Class-68 | Venn Diagram : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354202212112/6354202212112.m3u8
+Class-69 | Venn Diagram : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354278437112/6354278437112.m3u8
+Class-70 | Coded Equations : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354353909112/6354353909112.m3u8
+Class-71 | Coded Equations : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354421299112/6354421299112.m3u8
+Class-72 | Machine Input : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354501864112/6354501864112.m3u8
+Class-73 | Machine Input : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354852319112/6354852319112.m3u8
+Class-74 | Machine Input : https://www.youtube.com/embed/C5KYLOWP6EI
+Class-75 | Machine Input : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6354995035112/6354995035112.m3u8
+Class-76 | Machine Input : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355164718112/6355164718112.m3u8
+Class-77 | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355216084112/6355216084112.m3u8
+Class-78 | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355277582112/6355277582112.m3u8
+Class-79 | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355333865112/6355333865112.m3u8
+Class-80 | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355405087112/6355405087112.m3u8
+Class-81 | Ranking : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355584547112/6355584547112.m3u8
+Class-82 | Sitting Arrangements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355642287112/6355642287112.m3u8
+Class-83 | Sitting Arrangements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355694369112/6355694369112.m3u8
+Class-84 | Sitting Arrangements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355743946112/6355743946112.m3u8
+Class-85 | Sitting Arrangements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6355805985112/6355805985112.m3u8
+Class- 86 | Sitting Arrangements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356119719112/6356119719112.m3u8
+Class- 87 | Sitting Arrangements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356249856112/6356249856112.m3u8
+Class- 88 | Sitting Arrangements : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356389011112/6356389011112.m3u8
+Class- 89 | Number Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356533187112/6356533187112.m3u8
+Class- 90 | Number Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6356663703112/6356663703112.m3u8
+Class- 91 | Number Series : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357043069112/6357043069112.m3u8
+Class- 92 | Missing Number : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357317289112/6357317289112.m3u8
+Class- 93 | Missing Number : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357526140112/6357526140112.m3u8
+Class- 94 | Odd One Out : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6357689633112/6357689633112.m3u8
+Class- 95 | Analogy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358020340112/6358020340112.m3u8
+Class- 96 | Analogy : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358129716112/6358129716112.m3u8
+Class- 97 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358248323112/6358248323112.m3u8
+Class- 98 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358386579112/6358386579112.m3u8
+Class- 99 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358492004112/6358492004112.m3u8
+Class- 100 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358816722112/6358816722112.m3u8
+Class- 101 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6358920167112/6358920167112.m3u8
+Class- 102 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359043851112/6359043851112.m3u8
+Class- 103 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359176173112/6359176173112.m3u8
+Class- 104 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359300506112/6359300506112.m3u8
+Class- 105 | Non Verbal : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359544252112/6359544252112.m3u8
+Class-106 | Statement and Assumptions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359597754112/6359597754112.m3u8
+Class- 107 | Statement and Assumptions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359663945112/6359663945112.m3u8
+Class- 108 |  Statement and Conclusions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359726559112/6359726559112.m3u8
+Class- 109 | Statement and Conclusions : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359786586112/6359786586112.m3u8
+Class- 110 | Cause and Effect : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359916557112/6359916557112.m3u8
+Class- 111 | Course of action : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6359969915112/6359969915112.m3u8
+Class- 112 | Police course of action : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360024385112/6360024385112.m3u8
+Class- 113 | Statement and Arguments : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360073113112/6360073113112.m3u8
+Class- 114 | Statement and Arguments : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360135161112/6360135161112.m3u8
+Class- 115 | Reason Assertion : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360287825112/6360287825112.m3u8
+Class- 116 | Decision Making : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360338839112/6360338839112.m3u8
+Class- 117 | Data Sufficiency : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360396073112/6360396073112.m3u8
+Class- 118| Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360740045112/6360740045112.m3u8
+Class- 119 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360789914112/6360789914112.m3u8
+Class- 120 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6360860761112/6360860761112.m3u8
+Class- 121 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361075694112/6361075694112.m3u8
+Class- 122 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361126032112/6361126032112.m3u8
+Class- 123 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361178662112/6361178662112.m3u8
+Class- 124 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361233993112/6361233993112.m3u8
+Class- 125 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361379492112/6361379492112.m3u8
+Class- 126 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361428649112/6361428649112.m3u8
+Class- 127 | Syllogism : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6361479082112/6361479082112.m3u8
+Class-128 | Puzzle : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6320530564112/6320530564112.m3u8
+Class-01 || Dose No. 01 Square (Base100) : https://www.youtube.com/embed/cLUrsh4R0Iw
+Class-02 || Dose No. 02 Square (2 Digit Square) : https://www.youtube.com/embed/DadX2t0O4bE
+Class-03 || Dose No. 03 Square (3 Digit Square) : https://www.youtube.com/embed/8h-31puAWzg
+Class-04 || Dose No. 04 Square (logic Based) : https://www.youtube.com/embed/D8t_Rg4CQsg
+Class-05 || Dose No. 05 Square Root (Type-1) : https://www.youtube.com/embed/47UuB0xkbmo
+Class-06 || Dose No. 06 Square Root (Type-2) : https://www.youtube.com/embed/LWfuUZgJPUA
+Class-07 || Dose No. 07 Square Root (Type-3) : https://www.youtube.com/embed/UclKsyu1DSU
+Class-08 || Dose No. 08 Square Root (Type-4) : https://www.youtube.com/embed/vmHUB-dyG3U
+Class-09 || Dose No. 09 Square Root (Type-5) : https://www.youtube.com/embed/7KuC1ZMvJTY
+Class-10 || Dose No. 10 Cube (Type-1) : https://www.youtube.com/embed/_S-Hv0ShgYw
+Class-11 || Dose No. 11 Cube (Type-2) : https://www.youtube.com/embed/IuF3QvcetFI
+Class-12 || Dose No. 12 Cube (Type-3) : https://www.youtube.com/embed/LtVI5n8ZwW0
+Class-13 || Dose No. 13 Cube (Type-4) : https://www.youtube.com/embed/FXFTKwRPGIA
+Class-14 || Dose No. 14 Cube (Type-5) : https://www.youtube.com/embed/u0POCcB_VrI
+Class-15 || Dose No. 15 Cube (Type-6) : https://www.youtube.com/embed/w9NJatn_Fr8
+Class-16 || Dose No. 16 Cube (Type-7) : https://www.youtube.com/embed/R_SncRlKABg
+Class-17 || Dose No. 17 Cube (Type-8) : https://www.youtube.com/embed/yNMPj_tSR_g
+Class-18 || Dose No. 18 Cube Root (Type-1) : https://www.youtube.com/embed/d8YhOYOlVrM
+Class-19 || Dose No. 19 Cube Root (Type-2) : https://www.youtube.com/embed/PPJCOmSpd7E
+Class-20 || Dose No. 20 Aproximation : https://www.youtube.com/embed/vFF3OtgbGQg
+Class-21 || Dose No. 21 Multiply By 11 & 111 : https://www.youtube.com/embed/sEK_JZnOtfE
+Class-22 || Dose No. 22 Multiplication Trick 01 : https://www.youtube.com/embed/0m_kT79P6Nc
+Class-23 | Dose No. 23 Multiplication Trick 02 : https://www.youtube.com/embed/Fhs7cZmRJuQ
+Class-24 || Dose No. 24 Multiplication Trick 03 : https://www.youtube.com/embed/Iw9ZvhbBl9w
+Class-01 | Eng | Grammar Foundation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367549098112/6367549098112.m3u8
+Class-02 | Eng | Grammar Foundation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367614253112/6367614253112.m3u8
+Class-03 | Eng | Grammar Foundation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367819911112/6367819911112.m3u8
+Class-04 | Eng | Grammar Foundation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367873992112/6367873992112.m3u8
+Class-05 | Eng | Grammar Foundation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367986162112/6367986162112.m3u8
+Class-06 | Eng | Grammar Foundation : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368039067112/6368039067112.m3u8
+Class-07 | Eng | Vocab Foundation 1 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368590907112/6368590907112.m3u8
+Class-08 | Eng | Vocab Foundation 2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368637717112/6368637717112.m3u8
+Class-09 | Eng | Vocab Foundation 3 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368692249112/6368692249112.m3u8
+Class-10 | Eng | Vocab Foundation 4 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368748875112/6368748875112.m3u8
+Class-11 | Eng | RC Foundation-Critical Reading : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368811692112/6368811692112.m3u8
+Class-12 | Eng | RC Foundation-Critical Reading : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368947890112/6368947890112.m3u8
+Class-13 | Eng | RC Foundation-Critical Reading : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368987178112/6368987178112.m3u8
+Flipkart Book Sale Links PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836d5e29fb90_Book_Poster_With_Link.pdf
+Boat And Race Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a256913616_RACEBOAT_STREAM_SHEET.pdf
+Boat And Race PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a25356e45f_RACECIRCULARBOAT_STREAM.pdf
+Time Speed Distance Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a24d7b5568_TSD_sheet_01.pdf
+Time Speed Distance PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a24a708676_TSDcompressed.pdf
+Time And Work Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a243aec7b7_Time_Work_sheet_01.pdf
+Time And Work PNG Part-02 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a23e55d0c0_Time_Work_PNGcompressed81138.pdf
+Time And Work PNG Part-01 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a23b97a3e3_Time_Work_PNGcompressed180.pdf
+Average Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a2225df674_Average_sheet_01.pdf
+Average PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a21ef2d0e8_AVERAGE_PNG.pdf
+Mixture & Alligation Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe3480807ee_Mixture_and_Alligation_Notes.pdf
+Mixture & Alligation Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe34544cc21_Mixture_Alligation_sheet.pdf
+Mixture & Alligation PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe33f504a4b_Mixture_Alligation_PNG.pdf
+Partnership Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe32ba8011a_PARTNERSHIP_notes.pdf
+Partnership Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe3290f321b_Partnership_sheet_01.pdf
+Partnership PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe325fc6d4a_Partnership_PNG_124.pdf
+Proportion Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe32092c1c5_PROPORTION_Notes.pdf
+Proportion Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe31da82b39_Prportion_sheet.pdf
+Proportion PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fe31a8b3fad_Proportion_PNG.pdf
+Age Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f7b0679667f_Age_Class_notes.pdf
+Ratio And Proportion Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f7a6c8ba3cc_Ratio_Proportion_Class_Notes_10_April_2025.pdf
+Age Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f6623b9d060_Age_sheet_01.pdf
+Age PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f66204281d5_Age_PNG.pdf
+Ratio And Proportion Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f661ca0d573_Ratio_Proportion_sheet_01.pdf
+Ratio And Proportion  PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f6619445c63_Ratio_and_Proportion_PNGcompressed.pdf
+Profit and Loss Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f11017e8411_Profit_Loss_Notes.pdf
+Profit and Loss Sheet (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f10fd872ba1_Profit_Loss_sheet.pdf
+Profit and Loss PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f10f0076658_Profit_Loss_PNGcompressed.pdf
+Percentage Fail-Pass Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebd897cb805_Percentage_fil_pass.pdf
+Percentage Fail-Pass Sheet-09 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebcd73d6f30_Percentage_Fail_Pass_sheet_09.pdf
+Percentage Fail-Pass PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebcd43566ee_Percentage_Fail_Pass_PNG.pdf
+Percentage Ratio Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebcb2143acc_Percentage_Notes_ratio.pdf
+Percentage Ratio Sheet-08 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebcaf179bc7_Percentage_sheet_08.pdf
+Percentage Ratio PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebcac3bf69a_Percentage_Ratio_PNG.pdf
+Percentage Successive Notes (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebc97924e66_Percentage_Notes_0104.pdf
+Percentage Successive Sheet-07 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebc9487d031_Percentage_Successive_sheet_07.pdf
+Percentage Successive PNG (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebc9093f3ed_Percentage_seuccessive_png.pdf
+Percentage (Venn Diagram) Notes 31-03 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebc59c0a7b4_Percentage_with_Digram_Class_notes_1_April_2025.pdf
+Percentage (Venn Diagram) Sheet-06 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebc550afc7a_Percentage_Venndiagram_sheet_06.pdf
+Percentage (Venn Diagram) 31-03 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ebc366b0104_Percentage_Venndiagram_PNG.pdf
+Percentage Notes 29-03 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e7e01549126_Percentage_Class_Notes.pdf
+Percentage Sheet-05 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e7dfd0487a8_Percentage_sheet_05.pdf
+Percentage 29-03 (Recorded) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e7df87080d7_Percentage_PNG_293.pdf
+Percentage Notes 28-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e772d4ab4e6_Percentage_Notes_2803.pdf
+Percentage Sheet-04 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e77295cf36a_Percentage_sheet_04.pdf
+Percentage 28-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e7726e1c0b9_Percentage_2803.pdf
+Number System Top 500 Complete Practice Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e67a1a3a159_500_CSAT.pdf
+Simplification Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e679b1492c7_10._Simplification.pdf
+Percentage Notes 27-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e61d9a93189_Percentage_Notes_2703.pdf
+Percentage Sheet-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e552e72aaf4_Percentage_sheet_03.pdf
+Percentage 27-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e552ba2ae8f_Csat_Class31_27_march_1compressed.pdf
+AP And GP Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e532ffc7448_9._Series_AP_GP.pdf
+Fraction Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2913c45472_8._fraction.pdf
+Percentage Notes 24-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e52ab93c56c_PercentageNote_class_2.pdf
+Percentage Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e52a87338e7_Percentage_sheet_02.pdf
+Percentage 24-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e52a630739b_Csat_Class30_24_march.pdf
+Remainder theorem Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dea7bf52c22_7._Remainder_theorem.pdf
+Percentage Notes 20-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e52a9d33584_PercentageNote_class_1.pdf
+Classification Of Number Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dc08696edc5_6._Classification_of_number.pdf
+Percentage Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e52a754c528_Percentage_sheet_01.pdf
+Percentage 20-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e52a50ea53d_Csat_Class29_20_march.pdf
+Miscellaneous Notes 19-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbbd25f0f91_Miscellaneous_Notes_1903.pdf
+Miscellaneous Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e29f5dccaee_Miscellaneous_Sheet02.pdf
+Miscellaneous 19-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67daf61767156_Csat_Class28_19_Marchcompressed.pdf
+Miscellaneous Notes 17-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d8fde80c0d6_Miscellaneous_Notes_1703.pdf
+Miscellaneous Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d82adea0808_Number_system_sheet_01.pdf
+Miscellaneous 17-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d82a8fd1dd1_Csat_Class27_17_Marchcompressed.pdf
+Probability Notes 12-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d1bf1336c83_DocScanner_Mar_12_2025_1006_PM.pdf
+Number of Digit Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d1bde26c38b_5._Number_of_Digit_1.pdf
+Number of Factor Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d1bd976662d_4._Number_of_Factor_1.pdf
+Tralling of Zero Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d1bd558c800_3._Tralling_of_zero.pdf
+Probability Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d17b7e58294_Probability_sheet_02.pdf
+Probability 12-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d17dc062727_organizedcompressed.pdf
+Probability Notes 11-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d10acd8d0e8_Probability_Notes_1103.pdf
+Probability Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d02b8a44e9f_Probability_sheet_01.pdf
+Probability 11-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d02b5120744_Csat_Class2511_Marchcompressed.pdf
+Unit Digit Top Most Important Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d1bc186e4d4_2._Unit_Digit.pdf
+Permutation and Combination Notes 10-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cff2503b022_Permutation_and_Combination_Notes_1003.pdf
+Permutation and Combination Sheet-04 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cff20c63d72_Permutation_Combination_sheet_04.pdf
+Permutation and Combination 10-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cff1d570324_Csat_Class24_10_Marchcompressed.pdf
+Divisibility Top Most Important Question Updated Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbca67652c2_1._Divisibility_Type_01_1.pdf
+Permutation and Combination Notes 07-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cb30a572fc1_Permutation_and_Combination_Notes_0703.pdf
+Permutation and Combination Sheet-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cae281b0cae_Permutation_Combination_sheet_03.pdf
+Permutation and Combination 07-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cae2564b700_Csat_Class23_07_Marchcompressed.pdf
+Permutation and Combination Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ca8e5de374b_Permutation_Combination_sheet_02.pdf
+Permutation and Combination Notes 06-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c9cfb7e02d3_DocScanner_Mar_6_2025_854_PM.pdf
+Permutation and Combination 06-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c9cf1e34d3d_Csat_Class22_06_Marchcompressed.pdf
+Permutation and Combination Notes 05-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c91c0e87802_Permutation_Combination_Notes_0503.pdf
+Permutation and Combination Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ca8e5288b70_Permutation_Combination_sheet_01_1.pdf
+Permutation and Combination 05-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c82d59e66a9_Csat_Class21_05_Marchcompressed.pdf
+LCM and HCF Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c57acf26f83_LCM_and_HCF_1_March_2025.pdf
+LCM and HCF Notes 27-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c13432dbf7c_LCM_and_HCF_Notes_2702.pdf
+LCM and HCF Sheet-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c04e0155fdb_HCF_LCM_sheet_03.pdf
+LCM and HCF 27-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c04dd1cf673_Csat_Class20_27febcompressed.pdf
+LCM and HCF Notes 26-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bfde04278e9_LCM_and_HCF_Sheet02.pdf
+LCM and HCF Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bf06335d044_HCF_LCM_sheet_02.pdf
+LCM and HCF 26-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bf05feefc61_Csat_Class19_26febcompressed.pdf
+LCM and HCF Notes 25-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bdfb4d046b9_LCM_and_HCF_Notes_2502.pdf
+LCM and HCF Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bdb3b3f1605_HCF_LCM_sheet_01.pdf
+LCM and HCF 25-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bdb37d1a87d_Csat_Class18_25febcompressed.pdf
+Complete Number System Class Notes Part-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bd9b202ce01_Complete_Number_System_Class_Notes_Part02.pdf
+Complete Number System Class Notes Part-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bd9ac875fd8_Complete_Number_System_Class_Notes_Part01.pdf
+Number System Complete Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bd77265ba67_Number_System_Complete_Smart_Notes.pdf
+Fraction and Power Surds Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bd65882bc57_Fraction_and_power_surds_and_Indices.pdf
+Progression Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bd6543370c6_Progression.pdf
+Fraction Notes 24-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bd416d68325_Fraction_Notes_2402.pdf
+Fraction Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bc62421b13e_Fraction_Power_surds_Indices_class_01_1.pdf
+Fraction 24-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bc6200f1c39_Csat_Class17_24febcompressed.pdf
+Progression Notes 21-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bb26d785f8f_Progression_Notes_2102.pdf
+Progression Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b85dfaebcbe_Progression_sheet_02.pdf
+Progression 21-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b85db843a1c_Csat_Class16_21feb.pdf
+Progression Notes 20-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b81200b60b6_Progression_Notes_2002.pdf
+Progression Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b717c56504b_Progrerssion_sheet_01.pdf
+Progression 20-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b7172b9d12a_Csat_Class15_20feb.pdf
+Classification and Remainder Theorem Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b430727223a_Number_system_.pdf
+Remainder Theorem Notes 14-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b011a5b79fc_Remainder_Theorem_Notes_1402.pdf
+Remainder Theorem Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67af27f1586eb_Remainder_theorem_sheet_02.pdf
+Remainder Theorem 14-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67af27c4ea07d_Csat_Class14_14feb.pdf
+Decimal Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aed750b7a60_Decimal_14_Feb_2025.pdf
+Remainder Theorem Notes 13-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aece728c76f_Remainder_Theorem_Notes_1302.pdf
+Remainder Theorem Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67addf2256c4e_Remainder_theorem_sheet_01.pdf
+Remainder Theorem 13-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67addee750f69_Csat_Class13_13febcompressed.pdf
+Classification Of Number Notes 12-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aeda0d98234_Classification_Of_Number_Notes1202.pdf
+Classification of number sheet -03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ad94f93200e_Classification_sheet_03.pdf
+Classification Of Number 12-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ad8885c536d_Csat_Class12_12_feb.pdf
+Classification Of Number Notes 11-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac829f30465_ClassificationOfNumberNotes_1102.pdf
+Classification Of Number Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac827ab2cda_Classificationofnumbersheet02.pdf
+Classification Of Number 11-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac825c6277f_CsatClass1102.pdf
+Number of Digit Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a5c3d8cea24_Number_of_Digit_Smart_Notes.pdf
+Number of Factors Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a36caa737f2_Numbersystem.pdf
+Unit Digit Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679b709662261_unit_digit_smart_notes.pdf
+Divisibility Smart Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6798bf3f43696_Divisibility_Smart_Notes.pdf
+Classification Of Number Notes 10-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa227302e22_Classification_Of_Number_Notes_1002.pdf
+No. Of Digit and Decimal Notes 07-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a6d65a4a1b3_DocScanner_Feb_7_2025_1132_PM.pdf
+No. Of Digit  Notes 06-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a4db2208c6a_DocScanner_Feb_6_2025_918_PM.pdf
+No. Of Factor Notes 04-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a3677dc14e4_No._Of_Factor_Notes_0402.pdf
+No. Of Trailing Zeros Notes 03-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a1afd619d43_Unit_Digit_Class_notes.pdf
+Unit Digit Notes 31-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679d99570f67f_Unit_Digit_Notes_3101.pdf
+Divisibility and Unit Digit Notes 30-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679c51f7c7fd6_Divisibility_Notes_3001.pdf
+Divisibility Notes 29-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679af9290dc02_Divisibility_class_03.pdf
+Divisibility Notes 28-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6798e19d967cb_1.pdf
+Divisibility Notes 27-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67979f1583532_New_Doc_01272025_20.18.pdf
+Classification Of Number Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ab35466be5d_Classification_of_number_sheet_01.pdf
+No. Of Digit and Decimal Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a5f891b0220_number_of_digit_decimal_shet_07.pdf
+No. Of Digit Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a496c1c3b31_Number_of_digit_sheet_06.pdf
+No. Of Factor Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a1fe3feb105_Number_of_factors_sheet_06.pdf
+No. Of Trailing Zeros Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a1af6a0239e_Number_of_trailing_zero_sheet_06.pdf
+Unit Digit Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679cbc80e510b_Unit_digit_sheet_05.pdf
+Divisibility Sheet-04 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679b6dccbfa1b_Divisibility_sheet_04.pdf
+Divisibility Sheet-03 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679a1b75b4451_Divisibility_sheet_03.pdf
+Divisibility Sheet-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6798b7d91211d_Divisibility_sheet_02.pdf
+Divisibility Sheet-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67976d86be019_Divisibility_sheet_01.pdf
+Classification Of Number 10-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a9d912758af_Csat_Class10_10febcompressed.pdf
+No. Of Digit  and Decimal 07-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a5f85aec290_Csat_Class09_07_febcompressed.pdf
+No. Of Digit 06-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a48dc1866fe_Csat_Class08_06_febcompressed.pdf
+No. Of Factor 04-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a1f0ea63202_Csat_Class07_04_feb.pdf
+No. Of Trailing Zeros 03-02 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a0ba8cad1b7_Csat_Class06_03_.pdf
+Unit Digit 31-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bffaa247bf6_679cb93fd13e4CsatClass0531jancompressed_1.pdf
+Divisibility 30-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679b546deefa2_Csat_Class04_30_jan.pdf
+Divisibility 29-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679a1b438f97d_Csat_Class03_29_jan.pdf
+Divisibility 28-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6798b6119c9ee_Csat_Class02_28_jancompressed.pdf
+Divisibility 27-01 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67975f4aca984_Csat_Class01_27_jan_2.pdf
+Reading Comprehension (English) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbea4adf5d8_UPSC_CSAT_Reading_Comprehension_Eng_2025.pdf
+Reading Comprehension (Hindi) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbea267632a_UPSC_CSAT_Reading_Comprehension_HINDI_2025.pdf
+Comprehension Final Tips Notes-2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbabd8548f5_CSAT_Comprehension_Final_Tips_2compressed.pdf
+Comprehension Final Tips-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67da808c7c3ce_CSAT_Comprehension_Final_Tips_1compressed.pdf
+Comprehension Philosophy Based PYQs-2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d9001671436_CSAT_Comprehension_Philosophy_Based_PYQs_2compressed.pdf
+Comprehension Philosophy Based PYQs : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7b7d6a8de3_CSAT_Comprehension_Philosophy_Based_PYQscompressed.pdf
+Comprehension Miscellaneous Practice-5 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d11b214fcdc_CSAT_Comprehension_Miscellaneous_Practice_5compressed.pdf
+Comprehension Miscellaneous Practice-3 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ce6d8c20db1_CSAT_Comprehension_Miscellaneous_Practice_3compressed.pdf
+Comprehension Miscellaneous Practice-2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cbd6e6c2549_CSAT_Comprehension_Miscellaneous_Practice_2compressed.pdf
+Comprehension Miscellaneous Practice-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c93522af764_CSAT_Comprehension_Miscellaneous_Practice_1compressed.pdf
+Comprehension PYQs Level - 2,3&4 | 4 March : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c934131a97e_CSAT_Comprehension_PYQs_Level_2_3_4_March_4compressed.pdf
+CSAT Comprehension PYQs Level-2 3 & 4 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bea0ee614fd_CSAT_Comprehension_PYQs_Level_2_3_4_1compressed.pdf
+Concept Building -Inference and Conclusion PYQ Practice-3 | 22 Feb : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bc0946861ba_Concept_Building_Inference_and_Conclusion_PYQ_Practice_3compressed.pdf
+Common Terms used in Critical Reasoning GYAAN (S) Final 2025 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b6e9d024bac_Common_Terms_used_in_Critical_Reasoning_GYAAN_S_Final_2025.pdf
+क्रिटिकल रीजनिंग में उपयोग किए जाने वाले सामान्य शब्द (S) Final 2025 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b6e99e25bc3__S_Final_2025.pdf
+Concept Building -Inference and Conclusion Notes | 19 Feb : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b5c9d28040b_CSAT_2025_Concept_Building_Inference_and_Conclusion_2compressed.pdf
+Concept Building -Inference and Conclusion Notes | 18 Feb : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b5700f2b312_Concept_Building_Inference_and_Conclusioncompressed.pdf
+Comprehension Main Idea Class Notes | 14 Feb : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b02dd167498_CSAT_Eng_Comprehension_Main_Idea_Classnote_14_Feb_By_Satyendra_Sircompressed.pdf
+Comprehension Main Idea Class Notes | 13 Feb : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae8f15d6a21_CSAT_Eng_Comprehension_Main_Idea_Classnote_13_Feb_By_Satyendra_Sircompressed.pdf
+Comprehension Main Idea Class Notes | 11 Feb : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac38b64fc1f_CSAT_Eng_Comprehension_Main_Idea_Classnote_11_Feb_By_Satyendra_Sircompressed.pdf
+Eng Comprehension Class Notes | 10 Feb : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa09ba3bcb7_CSAT_Eng_Comprehension_Classnote_10_Feb_By_Satyendra_Sircompressed.pdf
+CSAT 2025 Final PDF : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679d86ab5dfff_CSAT_2025_FINAL_PDF.pdf
+CSAT Eng Comprehension Class Notes 31 Jan : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679d8665811bd_CSAT_Eng_Comprehension_Classnote_31_Jan_By_Satyendra_Sircompressed.pdf
+CSAT 2025 Critical Reading (English) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679cb78fbcaf1_CSAT_2025_Critical_Reading_English.pdf
+CSAT 2025 Critical Reading (Hindi) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679cb771c43f4_CSAT_2025_Critical_Reading_Hindi.pdf
+CSAT Eng Comprehension Class Notes | 30 Jan : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679cb74699d92_CSAT_Eng_Comprehension_Classnote_30_Jan_By_Satyendra_Sircompressed_1.pdf
+Eng Comprehension Intro Class Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679a1a8b0b802_CSAT_Eng_Comprehension_INTRO_CLASS_Classnote_28_Jan_By_Satyendra_Sircompressed.pdf
+Non Verbal (Miscellaneous) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27f29eeda6_36._Non_Verbal_Miscellaneous.pdf
+Embedded Figure : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27ed1eb829_35._Embedded_Figure.pdf
+Paper Folding And Cutting : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27e9e3f634_34._Paper_Folding_And_Cutting.pdf
+Completion Of Figure : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27e5022796_33._Completion_Of_Figure.pdf
+Figure Series : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27e166f9d4_32._Figure_Series.pdf
+Mirror And Water Image : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27de5279a9_31._Mirror_And_Water_Image.pdf
+Tabular Matrix : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27db371128_30._Tabular_Matrix.pdf
+Word Based Problems : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27d83624b1_29._Word_Based_Problemscompressed.pdf
+Data Sufficiency : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27cfa17197_28._Data_Sufficiencycompressed.pdf
+Analytical Reasoning (Miscellaneous) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27ca3b40dc_27._Analytical_Reasoning_Miscellaneous.pdf
+Statement And Course Of Action : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27c67032e4_26._Statement_And_Course_Of_Actioncompressed.pdf
+Statement And Argument : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27bf124306_25._Statement_And_Argumentcompressed.pdf
+Statement And Assumption : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27ba96aad0_24._Statement_And_Assumptioncompressed.pdf
+Statement And Conclusion : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e279c9e07f7_23._Statement_And_Conclusioncompressed.pdf
+Maching Input Output : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2798cb8e45_22._Maching_Input_Outputcompressed.pdf
+Inequality : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e278a214b72_21._Inequality.pdf
+Venn Diagram : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2786c31509_20._Venn_Diagram.pdf
+Puzzle : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2783f43627_19._Puzzlecompressed.pdf
+Seating Arrangement : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e277e154177_18._Seating_Arrangementcompressed.pdf
+Ranking : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27766b13f7_17._Rankingcompressed.pdf
+Syllogism : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2771c2fab2_16._Syllogismcompressed.pdf
+Direction And Distance : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e276c81a532_15._Direction_And_Distancecompressed.pdf
+Clock : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27670d740b_14._Clock.pdf
+Calendar : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2763b1aed1_13._Calendar.pdf
+Blood Relation : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e275bbee223_12._Blood_Relationcompressed.pdf
+Counting Figure : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e275501a4c9_11._Counting_Figure.pdf
+Cube And Dice : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2751ccc6c5_10._Cube_And_Dice.pdf
+Mathematical Reasoning : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e274dfe51b0_9._Mathematical_Reasoningcompressed.pdf
+Classification : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e274870d233_8._Classificationcompressed.pdf
+Analogy : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e274322e4c0_7._Analogycompressed.pdf
+Missing Number : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e273a14b91f_6._Missing_Number.pdf
+Number Series : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27377deb06_5._Number_Series.pdf
+English Alphabet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e27349e4579_4._English_Alphabet.pdf
+Arrangement And Pattern : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e272f92df5a_3._Arrangement_And_Pattern.pdf
+Letter Series : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e272ca57cf7_2._Letter_Series.pdf
+Coding & Decoding : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2727a7e696_1._Coding_Decodingcompressed.pdf
+Ranking | 24 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e1476985701_24_Mar_RANKING_CSATcompressed.pdf
+Inequalities | 21 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e1472346bfb_21_Mar_Inequalities_CSATcompressed.pdf
+Inequalities | 20 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dcf35e65565_20_Mar_Inequalities_CSAT.pdf
+Number Series PYQ Practice Set : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67da867ce7f93_Number_Series_Final_Pdf_2025.pdf
+Direction And Distance PYQ : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d963100f065_Direction_And_Distance_CSAT_PYQcompressed.pdf
+Number Series | 18 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d95e606fec3_18_Mar_Number_Series_CSATcompressed.pdf
+Direction and Distance Class Questions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d95bc35f6fd_Direction_and_Distance.pdf
+Letter Series Test : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d90a7f6c0ca_Letter_Series_Test.pdf
+Directions and Distance | 17 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d8fbdc6fe50_17_Mar_Directions_and_Distance_PYQ_CSAT.pdf
+Direction and Distance Sheet : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7f2b10de9a_DIRECTION_AND_DISTANCE_PDF.pdf
+Direction and Distance Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d157d0613be_ilovepdfmerged_20250312T135232.665_1.pdf
+Directions and Distance | 12 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d145b0df41e_12_Mar_Directions_and_Distance_CSATcompressed.pdf
+Directions and Distance | 11 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d011e47e6ae_11_Mar_Directions_and_Distance_CSATcompressed.pdf
+Blood Relation Test : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d0053758a19_Blood_Relation_Test.pdf
+Coding Decoding Test : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d005094c6c7_Coding_Decoding_Test.pdf
+Cube and Cuboid Test : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d004d68f69a_Cube_and_Cuboid_Test.pdf
+Calendar Test : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d004aa580bb_Calendar_Test.pdf
+Blood Relation | 10 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cfd81da1323_10_Mar_Blood_Relation_PYQ_CSAT.pdf
+Blood Relation | 7 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cab21365e28_07_Mar_Blood_Relation_CSATcompressed.pdf
+Letter Series Practice Set : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c97cbe2453c_67775ae2ba14e674fe342968c7LETTERSERIESFINALPDF60Que.pdf
+Letter Series Class Questions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c97c92db56f_6776561e2fdd4675005600bbc7LETTERSERIESFINALPDF50Que1.pdf
+Blood Relation | 5 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c927b819f6e_05_Mar_Blood_Relation_CSATcompressed.pdf
+Blood Relation | 4 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c6d91b358a9_04_Mar_Blood_Relation_CSATcompressed.pdf
+Letter Series | 3 March | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c57308546a3_03_Mar_Letter_Series_CSAT.pdf
+Coding Decoding Practice Set : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c18b51d5cea_6764d885e63b7Ch1CodingDecodingStudentFinal.pdf
+Coding Decoding  PYQ Practice | 28 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c1882debd8a_28Feb_Coding_PYQ_Practice_CSAT_1compressed.pdf
+Coding Decoding | 27 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c11c0d63a76_27Feb_Coding_CSATcompressed.pdf
+Coding Decoding | 26 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c000d60b72c_26Feb_Coding_CSAT.pdf
+Coding Decoding | 25 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67be9ba024534_25Feb_Coding_CSAT.pdf
+Cube and Cuboid PYQ : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bcc03baea38_CUBE_CUBOID_STUDENTS_PDF_11.pdf
+Cube and Cuboid Class Questions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bcbffb48785_CUBE_AND_CUBOID_Class_Que_Final_2025.pdf
+Cube and Cuboid | 24 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bc8c5c29dc8_24_Feb_CUBE_CUBOID_CSAT_PYQ.pdf
+Cube and Cuboid PYQ Practice Set : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b84038657f5_CUBE_CUBOID_STUDENTS_PDF.pdf
+Cube and Cuboid Class Question : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b83ffce5df0_CUBE_AND_CUBOID_Class_Que_Final_20251.pdf.pdf
+Cube and Cuboid | 21 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b83d521a4e8_21_Feb_Cube_CSATcompressed.pdf
+13 Feb Calendar PYQ Practice : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b83ce63ebbc_13Feb_Calendar_PYQ_Practice_CSAT_1compressed.pdf
+Cube and Cuboid | 20 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b7e026e1491_20_Feb_Cube_CSATcompressed.pdf
+Cube and Cuboid | 19 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b599cd9d0a1_19_Feb_Cube_CSATcompressed.pdf
+Cube and Cuboid  | 14 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b025b9934c2_14_Feb_Cube_CSATcompressed.pdf
+Calendar PYQ : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae8c0e2434b_ilovepdfmerged_48.pdf
+Calendar Practice Set : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae8bce32254_Calendar_2025_PS_Student_Final.pdf
+Calendar Class Questions Final 2025 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67af0293de688_Calendar_Pdf_CQ_Studdent_Final_2025_1removed_1.pdf
+Calendar | 12 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac8abdd9b7a_12Feb_Calendar_CSATcompressed.pdf
+Clock | 31 Jan | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679cb3663c564_31_Jan_Clock_CSATcompressed.pdf
+Clock | 30 Jan | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679b5bcef1e39_30_Jan_Clock_CSATcompressed.pdf
+Clock | 29 Jan | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679a19991ad31_29_Jan_Clock_CSATcompressed.pdf
+Clock Practice Set : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a4620da0b07_CLOCK_Practice_Set_Final_pdf_2025.pdf
+Reasoning Full Class Notes (Hand Written) Part-2 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a1b8281ecad_Reasoning_Full_Class_Notes_Hand_Written_PART2.pdf
+Reasoning Full Class Notes (Hand Written)  Part-1 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a1ab85b9bce_Reasoning_Full_Class_Notes_Hand_Written_PART1.pdf
+Clock Class Questions : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a4622db6467_Clock_Class_Que_Final_Pdf_2025.pdf
+Calendar | 11 Feb | Class : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ab2b5522884_11Feb_Calendar_CSATcompressed.pdf
+Calendar | 10 Feb | Class : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa0713bc5ef_10Feb_Calendar_CSATcompressed.pdf
+Calendar | 7 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a8730ce1ade_07Feb_Calendar_CSATcompressed.pdf
+Calendar | 6 Feb | Class : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a4927a2cc15_06Feb_Calendar_CSAT.pdf
+Clock PYQ Practice | 4 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a1f34f71eb5_04_Feb_Clock_CSAT_1.pdf
+Clock | 3 Feb | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a0af481ecbc_03_Feb_Clock_CSATcompressed.pdf
+Clock | 28 Jan | Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67989c3d2d9f5_24JANCLOCKCSATcompressed.pdf
+Reas | Syllogims | 04 September Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d84b843c441_4sep_21_compressed.pdf
+Puzzle Complete Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d80226044c5_664f12ee41150_Puzzle.pdf
+Reas | Syllogims | 03 September Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d701802646f_3sep_21_compressed.pdf
+Reas | Syllogims | 02 September Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d6832eddb25_2sep_21_compressed.pdf
+Reas | Syllogism | 30 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d1a0a065684_30_aug_21_compressed.pdf
+Reas | Syllogism | 29 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d1285025235_29_aug_21_compressed.pdf
+Reas | Syllogism | 28 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cefa908a3fe_28_aug_21_compressed.pdf
+Reas | Syllogism | 27 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cda99d58015_27_aug_21_compressed.pdf
+Reas | Syllogism | 23 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cd68edf0cf9_23_aug_21_compressed.pdf
+Reas | Syllogism | 22 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c7151848054_22_aug_21_compressed.pdf
+Reas | Syllogism | 21 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c5cc8be7b03_21_aug_21.pdf
+Reas | Data Sufficiency | 14 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66be3eef3734a_14_aug_21_compressed.pdf
+Reas | Decision Making | 13 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bb533fd5b4c_13_aug_21_compressed.pdf
+Reas | Assertion and reason  | 12 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bac6d1ef3b8_12_aug_18_compressed.pdf
+Statement and Arguments | 09 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b8682ba02e4_18.pdf
+Statement and Arguments | 08 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b49d7817f96_8_aug_18_compressed.pdf
+Police course of action | 07 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b3487456ee3_7_aug_18_compressed.pdf
+Course of Action | 06 August Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b1fa628357d_6_aug_18_compressed.pdf
+Cause and Effect | 05 Aug Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b0fef3ecde4_5_aug_18_compressed.pdf
+Statement and Conclusion | 02 Aug Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66adb97dbe526_2_aug_18_compressed.pdf
+Piyush Sir Reasoing Book Link:  Sir.pdf : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66acc6f652efb_Piyush
+Statement and Conclusion | 01 Aug Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66abb75dd4ab9_1_aug_18_compressed.pdf
+Statement and Assumption | 31 July Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66aa27f3c5ea9_31jul_18_compressed.pdf
+Statement & Assumption | 30 July Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a8ca6381944_30jul_18_compressed.pdf
+29 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a76eef1c140_29jul_18_compressed.pdf
+26 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a3780d51729_26jul_18_compressed.pdf
+25 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a22f2f7146b_25jul_18_compressed.pdf
+24 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a0dc0481462_24jul_18_compressed.pdf
+23 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f8bfca7bde_23jul_18_compressed.pdf
+22 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f083917479_22jul_18_compressed.pdf
+19 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669a533f24231_19jul_18.pdf
+18 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6699069c53069_18jul_18_compressed.pdf
+17 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6697873e2624b_17jul_18.pdf
+16 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6697334f356be_16jul_18_compressed.pdf
+15 July 2024 Cass PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66951e4bf32ed_15jul_18.pdf
+12 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6691e1c636ab9_12jul_18_compressed.pdf
+11 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66908390aa896_11jul_18_compressed.pdf
+10 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668f390f10861_10jul_18_compressed.pdf
+8 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668ca71f3cf63_8jul_18_compressed.pdf
+5 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668950a9c3255_5jul_18.pdf
+4 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66867b93d8c56_4jul_26_compressed.pdf
+4 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66867b42713cd_4jul_18_compressed.pdf
+3 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668526aa513f4_3jul_18_compressed.pdf
+2 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66849c57b6701_2jul_18_compressed.pdf
+1 July 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66828437aa9da_1jul_18_compressed.pdf
+28 June 2024 Class PNG:  (1)_compressed.pdf : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667e95ccde35b_28june_18
+27 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667d4054e2ae2_27june_18_compressed.pdf
+26 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bee9ac5382_26june_18_compressed.pdf
+25 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b5f9e789e3_25june_18_compressed.pdf
+24 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667951b8c056f_24june_18_compressed.pdf
+21 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667540119b469_21june_18_compressed.pdf
+20 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66740326f18d4_20june_18_compressed.pdf
+19 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66729b075e1ba_19june_18_compressed.pdf
+18 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667149f48c078_18june_18_compressed.pdf
+17 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667010b311f75_17june-25_compressed.pdf
+14 June 2024 Class PNG:  (1)_compressed.pdf : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666c1ced2523c_14june-25
+13 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666ac8104bdd5_13june-25_compressed.pdf
+12 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6669b0df507eb_12june-25_compressed.pdf
+07 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66640a7c144d4_7june-25_compressed.pdf
+6 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6661b37703de1_6june-25_compressed.pdf
+05 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6661132c95700_5june-25_compressed.pdf
+04 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665faaf377814_4june-25_compressed.pdf
+03 June 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665e620116271_3june-25_compressed.pdf
+31 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665e615690aad_31may-25_compressed.pdf
+30 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665885bcd2986_30may-25.pdf
+29 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6657d6470b45b_29may-25_compressed.pdf
+28 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6655b5e13efb8_28may-25_compressed.pdf
+27 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6654645c92409_27may-25_compressed.pdf
+24 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665069f730303_24may-25_compressed.pdf
+23 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f53226438c_23may-25_compressed.pdf
+22 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664dc67c92d20_22may-25_compressed.pdf
+16 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6645d94a90779_16-may-23_compressed.pdf
+16 May 2024  2:30 PM Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6645d0051c03d_6565d23f23897_28nov_8_compressed.pdf
+16 May 2024  2:00 PM Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6645cfa7a4a17_6564f979dde9e_27nov_8_compressed.pdf
+15 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66449c069a8a7_15-may-23_compressed.pdf
+14 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6643a632a2fea_14-may-23.pdf
+13 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641ee1bb82b7_13-may-23_compressed.pdf
+10 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663df43f49e28_10-may-23_compressed.pdf
+9 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663ca26013255_9-may-23_compressed.pdf
+8 May 2024 Class PNG:  (1)_compressed.pdf : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b5203ce13c_8-may-23
+7 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663a0670e9ae8_7-may-23_compressed.pdf
+6 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638be53cdb8c_6-may-23_compressed.pdf
+3 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634bdf8d15ea_3-may-23_compressed.pdf
+2 May 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634482d42deb_2-may-23_compressed.pdf
+30 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6631d7c8a504a_30-apr-23_compressed.pdf
+29 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66306892d2207_29-apr-23_compressed.pdf
+26 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662b994d8a360_26-apr-23_compressed.pdf
+25 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662b10bc86189_25-apr-23_compressed.pdf
+24 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e383090ca_24-apr-23_compressed.pdf
+23 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662795b238c9d_23-apr-23_compressed.pdf
+22 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66263f86456d9_22-apr-23_compressed.pdf
+19 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66262547dbbb4_19-apr-23_compressed.pdf
+18 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6620dea6b49d2_18-apr-23_compressed.pdf
+17 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f8d79b88fa_17-apr-23_compressed.pdf
+16 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e4c2a25353_16-apr-23_compressed.pdf
+15 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661cf9a6f381a_15-apr-23_compressed.pdf
+12 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661913a75491b_12-apr-23_compressed.pdf
+11 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6617aa5fb6725_11-apr-23_compressed.pdf
+10 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661657bd9b4ef_10-apr-23_compressed.pdf
+9 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6615088e9d60c_9-apr-23_compressed.pdf
+5 April 2024 Class PNG:  Sir PDF.pdf : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660fc387a47a4_Piyush
+4 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660f2f39be767_4-apr-23_compressed.pdf
+3 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660d2732dafb5_3-apr-23_compressed.pdf
+2 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660bcb025d7c8_2apr_21_compressed.pdf
+1 April 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660aefc8b28ee_21png2pdf_compressed.pdf
+29 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6606959abbfd7_29mar_21_compressed.pdf
+28 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6605539f6752f_28mar_21_compressed.pdf
+22 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66022af3845bf_22mar_21_compressed.pdf
+21 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc0bf89f9db_21mar_21_compressed.pdf
+20 March 2024 Class PNG:  (1)_compressed.pdf : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65faa43dd2c9b_20mar_21
+19 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f978094cc24_19mar_21_compressed.pdf
+15 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f444d68a2b2_15mar_21_compressed.pdf
+14 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f2c2dbb62bf_14mar_21_compressed.pdf
+13 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f1680c50bd1_13mar_21_compressed.pdf
+12 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f0174db1d00_12mar_21.pdf
+11 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ef3a1f919c2_11mar_21_compressed.pdf
+8 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65eb5b1dd6707_8mar_21_compressed.pdf
+6 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e91edac7c54_6mar_21_compressed.pdf
+5 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e7864b1204f_5mar_21_compressed.pdf
+4 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e66d4f79135_4mar_21_compressed.pdf
+1 March 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e281427b956_1mar_21.pdf
+29 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e0c486427cf_29feb_21.pdf
+28 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65df80ab0d5a3_28feb_21_compressed.pdf
+27 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65de37e83ca50_27feb_21_compressed.pdf
+26 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65dcd9615dfd7_26feb_21_compressed.pdf
+23 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d96a717f88d_23feb_21_compressed.pdf
+22 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d7650708b63_22feb_21_compressed.pdf
+21 Feb 2024 Class PNG : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d5c8aeecbf5_21feb_21.pdf
