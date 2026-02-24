@@ -1,0 +1,56 @@
+[CDP] Class-01 | CDP | Intro : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372890508112/6372890508112.m3u8
+[CDP] Class-02 | CDP | Development : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373103945112/6373103945112.m3u8
+[CDP] Class-03 | CDP | Socialisation Process : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373172788112/6373172788112.m3u8
+[CDP] Class-04 | CDP | Development -2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373218282112/6373218282112.m3u8
+[CDP] Class-05 | CDP | Socialisation Process : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373227985112/6373227985112.m3u8
+[CDP] Class-06 | CDP | Gender : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373606907112/6373606907112.m3u8
+[CDP] Class-07 | CDP | Gender : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373650841112/6373650841112.m3u8
+[CDP] Class-08 | CDP | Child Centered & Progressive Education : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373863647112/6373863647112.m3u8
+[CDP] Class-09 | CDP | Child Centered & Progressive Education : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373904402112/6373904402112.m3u8
+[CDP] Class-10 | CDP | Development : https://www.youtube.com/embed/t_8GX4vBYkc
+[CDP] Class-11 | CDP | Individual Differences : https://www.youtube.com/embed/SNECDQDqx70
+[CDP] Class-12 | CDP | Principles of Development : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6363071382112/6363071382112.m3u8
+[CDP] Class-13 | Heredity & Environment : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371357694112/6371357694112.m3u8
+[CDP] Class-14 | Heredity & Environment : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371644999112/6371644999112.m3u8
+[CDP] Class-15 | Domains of Development : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371829921112/6371829921112.m3u8
+[CDP] Class-16 | Domains of Development : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372027618112/6372027618112.m3u8
+[CDP] Class-17 | CDP | Individual Differences : https://www.youtube.com/embed/-xYI1uDSFOs
+[CDP] Class-18 | CDP | Intelligence : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4465530/175164123031474392287/175164123031474392287_4392287.m3u8
+[CDP] Class-19 | CDP | Intelligence 2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4476026/175190208614518309336/175190208614518309336_8309336.m3u8
+[CDP] Class-20 | CDP | National Education Policy 2020 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480140/175224098113427140453/175224098113427140453_7140453.m3u8
+[CDP] Class-21 | CDP | National Education Policy 2020 - 2 : https://www.youtube.com/embed/-lfohVO1Gss
+[CDP] Class-22 | CDP | National Education Policy 2020 - 2 : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4486118/175285641850139906065/175285641850139906065_9906065.m3u8
+[CDP] Class-23 | CDP | National Education Policy 2020 - 2 : https://d28xni9778hofl.cloudfront.net/out/v1/ee02f152e4ee4002b9faa871d9f2d6ac/index.m3u8
+[CDP] Intelligence (Notes): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874ecb930ee0_Intelligence_notescompressed.pdf
+[CDP] Heredity and Environment: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874eb2128c25_Heredity_and_Environment.compressed.pdf
+[CDP] Principles of Development: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874eadf5c009_Principles_of_Development..pdf
+[CDP] Domains Development: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874eab915002_Domains_Development..pdf
+[CDP] Factor Influencing Development: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874ea94de43a_Factor_Influencing_Development..pdf
+[CDP] Individual Differences (Notes): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e97081711_Individual_Differences_notes.pdf
+[CDP] Child Centered and Progressive Education: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685266bcdad89_Child_Centered_and_Progressive_Education_compressed.pdf
+[CDP] Gender: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684005706a536_Gender_compressed.pdf
+[CDP] Growth and Development: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683823893294a_Growth_and_Development._compressed.pdf
+[CDP] Socialisation Process: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6838232376c62_Socialisation_Process_.pdf
+[CDP] CDP (Pedagogy) Free Notes: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67504c400671c_CDP_Pedagogy_Free_Notes_by_Himanshi_SIngh_compressed_1.pdf
+[CDP] Jean Piaget (Latest): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749b5e7136a2_Jean_Piaget_1.pdf
+[CDP] Multiple Intelligence: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749b58e7e5e1_Multiple_Intelligence_1.pdf
+[CDP] CCE: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edb4c16241_CCE.pdf
+[CDP] Multiple Intelligence: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edb3167001_Multiple_Intelligence.pdf
+[CDP] Kohelberg: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edaedd6068_Kohelberg.pdf
+[CDP] Cognition & Emotion: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edaca01e67_Cognition_Emotion.pdf
+[CDP] Intelligence: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673dccd77ae25_Intelligence.pdf
+[CDP] NEP 2020: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c34404126e_NEP_2020.pdf
+[CDP] NCF 2005: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33c5a017e_NCF_2005.pdf
+[CDP] Socialisation Process: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33a9a7ad8_Socialisation_Process.pdf
+[CDP] RTE Act 2009: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33856b7aa_RTE_Act_2009_1.pdf
+[CDP] Learning: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c336937625_Learning.pdf
+[CDP] Vygotsky: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33325c56c_Vygotsky.pdf
+[CDP] Inclusive Education: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c3313cc951_Inclusive_Education.pdf
+[CDP] Language and thought: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672e0707cf7f2_Language_and_thoughtcompressed.pdf
+[CDP] Individual Dfference: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6729b7108c5ea_Individual_difference.pdf
+[CDP] Child Centered and Progressive Education: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671917c582bf3_Child_Centered_and_Progressive_Education.pdf
+[CDP] Gender: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc809d3335_Gender.pdf
+[CDP] Role of Heredity and Environment (16 Oct 2024 Final): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc6bc173cb_Role_of_Heredity_and_Environment_16_Oct_2024_Final.pdf
+[CDP] Principles and Dimensions of Development: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc697b3e6a_Principles_and_Dimensions_of_Development.pdf
+[CDP] Factors affecting development: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc6640e024_Factors_affecting_developmentcompressed.pdf
+[CDP] Concept of Growth and Development: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc63de94dc_Concept_of_Growth_and_Developmentcompressed.pdf
