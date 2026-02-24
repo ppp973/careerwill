@@ -1,0 +1,285 @@
+[Hindi] Class-01 | Hindi | वर्णमाला : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6367810032112/6367810032112.m3u8
+[Hindi] Class-02 | Hindi | स्वर के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/d-CtP0BFO2c/d-CtP0BFO2c.m3u8
+[Hindi] Class-03 | Hindi | व्यंजन के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/zlr0t8NZofI/zlr0t8NZofI.m3u8
+[Hindi] Class-04 | Hindi | वर्णों का उच्चारण स्थान : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/479Mvi0_bmE/479Mvi0_bmE.m3u8
+[Hindi] Class-05| Hindi | वर्ण विन्यास और वर्ण संयोग : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368026199112/6368026199112.m3u8
+[Hindi] Class-06 | Hindi | हिन्दी शब्दकोश में वर्णों का स्थान : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368179078112/6368179078112.m3u8
+[Hindi] Class-07 | Hindi | स्वर संधि के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368226830112/6368226830112.m3u8
+[Hindi] Class-08 | Hindi | स्वर संधि : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368649370112/6368649370112.m3u8
+[Hindi] Class-09 | Hindi | वर्णमाला : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368704618112/6368704618112.m3u8
+[Hindi] Class-10 | Hindi | स्वर संधि के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368734266112/6368734266112.m3u8
+[Hindi] Class-11 | Hindi | विसर्ग संधि : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368797429112/6368797429112.m3u8
+[Hindi] Class-12 | Hindi | उपसर्ग : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368938248112/6368938248112.m3u8
+[Hindi] Class-13 | Hindi | उपसर्ग : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6368980854112/6368980854112.m3u8
+[Hindi] Class-14 | Hindi | प्रत्यय के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369030624112/6369030624112.m3u8
+[Hindi] Class-15 | Hindi | वर्तनी : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369072813112/6369072813112.m3u8
+[Hindi] Class-16 | Hindi | वर्तनी : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369127100112/6369127100112.m3u8
+[Hindi] Class-17 | Hindi | विराम चिह्न : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369243433112/6369243433112.m3u8
+[Hindi] Class-18 | Hindi | विराम चिन्ह : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369283528112/6369283528112.m3u8
+[Hindi] Class-19 | Hindi | कारक चिन्ह : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369325212112/6369325212112.m3u8
+[Hindi] Class-20 | Hindi | कारक के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369374654112/6369374654112.m3u8
+[Hindi] Class-21 | Hindi | समास के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369423602112/6369423602112.m3u8
+[Hindi] Class-22 | Hindi | समास के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369536495112/6369536495112.m3u8
+[Hindi] Class-23 | Hindi | समास के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369615014112/6369615014112.m3u8
+[Hindi] Class-24 | Hindi | समास के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369657999112/6369657999112.m3u8
+[Hindi] Class-25 | Hindi | लिंग के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369826348112/6369826348112.m3u8
+[Hindi] Class-26 | Hindi | लिंग के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369865141112/6369865141112.m3u8
+[Hindi] Class-27 | Hindi | लिंग के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6369908537112/6369908537112.m3u8
+[Hindi] Class-28 | Hindi | तत्सम शब्द की पहचान : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370169447112/6370169447112.m3u8
+[Hindi] Class-29 | Hindi | तत्सम और तद्भव शब्द : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370213193112/6370213193112.m3u8
+[Hindi] Class-30 | Hindi | देसी और विदेशी शब्द : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370257781112/6370257781112.m3u8
+[Hindi] Class-31 | Hindi | संकर शब्द और तद्भव शब्द : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370304510112/6370304510112.m3u8
+[Hindi] Class-32 | Hindi | संज्ञा के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370450872112/6370450872112.m3u8
+[Hindi] Class-33 | Hindi | संज्ञा के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370504722112/6370504722112.m3u8
+[Hindi] Class- 34 | Hindi | संज्ञा के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370562220112/6370562220112.m3u8
+[Hindi] Class-35 | Hindi | सर्वनाम के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370614796112/6370614796112.m3u8
+[Hindi] Class-36 | Hindi | विशेषण : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370853244112/6370853244112.m3u8
+[Hindi] Class-37 | Hindi | विशेषण के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370906493112/6370906493112.m3u8
+[Hindi] Class-38 | Hindi | विशेषण : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6370956220112/6370956220112.m3u8
+[Hindi] Class-39 | Hindi | विशेषण : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371011015112/6371011015112.m3u8
+[Hindi] Class-40 | Hindi | अव्यय के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371158900112/6371158900112.m3u8
+[Hindi] Class-41 | Hindi | अव्यय के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371199465112/6371199465112.m3u8
+[Hindi] Class-42 | Hindi | अव्यय के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/6xeyuWkgWuE/6xeyuWkgWuE.m3u8
+[Hindi] Class-43 | Hindi | वाक्य : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371291665112/6371291665112.m3u8
+[Hindi] Class-44 | Hindi | वाक्य के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371338092112/6371338092112.m3u8
+[Hindi] Class-45 | Hindi | वाक्य के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371498867112/6371498867112.m3u8
+[Hindi] Class-46 | Hindi | हिन्दी एवं अन्य भारतीय भाषाएँ : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371540630112/6371540630112.m3u8
+[Hindi] Class-47 | Hindi | हिन्दी एवं अन्य भारतीय भाषाएँ : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371581222112/6371581222112.m3u8
+[Hindi] Class-48 | Hindi | हिन्दी एवं अन्य भारतीय भाषाएँ Start : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371627954112/6371627954112.m3u8
+[Hindi] Class-49 | Hindi | अलंकार के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371737699112/6371737699112.m3u8
+[Hindi] Class-50 | Hindi | शब्दालंकार के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371772310112/6371772310112.m3u8
+[Hindi] Class-51 | Hindi | अर्थालंकार के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371812830112/6371812830112.m3u8
+[Hindi] Class-52 | Hindi | अर्थालंकार के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371851732112/6371851732112.m3u8
+[Hindi] Class-53 | Hindi | अर्थालंकार के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6371908511112/6371908511112.m3u8
+[Hindi] Class-54 | Hindi | अर्थालंकार के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372010473112/6372010473112.m3u8
+[Hindi] Class-55 | Hindi | छंद के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372047720112/6372047720112.m3u8
+[Hindi] Class-56 | Hindi | छंद के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372094149112/6372094149112.m3u8
+[Hindi] Class-57 | Hindi | छंद के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372144172112/6372144172112.m3u8
+[Hindi] Class-58 | Hindi | रस के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372197034112/6372197034112.m3u8
+[Hindi] Class-59 | Hindi | रस के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372352823112/6372352823112.m3u8
+[Hindi] Class-60 | Hindi | रस के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372395257112/6372395257112.m3u8
+[Hindi] Class-61 | Hindi | शब्द शक्ति के भेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372443693112/6372443693112.m3u8
+[Hindi] Class-62 | Hindi | मुहावरे : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372498195112/6372498195112.m3u8
+[Hindi] Class-63 | Hindi | मुहावरे, लोकोक्तियां और कहावतें : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372683446112/6372683446112.m3u8
+[Hindi] Class-64 | Hindi | गद्यांश : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372726569112/6372726569112.m3u8
+[Hindi] Class-65 | Hindi | अनेकार्थी शब्द : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372776504112/6372776504112.m3u8
+[Hindi] Class-66 | Hindi | अनेकार्थी शब्द : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/FFtGRaJkcCQ/FFtGRaJkcCQ.m3u8
+[Hindi] Class-67 | Hindi | श्रुतिसम भिन्नार्थक शब्द : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6372874942112/6372874942112.m3u8
+[Hindi] Class-68 | Hindi | वर्तनी : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373039941112/6373039941112.m3u8
+[Hindi] Class-69 | Hindi | वर्तनी : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373089257112/6373089257112.m3u8
+[Hindi] Class-70 | Hindi | अर्थबोध, गद्यांश और अनुच्छेद : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373147821112/6373147821112.m3u8
+[Hindi] Class-71 | Hindi | गद्यांश और पद्यांश : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6373203921112/6373203921112.m3u8
+[Hindi] Class-72 | हिंदी साहित्य : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353576687112/6353576687112.m3u8
+[Hindi] Class-73 | हिंदी के प्रसिद्व कवी, लेखक एवं उनकी रचनाएँ : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353575672112/6353575672112.m3u8
+[Hindi] Class-74 | प्रमुख पंक्तियाँ और उनके लेखक : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353576855112/6353576855112.m3u8
+[Hindi] Class-75 | रीतिकाल का वर्गीकरण : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353575882112/6353575882112.m3u8
+[Hindi] Class-76 | लेखक और उनकी रचना और गद्य : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6353578429112/6353578429112.m3u8
+[Hindi Practice (VOD)] Class-01 | वर्णमाला | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015665001/6298015665001.m3u8
+[Hindi Practice (VOD)] Class-02 | वर्णमाला | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298016098001/6298016098001.m3u8
+[Hindi Practice (VOD)] Class-03 | सन्धि | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015555001/6298015555001.m3u8
+[Hindi Practice (VOD)] Class-04 | सन्धि | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298014582001/6298014582001.m3u8
+[Hindi Practice (VOD)] Class-05 | उपसर्ग और प्रत्यय | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298013856001/6298013856001.m3u8
+[Hindi Practice (VOD)] Class-06 | सन्धि | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015448001/6298015448001.m3u8
+[Hindi Practice (VOD)] Class-07 | समास | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015451001/6298015451001.m3u8
+[Hindi Practice (VOD)] Class-08 | समास | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015548001/6298015548001.m3u8
+[Hindi Practice (VOD)] Class-09 | वर्तनी  | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015663001/6298015663001.m3u8
+[Hindi Practice (VOD)] Class-10 | अनेकार्थी | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015659001/6298015659001.m3u8
+[Hindi Practice (VOD)] Class-11 | विलोम | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015816001/6298015816001.m3u8
+[Hindi Practice (VOD)] Class-12 | पर्यायवाची शब्द | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298014583001/6298014583001.m3u8
+[Hindi Practice (VOD)] Class-13 | श्रुति सम भिन्नार्थक शब्द|  By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298016099001/6298016099001.m3u8
+[Hindi Practice (VOD)] Class-14 | संज्ञा | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015732001/6298015732001.m3u8
+[Hindi Practice (VOD)] Class-15 | सर्वनाम | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015341001/6298015341001.m3u8
+[Hindi Practice (VOD)] Class-16 | विशेषण | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015666001/6298015666001.m3u8
+[Hindi Practice (VOD)] Class-17 | क्रिया  के भेद | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298016097001/6298016097001.m3u8
+[Hindi Practice (VOD)] Class-18 | संज्ञा | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_hls/migration/aEowCuhCpNU/aEowCuhCpNU.m3u8
+[Hindi Practice (VOD)] Class-19 | गद्यांश और पद्यांश प्रैक्टिस | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015815001/6298015815001.m3u8
+[Hindi Practice (VOD)] Class-20 | गद्यांश और पद्यांश प्रैक्टिस | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015668001/6298015668001.m3u8
+[Hindi Practice (VOD)] Class-21 | प्रसिद्द कवि एवं उनकी रचनाएँ | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298016102001/6298016102001.m3u8
+[Hindi Practice (VOD)] Class-22 | वाक्य के भेद ,अशुद्ध और शुद्ध वाक्य  | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298014585001/6298014585001.m3u8
+[Hindi Practice (VOD)] Class-23 | अग्नि परीक्षा | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298013640001/6298013640001.m3u8
+[Hindi Practice (VOD)] Class-24 | रिक्त स्थानों की पूर्ति | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298013857001/6298013857001.m3u8
+[Hindi Practice (VOD)] Class-25 | भाषा एवं बोलियाँ, उपबोलियाँ  | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015450001/6298015450001.m3u8
+[Hindi Practice (VOD)] Class-26 | वाक्य अशुद्धि | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298013861001/6298013861001.m3u8
+[Hindi Practice (VOD)] Class-27 | वाक्य अशुद्धि  | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015549001/6298015549001.m3u8
+[Hindi Practice (VOD)] Class-28 | अग्नि परीक्षा | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015733001/6298015733001.m3u8
+[Hindi Practice (VOD)] Class-29 | हिंदी साहित्य | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015449001/6298015449001.m3u8
+[Hindi Practice (VOD)] Class-30 | रस, छंद और अलंकार | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015554001/6298015554001.m3u8
+[Hindi Practice (VOD)] Class-31 | रस | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015661001/6298015661001.m3u8
+[Hindi Practice (VOD)] Class-32 |  अलंकार | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015342001/6298015342001.m3u8
+[Hindi Practice (VOD)] Class-33 | वाच्य | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015735001/6298015735001.m3u8
+[Hindi Practice (VOD)] Class-34 | अविकारी शब्द (अव्यय और निपात) | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015550001/6298015550001.m3u8
+[Hindi Practice (VOD)] Class-35 | काल | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298013859001/6298013859001.m3u8
+[Hindi Practice (VOD)] Class-36 | कारक | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015818001/6298015818001.m3u8
+[Hindi Practice (VOD)] Class-37 | विराम चिन्ह | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6314673243112/6314673243112.m3u8
+[Hindi Practice (VOD)] Class-38  | वाक्य अशुद्धियाँ | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298013858001/6298013858001.m3u8
+[Hindi Practice (VOD)] Class-39 | समानार्थक शब्द | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015667001/6298015667001.m3u8
+[Hindi Practice (VOD)] Class-40 | वाक्यांश के लिए एक शब्द | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015817001/6298015817001.m3u8
+[Hindi Practice (VOD)] Class-41 | विशेषण और विशेष्य | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015729001/6298015729001.m3u8
+[Hindi Practice (VOD)] Class-42 | वृत्ति | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015814001/6298015814001.m3u8
+[Hindi Practice (VOD)] Class-43 | पक्ष | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015662001/6298015662001.m3u8
+[Hindi Practice (VOD)] Class-44 | पत्र-पत्रिका, पुरस्कार,रचनाकार जन्म मृत्यु | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015551001/6298015551001.m3u8
+[Hindi Practice (VOD)] Class-45 | भारतीय संविधान में हिंदी,हिंदी में प्रथम | By Arun Sir : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298016103001/6298016103001.m3u8
+[Hindi Practice (VOD)] Class-46 |  महत्त्वपूर्ण प्रश्नोत्तरी : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015731001/6298015731001.m3u8
+[Hindi Practice (VOD)] Class-47 |  तत्सम शब्दो की पहचान : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298013860001/6298013860001.m3u8
+[Hindi Practice (VOD)] Class-48 |  तत्भव शब्द : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015660001/6298015660001.m3u8
+[Hindi Practice (VOD)] Class-49 |  लिंग & वचन : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015343001/6298015343001.m3u8
+[Hindi Practice (VOD)] Class-50 |  कवि लेखक और उनकी रचनाएं : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015664001/6298015664001.m3u8
+[Hindi Practice (VOD)] Class-51 |  मुहावरे एवं लोकोक्तियाँ : https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6298015730001/6298015730001.m3u8
+[Syllabus ] Syllabus: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65116113cde4e_HINDI SPECIAL SYLLABUS....pdf
+[Hindi] Hindi | 8 Class PNG: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0233f4e532_UPSI_class08compressed.pdf
+[Hindi] Hindi | 7 Class PNG: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bcc1334382c_UPSI_Class_07compressed.pdf
+[Hindi] Hindi | 5-6 Class PNG: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b96ff80c732_ilovepdfmerged_96.pdf
+[Hindi] Hindi | 1-4 Class PNG: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b598dbe41d2_upsi_class_14_done.pdf
+[Hindi] E-Book MCQ Part-2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661531f26f1f6_65116d096d907_SELECTION मंत्र_removed (1)_compressed_removed (1).pdf
+[Hindi] E-Book MCQ Part-1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661531e8e114c_65116d2a6ff74_SELECTION मंत्र_removed (1)_compressed_removed (1) (1).pdf
+[Hindi] Updated Class Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc2973aebf_हिंदी_व्याकरण_नोट्स.pdf
+[Hindi] रीतिकाल: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dcbe500f3f6_रीतिकाल digital board.pdf
+[Hindi] भक्तिकाल: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dcbe304cf7a_Hindi lehkhak File  70 Question_compressed.pdf
+[Hindi] आदिकाल: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dcbe0fe2ef3_प्रमुख लेखन एवं उनकी रचनाएँ (1)_compressed_compressed.pdf
+[Hindi] लेखक एवं उनकी रचनाएं  Full Notes: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dc6c3e898bf_लेखक एवं उनकी रचनाएं (1).pdf
+[Hindi] छंद: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cccb48ea35e_छंद Digital board_compressed.pdf
+[Hindi] रस  : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cccad880838_रस Digital board_compressed.pdf
+[Hindi] प्रमुख लेखक एवं उनके रचनाएँ Practice: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccca6051f29_प्रमुख लेखक एवं उनके रचनाएँ Digital Board_compressed.pdf
+[Hindi] वाक्यांश के लिए एक शब्द : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc93334a0b_वाक्यांश के लिए एक शब्द Digital Board_compressed.pdf
+[Hindi] प्रमुख लेखक एवं उनकी रचनाऐ   : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc8e34ae6e_प्रमुख लेखक एवं उनकी रचनाऐ  Digital board_compressed.pdf
+[Hindi] क्रिया  : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc8a872588_क्रिया Digital Board_compressed.pdf
+[Hindi] विशेषण Part-2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc83c7c735_विशेषण Digital Board_compressed.pdf
+[Hindi] सर्वनाम  : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc7dce9924_सर्वनाम Digital board_compressed.pdf
+[Hindi] संज्ञा  : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc77b505e9_संज्ञा Digital board_compressed.pdf
+[Hindi] विशेषण Part-1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc736e78ee_विशेषण set-2 digital board.pdf
+[Hindi] समास : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc7121efde_समास digital board.pdf
+[Hindi] गद्यांश या पद्यांश : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc6e6e21af_गद्यांश या पद्यांश digital board_compressed.pdf
+[Hindi] रिक्त स्थान की पूर्ति: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc5db63908_रिक्त स्थान की पूर्ति_compressed.pdf
+[Hindi] विराम चिन्ह : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc5984e1d2_विराम चिन्ह digital borad.pdf
+[Hindi] हिंदी के लेखक एवं रचनाएं : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc584e1967_हिंदी के लेखक एवं रचनाएं  digital borad.pdf
+[Hindi] अलंकार : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc564a1995_अलंकार digital borad.pdf
+[Hindi] वृति एवं पक्ष : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc53d64e20_वृति एवं पक्ष digital board.pdf
+[Hindi] भाषा एवं बोली  : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc51634fc3_भाषा एवं बोली Digital board.pdf
+[Hindi] संधि : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc4ee3eb78_संधि Digital borad.pdf
+[Hindi] हिंदी के प्रसिद्ध कवि और उनकी रचनाएं : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc45e27734_हिंदी के प्रसिद्ध कवि और उनकी रचनाएं digital board_compressed.pdf
+[Hindi] हिंदी वर्णमाला: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc3f06f721_हिंदी वर्णमाला.pdf
+[Hindi] भारतीय काव्यशास्त्र: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc3e5543a7_bhartiya kayvashastr.pdf
+[Hindi] मुहावरे: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc3709c9ac_Muhavare_compressed.pdf
+[Hindi] प्रमुख लेखक : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc2f1eeae4_प्रमुख लेखक digital board2.pdf
+[Hindi] हिंदी विविध प्रश्न : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc2ae2b8ca_हिंदी विविध प्रश्न Digital board 02-08-23.pdf
+[Hindi] सामान्य हिंदी: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423e8dbdf2a_Samanya Hindi 24-11-2022.pdf
+[Hindi] अपठित गद्यांश: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423e1d76e35_Aapthit Gadyansh Digital Board.pdf
+[Hindi] विलोम शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423d074dcbd_(Digital) Vilom shabdh.pdf
+[Hindi] पर्यायवाची शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423c840e037_Paryayvachi Shabd (1).pdf
+[Hindi] मुहावरे एवं लोकोक्ति: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423bbb931e0_मुहावरे एवं लोकोक्ति_compressed.pdf
+[Hindi] वर्तनी: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6542398206854_(Digital) Vartani.pdf
+[Hindi] हिंदी पर्यायवाची शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6542392f76719_हिंदी पर्यायवाची शब्द.pdf
+[Hindi] अनेकार्थी शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423831544a1_अनेकार्थी शब्द.pdf
+[Hindi] मुहावरे एवं लोकोक्ति: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c8726a10d6_मुहावरे एवं लोकोक्ति_compressed.pdf
+[Hindi] Aapthit Kavyansh: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c86e34be23_Aapthit Kavyansh Digital Board_compressed.pdf
+[Hindi] (Digital) वर्तनी: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c86010b3cd_(Digital) वर्तनी.pdf
+[Hindi] (Digital) Vilom shabdh: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c84efdd7d9_(Digital) Vilom shabdh.pdf
+[Hindi] Deshi, Vedshi, Aur Sankar Shabd Digital: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c84b10db5a_Deshi, Vedshi, Aur Sankar Shabd Digital.pdf
+[Hindi] 1 to 100 Sankhyavachak Shabd Digital: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c848a24cbf_1 to 100 Sankhyavachak Shabd Digital.pdf
+[Hindi] Hindi Bhasha Aur Uska Vikas Digital: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c845f3825d_Hindi Bhasha Aur Uska Vikas Digital.pdf
+[Hindi] Kavyansh: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c838295807_Kavyansh.pdf
+[Hindi] Aapthit Gadyansh Digital Board: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c8303e06a3_Aapthit Gadyansh Digital Board.pdf
+[Hindi] Tatsam and Tadbhav: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c82ccf4219_Tatsam and Tadbhav -1.pdf
+[Hindi] Viram Chinah: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c829e18f15_Viram Chinah.pdf
+[Hindi] (Digital) Vartani: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c7b4a45bc1_(Digital) Vartani.pdf
+[Hindi] वर्तनी: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c7acf85dc9_वर्तनी digital board.pdf
+[Hindi] Abhivyakati and Patrakarita: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494660.pdf
+[Hindi] पत्रकारिता और पत्रलेखन: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494630.pdf
+[Hindi] Kavya Shastra (Hindi) Digital: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494587.pdf
+[Hindi] हिंदी शिक्षण एवं शिक्षाशास्त्र Digital: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494559.pdf
+[Hindi] हिन्दी साहित्य एवं पुरस्कार: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669030908-हिन्दी_साहित्य_एवं_पुरस्कार.pdf
+[Hindi] हिंदी शिक्षण एवं शिक्षाशास्त्र : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669030908-हिंदी_शिक्षण_एवं_शिक्षाशास्त्र_Digital.pdf
+[Hindi] हिंदी साहित्य : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669030908-हिंदी_साहित्य_Digital.pdf
+[Hindi] हिंदी पर्यायवाची शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668683457-हिंदी_पर्यायवाची_शब्द_compressed.pdf
+[Hindi] Paryayvachi Shabd: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-Paryayvachi_Shabd.pdf
+[Hindi] अनेकार्थी शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-अनेकार्थी_शब्द_(Digital.pdf
+[Hindi] Vilom Shabdh: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-(Digital)_Vilom_shabdh.pdf
+[Hindi] हिन्दी साहित्य भाग-1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-हिन्दी_साहित्य_भाग-1_(Digital.pdf
+[Hindi] Vartani: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-(Digital)_Vartani.pdf
+[Hindi] हिंदी (रस): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-हिंदी_(रस).pdf
+[Hindi] पत्र-पत्रिका एवं पुरस्कार : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-पत्र-पत्रिका_एवं_पुरस्कार_(HINDI)_(Digital.pdf
+[Hindi] वर्तनी, वाक्य एवं वाक्य-शुद्धीकरण : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-वर्तनी,_वाक्य_एवं_वाक्य-शुद्धीकरण_(HINDI)_(Digital_pdf.pdf
+[Hindi] Kavya Shastra: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-Kavya_Shastra_(HINDI)_(Digital.pdf
+[Hindi] वृत्ति (Digital): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1654512794-वृत्ति_(Digital).pdf
+[Hindi] संक्षेपण: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1654245785-1__SANCHEPAR_BHAG-3_Student_File.pdf
+[Hindi] पत्र लेखन,  प्राथना पत्र  (हिन्दी मुख्य परीक्षा) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1654245785-1__HINDI_Student_File.pdf
+[Hindi] सम्पूर्ण नोट्स : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613492894.pdf
+[Hindi] Class Notes : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254799-FullClassNotes.pdf
+[Hindi] समानार्थक शब्द (Digital): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760567-समानार्थक_शब्द_(Digital)_compressed.pdf
+[Hindi]  मुहावरा : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760099-मुहावरा_(2)_compressed.pdf
+[Hindi] लोकोक्ति : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760099-लोकोक्ति_UPSI_Digital_compressed.pdf
+[Hindi] श्रुत - सम भिन्नार्थक शब्द आदि  : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760099-शब्द_के_भेद_compressed.pdf
+[Hindi]  कारक और रस : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-KARAK_(new_formet)_compressed.pdf
+[Hindi] अलंकार  : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-1-10_que__(3)_compressed.pdf
+[Hindi]  अव्यय और निपात : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-1-10_que__(2)_compressed.pdf
+[Hindi] Practice - (1-35): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-1-35_que__compressed.pdf
+[Hindi] Hindi Notes PDF: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625658808-1608049519-HINDI_NOTES_PDF.pdf
+[Hindi] Practice - (21-30): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-21-30_que__compressed.pdf
+[Hindi] भाषा बोली और उपबोली: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-Bhasha_Boli_Aur_Upboli_compressed.pdf
+[Hindi] लिंग और वचन: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-HINDI_(new_formet)_pdf_compressed.pdf
+[Hindi] अशुद्धियां: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-अशुद्धियां_compressed.pdf
+[Hindi] अनेक शब्द के लिए एक शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-अनेक_शब्द_के_लिए_एक_शब्द_compressed.pdf
+[Hindi] रिक्त स्थानों की पूर्ति (100 Question): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-रिक्त_स्थानों_की_पूर्ति_(100_Question)_compressed.pdf
+[Hindi] रस (100 Question): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-रस_(100_Question)_compressed.pdf
+[Hindi] रचना व रचनाकार (100 Question): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-रचना_व_रचनाकार_(100_Question)_compressed.pdf
+[Hindi] Previous Year Question Papers -  3: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Previous_Year_Question_Papers_-_3.pdf
+[Hindi] Previous Year Question Papers -  2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Previous_Year_Question_Papers_-_2.pdf
+[Hindi] गद्यांश और पद्यांश - 2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-गद्यांश_और_पद्यांश_-_2.pdf
+[Hindi] गद्यांश और पद्यांश - 3: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-गद्यांश_और_पद्यांश_-_3.pdf
+[Hindi] गद्यांश और पद्यांश - 1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-गद्यांश_और_पद्यांश_-_1.pdf
+[Hindi] Previous Year Question Papers -  1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Previous_Year_Question_Papers_-_1.pdf
+[Hindi] Hindi Pedagogy - शिक्षाशास्त्र - 2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Hindi_Pedagogy_-_शिक्षाशास्त्र_-_2.pdf
+[Hindi] हिंदी गद्य का विकास - 5: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_5.pdf
+[Hindi] हिंदी गद्य का विकास - 4: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_4.pdf
+[Hindi] हिंदी गद्य का विकास - 3: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_3.pdf
+[Hindi] हिंदी गद्य का विकास - 2: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_2.pdf
+[Hindi] हिंदी गद्य का विकास - 1: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_1.pdf
+[Hindi] हिंदी शिक्षण शास्त्र उत्तर कुन्जी : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253854-17_1.pdf
+[Hindi] समास : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254266-1598246397_-Mock.pdf
+[Hindi] सर्वनाम (हिंदी) - 100 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510672.pdf
+[Hindi] संज्ञा - 100 : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510625.pdf
+[Hindi] रिक्त स्थानों की पूर्ति: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510529.pdf
+[Hindi] हिन्दी साहित्य (कवि / लेखक तथा उनकी रचनाएँ): https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613548467.pdf
+[Hindi] वाक्य शुद्धिया तथा मुहावरे: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613492961.pdf
+[Hindi] द्विवेदी युग कवि एवं काव्य: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048550-2-Divedi_kal.pdf
+[Hindi] आदिकाल अति महत्त्वपूर्ण तथ्य: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048256-1-Adikal.pdf
+[Hindi] महत्त्वपूर्ण लेखकों का जन्म एवं मृत्यु: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048160-10-_Hindi_Sahitya.pdf
+[Hindi] हिंदी साहित्य में प्रथम स्थान: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048009-11-_Hindi_Sahitya.pdf
+[Hindi] हिंदी भाषा का विकास: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608047653-HINDI_BHASHA_KA_VIKAS.pdf
+[Hindi] छंद: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614592975-CHHAND_(new_formet).pdf
+[Hindi] हिन्दी प्रचारक संस्थाएँ 1 Ques .: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614327400-Arun_Sir_(Hindi)_pracharak_sansthanthy.pdf
+[Hindi]   भारत भारती पुरूस्कार: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614327380-Arun_Sir_(Hindi)_Hindi_ke_prasidh_puraskar.pdf
+[Hindi] भाषा परिवार बोली तथा उपबोली: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048643-2-Hindi_Sahitya.pdf
+[Hindi]  हिंदी साहित्य अकादमी पुरस्कार: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048741-6-_Hindi_Sahitya.pdf
+[Hindi] प्रशासनिक शब्दावली: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049441-PRASASNIK_SABDAWALI_student_copy.pdf
+[Hindi]  ज्ञानपीठ पुरस्कार व व्यास सम्मान : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048806-5-Hindi_Sahitya.pdf
+[Hindi] हिंदी भाषा में प्रतिष्ठिता सम्मान और पुरस्कार: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049251-Hindi_Bhasha_me_Pratishthit_Samman_or_Puraskar_Student.pdf
+[Hindi] प्रसिद्ध कवि लेखक एवं उनकी प्रसिद्ध रचनाएं: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049114-Prashidh,_Kavi_Lekhak_Awam_Unaki_Prashidh_Rachanaye_Student_copy.pdf
+[Hindi] हिंदी व अन्य भारतीय भाषायें: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048954-Hindi_wa_Anya_Bharatiya_Bhashaye_Class_Copy.pdf
+[Hindi] कारक और रस : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253762-15___KARAKNEWFORMET1.pdf
+[Hindi] रस अलंकार छंद : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254835-28_ras_channd.pdf
+[Hindi] मुहावरे: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613548545.pdf
+[Hindi] लिंग वचन : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253881-18__HINDIPDF.pdf
+[Hindi] हिंदी पेडागोजी, गद्यांश और पद्यांश।: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253854-16__CTETQUESTION.pdf
+[Hindi] विराम चिन्ह: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254033-25__GADYANSHAURPADYANSHNEWFORMET.pdf
+[Hindi] वाच्य : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254004-21___HINDIBYARUNSIRPDF.pdf
+[Hindi] वाक्य के भेद : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254337-1597122501_VakyaPDF.pdf
+[Hindi] श्रुति सम भिन्नार्थक एवं वाक्यांश के लिए एक शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062751.pdf
+[Hindi] अनेकार्थी: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062670.pdf
+[Hindi] समानार्थक_शब्द_: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624456682-समानार्थक_शब्द_.pdf
+[Hindi] पर्यायवाची 100 Questions: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062699.pdf
+[Hindi] पर्यायवाची शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608047681-Hindi-Mock-Tests_OK.pdf
+[Hindi] विलोम शब्द 100 Questions: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062734.pdf
+[Hindi] विलोम शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608047741-Hindi-Mock-Tests_(2).pdf
+[Hindi] निपात ,अव्यय ( अविकारी शब्द ) : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253712-14____avayeornipatnew.pdf
+[Hindi] अव्यय : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253567-7__AvyayaPDFNEWFORMET.pdf
+[Hindi] क्रिया विशेषण : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253628-13___KriyaAurVisheshan.pdf
+[Hindi] क्रियाएं: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510779.pdf
+[Hindi] विशेषण और विशेष्य: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510724.pdf
+[Hindi] संज्ञा और सर्वनाम : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253514-4_SangyaAurSarvnam.pdf
+[Hindi] विदेशी शब्द: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608050001-3-Hindi_Sahitya.pdf
+[Hindi] तत्सम एवं तद्भव, देशज, विदेशज: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049743-Student_copy_Tatsam_by_Arun_Sir_Hindi.pdf
+[Hindi] उपसर्ग , प्रत्यय और काल : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254183-1597142886_UpsargAurPratyayAurKaalPDF.pdf
+[Hindi] उपसर्ग और प्रत्यय : https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254223-1594474987_UpsargAurPratyayPDF.pdf
+[Hindi] संधि विच्छेद: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624456127-सन्धि_.pdf
+[Hindi] वर्णमाला: https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254514-27_varnmala.pdf
